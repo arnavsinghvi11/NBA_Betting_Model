@@ -1,0 +1,46 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Tyrese Maxey,Philadelphia 76ers,Boston Celtics,0,38.11,21,2,1,2,0,2,.606,.563,.313,0.0,3.8,1.9,8.4,2.6,0.0,21.7,118,129,-1.0
+1,James Harden,Philadelphia 76ers,Boston Celtics,0,37.17,35,7,8,0,0,5,.908,.821,.643,0.0,31.2,15.4,31.7,0.0,0.0,27.0,165,132,14.4
+2,Joel Embiid,Philadelphia 76ers,Boston Celtics,0,37.16,26,5,15,0,1,1,.592,.528,.333,3.8,54.6,28.8,22.7,0.0,2.7,33.9,103,127,-0.5
+3,Tobias Harris,Philadelphia 76ers,Boston Celtics,0,34.14,18,0,2,3,0,3,.605,.607,.429,4.1,4.2,4.2,0.0,4.3,0.0,19.6,122,125,2.5
+4,P.J. Tucker,Philadelphia 76ers,Boston Celtics,0,33.01,6,0,4,0,1,0,.600,.600,.400,8.6,8.8,8.7,0.0,0.0,3.1,9.6,98,132,-4.4
+5,De'Anthony Melton,Philadelphia 76ers,Boston Celtics,0,20.33,5,0,0,1,0,1,.625,.625,.500,0.0,0.0,0.0,0.0,2.4,0.0,8.8,122,130,-2.4
+6,Danuel House Jr.,Philadelphia 76ers,Boston Celtics,0,16.12,1,1,1,2,0,0,.174,.000,.500,0.0,9.0,4.4,7.4,6.0,0.0,10.8,43,121,-5.6
+7,Georges Niang,Philadelphia 76ers,Boston Celtics,0,12.09,3,1,0,0,0,1,.375,.375,.750,0.0,0.0,0.0,11.0,0.0,0.0,14.9,88,136,-7.0
+8,Montrezl Harrell,Philadelphia 76ers,Boston Celtics,0,10.44,2,0,0,0,1,0,.333,.333,.000,0.0,0.0,0.0,0.0,0.0,9.5,16.8,49,128,-16.4
+9,Matisse Thybulle,Philadelphia 76ers,Boston Celtics,0,0.23,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,136,-4.3
+10,Jayson Tatum,Boston Celtics,Philadelphia 76ers,1,38.38,35,4,12,1,1,2,.730,.700,.350,0.0,43.9,22.3,16.7,1.3,2.7,32.1,133,116,9.1
+11,Jaylen Brown,Boston Celtics,Philadelphia 76ers,1,38.34,35,2,3,2,1,4,.691,.667,.500,0.0,11.0,5.6,8.7,2.5,2.7,35.0,117,116,4.7
+12,Marcus Smart,Boston Celtics,Philadelphia 76ers,1,36.05,14,7,3,1,0,1,.608,.438,.500,4.0,7.8,6.0,22.2,1.4,0.0,16.0,140,122,0.2
+13,Derrick White,Boston Celtics,Philadelphia 76ers,1,24.02,2,4,3,1,0,0,.291,.333,.333,6.1,11.7,8.9,18.2,2.0,0.0,8.5,100,120,-3.1
+14,Al Horford,Boston Celtics,Philadelphia 76ers,1,23.06,6,1,5,0,0,2,.429,.429,.714,6.3,24.4,15.5,5.0,0.0,0.0,13.9,104,123,-6.8
+15,Grant Williams,Boston Celtics,Philadelphia 76ers,1,23.57,15,1,1,0,0,3,1.187,1.300,.600,0.0,5.9,3.0,5.6,0.0,0.0,12.1,233,125,10.4
+16,Malcolm Brogdon,Boston Celtics,Philadelphia 76ers,1,23.52,16,4,2,2,0,0,.673,.636,.182,6.1,5.9,6.0,25.2,4.1,0.0,24.8,138,116,7.0
+17,Noah Vonleh,Boston Celtics,Philadelphia 76ers,1,20.10,2,0,2,1,1,0,.500,.500,.000,0.0,14.0,7.1,0.0,2.4,5.2,4.6,101,114,-3.2
+18,Blake Griffin,Boston Celtics,Philadelphia 76ers,1,8.17,1,1,5,0,0,0,.174,.000,.500,35.1,51.1,43.2,12.6,0.0,0.0,16.0,103,120,-11.9
+19,Sam Hauser,Boston Celtics,Philadelphia 76ers,1,3.19,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,125,-10.4
+20,Anthony Davis,Los Angeles Lakers,Golden State Warriors,0,35.36,27,0,6,4,1,0,.520,.455,.136,0.0,16.2,8.4,0.0,4.7,2.5,31.0,94,102,-0.2
+21,LeBron James,Los Angeles Lakers,Golden State Warriors,0,35.12,31,8,15,0,0,3,.558,.519,.385,14.8,27.3,21.3,46.2,0.0,0.0,35.5,109,111,6.8
+22,Russell Westbrook,Los Angeles Lakers,Golden State Warriors,0,30.41,19,3,11,1,0,1,.669,.625,.250,3.4,31.3,17.9,16.2,1.4,0.0,22.6,108,107,0.6
+23,Lonnie Walker IV,Los Angeles Lakers,Golden State Warriors,0,29.17,5,5,3,1,1,0,.317,.286,.429,3.6,6.6,5.1,22.3,1.4,3.0,12.9,78,112,-3.8
+24,Patrick Beverley,Los Angeles Lakers,Golden State Warriors,0,24.40,3,2,2,4,2,1,.300,.300,1.000,4.2,3.9,4.1,10.2,6.9,7.2,9.3,74,97,1.7
+25,Kendrick Nunn,Los Angeles Lakers,Golden State Warriors,0,23.03,13,2,3,1,0,3,.722,.722,.667,0.0,12.5,6.5,14.1,1.8,0.0,19.8,102,111,1.2
+26,Matt Ryan,Los Angeles Lakers,Golden State Warriors,0,17.49,3,0,1,1,0,1,.375,.375,.750,0.0,5.4,2.8,0.0,2.4,0.0,10.7,60,111,-8.1
+27,Austin Reaves,Los Angeles Lakers,Golden State Warriors,0,16.00,3,1,0,0,0,0,.436,.333,.667,0.0,0.0,0.0,8.1,0.0,0.0,8.2,104,118,-7.6
+28,Juan Toscano-Anderson,Los Angeles Lakers,Golden State Warriors,0,14.18,0,0,4,0,0,0,.000,.000,1.000,0.0,26.9,14.0,0.0,0.0,0.0,13.3,0,111,-19.2
+29,Wenyen Gabriel,Los Angeles Lakers,Golden State Warriors,0,7.48,0,1,1,0,0,0,.000,.000,.000,13.4,0.0,6.4,15.4,0.0,0.0,9.2,55,118,-13.2
+30,Max Christie,Los Angeles Lakers,Golden State Warriors,0,1.52,3,0,1,0,0,1,1.500,1.500,1.000,0.0,51.4,26.8,0.0,0.0,0.0,20.4,300,105,45.8
+31,Scotty Pippen Jr.,Los Angeles Lakers,Golden State Warriors,0,1.52,2,0,0,0,0,0,1.136,,,0.0,0.0,0.0,0.0,0.0,0.0,18.0,250,119,15.5
+32,Cole Swider,Los Angeles Lakers,Golden State Warriors,0,1.52,0,1,1,0,0,0,.000,.000,1.000,0.0,51.4,26.8,64.3,0.0,0.0,20.4,51,105,-3.0
+33,Stephen Curry,Golden State Warriors,Los Angeles Lakers,1,32.48,33,7,6,4,1,4,.636,.545,.591,2.9,15.9,9.1,33.7,5.2,2.7,34.5,121,89,16.3
+34,Andrew Wiggins,Golden State Warriors,Los Angeles Lakers,1,29.28,20,4,6,1,1,4,.714,.714,.500,3.3,17.7,10.2,20.4,1.4,3.0,19.2,136,96,9.4
+35,Draymond Green,Golden State Warriors,Los Angeles Lakers,1,24.41,4,5,5,0,0,0,.400,.400,.000,0.0,21.1,10.1,23.7,0.0,0.0,9.2,102,101,-2.4
+36,Kevon Looney,Golden State Warriors,Los Angeles Lakers,1,21.08,7,2,6,1,0,0,.788,.750,.000,9.1,19.8,14.2,11.9,2.0,0.0,7.9,177,96,4.9
+37,Klay Thompson,Golden State Warriors,Los Angeles Lakers,1,19.39,18,3,2,1,0,2,.592,.538,.462,0.0,10.6,5.1,24.2,2.2,0.0,33.1,110,98,3.5
+38,Jordan Poole,Golden State Warriors,Los Angeles Lakers,1,28.11,12,7,2,2,0,2,.378,.333,.600,0.0,7.4,3.5,31.2,3.0,0.0,26.6,80,97,-5.4
+39,JaMychal Green,Golden State Warriors,Los Angeles Lakers,1,23.26,8,0,7,1,0,2,.667,.667,.500,20.5,8.9,14.9,0.0,1.8,0.0,9.7,153,99,2.4
+40,Donte DiVincenzo,Golden State Warriors,Los Angeles Lakers,1,21.37,8,2,2,1,0,1,.581,.583,.333,0.0,9.7,4.6,11.6,2.0,0.0,19.0,75,99,-7.0
+41,James Wiseman,Golden State Warriors,Los Angeles Lakers,1,16.31,8,0,7,0,1,0,.515,.667,.000,5.8,37.9,21.2,0.0,0.0,5.4,17.7,99,93,-2.1
+42,Jonathan Kuminga,Golden State Warriors,Los Angeles Lakers,1,13.04,0,0,3,0,1,0,.000,.000,.667,7.3,16.0,11.5,0.0,0.0,6.8,14.4,15,97,-18.0
+43,Moses Moody,Golden State Warriors,Los Angeles Lakers,1,7.35,5,0,1,0,0,1,.625,.625,.750,0.0,13.8,6.6,0.0,0.0,0.0,19.9,116,102,2.1
+44,Ryan Rollins,Golden State Warriors,Los Angeles Lakers,1,1.52,0,1,1,0,0,0,.000,.000,.000,0.0,55.9,26.8,57.1,0.0,0.0,20.2,59,91,-21.7
