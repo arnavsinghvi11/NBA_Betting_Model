@@ -1,0 +1,64 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,0,D.Vassell o19.5 Pts,SBK5065,250,0.2,0.7000000000000001,2.9736,San Antonio Spurs,D.Vassell,Philadelphia 76ers,0,0.5
+1,1,1,D.Vassell o14.5 Pts,SBK5065,-125,0.63,1.134,2.9736,San Antonio Spurs,D.Vassell,Philadelphia 76ers,0,0.5039999999999999
+2,2,2,J.Harden o8.5 Ast,SBK5065,-135,0.68,1.1837037037037037,2.9736,Philadelphia 76ers,J.Harden,San Antonio Spurs,1,0.5037037037037037
+3,3,3,K.Johnson u6.5 Rebs,SBK5065,-145,0.73,1.233448275862069,2.9736,San Antonio Spurs,K.Johnson,Philadelphia 76ers,0,0.5034482758620691
+4,4,4,J.Embiid o27.5 Pts,gneiffer07,-110,1.1,2.1,0.0,Philadelphia 76ers,J.Embiid,San Antonio Spurs,1,1.0
+5,5,5,J.Embiid o42.5 Pts+Rebs+Ast,gneiffer07,-102,1.0,1.9803921568627447,0.0,Philadelphia 76ers,J.Embiid,San Antonio Spurs,1,0.9803921568627447
+6,6,6,J.Embiid o11.5 Rebs,gneiffer07,-115,1.15,2.1499999999999995,0.0,Philadelphia 76ers,J.Embiid,San Antonio Spurs,1,0.9999999999999996
+7,7,7,J.Harden o6.5 Rebs,gneiffer07,-109,1.09,2.0900000000000003,0.0,Philadelphia 76ers,J.Harden,San Antonio Spurs,1,1.0000000000000002
+8,8,8,K.Johnson o3.5 Ast,JoeMetz,150,1.0,2.5,1.8682,San Antonio Spurs,K.Johnson,Philadelphia 76ers,0,1.5
+9,9,9,J.Tatum o7.5 Rebs,SBK5065,-105,1.05,2.05,2.9736,Boston Celtics,J.Tatum,Orlando Magic,0,0.9999999999999998
+10,10,10,F.Wagner o3.5 Ast,SBK5065,118,0.5,1.09,2.9736,Orlando Magic,F.Wagner,Boston Celtics,1,0.5900000000000001
+11,11,11,C.Anthony u5.5 Ast,SBK5065,-110,1.0,1.9090909090909087,2.9736,Orlando Magic,C.Anthony,Boston Celtics,1,0.9090909090909087
+12,12,12,C.Anthony u26.5 Pts+Rebs+Ast,PropBetGuy,-118,1.18,2.18,0.0,Orlando Magic,C.Anthony,Boston Celtics,1,1.0000000000000002
+13,13,13,M.Smart u4.5 Rebs,gneiffer07,-118,1.0,1.847457627118644,0.0,Boston Celtics,M.Smart,Orlando Magic,0,0.847457627118644
+14,14,14,P.Banchero o19.5 Pts,GDAWG5000,205,0.5,1.525,0.625,Orlando Magic,P.Banchero,Boston Celtics,1,1.025
+15,15,15,S.Bey u18.5 Pts,SBK5065,-110,0.55,1.05,2.9736,Detroit Pistons,S.Bey,Indiana Pacers,0,0.5
+16,16,16,J.Ivey o14.5 Pts,SBK5065,-120,0.6,1.1,2.9736,Detroit Pistons,J.Ivey,Indiana Pacers,0,0.5000000000000001
+17,17,17,J.Ivey o22.5 Pts+Rebs+Ast,PropBetGuy,-110,1.1,2.1,0.0,Detroit Pistons,J.Ivey,Indiana Pacers,0,1.0
+18,18,18,B.Mathurin o15.5 Pts,PropBetGuy,-135,0.2,0.3481481481481481,0.0,Indiana Pacers,B.Mathurin,Detroit Pistons,1,0.14814814814814808
+19,19,19,C.Cunningham  o20.5 Pts,gneiffer07,-104,1.04,2.04,0.0,Detroit Pistons,C.Cunningham,Indiana Pacers,0,1.0
+20,20,20,F.VanVleet o4.5 Ast,SBK5065,-140,0.7,1.2,2.9736,Toronto Raptors,F.VanVleet,Miami Heat,0,0.5
+21,21,21,F.VanVleet u4.5 Rebs,SBK5065,-144,0.72,1.22,2.9736,Toronto Raptors,F.VanVleet,Miami Heat,0,0.5
+22,22,22,J.Butler u22.5 Pts,SBK5065,-120,0.6,1.1,2.9736,Miami Heat,J.Butler,Toronto Raptors,1,0.5000000000000001
+23,23,23,J.Butler u33.5 Pts+Rebs+Ast,PropBetGuy,-110,1.1,2.1,0.0,Miami Heat,J.Butler,Toronto Raptors,1,1.0
+24,24,24,S.Barnes o0.5 3pt M,JoeDellera,-125,0.35,0.63,10.4467,Toronto Raptors,S.Barnes,Miami Heat,0,0.28
+25,25,25,S.Barnes o1.5 3pt M,JoeDellera,400,0.05,0.25,10.4467,Toronto Raptors,S.Barnes,Miami Heat,0,0.2
+26,26,26,S.Barnes o2.5 3pt M,JoeDellera,1450,0.025,0.3875,10.4467,Toronto Raptors,S.Barnes,Miami Heat,0,0.3625
+27,27,27,J.Butler o6.5 Rebs,PropBomb,-128,1.28,2.28,1.5834,Miami Heat,J.Butler,Toronto Raptors,1,0.9999999999999998
+28,28,28,G.Antetokounmpo u6.5 Ast,SBK5065,100,0.5,1.0,2.9736,Milwaukee Bucks,G.Antetokounmpo,Houston Rockets,1,0.5
+29,29,29,J.Smith o13.5 Pts,SBK5065,-110,0.55,1.05,2.9736,Houston Rockets,J.Smith,Milwaukee Bucks,0,0.5
+30,30,30,J.Smith o19.5 Pts,SBK5065,390,0.15,0.735,2.9736,Houston Rockets,J.Smith,Milwaukee Bucks,0,0.585
+31,31,31,B.Lopez u5.5 Rebs,SBK5065,-130,0.65,1.15,2.9736,Milwaukee Bucks,B.Lopez,Houston Rockets,1,0.4999999999999999
+32,32,32,G.Allen o12.5 Pts,HPBasketball,-105,1.05,2.05,-1.4209,Milwaukee Bucks,G.Allen,Houston Rockets,1,0.9999999999999998
+33,33,33,G.Allen o14.5 Pts,JoeDellera,180,0.25,0.7,10.4467,Milwaukee Bucks,G.Allen,Houston Rockets,1,0.44999999999999996
+34,34,34,G.Allen o19.5 Pts,JoeDellera,625,0.15,1.0875,10.4467,Milwaukee Bucks,G.Allen,Houston Rockets,1,0.9374999999999999
+35,35,35,G.Allen o24.5 Pts,JoeDellera,1600,0.05,0.8500000000000001,10.4467,Milwaukee Bucks,G.Allen,Houston Rockets,1,0.8
+36,36,36,G.Antetokounmpo o50.5 Pts+Rebs+Ast,gneiffer07,-104,1.04,2.04,0.0,Milwaukee Bucks,G.Antetokounmpo,Houston Rockets,1,1.0
+37,37,37,G.Antetokounmpo u13.5 Rebs,gneiffer07,-129,1.29,2.29,0.0,Milwaukee Bucks,G.Antetokounmpo,Houston Rockets,1,1.0
+38,38,38,N.Vucevic u17.5 Pts,gneiffer07,-115,1.15,2.1499999999999995,0.0,Chicago Bulls,N.Vucevic,Cleveland Cavaliers,1,0.9999999999999996
+39,39,39,L.Doncic o7.5 Rebs,SBK5065,-135,0.68,1.1837037037037037,2.9736,Dallas Mavericks,L.Doncic,Memphis Grizzlies,1,0.5037037037037037
+40,40,40,D.Bane o18.5 Pts,SBK5065,-110,0.55,1.05,2.9736,Memphis Grizzlies,D.Bane,Dallas Mavericks,0,0.5
+41,41,41,D.Bane o25.5 Pts+Rebs+Ast,SBK5065,-115,0.58,1.0843478260869563,2.9736,Memphis Grizzlies,D.Bane,Dallas Mavericks,0,0.5043478260869564
+42,42,42,D.Bane o3.5 Rebs,SBK5065,-125,0.63,1.134,2.9736,Memphis Grizzlies,D.Bane,Dallas Mavericks,0,0.5039999999999999
+43,43,43,S.Aldama o6.5 Rebs,SBK5065,-110,0.55,1.05,2.9736,Memphis Grizzlies,S.Aldama,Dallas Mavericks,0,0.5
+44,44,44,C.Wood o22.5 Pts+Rebs,PropBetGuy,-115,1.15,2.1499999999999995,0.0,Dallas Mavericks,C.Wood,Memphis Grizzlies,1,0.9999999999999996
+45,45,45,J.Morant u30.5 Pts,JoeDellera,-120,0.15,0.275,10.4467,Memphis Grizzlies,J.Morant,Dallas Mavericks,0,0.12500000000000003
+46,46,46,D.Bane u20.5 Pts,JoeDellera,-120,0.2,0.3666666666666667,10.4467,Memphis Grizzlies,D.Bane,Dallas Mavericks,0,0.16666666666666669
+47,47,47,D.Finney-Smith u1.5 Ast,gneiffer07,145,1.0,2.45,0.0,Dallas Mavericks,D.Finney-Smith,Memphis Grizzlies,1,1.4500000000000002
+48,48,48,D.Bane o18 Pts,gneiffer07,-115,1.15,2.1499999999999995,0.0,Memphis Grizzlies,D.Bane,Dallas Mavericks,0,0.9999999999999996
+49,49,49,S.Gilgeous-Alexander u5.5 Rebs,SBK5065,-145,0.73,1.233448275862069,0.0,Oklahoma City Thunder,S.Gilgeous-Alexander,Denver Nuggets,0,0.5034482758620691
+50,50,50,R.Jackson u15.5 Pts,SBK5065,-110,0.55,1.05,2.9736,Los Angeles Clippers,R.Jackson,Sacramento Kings,0,0.5
+51,51,51,M.Morris u13.5 Pts,SBK5065,-115,0.58,1.0843478260869563,2.9736,Los Angeles Clippers,M.Morris,Sacramento Kings,0,0.5043478260869564
+52,52,52,D.Fox o22.5 Pts,JoeDellera,-128,1.0,1.78125,0.0,Sacramento Kings,D.Fox,Los Angeles Clippers,1,0.78125
+53,53,53,P.George u37.5 Pts+Rebs+Ast,gneiffer07,-111,1.11,2.1100000000000003,0.0,Los Angeles Clippers,P.George,Sacramento Kings,0,1.0000000000000002
+54,54,54,R.Jackson u24.5 Pts+Rebs+Ast,gneiffer07,-109,1.09,2.0900000000000003,0.0,Los Angeles Clippers,R.Jackson,Sacramento Kings,0,1.0000000000000002
+55,55,55,I.Zubac o11.5 Pts,gneiffer07,-115,1.15,2.1499999999999995,0.0,Los Angeles Clippers,I.Zubac,Sacramento Kings,0,0.9999999999999996
+56,56,56,D.Fox o32.5 Pts+Rebs+Ast,gneiffer07,-107,1.07,2.0700000000000003,0.0,Sacramento Kings,D.Fox,Los Angeles Clippers,1,1.0000000000000002
+57,57,57,D.Fox o23.5 Pts,charliedisturco,-100,1.0,2.0,0.0,Sacramento Kings,D.Fox,Los Angeles Clippers,1,1.0
+58,58,58,J.Embiid o9.5 Rebs,HPBasketball,120,1.0,2.2,-1.4209,Philadelphia 76ers,J.Embiid,San Antonio Spurs,1,1.2000000000000002
+59,59,59,J.Embiid o24.5 Pts,HPBasketball,-113,1.1,2.0734513274336286,-1.4209,Philadelphia 76ers,J.Embiid,San Antonio Spurs,1,0.9734513274336285
+60,60,60,J.Embiid o25.5 Pts,HPBasketball,-120,1.1,2.016666666666667,-1.4209,Philadelphia 76ers,J.Embiid,San Antonio Spurs,1,0.916666666666667
+61,61,61,C.Cunningham  o9.5 Ast,wheatonbrando,2500,0.2,5.2,0.0,Detroit Pistons,C.Cunningham,Indiana Pacers,0,5.0
+62,62,62,C.Cunningham  o9.5 Rebs,wheatonbrando,-128,0.15,0.2671874999999999,0.0,Detroit Pistons,C.Cunningham,Indiana Pacers,0,0.11718749999999992
