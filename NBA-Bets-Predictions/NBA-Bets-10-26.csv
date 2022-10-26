@@ -1,0 +1,43 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,0,D.Murray u8.5 Ast,SBK5065,-128,0.64,1.14,8.2857,Atlanta Hawks,D.Murray,Detroit Pistons,0.0,0.4999999999999999
+1,1,2,T.Young o25.5 Pts,PropBomb,-120,1.2,2.2,0.0,Atlanta Hawks,T.Young,Detroit Pistons,0.0,1.0000000000000002
+2,2,3,T.Young o12.5 Rebs+Ast,JoeDellera,-120,0.5,0.9166666666666669,7.7419,Atlanta Hawks,T.Young,Detroit Pistons,0.0,0.41666666666666685
+3,3,4,D.Murray o15.5 Rebs+Ast,JoeDellera,105,0.5,1.025,7.7419,Atlanta Hawks,D.Murray,Detroit Pistons,0.0,0.5249999999999999
+4,4,5,J.Collins o23.5 Pts+Rebs,JoeDellera,-125,0.4,0.7200000000000001,7.7419,Atlanta Hawks,J.Collins,Detroit Pistons,0.0,0.32000000000000006
+5,5,6,P.Banchero u19.5 Pts,SBK5065,-120,1.2,2.2,8.2857,Orlando Magic,P.Banchero,Cleveland Cavaliers,0.0,1.0000000000000002
+6,6,7,C.Anthony u16.5 Pts,SBK5065,-120,0.6,1.1,8.2857,Orlando Magic,C.Anthony,Cleveland Cavaliers,0.0,0.5000000000000001
+7,7,8,W.Carter u15.5 Pts,SBK5065,-135,0.68,1.1837037037037037,8.2857,Orlando Magic,W.Carter,Cleveland Cavaliers,0.0,0.5037037037037037
+8,8,9,W.Carter o2.5 Ast,SBK5065,-130,0.65,1.15,8.2857,Orlando Magic,W.Carter,Cleveland Cavaliers,0.0,0.4999999999999999
+9,9,10,D.Mitchell u6.5 Ast,SBK5065,110,0.5,1.05,8.2857,Cleveland Cavaliers,D.Mitchell,Orlando Magic,1.0,0.55
+10,10,11,C.Anthony u5.5 Ast,SBK5065,100,0.5,1.0,8.2857,Orlando Magic,C.Anthony,Cleveland Cavaliers,0.0,0.5
+11,11,12,C.LeVert u15.5 Pts,PropBetGuy,-110,1.1,2.1,0.0,Cleveland Cavaliers,C.LeVert,Orlando Magic,1.0,1.0
+12,12,13,W.Carter Yes-110 Double-Double,NicholaskMartin,100,0.5,1.0,-1.675,Orlando Magic,W.Carter,Cleveland Cavaliers,0.0,0.5
+13,13,14,J.Randle u21.5 Pts,SBK5065,-115,0.58,1.0843478260869563,8.2857,New York Knicks,J.Randle,Charlotte Hornets,1.0,0.5043478260869564
+14,14,15,J.Randle u36.5 Pts+Rebs+Ast,SBK5065,-120,0.6,1.1,8.2857,New York Knicks,J.Randle,Charlotte Hornets,1.0,0.5000000000000001
+15,15,16,J.Randle u10.5 Rebs,SBK5065,-135,0.68,1.1837037037037037,8.2857,New York Knicks,J.Randle,Charlotte Hornets,1.0,0.5037037037037037
+16,16,17,I.Hartenstein o14.5 Pts+Rebs,PropBetGuy,-115,1.15,2.1499999999999995,0.0,New York Knicks,I.Hartenstein,Charlotte Hornets,1.0,0.9999999999999996
+17,17,18,J.Randle o20.5 Pts,JoeMetz,-108,1.08,2.08,0.0,New York Knicks,J.Randle,Charlotte Hornets,1.0,1.0
+18,18,19,J.Brunson o5.5 Ast,JoeDellera,-160,1.0,1.625,7.7419,New York Knicks,J.Brunson,Charlotte Hornets,1.0,0.625
+19,19,20,P.Siakam u9.5 Rebs,SBK5065,-135,0.68,1.1837037037037037,8.2857,Toronto Raptors,P.Siakam,Philadelphia 76ers,1.0,0.5037037037037037
+20,20,21,J.Harden u23.5 Pts,SBK5065,-122,0.61,1.11,8.2857,Philadelphia 76ers,J.Harden,Toronto Raptors,0.0,0.5000000000000001
+21,21,22,T.Harris u6.5 Rebs,ChicagoFlow,-115,2.3,4.299999999999999,0.0,Philadelphia 76ers,T.Harris,Toronto Raptors,0.0,1.9999999999999991
+22,22,23,G.Antetokounmpo u13.5 Rebs,SBK5065,-135,0.68,1.1837037037037037,8.2857,Milwaukee Bucks,G.Antetokounmpo,Brooklyn Nets,1.0,0.5037037037037037
+23,23,24,G.Antetokounmpo u6.5 Ast,SBK5065,-145,0.73,1.233448275862069,8.2857,Milwaukee Bucks,G.Antetokounmpo,Brooklyn Nets,1.0,0.5034482758620691
+24,24,25,N.Claxton o19.5 Pts+Rebs,SBK5065,-113,0.57,1.074424778761062,8.2857,Brooklyn Nets,N.Claxton,Milwaukee Bucks,0.0,0.504424778761062
+25,25,26,N.Claxton o20.5 Pts+Rebs+Ast,SBK5065,-115,0.58,1.0843478260869563,8.2857,Brooklyn Nets,N.Claxton,Milwaukee Bucks,0.0,0.5043478260869564
+26,26,27,G.Allen o19.5 Pts,PropBomb,680,0.3,2.34,0.0,Milwaukee Bucks,G.Allen,Brooklyn Nets,1.0,2.04
+27,27,28,K.Durant Yes340 Double-Double,PropBomb,340,0.5,2.2,0.0,Brooklyn Nets,K.Durant,Milwaukee Bucks,0.0,1.7000000000000002
+28,28,29,N.Claxton Yes250 Double-Double,PropBomb,255,0.5,1.775,0.0,Brooklyn Nets,N.Claxton,Milwaukee Bucks,0.0,1.275
+29,29,30,G.Allen o11.5 Pts,PropBomb,-130,1.3,2.3,0.0,Milwaukee Bucks,G.Allen,Brooklyn Nets,1.0,0.9999999999999998
+30,30,31,G.Allen o14.5 Pts,JoeDellera,188,0.2,0.576,7.7419,Milwaukee Bucks,G.Allen,Brooklyn Nets,1.0,0.37599999999999995
+31,31,32,K.Durant Yes Double-Double,GDAWG5000,450,0.5,2.75,2.575,Brooklyn Nets,K.Durant,Milwaukee Bucks,0.0,2.25
+32,32,33,Z.LaVine o21.5 Pts,SBK5065,-115,0.58,1.0843478260869563,8.2857,Chicago Bulls,Z.LaVine,Indiana Pacers,1.0,0.5043478260869564
+33,33,34,P.Williams u0.5 Ast,SBK5065,-105,1.05,2.05,8.2857,Chicago Bulls,P.Williams,Indiana Pacers,1.0,0.9999999999999998
+34,34,35,T.Haliburton o19.5 Pts,JoeMetz,-105,1.05,2.05,0.0,Indiana Pacers,T.Haliburton,Chicago Bulls,0.0,0.9999999999999998
+35,35,36,A.Dosunmu o3.5 Rebs,HPBasketball,118,0.5,1.09,0.0,Chicago Bulls,A.Dosunmu,Indiana Pacers,1.0,0.5900000000000001
+36,36,37,L.James Yes Triple-Double,JoeDellera,1100,0.1,1.2000000000000002,0.0,Los Angeles Lakers,L.James,Denver Nuggets,0.0,1.1
+37,37,38,J.Grant u16.5 Pts,PropBetGuy,-113,1.13,2.13,0.0,Portland Trail Blazers,J.Grant,Miami Heat,1.0,1.0
+38,38,39,P.Williams u11.5 Pts+Rebs+Ast,SBK5065,-115,1.15,2.1499999999999995,8.2857,Chicago Bulls,P.Williams,Indiana Pacers,1.0,0.9999999999999996
+39,39,40,D.Smith o5.5 Ast,PropBomb,110,1.0,2.1,0.1534,Charlotte Hornets,D.Smith,New York Knicks,0.0,1.1
+40,40,41,K.Durant o24.5 Pts,PropBetGuy,100,0.15,0.3,0.0,Brooklyn Nets,K.Durant,Milwaukee Bucks,0.0,0.15
+41,41,42,G.Antetokounmpo o24.5 Pts,PropBetGuy,-115,1.0,1.869565217391304,0.0,Milwaukee Bucks,G.Antetokounmpo,Brooklyn Nets,1.0,0.869565217391304
