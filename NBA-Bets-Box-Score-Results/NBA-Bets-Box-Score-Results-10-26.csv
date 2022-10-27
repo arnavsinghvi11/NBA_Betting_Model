@@ -1,0 +1,219 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Tyrese Haliburton,Indiana Pacers,Chicago Bulls,0,38.12,17,11,4,1,1,2,.507,.467,.400,0.0,12.3,6.1,46.9,1.2,2.2,25.4,93,122,-4.8
+1,Buddy Hield,Indiana Pacers,Chicago Bulls,0,32.05,25,4,3,0,0,7,.722,.719,.750,3.6,7.3,5.5,23.9,0.0,0.0,25.7,121,127,7.2
+2,Jalen Smith,Indiana Pacers,Chicago Bulls,0,29.09,15,2,9,0,2,3,.750,.750,.500,8.0,28.1,18.1,12.1,0.0,5.8,17.6,118,118,3.4
+3,Myles Turner,Indiana Pacers,Chicago Bulls,0,24.18,5,2,6,1,4,0,.300,.143,.571,9.6,19.3,14.5,11.3,1.9,13.9,18.1,73,109,-6.9
+4,Aaron Nesmith,Indiana Pacers,Chicago Bulls,0,17.31,9,2,3,0,1,1,.750,.750,.500,0.0,20.1,10.0,21.0,0.0,4.8,19.5,102,121,-2.0
+5,Bennedict Mathurin,Indiana Pacers,Chicago Bulls,0,26.32,15,4,2,2,0,0,.487,.273,.273,4.4,4.4,4.4,22.9,3.5,0.0,28.0,104,120,-3.2
+6,Chris Duarte,Indiana Pacers,Chicago Bulls,0,25.46,12,1,3,0,1,2,.505,.455,.545,0.0,13.6,6.8,6.3,0.0,3.3,19.7,101,123,-5.3
+7,Isaiah Jackson,Indiana Pacers,Chicago Bulls,0,19.44,8,1,7,0,1,0,.820,1.000,.000,0.0,41.5,20.8,8.9,0.0,4.3,10.5,151,117,1.3
+8,T.J. McConnell,Indiana Pacers,Chicago Bulls,0,11.38,0,2,0,0,1,0,.000,.000,.000,0.0,0.0,0.0,22.3,0.0,7.2,18.3,27,123,-17.6
+9,Andrew Nembhard,Indiana Pacers,Chicago Bulls,0,8.40,3,2,1,1,0,1,1.500,1.500,1.000,0.0,13.5,6.8,35.2,5.3,0.0,4.9,270,113,13.5
+10,Terry Taylor,Indiana Pacers,Chicago Bulls,0,6.25,0,0,0,0,1,0,,,,0.0,0.0,0.0,0.0,0.0,13.1,0.0,0,119,-4.9
+11,Zach LaVine,Chicago Bulls,Indiana Pacers,1,34.37,28,5,6,1,0,6,.766,.692,.615,0.0,20.3,10.1,20.0,1.3,0.0,28.2,122,108,5.7
+12,DeMar DeRozan,Chicago Bulls,Indiana Pacers,1,32.17,17,6,1,0,0,0,.525,.429,.071,0.0,3.6,1.8,26.2,0.0,0.0,24.9,105,114,-8.5
+13,Nikola Vučević,Chicago Bulls,Indiana Pacers,1,31.15,14,4,7,0,0,1,.618,.550,.300,3.7,22.5,13.1,17.4,0.0,0.0,17.9,119,111,-1.9
+14,Ayo Dosunmu,Chicago Bulls,Indiana Pacers,1,30.48,12,7,4,2,1,0,.558,.444,.222,3.8,11.4,7.6,29.7,3.0,3.4,16.0,133,103,5.0
+15,Patrick Williams,Chicago Bulls,Indiana Pacers,1,14.56,10,2,0,2,0,2,1.000,1.000,.400,0.0,0.0,0.0,21.3,6.2,0.0,19.6,120,100,14.3
+16,Alex Caruso,Chicago Bulls,Indiana Pacers,1,23.16,8,3,2,3,2,2,1.000,1.000,.750,0.0,10.1,5.0,16.8,6.0,9.0,9.0,151,92,13.0
+17,Javonte Green,Chicago Bulls,Indiana Pacers,1,16.48,8,1,4,1,0,0,.667,.667,.167,13.9,13.9,13.9,9.0,2.8,0.0,15.0,147,106,2.7
+18,Andre Drummond,Chicago Bulls,Indiana Pacers,1,16.45,8,1,13,0,1,0,.500,.500,.000,28.0,62.9,45.4,9.1,0.0,6.2,20.0,128,99,-1.5
+19,Goran Dragić,Chicago Bulls,Indiana Pacers,1,15.46,13,5,2,0,0,3,.722,.722,.333,0.0,14.9,7.4,54.8,0.0,0.0,29.2,124,112,7.6
+20,Coby White,Chicago Bulls,Indiana Pacers,1,11.56,6,0,3,1,0,2,.500,.500,1.000,0.0,29.4,14.7,0.0,3.9,0.0,21.1,96,101,-1.0
+21,Derrick Jones Jr.,Chicago Bulls,Indiana Pacers,1,9.58,0,0,2,0,0,0,.000,.000,.333,11.7,11.7,11.7,0.0,0.0,0.0,12.6,31,113,-19.4
+22,Dalen Terry,Chicago Bulls,Indiana Pacers,1,0.59,0,0,0,0,1,0,,,,0.0,0.0,0.0,0.0,0.0,100.0,42.6,0,37,-17.6
+23,Malcolm Hill,Chicago Bulls,Indiana Pacers,1,0.39,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,115,-6.4
+24,Paolo Banchero,Orlando Magic,Cleveland Cavaliers,0,36.59,29,4,8,1,2,3,.644,.605,.263,3.2,20.2,12.1,23.6,1.4,4.8,31.2,120,105,12.7
+25,Franz Wagner,Orlando Magic,Cleveland Cavaliers,0,34.42,22,5,5,1,1,0,.516,.500,.200,6.7,9.2,8.0,32.7,1.5,2.6,34.3,94,110,0.4
+26,Wendell Carter Jr.,Orlando Magic,Cleveland Cavaliers,0,32.48,12,1,8,0,0,0,.558,.444,.333,10.7,16.3,13.6,5.0,0.0,0.0,19.0,100,112,-7.4
+27,Cole Anthony,Orlando Magic,Cleveland Cavaliers,0,32.03,9,5,6,0,1,1,.383,.250,.500,0.0,20.0,10.4,23.4,0.0,2.8,20.8,80,109,-6.5
+28,Terrence Ross,Orlando Magic,Cleveland Cavaliers,0,31.54,7,2,2,2,0,1,.350,.350,.300,3.7,3.3,3.5,9.9,3.2,0.0,14.2,89,110,-2.8
+29,Kevon Harris,Orlando Magic,Cleveland Cavaliers,0,22.14,0,0,3,1,0,0,.000,.000,.333,0.0,14.4,7.5,0.0,2.3,0.0,10.2,0,108,-14.2
+30,Bol Bol,Orlando Magic,Cleveland Cavaliers,0,21.46,9,1,10,0,2,1,.571,.643,.286,16.1,34.3,25.6,8.4,0.0,8.2,16.4,127,101,6.9
+31,Caleb Houstan,Orlando Magic,Cleveland Cavaliers,0,15.05,2,0,0,1,0,0,1.000,1.000,.000,0.0,0.0,0.0,0.0,3.4,0.0,3.0,200,110,-3.4
+32,Mo Bamba,Orlando Magic,Cleveland Cavaliers,0,7.01,2,0,1,0,0,0,1.000,1.000,.000,0.0,15.2,8.0,0.0,0.0,0.0,6.4,200,112,-1.3
+33,Chuma Okeke,Orlando Magic,Cleveland Cavaliers,0,5.28,0,1,0,0,0,0,.000,.000,1.000,0.0,0.0,0.0,25.1,0.0,0.0,8.3,50,118,-5.0
+34,Donovan Mitchell,Cleveland Cavaliers,Orlando Magic,1,37.12,14,8,4,2,0,1,.337,.289,.368,5.7,6.3,6.0,34.9,2.7,0.0,25.0,93,98,-0.6
+35,Evan Mobley,Cleveland Cavaliers,Orlando Magic,1,34.26,20,3,3,1,1,0,.597,.600,.000,0.0,10.2,4.9,17.8,1.5,2.4,24.6,102,98,2.2
+36,Caris LeVert,Cleveland Cavaliers,Orlando Magic,1,33.26,12,6,2,1,0,3,.410,.375,.583,0.0,7.0,3.3,27.2,1.5,0.0,25.1,75,100,-5.8
+37,Dean Wade,Cleveland Cavaliers,Orlando Magic,1,29.43,12,0,3,1,0,4,.857,.857,1.000,0.0,11.8,5.6,0.0,1.7,0.0,10.1,159,98,7.0
+38,Jarrett Allen,Cleveland Cavaliers,Orlando Magic,1,29.39,18,1,16,1,1,0,.682,.636,.000,25.2,35.5,30.1,6.6,1.7,2.8,20.5,143,90,8.4
+39,Cedi Osman,Cleveland Cavaliers,Orlando Magic,1,31.13,14,3,7,0,1,1,.493,.458,.417,6.8,18.8,12.5,16.3,0.0,2.7,20.8,108,98,1.8
+40,Kevin Love,Cleveland Cavaliers,Orlando Magic,1,18.59,4,4,7,0,0,0,.254,.143,.714,0.0,43.2,20.6,30.2,0.0,0.0,20.0,73,93,-2.1
+41,Raul Neto,Cleveland Cavaliers,Orlando Magic,1,13.53,7,0,0,0,0,1,.931,.750,.500,0.0,0.0,0.0,0.0,0.0,0.0,11.6,199,105,4.5
+42,Isaac Okoro,Cleveland Cavaliers,Orlando Magic,1,11.29,2,0,1,0,0,0,.500,.500,.500,9.3,0.0,4.9,0.0,0.0,0.0,7.5,121,105,-4.8
+43,Anthony Davis,Los Angeles Lakers,Denver Nuggets,0,36.26,22,5,14,3,2,0,.566,.579,.053,2.5,35.0,18.3,25.8,3.9,4.5,23.1,118,96,12.6
+44,LeBron James,Los Angeles Lakers,Denver Nuggets,0,35.18,19,9,7,1,0,2,.434,.429,.381,5.2,13.9,9.4,42.0,1.3,0.0,36.6,76,110,-4.2
+45,Lonnie Walker IV,Los Angeles Lakers,Denver Nuggets,0,30.29,15,1,2,2,1,1,.490,.464,.429,0.0,6.4,3.1,5.2,3.1,2.7,23.1,91,105,-0.6
+46,Patrick Beverley,Los Angeles Lakers,Denver Nuggets,0,28.59,6,3,4,1,0,0,.521,.250,.500,3.2,10.1,6.6,13.0,1.6,0.0,8.6,131,110,-1.8
+47,Austin Reaves,Los Angeles Lakers,Denver Nuggets,0,26.29,8,1,2,0,0,2,.800,.800,.600,0.0,7.4,3.6,5.2,0.0,0.0,9.8,120,114,-2.0
+48,Troy Brown Jr.,Los Angeles Lakers,Denver Nuggets,0,27.42,6,4,5,1,0,0,.375,.375,.375,6.7,10.6,8.6,19.9,1.7,0.0,14.0,92,110,-2.5
+49,Kendrick Nunn,Los Angeles Lakers,Denver Nuggets,0,19.05,9,1,4,0,0,1,.375,.375,.333,0.0,20.5,10.0,8.4,0.0,0.0,34.0,59,111,-15.2
+50,Damian Jones,Los Angeles Lakers,Denver Nuggets,0,11.34,4,0,4,0,1,0,.532,.500,.000,8.0,25.4,16.4,0.0,0.0,7.2,14.1,119,104,-1.1
+51,Juan Toscano-Anderson,Los Angeles Lakers,Denver Nuggets,0,9.56,2,0,3,0,0,0,.500,.500,.000,0.0,29.6,14.4,0.0,0.0,0.0,8.7,95,109,-9.9
+52,Matt Ryan,Los Angeles Lakers,Denver Nuggets,0,8.30,6,0,1,0,0,2,1.000,1.000,1.000,0.0,11.5,5.6,0.0,0.0,0.0,15.3,169,113,7.3
+53,Max Christie,Los Angeles Lakers,Denver Nuggets,0,2.46,2,1,1,0,0,0,1.136,,,0.0,35.4,17.2,43.4,0.0,0.0,13.7,243,108,26.7
+54,Wenyen Gabriel,Los Angeles Lakers,Denver Nuggets,0,2.46,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,116,-8.7
+55,Nikola Jokić,Denver Nuggets,Los Angeles Lakers,1,34.48,31,9,13,4,0,0,.772,.706,.235,2.8,31.8,17.8,48.8,5.4,0.0,28.4,141,89,19.8
+56,Bruce Brown,Denver Nuggets,Los Angeles Lakers,1,33.01,18,4,5,2,0,4,.750,.750,.500,5.9,8.4,7.2,18.3,2.8,0.0,15.5,149,98,9.1
+57,Aaron Gordon,Denver Nuggets,Los Angeles Lakers,1,28.30,6,5,9,0,2,0,.307,.250,.375,10.3,19.4,15.0,21.8,0.0,5.6,14.6,100,98,-1.2
+58,Jamal Murray,Denver Nuggets,Los Angeles Lakers,1,27.43,13,6,4,2,0,1,.433,.433,.467,0.0,13.3,6.9,32.9,3.4,0.0,29.3,77,96,-5.1
+59,Kentavious Caldwell-Pope,Denver Nuggets,Los Angeles Lakers,1,25.15,13,1,4,1,0,3,.825,.786,.714,0.0,14.6,7.5,5.5,1.9,0.0,13.3,155,100,5.7
+60,Christian Braun,Denver Nuggets,Los Angeles Lakers,1,25.05,9,0,5,0,0,0,.654,.667,.167,7.8,11.0,9.5,0.0,0.0,0.0,13.4,115,104,-4.7
+61,Jeff Green,Denver Nuggets,Los Angeles Lakers,1,21.56,10,3,4,2,0,0,.512,.375,.250,4.5,12.6,8.7,18.5,4.3,0.0,19.0,122,94,2.4
+62,Bones Hyland,Denver Nuggets,Los Angeles Lakers,1,16.44,6,5,3,0,1,1,.233,.208,.417,0.0,16.5,8.5,39.6,0.0,4.8,35.5,63,99,-10.5
+63,DeAndre Jordan,Denver Nuggets,Los Angeles Lakers,1,10.26,2,0,5,0,1,0,1.000,1.000,.000,0.0,44.2,22.8,0.0,0.0,7.7,8.2,68,91,-4.2
+64,Peyton Watson,Denver Nuggets,Los Angeles Lakers,1,2.46,2,0,0,0,0,0,.500,.500,.000,0.0,0.0,0.0,0.0,0.0,0.0,30.9,93,105,-13.5
+65,Vlatko Čančar,Denver Nuggets,Los Angeles Lakers,1,2.46,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,15.5,0,106,-26.0
+66,Zeke Nnaji,Denver Nuggets,Los Angeles Lakers,1,2.46,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,106,-8.9
+67,Ish Smith,Denver Nuggets,Los Angeles Lakers,1,2.46,0,1,1,0,1,0,.000,.000,.000,0.0,33.4,17.2,41.3,0.0,28.9,30.9,29,74,-2.4
+68,Jack White,Denver Nuggets,Los Angeles Lakers,1,2.46,0,0,0,1,0,0,,,,0.0,0.0,0.0,0.0,16.9,0.0,0.0,0,70,11.0
+69,Davon Reed,Denver Nuggets,Los Angeles Lakers,1,2.42,0,0,1,0,0,0,.000,.000,.500,0.0,34.2,17.6,0.0,0.0,0.0,31.7,0,97,-47.3
+70,Dejounte Murray,Atlanta Hawks,Detroit Pistons,0,39.19,14,8,8,2,2,2,.354,.333,.333,6.1,15.9,11.4,25.1,2.4,4.1,23.3,92,109,-2.1
+71,Trae Young,Atlanta Hawks,Detroit Pistons,0,37.44,35,6,3,1,0,1,.614,.452,.333,0.0,8.3,4.4,22.7,1.3,0.0,32.9,136,117,4.9
+72,John Collins,Atlanta Hawks,Detroit Pistons,0,35.54,19,0,11,1,4,0,.658,.643,.071,3.3,29.1,17.1,0.0,1.3,9.1,21.6,101,104,-1.9
+73,De'Andre Hunter,Atlanta Hawks,Detroit Pistons,0,27.04,17,1,3,0,0,2,.751,.800,.300,0.0,11.6,6.2,5.4,0.0,0.0,20.7,122,118,-3.2
+74,Clint Capela,Atlanta Hawks,Detroit Pistons,0,26.26,6,2,10,1,4,0,.375,.375,.000,22.7,19.7,21.1,9.2,1.8,12.3,14.3,106,104,0.7
+75,Justin Holiday,Atlanta Hawks,Detroit Pistons,0,22.22,2,3,3,0,0,0,.333,.333,.333,0.0,14.0,7.5,15.0,0.0,0.0,7.5,83,118,-6.8
+76,Onyeka Okongwu,Atlanta Hawks,Detroit Pistons,0,21.18,10,0,3,1,1,0,1.000,1.000,.000,0.0,14.7,7.9,0.0,2.2,3.8,9.9,200,110,4.6
+77,Aaron Holiday,Atlanta Hawks,Detroit Pistons,0,17.47,10,2,2,0,1,2,.625,.625,.250,13.5,0.0,6.3,15.8,0.0,4.6,21.3,127,118,4.2
+78,Jalen Johnson,Atlanta Hawks,Detroit Pistons,0,12.06,5,0,3,0,0,1,.625,.625,.500,0.0,25.9,13.8,0.0,0.0,0.0,13.9,128,115,-4.0
+79,Cade Cunningham,Detroit Pistons,Atlanta Hawks,1,36.32,26,6,8,1,2,1,.486,.460,.120,0.0,26.3,12.2,28.6,1.3,3.8,39.0,86,112,-4.1
+80,Bojan Bogdanović,Detroit Pistons,Atlanta Hawks,1,33.41,33,3,2,0,0,6,.725,.714,.571,0.0,7.1,3.3,17.2,0.0,0.0,31.0,132,122,8.0
+81,Cory Joseph,Detroit Pistons,Atlanta Hawks,1,31.38,2,6,3,0,0,0,.258,.000,.333,0.0,11.4,5.3,21.7,0.0,0.0,5.2,120,121,-8.3
+82,Saddiq Bey,Detroit Pistons,Atlanta Hawks,1,29.55,17,0,4,0,0,2,.623,.636,.364,3.5,12.0,7.5,0.0,0.0,0.0,22.1,108,121,-2.9
+83,Isaiah Stewart,Detroit Pistons,Atlanta Hawks,1,27.05,7,0,9,0,1,0,.451,.333,.667,11.6,26.6,18.5,0.0,0.0,2.6,12.1,116,116,-4.1
+84,Isaiah Livers,Detroit Pistons,Atlanta Hawks,1,23.44,12,3,2,1,1,4,.857,.857,.857,4.4,5.1,4.7,17.9,2.0,2.9,12.5,177,116,12.4
+85,Jalen Duren,Detroit Pistons,Atlanta Hawks,1,20.55,7,0,9,0,1,0,.717,.750,.000,15.0,34.4,24.0,0.0,0.0,3.3,11.9,132,113,-1.8
+86,Killian Hayes,Detroit Pistons,Atlanta Hawks,1,15.42,5,4,1,1,1,1,.417,.417,.333,6.6,0.0,3.6,34.1,3.0,4.4,16.1,121,113,2.9
+87,Hamidou Diallo,Detroit Pistons,Atlanta Hawks,1,15.22,4,1,1,1,0,0,.250,.250,.000,6.8,0.0,3.6,8.7,3.1,0.0,24.7,61,117,-15.3
+88,Kevin Knox,Detroit Pistons,Atlanta Hawks,1,5.26,0,0,1,0,0,0,,,,0.0,22.1,10.3,0.0,0.0,0.0,0.0,0,118,-12.6
+89,Kyrie Irving,Brooklyn Nets,Milwaukee Bucks,0,38.59,27,1,9,1,0,0,.531,.429,.333,0.0,25.2,12.2,5.4,1.2,0.0,28.7,105,106,1.0
+90,Kevin Durant,Brooklyn Nets,Milwaukee Bucks,0,38.52,33,3,6,0,2,1,.575,.457,.174,0.0,16.8,8.1,17.1,0.0,4.7,36.8,100,109,4.3
+91,Royce O'Neale,Brooklyn Nets,Milwaukee Bucks,0,37.03,12,0,0,2,0,4,.462,.462,.692,0.0,0.0,0.0,0.0,2.5,0.0,17.2,74,111,-4.5
+92,Ben Simmons,Brooklyn Nets,Milwaukee Bucks,0,34.28,4,9,5,2,1,0,.254,.286,.000,3.0,12.7,7.7,40.2,2.7,2.7,12.2,77,105,0.1
+93,Nic Claxton,Brooklyn Nets,Milwaukee Bucks,0,23.26,3,1,8,0,2,0,.307,.250,.000,17.4,18.6,18.0,6.4,0.0,7.9,10.6,90,107,-5.2
+94,Joe Harris,Brooklyn Nets,Milwaukee Bucks,0,20.36,3,2,4,0,0,1,.300,.300,.600,5.0,15.9,10.2,14.7,0.0,0.0,10.3,85,112,-4.0
+95,Patty Mills,Brooklyn Nets,Milwaukee Bucks,0,17.44,0,3,1,0,0,0,.000,.000,1.000,0.0,6.2,3.0,23.9,0.0,0.0,7.2,42,115,-8.4
+96,Day'Ron Sharpe,Brooklyn Nets,Milwaukee Bucks,0,13.09,3,3,3,1,1,0,.387,.333,.000,7.8,16.6,12.0,36.1,3.6,7.0,19.0,76,99,-0.1
+97,Yuta Watanabe,Brooklyn Nets,Milwaukee Bucks,0,7.36,5,0,1,0,0,1,1.250,1.250,.500,0.0,14.4,6.9,0.0,0.0,0.0,11.2,250,112,14.6
+98,Edmond Sumner,Brooklyn Nets,Milwaukee Bucks,0,6.11,9,1,0,1,0,0,.699,.667,.167,0.0,0.0,0.0,100.0,7.6,0.0,44.2,135,101,32.9
+99,Kessler Edwards,Brooklyn Nets,Milwaukee Bucks,0,0.58,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,117,-4.9
+100,Cam Thomas,Brooklyn Nets,Milwaukee Bucks,0,0.58,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,117,-7.6
+101,Giannis Antetokounmpo,Milwaukee Bucks,Brooklyn Nets,1,37.52,43,5,14,1,3,1,.690,.660,.160,5.8,32.4,19.5,33.9,1.2,6.4,40.7,119,92,15.7
+102,Jrue Holiday,Milwaukee Bucks,Brooklyn Nets,1,35.56,15,4,7,2,1,1,.371,.306,.333,9.1,11.4,10.3,16.5,2.6,2.3,28.3,80,97,-6.3
+103,Grayson Allen,Milwaukee Bucks,Brooklyn Nets,1,28.08,5,4,5,0,0,1,.282,.188,.750,0.0,18.2,9.4,18.3,0.0,0.0,14.2,82,103,-5.8
+104,Brook Lopez,Milwaukee Bucks,Brooklyn Nets,1,27.51,7,1,6,0,6,1,.350,.350,.500,11.8,11.0,11.4,5.1,0.0,17.5,17.4,80,90,-1.2
+105,Jevon Carter,Milwaukee Bucks,Brooklyn Nets,1,15.42,2,1,2,2,0,0,1.000,1.000,.000,6.9,6.5,6.7,8.5,6.0,0.0,5.1,113,93,1.0
+106,George Hill,Milwaukee Bucks,Brooklyn Nets,1,29.49,8,4,3,1,0,0,.840,.667,.333,3.7,6.9,5.3,18.0,1.6,0.0,7.8,161,102,2.6
+107,Bobby Portis,Milwaukee Bucks,Brooklyn Nets,1,26.09,20,0,11,2,2,3,.672,.679,.429,12.5,31.2,22.2,0.0,3.6,6.2,23.0,144,88,16.7
+108,Wesley Matthews,Milwaukee Bucks,Brooklyn Nets,1,21.54,7,1,0,0,0,2,.444,.429,1.000,0.0,0.0,0.0,6.3,0.0,0.0,16.4,92,107,-8.1
+109,Jordan Nwora,Milwaukee Bucks,Brooklyn Nets,1,16.39,3,1,6,0,0,1,.750,.750,.500,6.6,30.7,19.0,8.0,0.0,0.0,4.9,175,101,4.3
+110,Keldon Johnson,San Antonio Spurs,Minnesota Timberwolves,0,33.17,27,3,4,0,0,5,.620,.575,.500,0.0,21.4,8.1,14.4,0.0,0.0,29.6,114,135,-2.1
+111,Tre Jones,San Antonio Spurs,Minnesota Timberwolves,0,32.49,13,3,7,1,0,1,.444,.292,.250,6.6,27.1,14.4,11.4,1.4,0.0,19.0,112,131,-8.4
+112,Josh Richardson,San Antonio Spurs,Minnesota Timberwolves,0,32.33,11,10,3,2,1,3,.688,.688,.750,0.0,16.4,6.2,39.7,2.9,3.2,9.8,172,125,8.4
+113,Jakob Poeltl,San Antonio Spurs,Minnesota Timberwolves,0,29.06,12,4,10,0,0,0,.615,.625,.000,18.7,30.5,23.2,19.0,0.0,0.0,16.1,127,135,-2.2
+114,Jeremy Sochan,San Antonio Spurs,Minnesota Timberwolves,0,27.38,12,2,1,1,1,2,.462,.462,.462,3.9,0.0,2.4,10.1,1.7,3.8,20.2,100,127,-7.1
+115,Doug McDermott,San Antonio Spurs,Minnesota Timberwolves,0,24.21,19,3,3,0,0,4,.620,.571,.571,4.5,14.6,8.3,19.0,0.0,0.0,26.7,130,134,0.6
+116,Zach Collins,San Antonio Spurs,Minnesota Timberwolves,0,16.59,7,5,4,1,0,1,.717,.625,.500,12.8,20.9,15.9,37.8,2.8,0.0,18.5,117,128,2.7
+117,Romeo Langford,San Antonio Spurs,Minnesota Timberwolves,0,16.10,4,1,1,0,0,0,.500,.500,.000,6.7,0.0,4.2,8.0,0.0,0.0,12.3,97,135,-10.8
+118,Keita Bates-Diop,San Antonio Spurs,Minnesota Timberwolves,0,14.45,15,1,4,1,0,0,.727,.667,.000,7.4,36.2,18.3,13.9,3.2,0.0,35.9,111,128,2.2
+119,Isaiah Roby,San Antonio Spurs,Minnesota Timberwolves,0,10.27,2,0,3,0,0,0,.333,.333,.333,0.0,51.0,19.4,0.0,0.0,0.0,15.2,51,135,-16.5
+120,Gorgui Dieng,San Antonio Spurs,Minnesota Timberwolves,0,1.55,0,2,1,0,0,0,,,,56.9,0.0,35.3,100.0,0.0,0.0,0.0,237,132,34.6
+121,Anthony Edwards,Minnesota Timberwolves,San Antonio Spurs,1,38.26,34,9,3,2,0,7,.747,.738,.571,0.0,8.5,5.3,30.4,2.4,0.0,33.6,124,122,3.0
+122,Karl-Anthony Towns,Minnesota Timberwolves,San Antonio Spurs,1,37.43,21,7,4,2,1,3,.750,.750,.357,0.0,11.6,7.2,22.0,2.5,2.2,21.0,128,119,1.9
+123,Jaden McDaniels,Minnesota Timberwolves,San Antonio Spurs,1,34.49,20,1,3,2,3,4,1.111,1.111,.556,0.0,9.4,5.8,3.4,2.7,7.0,13.4,175,117,9.0
+124,Rudy Gobert,Minnesota Timberwolves,San Antonio Spurs,1,34.38,10,1,9,1,1,0,.644,.667,.000,0.0,28.3,17.6,3.0,1.4,2.3,13.1,99,115,-7.7
+125,D'Angelo Russell,Minnesota Timberwolves,San Antonio Spurs,1,28.59,12,9,2,0,1,1,.510,.550,.400,0.0,7.5,4.7,34.1,0.0,2.8,25.3,103,126,-9.5
+126,Jaylen Nowell,Minnesota Timberwolves,San Antonio Spurs,1,21.48,23,2,4,0,0,3,.829,.808,.385,0.0,20.0,12.4,13.7,0.0,0.0,29.7,152,123,6.1
+127,Taurean Prince,Minnesota Timberwolves,San Antonio Spurs,1,19.23,6,2,2,0,0,2,1.500,1.500,1.000,0.0,11.3,7.0,10.5,0.0,0.0,7.2,170,126,-1.7
+128,Jordan McLaughlin,Minnesota Timberwolves,San Antonio Spurs,1,19.01,6,5,1,1,0,0,.615,.500,.250,0.0,5.7,3.6,26.9,2.5,0.0,12.0,157,122,-0.2
+129,Naz Reid,Minnesota Timberwolves,San Antonio Spurs,1,5.13,2,1,2,1,0,0,1.000,1.000,.000,0.0,41.8,25.9,21.5,9.0,0.0,8.9,214,94,17.9
+130,Gordon Hayward,Charlotte Hornets,New York Knicks,0,39.10,21,4,9,0,1,1,.509,.472,.167,6.3,21.0,13.8,14.2,0.0,2.0,27.3,92,122,-6.8
+131,P.J. Washington,Charlotte Hornets,New York Knicks,0,37.50,17,1,5,1,0,4,.539,.500,.571,0.0,15.6,8.0,3.3,1.3,0.0,19.6,98,122,-5.0
+132,Dennis Smith Jr.,Charlotte Hornets,New York Knicks,0,36.37,14,11,3,2,0,0,.415,.438,.188,0.0,9.6,4.9,41.0,2.6,0.0,20.3,107,120,-3.4
+133,Kelly Oubre Jr.,Charlotte Hornets,New York Knicks,0,35.12,17,0,5,2,1,1,.440,.417,.333,3.5,13.4,8.6,0.0,2.7,2.2,25.2,83,118,-10.1
+134,Mason Plumlee,Charlotte Hornets,New York Knicks,0,31.10,8,4,7,1,1,0,.709,.667,.000,7.9,18.9,13.5,14.9,1.5,2.5,10.2,129,119,-2.3
+135,Jalen McDaniels,Charlotte Hornets,New York Knicks,0,22.48,17,2,6,1,1,3,.781,.750,.300,5.4,25.8,15.8,13.3,2.1,3.5,21.7,144,115,9.8
+136,Nick Richards,Charlotte Hornets,New York Knicks,0,19.05,7,2,4,0,0,0,.931,1.000,.000,12.9,12.3,12.6,12.8,0.0,0.0,8.2,202,126,4.5
+137,James Bouknight,Charlotte Hornets,New York Knicks,0,17.10,13,3,2,1,0,2,.658,.667,.556,0.0,13.7,7.0,27.6,2.8,0.0,26.4,124,119,6.3
+138,Théo Maledon,Charlotte Hornets,New York Knicks,0,16.23,15,4,0,1,0,2,1.008,1.000,.286,0.0,0.0,0.0,43.7,2.9,0.0,21.5,175,122,19.4
+139,JT Thor,Charlotte Hornets,New York Knicks,0,8.57,2,0,1,0,1,0,.500,.500,.500,13.8,0.0,6.7,0.0,0.0,8.8,9.3,123,122,-3.1
+140,Bryce McGowens,Charlotte Hornets,New York Knicks,0,0.38,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,128,-8.2
+141,Jalen Brunson,New York Knicks,Charlotte Hornets,1,40.35,27,13,7,1,1,2,.785,.733,.333,0.0,21.3,10.4,43.6,1.2,1.9,21.5,151,117,10.0
+142,Julius Randle,New York Knicks,Charlotte Hornets,1,39.50,17,2,6,2,1,0,.409,.368,.105,5.9,12.4,9.1,6.2,2.4,2.0,23.6,96,115,-8.7
+143,RJ Barrett,New York Knicks,Charlotte Hornets,1,38.31,22,1,8,0,1,0,.483,.429,.238,12.2,12.8,12.5,3.5,0.0,2.0,30.0,96,121,-10.0
+144,Mitchell Robinson,New York Knicks,Charlotte Hornets,1,37.01,9,1,8,0,6,0,.922,1.000,.000,6.4,20.0,13.0,3.1,0.0,12.6,5.7,192,111,5.1
+145,Evan Fournier,New York Knicks,Charlotte Hornets,1,24.05,14,2,3,1,0,2,.636,.636,.545,0.0,15.4,7.5,11.3,2.0,0.0,23.3,111,116,-4.4
+146,Cam Reddish,New York Knicks,Charlotte Hornets,1,24.31,5,0,3,0,1,1,.644,.500,.667,0.0,15.1,7.4,0.0,0.0,3.2,10.4,86,119,-8.7
+147,Immanuel Quickley,New York Knicks,Charlotte Hornets,1,18.56,11,3,3,0,0,2,.709,.667,.500,6.2,13.0,9.5,19.3,0.0,0.0,24.6,115,122,-1.2
+148,Isaiah Hartenstein,New York Knicks,Charlotte Hornets,1,15.56,8,0,3,1,1,0,.800,.800,.200,14.8,7.7,11.3,0.0,3.0,4.9,13.6,170,112,4.4
+149,Obi Toppin,New York Knicks,Charlotte Hornets,1,13.10,9,2,3,0,0,3,.750,.750,.667,8.9,18.7,13.7,20.2,0.0,0.0,19.7,166,121,12.1
+150,Derrick Rose,New York Knicks,Charlotte Hornets,1,12.25,12,2,2,0,0,1,.806,.786,.286,0.0,19.9,9.7,27.8,0.0,0.0,29.4,145,121,9.5
+151,Caleb Martin,Miami Heat,Portland Trail Blazers,0,29.22,16,3,8,4,0,2,1.000,1.000,.250,15.6,15.6,15.6,15.1,6.9,0.0,14.7,157,94,15.0
+152,Tyler Herro,Miami Heat,Portland Trail Blazers,0,28.23,14,4,4,0,0,3,.521,.500,.615,0.0,16.1,8.1,19.0,0.0,0.0,21.9,118,110,-3.5
+153,Bam Adebayo,Miami Heat,Portland Trail Blazers,0,28.21,18,3,8,1,0,0,.639,.545,.091,12.1,20.2,16.1,15.0,1.8,0.0,26.0,123,104,-1.0
+154,Jimmy Butler,Miami Heat,Portland Trail Blazers,0,27.58,17,5,5,2,0,0,.507,.467,.200,12.3,8.2,10.2,26.8,3.6,0.0,27.4,125,104,2.5
+155,Kyle Lowry,Miami Heat,Portland Trail Blazers,0,26.27,17,6,2,1,1,5,.912,.938,.875,0.0,8.6,4.3,31.2,1.9,4.4,20.1,138,106,12.7
+156,Max Strus,Miami Heat,Portland Trail Blazers,0,27.39,16,3,9,2,0,4,.727,.727,.636,12.4,24.8,18.6,15.5,3.7,0.0,21.8,121,99,7.8
+157,Gabe Vincent,Miami Heat,Portland Trail Blazers,0,20.16,8,7,1,0,0,0,.592,.400,.400,5.6,0.0,2.8,42.2,0.0,0.0,16.5,149,115,3.7
+158,Duncan Robinson,Miami Heat,Portland Trail Blazers,0,19.06,5,3,3,0,0,1,.357,.357,.714,0.0,18.0,9.0,19.3,0.0,0.0,18.1,91,109,-10.2
+159,Nikola Jović,Miami Heat,Portland Trail Blazers,0,13.43,2,0,2,1,0,0,.333,.333,.333,8.3,8.3,8.3,0.0,3.7,0.0,12.6,67,103,-16.0
+160,Haywood Highsmith,Miami Heat,Portland Trail Blazers,0,5.37,2,0,1,1,0,0,1.000,1.000,.000,0.0,20.3,10.2,0.0,9.0,0.0,7.7,200,89,11.5
+161,Dru Smith,Miami Heat,Portland Trail Blazers,0,5.37,2,0,1,1,0,0,.333,.333,.667,0.0,20.3,10.2,0.0,9.0,0.0,23.0,77,88,-9.0
+162,Dewayne Dedmon,Miami Heat,Portland Trail Blazers,0,5.15,2,0,1,0,0,0,1.000,1.000,.000,0.0,21.8,10.9,0.0,0.0,0.0,8.2,200,107,-6.0
+163,Udonis Haslem,Miami Heat,Portland Trail Blazers,0,2.16,0,0,1,0,1,0,.000,.000,.000,0.0,50.4,25.2,0.0,0.0,51.6,19.0,0,75,-8.1
+164,Josh Hart,Portland Trail Blazers,Miami Heat,1,31.29,10,6,6,3,1,1,.940,.875,.250,7.3,14.5,10.9,31.1,4.8,3.1,10.3,156,118,11.2
+165,Anfernee Simons,Portland Trail Blazers,Miami Heat,1,29.39,14,0,2,0,0,3,.563,.542,.667,0.0,7.7,3.9,0.0,0.0,0.0,23.1,88,133,-11.4
+166,Jerami Grant,Portland Trail Blazers,Miami Heat,1,28.11,11,4,3,0,0,1,.451,.450,.500,0.0,12.2,6.1,25.1,0.0,0.0,23.9,86,131,-8.0
+167,Damian Lillard,Portland Trail Blazers,Miami Heat,1,26.29,22,2,2,1,0,4,.703,.615,.846,0.0,8.6,4.3,15.7,1.9,0.0,32.8,115,128,4.3
+168,Jusuf Nurkić,Portland Trail Blazers,Miami Heat,1,25.45,7,1,9,1,1,0,.400,.286,.143,17.8,22.2,20.0,6.2,2.0,3.8,16.8,101,121,-6.2
+169,Justise Winslow,Portland Trail Blazers,Miami Heat,1,24.45,9,3,1,1,1,1,.500,.500,.333,0.0,4.6,2.3,22.2,2.0,4.0,16.1,119,127,-0.6
+170,Shaedon Sharpe,Portland Trail Blazers,Miami Heat,1,21.24,15,0,8,1,0,2,.528,.500,.417,16.0,26.7,21.4,0.0,2.4,0.0,33.5,101,120,-2.8
+171,Nassir Little,Portland Trail Blazers,Miami Heat,1,17.38,2,0,1,1,0,0,.333,.333,.667,6.5,0.0,3.2,0.0,2.9,0.0,10.0,64,129,-10.3
+172,Drew Eubanks,Portland Trail Blazers,Miami Heat,1,10.47,2,1,0,0,0,0,.333,.333,.000,0.0,0.0,0.0,15.1,0.0,0.0,12.3,90,136,-9.4
+173,Keon Johnson,Portland Trail Blazers,Miami Heat,1,8.17,2,1,3,0,0,0,.500,.500,.500,0.0,41.4,20.7,20.5,0.0,0.0,21.4,58,121,-15.6
+174,Greg Brown III,Portland Trail Blazers,Miami Heat,1,7.48,2,0,0,1,1,0,.347,.500,.000,0.0,0.0,0.0,0.0,6.5,12.6,22.0,47,115,-6.5
+175,Jabari Walker,Portland Trail Blazers,Miami Heat,1,7.48,2,2,3,0,0,0,1.000,1.000,.000,14.7,29.3,22.0,44.2,0.0,0.0,5.7,216,125,14.0
+176,Tyrese Maxey,Philadelphia 76ers,Toronto Raptors,0,43.14,31,6,5,2,1,4,.681,.667,.381,3.0,12.3,7.6,25.0,2.4,2.4,29.9,118,125,5.3
+177,Joel Embiid,Philadelphia 76ers,Toronto Raptors,0,37.31,31,3,5,0,0,2,.772,.765,.235,0.0,17.8,8.8,15.6,0.0,0.0,28.4,135,132,5.3
+178,James Harden,Philadelphia 76ers,Toronto Raptors,0,35.39,18,9,7,0,1,3,.615,.542,.500,0.0,26.2,12.9,36.4,0.0,2.9,23.9,119,129,0.7
+179,Tobias Harris,Philadelphia 76ers,Toronto Raptors,0,34.15,3,6,8,1,0,1,.300,.300,.600,7.6,23.4,15.4,21.8,1.5,0.0,8.5,110,128,-3.3
+180,P.J. Tucker,Philadelphia 76ers,Toronto Raptors,0,31.27,8,0,4,0,0,2,.400,.400,.500,4.1,12.7,8.4,0.0,0.0,0.0,16.9,74,133,-11.8
+181,De'Anthony Melton,Philadelphia 76ers,Toronto Raptors,0,21.41,12,5,3,3,0,2,.857,.857,.571,0.0,18.4,9.1,38.3,7.1,0.0,15.6,176,115,18.6
+182,Danuel House Jr.,Philadelphia 76ers,Toronto Raptors,0,14.43,3,0,0,0,0,1,.500,.500,.667,0.0,0.0,0.0,0.0,0.0,0.0,9.8,91,134,-9.2
+183,Georges Niang,Philadelphia 76ers,Toronto Raptors,0,14.19,3,0,1,0,0,1,.375,.375,1.000,0.0,9.3,4.6,0.0,0.0,0.0,16.9,55,133,-14.8
+184,Montrezl Harrell,Philadelphia 76ers,Toronto Raptors,0,4.15,0,0,1,0,0,0,.000,,,0.0,31.4,15.5,0.0,0.0,0.0,10.0,0,130,-17.0
+185,Paul Reed,Philadelphia 76ers,Toronto Raptors,0,2.56,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,134,-14.8
+186,Fred VanVleet,Toronto Raptors,Philadelphia 76ers,1,38.50,15,8,6,2,3,2,.563,.500,.417,0.0,20.0,10.2,24.8,2.7,8.6,19.1,119,110,4.1
+187,Pascal Siakam,Toronto Raptors,Philadelphia 76ers,1,38.00,20,13,5,0,0,4,.563,.563,.500,0.0,17.1,8.7,44.2,0.0,0.0,23.9,132,124,6.5
+188,Gary Trent Jr.,Toronto Raptors,Philadelphia 76ers,1,35.27,27,0,0,2,0,5,.844,.844,.625,0.0,0.0,0.0,0.0,2.9,0.0,24.6,128,119,5.0
+189,OG Anunoby,Toronto Raptors,Philadelphia 76ers,1,34.25,15,1,2,3,0,1,.689,.650,.300,0.0,7.5,3.8,3.7,4.5,0.0,16.7,123,114,-1.6
+190,Scottie Barnes,Toronto Raptors,Philadelphia 76ers,1,32.40,16,5,10,1,0,1,.649,.591,.364,4.1,35.7,20.1,19.8,1.6,0.0,18.3,148,118,5.3
+191,Precious Achiuwa,Toronto Raptors,Philadelphia 76ers,1,21.18,7,4,6,0,0,1,.500,.500,.429,18.8,18.3,18.5,23.0,0.0,0.0,20.5,113,123,-4.6
+192,Chris Boucher,Toronto Raptors,Philadelphia 76ers,1,17.15,13,0,4,0,0,2,.658,.667,.444,7.7,22.6,15.2,0.0,0.0,0.0,30.5,112,123,-6.0
+193,Christian Koloko,Toronto Raptors,Philadelphia 76ers,1,11.17,4,0,4,1,1,0,1.000,1.000,.000,11.8,34.5,23.3,0.0,4.6,9.9,8.6,209,102,3.4
+194,Khem Birch,Toronto Raptors,Philadelphia 76ers,1,6.20,0,0,1,0,1,0,,,,0.0,20.5,10.4,0.0,0.0,17.6,0.0,0,106,-11.6
+195,Dalano Banton,Toronto Raptors,Philadelphia 76ers,1,4.28,2,1,1,0,0,0,1.000,1.000,.000,0.0,29.0,14.7,30.5,0.0,0.0,10.8,211,123,9.5
+196,Jalen Green,Houston Rockets,Utah Jazz,0,36.04,17,2,7,1,1,2,.391,.350,.450,4.8,14.5,9.1,9.5,1.3,3.0,25.6,84,104,-2.6
+197,Kevin Porter Jr.,Houston Rockets,Utah Jazz,0,35.23,24,5,5,1,1,0,.505,.455,.182,4.8,8.8,6.6,30.2,1.3,3.0,31.6,95,105,0.0
+198,Jabari Smith Jr.,Houston Rockets,Utah Jazz,0,32.13,10,0,9,1,0,2,.425,.400,.600,2.7,25.9,13.1,0.0,1.4,0.0,16.6,79,101,-5.5
+199,Eric Gordon,Houston Rockets,Utah Jazz,0,30.02,16,3,2,2,0,2,.601,.583,.583,0.0,6.9,3.1,18.2,3.0,0.0,18.5,120,104,6.8
+200,Jae'Sean Tate,Houston Rockets,Utah Jazz,0,20.18,7,1,5,0,0,1,.700,.700,.200,8.4,15.4,11.6,8.2,0.0,0.0,13.4,105,107,-4.4
+201,Kenyon Martin Jr.,Houston Rockets,Utah Jazz,0,24.54,11,3,10,0,0,0,.455,.333,.222,6.9,33.5,18.9,19.1,0.0,0.0,20.4,105,102,-0.7
+202,Tari Eason,Houston Rockets,Utah Jazz,0,23.10,3,1,6,1,0,1,.214,.214,.571,11.1,13.5,12.2,6.1,2.0,0.0,11.7,76,104,-6.4
+203,Garrison Mathews,Houston Rockets,Utah Jazz,0,16.07,11,1,0,1,0,3,.935,.900,1.000,0.0,0.0,0.0,11.0,2.8,0.0,14.2,190,106,14.3
+204,Daishen Nix,Houston Rockets,Utah Jazz,0,11.31,0,3,0,0,0,0,.000,.000,.667,0.0,0.0,0.0,34.7,0.0,0.0,23.6,21,113,-23.9
+205,Usman Garuba,Houston Rockets,Utah Jazz,0,8.29,2,0,5,0,0,0,1.000,1.000,.000,20.2,36.9,27.7,0.0,0.0,0.0,13.7,75,100,-11.8
+206,Boban Marjanović,Houston Rockets,Utah Jazz,0,1.49,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,113,-8.4
+207,Lauri Markkanen,Utah Jazz,Houston Rockets,1,34.00,24,3,9,0,1,1,.716,.700,.267,3.1,20.2,12.5,17.7,0.0,2.6,24.8,113,98,3.6
+208,Kelly Olynyk,Utah Jazz,Houston Rockets,1,29.14,4,6,8,1,0,0,.188,.125,.250,10.7,14.7,12.9,27.1,1.6,0.0,20.3,62,98,-13.3
+209,Jordan Clarkson,Utah Jazz,Houston Rockets,1,28.55,20,5,6,2,1,5,.635,.607,.714,10.8,8.9,9.8,29.6,3.2,3.1,22.1,143,95,14.3
+210,Mike Conley,Utah Jazz,Houston Rockets,1,27.46,13,5,3,1,0,3,.509,.500,.727,0.0,9.3,5.1,27.8,1.6,0.0,23.0,94,100,-5.7
+211,Jarred Vanderbilt,Utah Jazz,Houston Rockets,1,19.05,6,2,8,0,0,0,.429,.429,.143,10.9,26.9,19.7,16.5,0.0,0.0,17.0,96,96,-8.6
+212,Malik Beasley,Utah Jazz,Houston Rockets,1,29.39,14,1,4,4,1,2,.543,.500,.583,7.0,5.8,6.3,5.4,6.1,3.0,19.0,110,90,6.6
+213,Talen Horton-Tucker,Utah Jazz,Houston Rockets,1,28.12,14,4,7,2,0,2,.568,.545,.636,0.0,21.3,11.7,23.1,3.2,0.0,17.7,127,92,5.0
+214,Rudy Gay,Utah Jazz,Houston Rockets,1,15.43,6,1,6,0,1,0,.436,.333,.500,0.0,32.7,18.0,9.6,0.0,5.7,17.8,102,91,-0.5
+215,Walker Kessler,Utah Jazz,Houston Rockets,1,11.03,4,1,1,0,1,0,.725,.000,.000,0.0,7.8,4.3,11.4,0.0,8.0,13.8,123,100,-2.3
+216,Collin Sexton,Utah Jazz,Houston Rockets,1,10.22,4,0,0,1,0,0,.581,.667,.333,0.0,0.0,0.0,0.0,4.4,0.0,17.4,75,98,-6.4
+217,Simone Fontecchio,Utah Jazz,Houston Rockets,1,6.01,0,0,1,0,0,0,.000,.000,1.000,0.0,14.2,7.8,0.0,0.0,0.0,13.5,0,102,-18.6
