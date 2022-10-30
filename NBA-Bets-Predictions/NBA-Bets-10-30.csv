@@ -1,0 +1,34 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,0,I.Zubac u11.5 Pts,SBK5065,-122,0.61,1.11,13.3212,Los Angeles Clippers,I.Zubac,New Orleans Pelicans,1.0,0.5000000000000001
+1,1,1,N.Powell u22.5 Pts+Rebs+Ast,SBK5065,-109,0.55,1.0545871559633029,13.3212,Los Angeles Clippers,N.Powell,New Orleans Pelicans,1.0,0.5045871559633028
+2,2,2,P.George o21.5 Pts,SBK5065,-125,0.63,1.134,13.3212,Los Angeles Clippers,P.George,New Orleans Pelicans,1.0,0.5039999999999999
+3,3,3,Z.Williamson o2.5 Ast,JoeDellera,-142,0.5,0.852112676056338,6.9607,New Orleans Pelicans,Z.Williamson,Los Angeles Clippers,0.0,0.352112676056338
+4,4,4,C.LeVert u5.5 Ast,SBK5065,-105,0.53,1.0347619047619048,13.3212,Cleveland Cavaliers,C.LeVert,New York Knicks,1.0,0.5047619047619047
+5,5,5,J.Brunson o5.5 Ast,SBK5065,-130,0.65,1.15,13.3212,New York Knicks,J.Brunson,Cleveland Cavaliers,0.0,0.4999999999999999
+6,6,6,J.Randle u19.5 Pts,SBK5065,-110,0.55,1.05,13.3212,New York Knicks,J.Randle,Cleveland Cavaliers,0.0,0.5
+7,7,7,J.Randle u32.5 Pts+Rebs+Ast,SBK5065,-125,0.63,1.134,13.3212,New York Knicks,J.Randle,Cleveland Cavaliers,0.0,0.5039999999999999
+8,8,8,R.Barrett u29.5 Pts+Rebs+Ast,SBK5065,-115,0.58,1.0843478260869563,13.3212,New York Knicks,R.Barrett,Cleveland Cavaliers,0.0,0.5043478260869564
+9,9,9,R.Barrett u21.5 Pts,SBK5065,-125,0.63,1.134,13.3212,New York Knicks,R.Barrett,Cleveland Cavaliers,0.0,0.5039999999999999
+10,10,10,J.Allen Yes-105 Double-Double,HPBasketball,-105,0.53,1.0347619047619048,-10.8559,Cleveland Cavaliers,J.Allen,New York Knicks,1.0,0.5047619047619047
+11,11,11,C.LeVert o1.5 3pt M,HPBasketball,-150,1.5,2.5,-10.8559,Cleveland Cavaliers,C.LeVert,New York Knicks,1.0,1.0
+12,12,12,O.Toppin o3.5 Rebs+Ast,HPBasketball,-135,0.67,1.1662962962962964,-10.8559,New York Knicks,O.Toppin,Cleveland Cavaliers,0.0,0.49629629629629635
+13,13,13,C.Cunningham  o21.5 Pts,SBK5065,100,0.5,1.0,13.3212,Detroit Pistons,C.Cunningham,Golden State Warriors,1.0,0.5
+14,14,14,C.Cunningham  o32.5 Pts+Rebs+Ast,SBK5065,-120,0.6,1.1,13.3212,Detroit Pistons,C.Cunningham,Golden State Warriors,1.0,0.5000000000000001
+15,15,15,S.Bey o4.5 Rebs,SBK5065,-113,0.57,1.074424778761062,13.3212,Detroit Pistons,S.Bey,Golden State Warriors,1.0,0.504424778761062
+16,16,16,B.Beal u4.5 Rebs,SBK5065,-122,0.61,1.11,13.3212,Washington Wizards,B.Beal,Boston Celtics,0.0,0.5000000000000001
+17,17,17,K.Porzingis u2.5 Ast,SBK5065,-139,0.7,1.2035971223021582,13.3212,Washington Wizards,K.Porzingis,Boston Celtics,0.0,0.5035971223021583
+18,18,19,J.Tatum o27.5 Pts,JoeMetz,-106,1.06,2.06,0.0,Boston Celtics,J.Tatum,Washington Wizards,1.0,1.0
+19,19,20,J.Brown o1.5 Stl+Blk,HPBasketball,-110,0.5,0.9545454545454546,-10.8559,Boston Celtics,J.Brown,Washington Wizards,1.0,0.4545454545454546
+20,20,21,D.Russell u11.5 Rebs+Ast,SBK5065,-125,0.63,1.134,13.3212,Minnesota Timberwolves,D.Russell,San Antonio Spurs,0.0,0.5039999999999999
+21,21,22,J.Poeltl u3.5 Ast,SBK5065,-104,0.52,1.02,13.3212,San Antonio Spurs,J.Poeltl,Minnesota Timberwolves,1.0,0.5
+22,22,23,J.Poeltl u14.5 Pts,SBK5065,-110,0.55,1.05,13.3212,San Antonio Spurs,J.Poeltl,Minnesota Timberwolves,1.0,0.5
+23,23,24,K.Towns u8.5 Rebs,SBK5065,-122,0.61,1.11,13.3212,Minnesota Timberwolves,K.Towns,San Antonio Spurs,0.0,0.5000000000000001
+24,24,25,K.Johnson o22.5 Pts,JoeMetz,-130,1.3,2.3,0.0,San Antonio Spurs,K.Johnson,Minnesota Timberwolves,1.0,0.9999999999999998
+25,25,26,W.Carter u3.5 Ast,SBK5065,-135,1.0,1.7407407407407407,13.3212,Orlando Magic,W.Carter,Dallas Mavericks,0.0,0.7407407407407407
+26,26,27,W.Carter u15.5 Pts,SBK5065,-115,0.58,1.0843478260869563,13.3212,Orlando Magic,W.Carter,Dallas Mavericks,0.0,0.5043478260869564
+27,27,28,L.Doncic Yes Triple-Double,HPBasketball,340,0.5,2.2,-10.8559,Dallas Mavericks,L.Doncic,Orlando Magic,1.0,1.7000000000000002
+28,28,29,A.Sengun u26.5 Pts+Rebs+Ast,SBK5065,-120,0.6,1.1,13.3212,Houston Rockets,A.Sengun,Phoenix Suns,0.0,0.5000000000000001
+29,29,30,D.Booker o27.5 Pts,SBK5065,-120,0.6,1.1,13.3212,Phoenix Suns,D.Booker,Houston Rockets,1.0,0.5000000000000001
+30,30,31,J.Green u22.5 Pts,JoeMetz,-110,1.16,2.2145454545454544,0.0,Houston Rockets,J.Green,Phoenix Suns,0.0,1.0545454545454545
+31,31,32,D.Booker o33.5 Pts+Ast,HPBasketball,-105,0.53,1.0347619047619048,-10.8559,Phoenix Suns,D.Booker,Houston Rockets,1.0,0.5047619047619047
+32,32,33,M.Porter o16.5 Pts,PropBetGuy,-118,1.18,2.18,0.0,Denver Nuggets,M.Porter,Los Angeles Lakers,0.0,1.0000000000000002
