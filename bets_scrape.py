@@ -4,7 +4,6 @@ import date
 import datetime
 from datetime import datetime
 from datetime import timedelta
-from pytz import timezone
 import os
 import numpy as np
 import pandas as pd
