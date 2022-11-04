@@ -1,0 +1,83 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,0,C.Cunningham  u21.5 Pts,SBK5065,-115,0.58,1.0843478260869563,17.69,Detroit Pistons,C.Cunningham,Cleveland Cavaliers,1,0.5043478260869564
+1,1,1,J.Allen o10.5 Rebs,PropBetGuy,-115,1.15,2.1499999999999995,0.0,Cleveland Cavaliers,J.Allen,Detroit Pistons,0,0.9999999999999996
+2,2,2,B.Beal u4.5 Rebs,SBK5065,-140,0.7,1.2,17.69,Washington Wizards,B.Beal,Brooklyn Nets,1,0.5
+3,3,3,R.O'Neale u5.5 Rebs,SBK5065,-115,0.58,1.0843478260869563,17.69,Brooklyn Nets,R.O'Neale,Washington Wizards,0,0.5043478260869564
+4,4,4,R.O'Neale u3.5 Ast,SBK5065,-135,0.68,1.1837037037037037,17.69,Brooklyn Nets,R.O'Neale,Washington Wizards,0,0.5037037037037037
+5,5,5,K.Durant u49.5 Pts+Rebs+Ast,gneiffer07,-115,1.15,2.1499999999999995,22.8626,Brooklyn Nets,K.Durant,Washington Wizards,0,0.9999999999999996
+6,6,6,K.Durant u7.5 Ast,gneiffer07,-100,1.0,2.0,22.8626,Brooklyn Nets,K.Durant,Washington Wizards,0,1.0
+7,7,7,K.Kuzma o2.5 Ast,gneiffer07,-118,1.18,2.18,22.8626,Washington Wizards,K.Kuzma,Brooklyn Nets,1,1.0000000000000002
+8,8,8,M.Morris o9.5 Pts,gneiffer07,-114,1.14,2.14,22.8626,Washington Wizards,M.Morris,Brooklyn Nets,1,1.0000000000000002
+9,9,9,K.Durant o33.5 Pts,charliedisturco,-115,1.15,2.1499999999999995,0.0,Brooklyn Nets,K.Durant,Washington Wizards,0,0.9999999999999996
+10,10,10,B.Beal o27.5 Pts+Ast,PropBetGuy,-122,1.22,2.22,0.0,Washington Wizards,B.Beal,Brooklyn Nets,1,1.0000000000000002
+11,11,11,B.Beal o22.5 Pts,JoeMetz,-104,1.04,2.04,0.0,Washington Wizards,B.Beal,Brooklyn Nets,1,1.0
+12,12,12,R.Barrett u19.5 Pts,SBK5065,-120,0.6,1.1,17.69,New York Knicks,R.Barrett,Philadelphia 76ers,0,0.5000000000000001
+13,13,13,E.Fournier u9.5 Pts,SBK5065,-120,0.6,1.1,17.69,New York Knicks,E.Fournier,Philadelphia 76ers,0,0.5000000000000001
+14,14,14,J.Randle o17.5 Pts,HPBasketball,-120,1.1,2.016666666666667,-8.2111,New York Knicks,J.Randle,Philadelphia 76ers,0,0.916666666666667
+15,15,15,O.Toppin o11.5 Pts+Rebs,HPBasketball,100,0.5,1.0,-8.2111,New York Knicks,O.Toppin,Philadelphia 76ers,0,0.5
+16,16,16,T.Haliburton o32.5 Pts+Rebs+Ast,SBK5065,-110,0.55,1.05,17.69,Indiana Pacers,T.Haliburton,Miami Heat,1,0.5
+17,17,17,T.Herro o22.5 Pts,PropBomb,-125,1.25,2.25,0.0,Miami Heat,T.Herro,Indiana Pacers,0,1.0
+18,18,18,B.Hield o3.5 3pt M,JoeMetz,-119,1.19,2.19,0.0,Indiana Pacers,B.Hield,Miami Heat,1,1.0
+19,19,19,J.Tatum o26.5 Pts,SBK5065,-125,1.0,1.8,17.69,Boston Celtics,J.Tatum,Chicago Bulls,1,0.8
+20,20,20,A.Horford u9.5 Pts,SBK5065,100,0.5,1.0,17.69,Boston Celtics,A.Horford,Chicago Bulls,1,0.5
+21,21,21,J.Tatum o38.5 Pts+Rebs+Ast,SBK5065,-120,0.6,1.1,17.69,Boston Celtics,J.Tatum,Chicago Bulls,1,0.5000000000000001
+22,22,22,A.Horford u20.5 Pts+Rebs+Ast,SBK5065,-125,0.63,1.134,17.69,Boston Celtics,A.Horford,Chicago Bulls,1,0.5039999999999999
+23,23,23,N.Vucevic o11.5 Rebs,SBK5065,-110,0.55,1.05,17.69,Chicago Bulls,N.Vucevic,Boston Celtics,0,0.5
+24,24,24,A.Dosunmu u11.5 Pts,gneiffer07,-110,1.1,2.1,22.8626,Chicago Bulls,A.Dosunmu,Boston Celtics,0,1.0
+25,25,25,Z.LaVine o21.5 Pts,gneiffer07,-115,1.15,2.1499999999999995,22.8626,Chicago Bulls,Z.LaVine,Boston Celtics,0,0.9999999999999996
+26,26,26,A.Dosunmu u3.5 Ast,gneiffer07,-148,1.48,2.48,22.8626,Chicago Bulls,A.Dosunmu,Boston Celtics,0,1.0
+27,27,27,J.Tatum o7.5 Rebs,gneiffer07,-125,1.25,2.25,22.8626,Boston Celtics,J.Tatum,Chicago Bulls,1,1.0
+28,28,28,N.Vucevic o2.5 Ast,gneiffer07,106,1.0,2.06,22.8626,Chicago Bulls,N.Vucevic,Boston Celtics,0,1.06
+29,29,29,D.DeRozan u4.5 Rebs,gneiffer07,-111,1.11,2.1100000000000003,22.8626,Chicago Bulls,D.DeRozan,Boston Celtics,0,1.0000000000000002
+30,30,30,A.Horford o12.5 Pts+Ast,HPBasketball,-106,0.53,1.03,-8.2111,Boston Celtics,A.Horford,Chicago Bulls,1,0.5
+31,31,31,D.Bane o21.5 Pts,SBK5065,-110,0.55,1.05,17.69,Memphis Grizzlies,D.Bane,Charlotte Hornets,1,0.5
+32,32,32,D.Brooks u2.5 Ast,SBK5065,-140,1.4,2.4,17.69,Memphis Grizzlies,D.Brooks,Charlotte Hornets,1,1.0
+33,33,33,J.Morant u7.5 Ast,SBK5065,-130,0.65,1.15,17.69,Memphis Grizzlies,J.Morant,Charlotte Hornets,1,0.4999999999999999
+34,34,34,S.Aldama u10.5 Pts,SBK5065,-109,0.55,1.0545871559633029,17.69,Memphis Grizzlies,S.Aldama,Charlotte Hornets,1,0.5045871559633028
+35,35,35,P.Washington o15.5 Pts,SBK5065,-105,0.53,1.0347619047619048,17.69,Charlotte Hornets,P.Washington,Memphis Grizzlies,0,0.5047619047619047
+36,36,36,D.Brooks o2.5 Rebs,gneiffer07,-113,1.13,2.13,22.8626,Memphis Grizzlies,D.Brooks,Charlotte Hornets,1,1.0
+37,37,37,D.Brooks u21.5 Pts+Rebs+Ast,PropBetGuy,-115,1.15,2.1499999999999995,0.0,Memphis Grizzlies,D.Brooks,Charlotte Hornets,1,0.9999999999999996
+38,38,38,P.Washington o23.5 Pts+Rebs+Ast,JoeMetz,-110,1.1,2.1,8.8827,Charlotte Hornets,P.Washington,Memphis Grizzlies,0,1.0
+39,39,39,P.George u25.5 Pts,SBK5065,-118,0.59,1.09,17.69,Los Angeles Clippers,P.George,San Antonio Spurs,0,0.5000000000000001
+40,40,40,J.Poeltl o9.5 Rebs,SBK5065,-119,0.6,1.104201680672269,17.69,San Antonio Spurs,J.Poeltl,Los Angeles Clippers,1,0.504201680672269
+41,41,41,T.Jones u4.5 Rebs,SBK5065,-120,0.6,1.1,17.69,San Antonio Spurs,T.Jones,Los Angeles Clippers,1,0.5000000000000001
+42,42,42,L.Kennard u11.5 Pts,SBK5065,-120,0.6,1.1,17.69,Los Angeles Clippers,L.Kennard,San Antonio Spurs,0,0.5000000000000001
+43,43,43,T.Jones u6.5 Ast,SBK5065,-115,0.58,1.0843478260869563,17.69,San Antonio Spurs,T.Jones,Los Angeles Clippers,1,0.5043478260869564
+44,44,44,P.George o4.5 Ast,gneiffer07,-140,1.4,2.4,22.8626,Los Angeles Clippers,P.George,San Antonio Spurs,0,1.0
+45,45,45,D.Vassell o3.5 Ast,gneiffer07,125,1.0,2.25,22.8626,San Antonio Spurs,D.Vassell,Los Angeles Clippers,1,1.25
+46,46,46,K.Johnson o27.5 Pts+Rebs,JoeMetz,-105,1.05,2.05,0.0,San Antonio Spurs,K.Johnson,Los Angeles Clippers,1,0.9999999999999998
+47,47,47,T.Jones o0.5 3pt M,HPBasketball,-120,0.6,1.1,0.0,San Antonio Spurs,T.Jones,Los Angeles Clippers,1,0.5000000000000001
+48,48,48,L.Doncic o8.5 Ast,gneiffer07,-125,1.25,2.25,22.8626,Dallas Mavericks,L.Doncic,Toronto Raptors,1,1.0
+49,49,49,L.Doncic u31.5 Pts,gneiffer07,-110,1.1,2.1,22.8626,Dallas Mavericks,L.Doncic,Toronto Raptors,1,1.0
+50,50,50,P.Siakam u6.5 Ast,gneiffer07,-122,1.22,2.22,22.8626,Toronto Raptors,P.Siakam,Dallas Mavericks,0,1.0000000000000002
+51,51,51,D.Finney-Smith o8.5 Pts,gneiffer07,-120,1.2,2.2,22.8626,Dallas Mavericks,D.Finney-Smith,Toronto Raptors,1,1.0000000000000002
+52,52,52,L.Doncic o39.5 Pts+Ast,PropBetGuy,-122,1.22,2.22,0.0,Dallas Mavericks,L.Doncic,Toronto Raptors,1,1.0000000000000002
+53,53,53,J.Poole o24.5 Pts,SBK5065,-110,0.55,1.05,17.69,Golden State Warriors,J.Poole,New Orleans Pelicans,0,0.5
+54,54,54,Z.Williamson o3.5 Ast,JoeDellera,-125,1.0,1.8,0.7651,New Orleans Pelicans,Z.Williamson,Golden State Warriors,1,0.8
+55,55,55,Z.Williamson o36.5 Pts+Rebs+Ast,JoeDellera,-113,0.5,0.9424778761061948,0.7651,New Orleans Pelicans,Z.Williamson,Golden State Warriors,1,0.4424778761061948
+56,56,56,C.Johnson u15.5 Pts,SBK5065,-125,0.63,1.134,17.69,Phoenix Suns,C.Johnson,Portland Trail Blazers,1,0.5039999999999999
+57,57,57,C.Paul o12.5 Pts,SBK5065,-104,0.52,1.02,17.69,Phoenix Suns,C.Paul,Portland Trail Blazers,1,0.5
+58,58,58,D.Booker o25.5 Pts,gneiffer07,-113,1.13,2.13,0.0,Phoenix Suns,D.Booker,Portland Trail Blazers,1,1.0
+59,59,59,S.Sharpe o12.5 Pts,charliedisturco,-118,1.18,2.18,-2.325,Portland Trail Blazers,S.Sharpe,Phoenix Suns,0,1.0000000000000002
+60,60,60,S.Sharpe o19.5 Pts,charliedisturco,520,0.2,1.2400000000000002,-2.325,Portland Trail Blazers,S.Sharpe,Phoenix Suns,0,1.0400000000000003
+61,61,61,C.Johnson o2.5 3pt M,PropBomb,-132,1.32,2.3200000000000003,0.0,Phoenix Suns,C.Johnson,Portland Trail Blazers,1,1.0000000000000002
+62,62,62,G.Antetokounmpo o12.5 Rebs,gneiffer07,102,1.0,2.02,22.8626,Milwaukee Bucks,G.Antetokounmpo,Minnesota Timberwolves,0,1.02
+63,63,63,G.Antetokounmpo u33.5 Pts,gneiffer07,-115,1.15,2.1499999999999995,22.8626,Milwaukee Bucks,G.Antetokounmpo,Minnesota Timberwolves,0,0.9999999999999996
+64,64,64,L.Markkanen o19.5 Pts,gneiffer07,-113,1.13,2.13,22.8626,Utah Jazz,L.Markkanen,Los Angeles Lakers,0,1.0
+65,65,65,L.James u7.5 Ast,gneiffer07,-115,1.15,2.1499999999999995,22.8626,Los Angeles Lakers,L.James,Utah Jazz,1,0.9999999999999996
+66,66,66,L.Markkanen u8.5 Rebs,gneiffer07,-128,1.28,2.28,22.8626,Utah Jazz,L.Markkanen,Los Angeles Lakers,0,0.9999999999999998
+67,67,67,J.Poeltl o1.5 Ast,HPBasketball,153,1.0,2.53,-8.2111,San Antonio Spurs,J.Poeltl,Los Angeles Clippers,1,1.5299999999999998
+68,68,68,J.Poeltl o7.5 Rebs,HPBasketball,-340,1.1,1.4235294117647062,-8.2111,San Antonio Spurs,J.Poeltl,Los Angeles Clippers,1,0.32352941176470607
+69,69,69,J.Poeltl o12.5 Pts,HPBasketball,-120,1.1,2.016666666666667,-8.2111,San Antonio Spurs,J.Poeltl,Los Angeles Clippers,1,0.916666666666667
+70,70,70,P.Siakam o5.5 Ast,HPBasketball,799,0.5,4.495,-8.2111,Toronto Raptors,P.Siakam,Dallas Mavericks,0,3.995
+71,71,71,P.Siakam o9.5 Rebs,HPBasketball,-110,1.1,2.1,-8.2111,Toronto Raptors,P.Siakam,Dallas Mavericks,0,1.0
+72,72,72,P.Siakam o29.5 Pts,HPBasketball,-125,1.1,1.98,-8.2111,Toronto Raptors,P.Siakam,Dallas Mavericks,0,0.8799999999999999
+73,73,73,J.Randle o9.5 Rebs,HPBasketball,165,0.5,1.325,-8.2111,New York Knicks,J.Randle,Philadelphia 76ers,0,0.825
+74,74,74,J.Randle o9.5 Pts,HPBasketball,-120,1.1,2.016666666666667,-8.2111,New York Knicks,J.Randle,Philadelphia 76ers,0,0.916666666666667
+75,75,75,P.Beverley o3.5 Rebs,HPBasketball,185,0.5,1.425,-8.2111,Los Angeles Lakers,P.Beverley,Utah Jazz,1,0.925
+76,76,76,P.Beverley o4.5 Pts,HPBasketball,-205,1.1,1.6365853658536589,-8.2111,Los Angeles Lakers,P.Beverley,Utah Jazz,1,0.5365853658536588
+77,77,77,I.Stewart o0.5 3pt M,HPBasketball,126,0.5,1.13,-8.2111,Detroit Pistons,I.Stewart,Cleveland Cavaliers,1,0.6299999999999999
+78,78,78,I.Stewart o9.5 Rebs,HPBasketball,-130,1.1,1.9461538461538463,-8.2111,Detroit Pistons,I.Stewart,Cleveland Cavaliers,1,0.8461538461538463
+79,79,79,I.Stewart o9.5 Pts,HPBasketball,-166,1.1,1.762650602409639,-8.2111,Detroit Pistons,I.Stewart,Cleveland Cavaliers,1,0.6626506024096388
+80,80,80,P.Siakam o7.5 Rebs,HPBasketball,202,1.0,3.02,-8.2111,Toronto Raptors,P.Siakam,Dallas Mavericks,0,2.02
+81,81,81,P.Siakam o19.5 Pts,HPBasketball,-310,1.1,1.4548387096774194,-8.2111,Toronto Raptors,P.Siakam,Dallas Mavericks,0,0.35483870967741926
