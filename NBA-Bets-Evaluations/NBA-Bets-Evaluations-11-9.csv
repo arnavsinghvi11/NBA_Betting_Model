@@ -1,0 +1,99 @@
+,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,S.Dinwiddie u26.5 Pts+Rebs+Ast,SBK5065,-113,0.57,1.074424778761062,23.7555,Dallas Mavericks,S.Dinwiddie,Orlando Magic,0.0,0.504424778761062,N,0.6,1,0.4,0,0.6,1
+1,S.Dinwiddie u18.5 Pts,SBK5065,-122,1.22,2.22,23.7555,Dallas Mavericks,S.Dinwiddie,Orlando Magic,0.0,1.0000000000000002,N,0.5,0,0.4,0,0.5,0
+2,S.Dinwiddie u3.5 Rebs,SBK5065,-110,0.55,1.05,23.7555,Dallas Mavericks,S.Dinwiddie,Orlando Magic,0.0,0.5,N,0.6,1,0.2,0,0.6,1
+3,F.Wagner o18.5 Pts,SBK5065,-118,0.59,1.09,23.7555,Orlando Magic,F.Wagner,Dallas Mavericks,1.0,0.5000000000000001,Y,0.5833333333333334,1,1.0,1,0.6,1
+4,D.Powell o13.5 Pts+Rebs+Ast,SBK5065,-110,0.55,1.05,23.7555,Dallas Mavericks,D.Powell,Orlando Magic,0.0,0.5,N,0.2857142857142857,0,0.2,0,0.2857142857142857,0
+5,L.Doncic u34.5 Pts,SBK5065,100,0.5,1.0,23.7555,Dallas Mavericks,L.Doncic,Orlando Magic,0.0,0.5,Y,0.4,0,0.4,0,0.4,0
+6,S.Dinwiddie u2.5 3pt M,gneiffer07,-108,1.08,2.08,15.6126,Dallas Mavericks,S.Dinwiddie,Orlando Magic,0.0,1.0,N,0.3,0,0.4,0,0.3,0
+7,L.Doncic u3.5 3pt M,gneiffer07,-118,1.18,2.18,15.6126,Dallas Mavericks,L.Doncic,Orlando Magic,0.0,1.0000000000000002,Y,0.8,1,0.8,1,0.8,1
+8,L.Doncic u0.5 Pts,PropBetGuy,-120,1.2,2.2,0.0,Dallas Mavericks,L.Doncic,Orlando Magic,0.0,1.0000000000000002,N,0.0,0,0.0,0,0.0,0
+9,D.Finney-Smith o1.5 Stl+Blk,HPBasketball,130,1.5,3.45,-6.0614,Dallas Mavericks,D.Finney-Smith,Orlando Magic,0.0,1.95,Y,0.6,1,0.6,1,0.6,1
+10,B.Bol o20.5 Pts+Rebs,HPBasketball,-126,6.3,11.3,-6.0614,Orlando Magic,B.Bol,Dallas Mavericks,1.0,5.000000000000001,N,0.3333333333333333,0,0.4,0,0.4,0
+11,N.Jokic u23.5 Pts,SBK5065,-105,0.53,1.0347619047619048,23.7555,Denver Nuggets,N.Jokic,Indiana Pacers,0.0,0.5047619047619047,N,0.5454545454545454,1,0.6,1,0.6,1
+12,N.Jokic o8.5 Ast,SBK5065,-127,0.64,1.1439370078740156,23.7555,Denver Nuggets,N.Jokic,Indiana Pacers,0.0,0.5039370078740156,N,0.6363636363636364,1,0.6,1,0.7,1
+13,M.Turner o24.5 Pts+Rebs+Ast,SBK5065,-118,0.59,1.09,23.7555,Indiana Pacers,M.Turner,Denver Nuggets,1.0,0.5000000000000001,Y,0.5,0,0.6,1,0.5,0
+14,J.Murray o26.5 Pts+Rebs+Ast,gneiffer07,-120,1.2,2.2,15.6126,Denver Nuggets,J.Murray,Indiana Pacers,0.0,1.0000000000000002,Y,0.4,0,0.8,1,0.4,0
+15,J.Murray o4.5 Ast,gneiffer07,-111,1.11,2.1100000000000003,15.6126,Denver Nuggets,J.Murray,Indiana Pacers,0.0,1.0000000000000002,N,0.5,0,0.6,1,0.5,0
+16,N.Jokic o0.5 3pt M,gneiffer07,-100,1.0,2.0,15.6126,Denver Nuggets,N.Jokic,Indiana Pacers,0.0,1.0,Y,0.5454545454545454,1,0.6,1,0.5,0
+17,M.Porter o16.5 Pts,gneiffer07,-110,1.1,2.1,15.6126,Denver Nuggets,M.Porter,Indiana Pacers,0.0,1.0,Y,0.7,1,0.6,1,0.7,1
+18,M.Porter o2.5 3pt M,JoeDellera,-140,0.5,0.8571428571428572,-3.1013,Denver Nuggets,M.Porter,Indiana Pacers,0.0,0.3571428571428572,Y,0.9,1,1.0,1,0.9,1
+19,T.Haliburton o33.5 Pts+Rebs+Ast,NicholaskMartin,-140,0.75,1.2857142857142858,0.0,Indiana Pacers,T.Haliburton,Denver Nuggets,1.0,0.5357142857142858,Y,0.8181818181818182,1,0.8,1,0.8,1
+20,D.Lillard o23.5 Pts,SBK5065,-108,0.54,1.04,23.7555,Portland Trail Blazers,D.Lillard,Charlotte Hornets,0.0,0.5,Y,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+21,T.Rozier o23.5 Pts,SBK5065,-102,0.51,1.01,23.7555,Charlotte Hornets,T.Rozier,Portland Trail Blazers,1.0,0.5,N,0.4,0,0.4,0,0.4,0
+22,D.Lillard o5.5 Ast,SBK5065,-122,0.61,1.11,23.7555,Portland Trail Blazers,D.Lillard,Charlotte Hornets,0.0,0.5000000000000001,Y,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+23,T.Rozier u4.5 Rebs,gneiffer07,105,1.0,2.05,15.6126,Charlotte Hornets,T.Rozier,Portland Trail Blazers,1.0,1.0499999999999998,N,0.2,0,0.2,0,0.2,0
+24,M.Plumlee u8.5 Rebs,gneiffer07,-127,1.27,2.27,15.6126,Charlotte Hornets,M.Plumlee,Portland Trail Blazers,1.0,1.0,N,0.5,0,0.2,0,0.4,0
+25,D.Lillard u0.5 Pts,PropBomb,-135,1.35,2.35,0.0,Portland Trail Blazers,D.Lillard,Charlotte Hornets,0.0,1.0,N,0.0,0,0.0,0,0.0,0
+26,F.VanVleet o7.5 Ast,SBK5065,-145,0.73,1.233448275862069,23.7555,Toronto Raptors,F.VanVleet,Houston Rockets,1.0,0.5034482758620691,N,0.5555555555555556,1,0.4,0,0.5555555555555556,1
+27,S.Barnes u8.5 Rebs,SBK5065,-130,0.65,1.15,23.7555,Toronto Raptors,S.Barnes,Houston Rockets,1.0,0.4999999999999999,Y,0.7272727272727273,1,0.6,1,0.7,1
+28,C.Boucher u6.5 Rebs,SBK5065,-100,0.5,1.0,23.7555,Toronto Raptors,C.Boucher,Houston Rockets,1.0,0.5,Y,0.7777777777777778,1,0.6,1,0.7777777777777778,1
+29,O.Anunoby o18.5 Pts,SBK5065,-110,0.55,1.05,23.7555,Toronto Raptors,O.Anunoby,Houston Rockets,1.0,0.5,Y,0.3333333333333333,0,0.6,1,0.4,0
+30,A.Sengun u29.5 Pts+Rebs+Ast,gneiffer07,-117,1.17,2.17,15.6126,Houston Rockets,A.Sengun,Toronto Raptors,0.0,1.0,Y,0.7,1,0.6,1,0.7,1
+31,J.Green u28.5 Pts+Rebs+Ast,gneiffer07,-113,1.13,2.13,15.6126,Houston Rockets,J.Green,Toronto Raptors,0.0,1.0,Y,0.6666666666666666,1,0.6,1,0.7,1
+32,G.Trent o17.5 Pts,PropBetGuy,-115,1.73,3.2343478260869563,1.4243,Toronto Raptors,G.Trent,Houston Rockets,1.0,1.5043478260869565,N,0.5833333333333334,1,0.4,0,0.6,1
+33,J.Randle u20.5 Pts,SBK5065,-110,0.55,1.05,23.7555,New York Knicks,J.Randle,Brooklyn Nets,0.0,0.5,N,0.5454545454545454,1,0.4,0,0.6,1
+34,R.Barrett u20.5 Pts,SBK5065,-115,0.58,1.0843478260869563,23.7555,New York Knicks,R.Barrett,Brooklyn Nets,0.0,0.5043478260869564,Y,0.6363636363636364,1,0.4,0,0.6,1
+35,J.Randle u3.5 Ast,SBK5065,-120,0.6,1.1,23.7555,New York Knicks,J.Randle,Brooklyn Nets,0.0,0.5000000000000001,Y,0.6363636363636364,1,0.8,1,0.7,1
+36,R.O'Neale o3.5 Ast,SBK5065,-125,0.63,1.134,23.7555,Brooklyn Nets,R.O'Neale,New York Knicks,1.0,0.5039999999999999,Y,0.5833333333333334,1,0.8,1,0.7,1
+37,J.Harris u18.5 Pts+Rebs+Ast,gneiffer07,-111,1.11,2.1100000000000003,15.6126,Brooklyn Nets,J.Harris,New York Knicks,1.0,1.0000000000000002,Y,0.9,1,0.8,1,0.9,1
+38,K.Durant o44.5 Pts+Rebs+Ast,gneiffer07,-115,1.15,2.1499999999999995,15.6126,Brooklyn Nets,K.Durant,New York Knicks,1.0,0.9999999999999996,Y,0.5,0,0.6,1,0.6,1
+39,J.Randle u1.5 3pt M,gneiffer07,143,1.0,2.43,15.6126,New York Knicks,J.Randle,Brooklyn Nets,0.0,1.4300000000000002,N,0.45454545454545453,0,0.4,0,0.5,0
+40,N.Claxton Yes115 Double-Double,PropBetGuy,122,1.0,2.22,0.0,Brooklyn Nets,N.Claxton,New York Knicks,1.0,1.2200000000000002,N,0.3333333333333333,0,0.4,0,0.2,0
+41,I.Stewart u9.5 Rebs,SBK5065,-115,0.58,1.0843478260869563,23.7555,Detroit Pistons,I.Stewart,Boston Celtics,0.0,0.5043478260869564,N,0.3333333333333333,0,0.2,0,0.3,0
+42,C.Cunningham  o5.5 Ast,SBK5065,-130,0.65,1.15,23.7555,Detroit Pistons,C.Cunningham,Boston Celtics,0.0,0.4999999999999999,N,0.5833333333333334,1,0.4,0,0.5,0
+43,C.Cunningham  o31.5 Pts+Rebs+Ast,gneiffer07,-111,1.11,2.1100000000000003,15.6126,Detroit Pistons,C.Cunningham,Boston Celtics,0.0,1.0000000000000002,N,0.4166666666666667,0,0.4,0,0.5,0
+44,J.Tatum o26.5 Pts,gneiffer07,-105,1.05,2.05,15.6126,Boston Celtics,J.Tatum,Detroit Pistons,1.0,0.9999999999999998,Y,0.6363636363636364,1,0.6,1,0.6,1
+45,S.Bey u15.5 Pts,gneiffer07,-110,1.1,2.1,15.6126,Detroit Pistons,S.Bey,Boston Celtics,0.0,1.0,N,0.3333333333333333,0,0.2,0,0.3,0
+46,J.Robinson-Earl u7.5 Pts,SBK5065,-130,0.65,1.15,23.7555,Oklahoma City Thunder,J.Robinson-Earl,Milwaukee Bucks,1.0,0.4999999999999999,Y,0.5454545454545454,1,0.4,0,0.5,0
+47,B.Lopez u7.5 Rebs,SBK5065,-125,0.63,1.134,23.7555,Milwaukee Bucks,B.Lopez,Oklahoma City Thunder,0.0,0.5039999999999999,N,0.6363636363636364,1,0.6,1,0.6,1
+48,G.Allen u3.5 Ast,SBK5065,100,0.5,1.0,23.7555,Milwaukee Bucks,G.Allen,Oklahoma City Thunder,0.0,0.5,N,0.6363636363636364,1,0.6,1,0.7,1
+49,G.Allen u22.5 Pts+Rebs+Ast,SBK5065,-113,0.57,1.074424778761062,23.7555,Milwaukee Bucks,G.Allen,Oklahoma City Thunder,0.0,0.504424778761062,N,0.8181818181818182,1,0.8,1,0.8,1
+50,S.Gilgeous-Alexander o27.5 Pts,charliedisturco,-120,1.2,2.2,-7.305,Oklahoma City Thunder,S.Gilgeous-Alexander,Milwaukee Bucks,1.0,1.0000000000000002,Y,0.8,1,0.8,1,0.8,1
+51,J.Morant u6.5 Rebs,SBK5065,-124,0.62,1.12,23.7555,Memphis Grizzlies,J.Morant,San Antonio Spurs,0.0,0.5000000000000001,Y,0.6363636363636364,1,0.4,0,0.6,1
+52,D.Vassell o17.5 Pts,SBK5065,-125,0.63,1.134,23.7555,San Antonio Spurs,D.Vassell,Memphis Grizzlies,1.0,0.5039999999999999,Y,0.75,1,0.8,1,0.75,1
+53,D.Bane o21.5 Pts,SBK5065,-115,0.58,1.0843478260869563,23.7555,Memphis Grizzlies,D.Bane,San Antonio Spurs,0.0,0.5043478260869564,Y,0.5454545454545454,1,0.6,1,0.6,1
+54,J.Poeltl o8.5 Rebs,SBK5065,-128,0.64,1.14,23.7555,San Antonio Spurs,J.Poeltl,Memphis Grizzlies,1.0,0.4999999999999999,Y,0.5833333333333334,1,0.2,0,0.6,1
+55,D.Vassell o3.5 Ast,SBK5065,100,0.5,1.0,23.7555,San Antonio Spurs,D.Vassell,Memphis Grizzlies,1.0,0.5,Y,0.75,1,0.8,1,0.75,1
+56,T.Jones u7.5 Ast,SBK5065,-140,0.7,1.2,23.7555,San Antonio Spurs,T.Jones,Memphis Grizzlies,1.0,0.5,Y,0.5833333333333334,1,0.6,1,0.5,0
+57,D.Bane o3.5 Ast,SBK5065,-134,0.67,1.17,23.7555,Memphis Grizzlies,D.Bane,San Antonio Spurs,0.0,0.4999999999999999,Y,0.8181818181818182,1,0.8,1,0.8,1
+58,D.Vassell o26.5 Pts+Rebs+Ast,SBK5065,-110,0.55,1.05,23.7555,San Antonio Spurs,D.Vassell,Memphis Grizzlies,1.0,0.5,Y,0.75,1,0.8,1,0.75,1
+59,J.Morant o43.5 Pts+Rebs+Ast,SBK5065,-110,0.55,1.05,23.7555,Memphis Grizzlies,J.Morant,San Antonio Spurs,0.0,0.5,N,0.45454545454545453,0,0.2,0,0.4,0
+60,D.Brooks u2.5 Ast,SBK5065,-120,0.6,1.1,23.7555,Memphis Grizzlies,D.Brooks,San Antonio Spurs,0.0,0.5000000000000001,N,0.5555555555555556,1,0.4,0,0.5555555555555556,1
+61,J.Morant o28.5 Pts,PropBomb,-115,1.15,2.1499999999999995,0.0,Memphis Grizzlies,J.Morant,San Antonio Spurs,0.0,0.9999999999999996,Y,0.5454545454545454,1,0.4,0,0.5,0
+62,K.Johnson o2.5 3pt M,JoeDellera,-141,0.25,0.4273049645390071,-3.1013,San Antonio Spurs,K.Johnson,Memphis Grizzlies,1.0,0.1773049645390071,N,0.7272727272727273,1,0.6,1,0.7,1
+63,D.Vassell o2.5 3pt M,JoeDellera,-141,0.25,0.4273049645390071,-3.1013,San Antonio Spurs,D.Vassell,Memphis Grizzlies,1.0,0.1773049645390071,Y,0.875,1,1.0,1,0.875,1
+64,Z.Williamson o23.5 Pts,SBK5065,-113,0.57,1.074424778761062,23.7555,New Orleans Pelicans,Z.Williamson,Chicago Bulls,0.0,0.504424778761062,N,0.5555555555555556,1,0.6,1,0.5555555555555556,1
+65,C.McCollum o5.5 Ast,SBK5065,124,0.5,1.12,23.7555,New Orleans Pelicans,C.McCollum,Chicago Bulls,0.0,0.6200000000000001,N,0.5454545454545454,1,0.4,0,0.5,0
+66,N.Vucevic o10.5 Rebs,SBK5065,-117,0.59,1.0942735042735043,23.7555,Chicago Bulls,N.Vucevic,New Orleans Pelicans,1.0,0.5042735042735044,N,0.6153846153846154,1,0.8,1,0.7,1
+67,N.Vucevic u16.5 Pts,SBK5065,-110,0.55,1.05,23.7555,Chicago Bulls,N.Vucevic,New Orleans Pelicans,1.0,0.5,N,0.5384615384615384,1,0.4,0,0.5,0
+68,Z.LaVine o21.5 Pts,SBK5065,-115,0.58,1.0843478260869563,23.7555,Chicago Bulls,Z.LaVine,New Orleans Pelicans,1.0,0.5043478260869564,Y,0.5555555555555556,1,0.6,1,0.5555555555555556,1
+69,J.Valanciunas u11.5 Rebs,SBK5065,-124,0.62,1.12,23.7555,New Orleans Pelicans,J.Valanciunas,Chicago Bulls,0.0,0.5000000000000001,N,0.6363636363636364,1,0.6,1,0.7,1
+70,Z.Williamson u7.5 Rebs,gneiffer07,-110,1.1,2.1,15.6126,New Orleans Pelicans,Z.Williamson,Chicago Bulls,0.0,1.0,Y,0.6666666666666666,1,0.8,1,0.6666666666666666,1
+71,B.Ingram o23.5 Pts,gneiffer07,-110,1.1,2.1,15.6126,New Orleans Pelicans,B.Ingram,Chicago Bulls,0.0,1.0,N,0.5714285714285714,1,0.4,0,0.5714285714285714,1
+72,B.Ingram u34.5 Pts+Rebs+Ast,gneiffer07,-103,1.03,2.03,15.6126,New Orleans Pelicans,B.Ingram,Chicago Bulls,0.0,0.9999999999999998,Y,0.42857142857142855,0,0.6,1,0.42857142857142855,0
+73,Z.Williamson o33.5 Pts+Rebs+Ast,gneiffer07,-104,1.04,2.04,15.6126,New Orleans Pelicans,Z.Williamson,Chicago Bulls,0.0,1.0,N,0.5555555555555556,1,0.6,1,0.5555555555555556,1
+74,H.Jones u3.5 Rebs,gneiffer07,115,1.0,2.15,15.6126,New Orleans Pelicans,H.Jones,Chicago Bulls,0.0,1.15,N,0.42857142857142855,0,0.4,0,0.42857142857142855,0
+75,C.McCollum u4.5 Rebs,gneiffer07,104,1.0,2.04,15.6126,New Orleans Pelicans,C.McCollum,Chicago Bulls,0.0,1.04,Y,0.45454545454545453,0,0.2,0,0.4,0
+76,D.DeRozan o23.5 Pts,gneiffer07,-105,1.05,2.05,15.6126,Chicago Bulls,D.DeRozan,New Orleans Pelicans,1.0,0.9999999999999998,Y,0.5384615384615384,1,0.4,0,0.5,0
+77,H.Jones u14.5 Pts+Rebs+Ast,saopropmodel,-104,130.0,255.00000000000003,0.0,New Orleans Pelicans,H.Jones,Chicago Bulls,0.0,125.00000000000004,N,0.5714285714285714,1,0.4,0,0.5714285714285714,1
+78,C.Payne u7.5 Ast,SBK5065,114,0.5,1.0699999999999998,23.7555,Phoenix Suns,C.Payne,Minnesota Timberwolves,0.0,0.5699999999999998,N,0.8888888888888888,1,0.8,1,0.8888888888888888,1
+79,A.Edwards o3.5 Ast,SBK5065,140,0.5,1.2,23.7555,Minnesota Timberwolves,A.Edwards,Phoenix Suns,1.0,0.7,Y,0.3333333333333333,0,0.2,0,0.3,0
+80,J.McDaniels u12.5 Pts+Rebs+Ast,gneiffer07,-112,1.12,2.12,15.6126,Minnesota Timberwolves,J.McDaniels,Phoenix Suns,1.0,1.0,Y,0.5833333333333334,1,0.6,1,0.7,1
+81,A.Edwards o21.5 Pts,gneiffer07,-119,1.19,2.19,15.6126,Minnesota Timberwolves,A.Edwards,Phoenix Suns,1.0,1.0,N,0.5,0,0.4,0,0.5,0
+82,K.Towns o22.5 Pts,gneiffer07,-113,1.13,2.13,15.6126,Minnesota Timberwolves,K.Towns,Phoenix Suns,1.0,1.0,N,0.5,0,0.6,1,0.5,0
+83,D.Ayton o25.5 Pts+Rebs,Noto,-123,3.0,5.439024390243903,-6.19,Phoenix Suns,D.Ayton,Minnesota Timberwolves,0.0,2.439024390243903,N,0.4444444444444444,0,0.2,0,0.4444444444444444,0
+84,D.Booker o34.5 Pts+Ast,Noto,-110,1.1,2.1,-6.19,Phoenix Suns,D.Booker,Minnesota Timberwolves,0.0,1.0,Y,0.5454545454545454,1,0.2,0,0.5,0
+85,D.Mitchell u27.5 Pts,gneiffer07,-115,1.15,2.1499999999999995,15.6126,Cleveland Cavaliers,D.Mitchell,Sacramento Kings,0.0,0.9999999999999996,N,0.2,0,0.2,0,0.2,0
+86,D.Garland u22.5 Pts,gneiffer07,-115,1.15,2.1499999999999995,15.6126,Cleveland Cavaliers,D.Garland,Sacramento Kings,0.0,0.9999999999999996,Y,0.6,1,0.6,1,0.6,1
+87,J.Allen o24.5 Pts+Rebs,PropBetGuy,-120,1.2,2.2,1.4243,Cleveland Cavaliers,J.Allen,Sacramento Kings,0.0,1.0000000000000002,Y,0.6363636363636364,1,1.0,1,0.7,1
+88,I.Zubac o22.5 Pts+Rebs+Ast,gneiffer07,-115,1.15,2.1499999999999995,15.6126,Los Angeles Clippers,I.Zubac,Los Angeles Lakers,1.0,0.9999999999999996,N,0.5,0,0.4,0,0.5,0
+89,L.James u41.5 Pts+Rebs+Ast,gneiffer07,-115,1.15,2.1499999999999995,15.6126,Los Angeles Lakers,L.James,Los Angeles Clippers,0.0,0.9999999999999996,N,0.7,1,0.8,1,0.7,1
+90,I.Zubac o10.5 Rebs,PropBomb,-128,1.28,2.28,0.0,Los Angeles Clippers,I.Zubac,Los Angeles Lakers,1.0,0.9999999999999998,N,0.4166666666666667,0,0.2,0,0.4,0
+91,A.Davis o21.5 Pts,JoeDellera,-120,1.0,1.8333333333333333,-3.1013,Los Angeles Lakers,A.Davis,Los Angeles Clippers,0.0,0.8333333333333333,N,0.7,1,0.4,0,0.7,1
+92,L.Doncic o34.5 Pts,HPBasketball,-107,1.1,2.1280373831775705,-6.0614,Dallas Mavericks,L.Doncic,Orlando Magic,0.0,1.0280373831775704,N,0.6,1,0.6,1,0.6,1
+93,L.Doncic o9.5 Ast,HPBasketball,950,0.2,2.1,-6.0614,Dallas Mavericks,L.Doncic,Orlando Magic,0.0,1.9,N,0.4,0,0.2,0,0.4,0
+94,L.Doncic o9.5 Rebs,HPBasketball,-127,1.1,1.966141732283465,-6.0614,Dallas Mavericks,L.Doncic,Orlando Magic,0.0,0.8661417322834648,N,0.3,0,0.0,0,0.3,0
+95,L.Doncic u39.5 Pts,HPBasketball,-106,1.1,2.137735849056604,-6.0614,Dallas Mavericks,L.Doncic,Orlando Magic,0.0,1.0377358490566038,Y,0.8,1,0.8,1,0.8,1
+96,B.Hield o2.5 3pt M,marlostanfield,-295,0.5,0.6694915254237288,0.0,Indiana Pacers,B.Hield,Denver Nuggets,1.0,0.1694915254237288,N,0.8181818181818182,1,0.8,1,0.8,1
+97,T.Haliburton o7.5 Ast,marlostanfield,-310,0.5,0.6612903225806451,0.0,Indiana Pacers,T.Haliburton,Denver Nuggets,1.0,0.1612903225806451,Y,0.8181818181818182,1,0.8,1,0.9,1
