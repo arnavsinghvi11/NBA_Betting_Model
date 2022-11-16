@@ -1,0 +1,31 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,0,B.Beal o19.5 Pts,SBK5065,-119,0.6,1.104201680672269,18.6396,Washington Wizards,B.Beal,Oklahoma City Thunder,1,0.504201680672269
+1,1,1,D.Avdija u16.5 Pts+Rebs+Ast,SBK5065,-105,0.53,1.0347619047619048,18.6396,Washington Wizards,D.Avdija,Oklahoma City Thunder,1,0.5047619047619047
+2,2,2,S.Gilgeous-Alexander o28.5 Pts,SBK5065,-120,0.6,1.1,18.6396,Oklahoma City Thunder,S.Gilgeous-Alexander,Washington Wizards,0,0.5000000000000001
+3,3,3,D.Avdija u2.5 Ast,SBK5065,-150,0.75,1.25,18.6396,Washington Wizards,D.Avdija,Oklahoma City Thunder,1,0.5
+4,4,4,K.Towns o21.5 Pts,SBK5065,-110,0.55,1.05,18.6396,Minnesota Timberwolves,K.Towns,Orlando Magic,0,0.5
+5,5,5,J.Suggs u6.5 Ast,SBK5065,100,1.0,2.0,18.6396,Orlando Magic,J.Suggs,Minnesota Timberwolves,1,1.0
+6,6,6,J.Smith u13.5 Pts,SBK5065,-125,0.63,1.134,18.6396,Indiana Pacers,J.Smith,Charlotte Hornets,0,0.5039999999999999
+7,7,7,T.Rozier u26.5 Pts+Ast,PropBomb,-125,1.25,2.25,0.0,Charlotte Hornets,T.Rozier,Indiana Pacers,1,1.0
+8,8,8,L.Ball o35.5 Pts+Rebs+Ast,charliedisturco,-110,1.1,2.1,0.0,Charlotte Hornets,L.Ball,Indiana Pacers,1,1.0
+9,9,9,M.Turner o24.5 Pts+Rebs,JoeMetz,-120,1.2,2.2,0.0,Indiana Pacers,M.Turner,Charlotte Hornets,0,1.0000000000000002
+10,10,10,T.Haliburton o32.5 Pts+Rebs+Ast,JoeDellera,-119,0.75,1.380252100840336,-2.2761,Indiana Pacers,T.Haliburton,Charlotte Hornets,0,0.6302521008403359
+11,11,11,J.Brown u4.5 Ast,SBK5065,-122,0.61,1.11,0.0,Boston Celtics,J.Brown,Atlanta Hawks,0,0.5000000000000001
+12,12,12,J.Collins o11.5 Pts,PropBomb,-125,1.25,2.25,0.0,Atlanta Hawks,J.Collins,Boston Celtics,1,1.0
+13,13,13,J.Butler o5.5 Ast,SBK5065,-130,0.65,1.15,18.6396,Miami Heat,J.Butler,Toronto Raptors,0,0.4999999999999999
+14,14,14,F.VanVleet o19.5 Pts,SBK5065,-125,0.63,1.134,18.6396,Toronto Raptors,F.VanVleet,Miami Heat,1,0.5039999999999999
+15,15,15,P.Williams o1.5 Stl+Blk,HPBasketball,-109,0.25,0.4793577981651376,-6.7949,Chicago Bulls,P.Williams,New Orleans Pelicans,0,0.22935779816513763
+16,16,16,J.Valanciunas o25.5 Pts+Rebs+Ast,JoeDellera,-108,1.0,1.925925925925926,-2.2761,New Orleans Pelicans,J.Valanciunas,Chicago Bulls,1,0.925925925925926
+17,17,17,T.Murphy o2.5 3pt M,JoeDellera,150,0.5,1.25,-2.2761,New Orleans Pelicans,T.Murphy,Chicago Bulls,1,0.75
+18,18,18,D.Finney-Smith u19.5 Pts+Rebs+Ast,SBK5065,-105,0.53,1.0347619047619048,18.6396,Dallas Mavericks,D.Finney-Smith,Houston Rockets,1,0.5047619047619047
+19,19,19,A.Sengun o22.5 Pts+Rebs,JoeDellera,-105,0.5,0.9761904761904762,-2.2761,Houston Rockets,A.Sengun,Dallas Mavericks,0,0.47619047619047616
+20,20,20,J.Murray o19.5 Pts,charliedisturco,-120,1.2,2.2,0.0,Denver Nuggets,J.Murray,New York Knicks,1,1.0000000000000002
+21,21,21,A.Wiggins o22.5 Pts+Rebs,PropBetGuy,-118,1.18,2.18,0.0,Golden State Warriors,A.Wiggins,Phoenix Suns,0,1.0000000000000002
+22,22,22,A.Dosunmu o1.5 Ast,HPBasketball,265,0.5,1.825,-6.7949,Chicago Bulls,A.Dosunmu,New Orleans Pelicans,0,1.325
+23,23,23,A.Dosunmu o2.5 Rebs,HPBasketball,-121,1.1,2.0090909090909093,-6.7949,Chicago Bulls,A.Dosunmu,New Orleans Pelicans,0,0.9090909090909092
+24,24,24,A.Dosunmu o8.5 Pts,HPBasketball,-115,1.1,2.0565217391304347,-6.7949,Chicago Bulls,A.Dosunmu,New Orleans Pelicans,0,0.9565217391304346
+25,25,25,L.Ball o9.5 Ast,ChicagoFlow,57500,0.03,17.28,0.0,Charlotte Hornets,L.Ball,Indiana Pacers,1,17.25
+26,26,26,T.Haliburton o9.5 Ast,ChicagoFlow,109,0.15,0.3134999999999999,0.0,Indiana Pacers,T.Haliburton,Charlotte Hornets,0,0.1634999999999999
+27,27,27,L.Ball o9.5 Rebs,ChicagoFlow,-120,0.15,0.275,0.0,Charlotte Hornets,L.Ball,Indiana Pacers,1,0.12500000000000003
+28,28,28,T.Haliburton o9.5 Rebs,ChicagoFlow,-105,0.15,0.2928571428571428,0.0,Indiana Pacers,T.Haliburton,Charlotte Hornets,0,0.14285714285714282
+29,29,29,L.Ball o22.5 Pts,NicholaskMartin,-110,1.0,1.9090909090909087,0.0908,Charlotte Hornets,L.Ball,Indiana Pacers,1,0.9090909090909087
