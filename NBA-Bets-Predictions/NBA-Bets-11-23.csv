@@ -1,0 +1,27 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,0,D.Melton u5.5 Ast,SBK5065,-145,0.73,1.233448275862069,19.22,Philadelphia 76ers,D.Melton,Charlotte Hornets,0,0.5034482758620691
+1,1,1,K.Oubre o18.5 Pts,SBK5065,-105,0.53,1.0347619047619048,19.22,Charlotte Hornets,K.Oubre,Philadelphia 76ers,1,0.5047619047619047
+2,2,2,P.Tucker u1.5 Ast,SBK5065,115,0.5,1.075,19.22,Philadelphia 76ers,P.Tucker,Charlotte Hornets,0,0.575
+3,3,3,D.Melton o16.5 Pts,SBK5065,100,0.5,1.0,19.22,Philadelphia 76ers,D.Melton,Charlotte Hornets,0,0.5
+4,4,4,D.Melton o2.5 3pt M,PropBomb,-130,1.3,2.3,0.0,Philadelphia 76ers,D.Melton,Charlotte Hornets,0,0.9999999999999998
+5,5,5,D.Garland u9.5 Ast,SBK5065,-125,0.63,1.134,19.22,Cleveland Cavaliers,D.Garland,Portland Trail Blazers,1,0.5039999999999999
+6,6,6,J.Hart o6.5 Rebs,SBK5065,-125,0.63,1.134,19.22,Portland Trail Blazers,J.Hart,Cleveland Cavaliers,0,0.5039999999999999
+7,7,7,E.Mobley o14.5 Pts,PropBomb,-120,1.2,2.2,0.0,Cleveland Cavaliers,E.Mobley,Portland Trail Blazers,1,1.0000000000000002
+8,8,8,A.Edwards u34.5 Pts+Rebs+Ast,SBK5065,-108,0.54,1.04,19.22,Minnesota Timberwolves,A.Edwards,Indiana Pacers,0,0.5
+9,9,9,T.Haliburton u11.5 Ast,SBK5065,-110,0.55,1.05,19.22,Indiana Pacers,T.Haliburton,Minnesota Timberwolves,1,0.5
+10,10,10,T.Haliburton o19.5 Pts,SBK5065,-110,0.55,1.05,19.22,Indiana Pacers,T.Haliburton,Minnesota Timberwolves,1,0.5
+11,11,11,J.Smith o6.5 Rebs,SBK5065,-130,0.65,1.15,19.22,Indiana Pacers,J.Smith,Minnesota Timberwolves,1,0.4999999999999999
+12,12,12,T.Haliburton o30.5 Pts+Ast,JoeDellera,-121,1.21,2.21,-6.0262,Indiana Pacers,T.Haliburton,Minnesota Timberwolves,1,1.0
+13,13,13,K.Kuzma o24.5 Pts+Ast,SBK5065,150,1.0,2.5,19.22,Washington Wizards,K.Kuzma,Miami Heat,0,1.5
+14,14,14,S.Dinwiddie u16.5 Pts,SBK5065,-120,0.6,1.1,19.22,Dallas Mavericks,S.Dinwiddie,Boston Celtics,0,0.5000000000000001
+15,15,15,J.Collins u7.5 Rebs,SBK5065,-135,0.68,1.1837037037037037,0.0,Atlanta Hawks,J.Collins,Sacramento Kings,1,0.5037037037037037
+16,16,16,T.Young u2.5 3pt M,JoeDellera,-106,0.4,0.7773584905660378,-6.0262,Atlanta Hawks,T.Young,Sacramento Kings,1,0.37735849056603776
+17,17,17,K.Murray o3.5 Rebs,JoeDellera,106,0.25,0.515,-6.0262,Sacramento Kings,K.Murray,Atlanta Hawks,0,0.265
+18,18,18,S.Gilgeous-Alexander o29.5 Pts,SBK5065,-105,0.53,1.0347619047619048,19.22,Oklahoma City Thunder,S.Gilgeous-Alexander,Denver Nuggets,1,0.5047619047619047
+19,19,19,K.Caldwell-Pope o2.5 3pt M,JoeDellera,135,0.5,1.175,0.0,Denver Nuggets,K.Caldwell-Pope,Oklahoma City Thunder,0,0.675
+20,20,20,D.Vassell o19.5 Pts,SBK5065,100,0.5,1.0,0.0,San Antonio Spurs,D.Vassell,New Orleans Pelicans,1,0.5
+21,21,21,D.Vassell o2.5 3pt M,JoeDellera,-128,0.5,0.890625,-6.0262,San Antonio Spurs,D.Vassell,New Orleans Pelicans,1,0.390625
+22,22,22,Z.Williamson o3.5 Ast,JoeDellera,-130,0.5,0.8846153846153846,-6.0262,New Orleans Pelicans,Z.Williamson,San Antonio Spurs,0,0.3846153846153846
+23,23,23,G.Antetokounmpo o11.5 Rebs,PropBetGuy,-114,1.14,2.14,-17.2557,Milwaukee Bucks,G.Antetokounmpo,Chicago Bulls,1,1.0000000000000002
+24,24,24,J.Ivey o17.5 Pts,SBK5065,-117,0.59,1.0942735042735043,0.0,Detroit Pistons,J.Ivey,Utah Jazz,0,0.5042735042735044
+25,25,25,S.Curry o27.5 Pts,SBK5065,-115,0.58,1.0843478260869563,19.22,Golden State Warriors,S.Curry,Los Angeles Clippers,1,0.5043478260869564
