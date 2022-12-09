@@ -1,0 +1,62 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Marcus Morris,Los Angeles Clippers,Miami Heat,0,36.56,11,1,4,0,0,1,.506,.450,.200,0.0,12.1,6.0,4.1,0.0,0.0,13.4,106,123,-5.5
+1,Reggie Jackson,Los Angeles Clippers,Miami Heat,0,34.00,20,3,5,0,0,4,.597,.533,.400,6.6,9.8,8.2,14.8,0.0,0.0,27.8,104,123,-5.0
+2,Ivica Zubac,Los Angeles Clippers,Miami Heat,0,33.45,9,0,8,1,1,0,.846,.750,.000,0.0,26.5,13.2,0.0,1.5,2.5,9.9,115,115,-2.2
+3,Paul George,Los Angeles Clippers,Miami Heat,0,32.14,29,7,8,1,0,5,.666,.625,.550,3.5,24.2,13.9,47.1,1.5,0.0,36.5,121,117,9.9
+4,Nicolas Batum,Los Angeles Clippers,Miami Heat,0,31.50,11,2,5,1,1,3,.652,.688,.875,10.5,7.0,8.8,9.7,1.6,2.6,13.5,128,117,3.2
+5,Luke Kennard,Los Angeles Clippers,Miami Heat,0,24.18,7,2,3,0,0,1,.500,.500,.714,0.0,13.8,6.9,12.7,0.0,0.0,15.0,95,122,-5.0
+6,John Wall,Los Angeles Clippers,Miami Heat,0,20.29,9,8,3,0,0,2,.461,.375,.375,5.4,10.9,8.2,58.0,0.0,0.0,30.6,97,123,-3.9
+7,Brandon Boston Jr.,Los Angeles Clippers,Miami Heat,0,13.51,7,1,3,0,0,0,.554,.400,.200,0.0,24.2,12.1,11.5,0.0,0.0,20.8,123,120,-4.8
+8,Robert Covington,Los Angeles Clippers,Miami Heat,0,7.11,5,0,1,0,1,1,1.250,1.250,.500,0.0,15.5,7.8,0.0,0.0,11.5,12.7,250,111,17.6
+9,Moses Brown,Los Angeles Clippers,Miami Heat,0,5.26,2,0,3,0,0,0,1.000,1.000,.000,0.0,61.6,30.8,0.0,0.0,0.0,8.4,200,115,2.1
+10,Caleb Martin,Miami Heat,Los Angeles Clippers,1,40.24,17,2,8,2,0,4,.612,.615,.615,2.8,19.3,11.1,6.1,2.5,0.0,17.0,118,113,0.2
+11,Tyler Herro,Miami Heat,Los Angeles Clippers,1,39.25,19,3,9,2,0,4,.519,.471,.471,0.0,25.5,12.7,9.4,2.5,0.0,24.9,94,112,-3.5
+12,Bam Adebayo,Miami Heat,Los Angeles Clippers,1,36.25,31,4,10,1,0,0,.694,.667,.000,12.3,18.4,15.3,19.1,1.4,0.0,30.8,137,116,8.4
+13,Jimmy Butler,Miami Heat,Los Angeles Clippers,1,33.59,26,8,5,4,0,2,.915,.917,.167,3.3,13.1,8.2,35.4,5.9,0.0,20.6,179,106,22.1
+14,Dru Smith,Miami Heat,Los Angeles Clippers,1,22.07,2,3,1,1,0,0,.200,.200,.600,0.0,5.0,2.5,14.9,2.3,0.0,10.4,74,117,-8.8
+15,Max Strus,Miami Heat,Los Angeles Clippers,1,31.32,8,2,4,0,0,2,.444,.444,.778,3.5,10.6,7.1,7.3,0.0,0.0,13.2,105,121,-7.7
+16,Victor Oladipo,Miami Heat,Los Angeles Clippers,1,20.50,6,2,2,0,0,0,.375,.375,.375,0.0,10.7,5.4,11.8,0.0,0.0,17.7,88,121,-9.8
+17,Dewayne Dedmon,Miami Heat,Los Angeles Clippers,1,11.35,6,0,3,1,1,0,.551,.600,.200,0.0,28.9,14.5,0.0,4.3,9.4,25.6,85,100,-6.1
+18,Haywood Highsmith,Miami Heat,Los Angeles Clippers,1,3.43,0,0,1,0,0,0,,,,0.0,30.0,15.0,0.0,0.0,0.0,0.0,0,117,-19.8
+19,Jamal Murray,Denver Nuggets,Portland Trail Blazers,0,35.15,21,8,5,1,0,3,.470,.452,.476,6.6,9.1,7.9,30.2,1.4,0.0,28.4,118,128,0.5
+20,Nikola Jokić,Denver Nuggets,Portland Trail Blazers,0,34.21,33,9,10,0,1,1,.597,.580,.120,10.2,21.7,16.2,45.8,0.0,2.7,40.3,118,125,7.6
+21,Aaron Gordon,Denver Nuggets,Portland Trail Blazers,0,30.50,20,0,5,1,0,2,.776,.750,.250,11.4,6.9,9.1,0.0,1.6,0.0,21.2,128,128,-0.6
+22,Kentavious Caldwell-Pope,Denver Nuggets,Portland Trail Blazers,0,28.22,7,2,3,0,0,2,.543,.500,.667,0.0,11.3,5.9,7.8,0.0,0.0,9.3,142,130,-3.6
+23,Bruce Brown,Denver Nuggets,Portland Trail Blazers,0,27.52,10,0,4,2,0,0,.563,.625,.250,8.4,7.7,8.0,0.0,3.6,0.0,14.6,109,123,-4.1
+24,Bones Hyland,Denver Nuggets,Portland Trail Blazers,0,25.33,13,4,5,1,0,3,.658,.611,.667,0.0,20.9,10.9,19.0,2.0,0.0,17.5,144,122,5.2
+25,Christian Braun,Denver Nuggets,Portland Trail Blazers,0,20.24,6,0,5,0,1,0,.750,.750,.000,17.2,10.5,13.7,0.0,0.0,4.6,10.1,133,128,-1.4
+26,Jeff Green,Denver Nuggets,Portland Trail Blazers,0,17.10,6,3,4,1,0,1,.521,.375,.500,13.6,12.4,13.0,19.0,2.9,0.0,18.6,112,123,-1.4
+27,DeAndre Jordan,Denver Nuggets,Portland Trail Blazers,0,13.39,5,0,6,0,3,0,.868,1.000,.000,8.6,39.1,24.5,0.0,0.0,20.7,8.7,176,108,8.8
+28,Vlatko Čančar,Denver Nuggets,Portland Trail Blazers,0,6.34,0,2,1,0,0,0,,,,0.0,16.2,8.5,31.1,0.0,0.0,0.0,226,129,5.4
+29,Jerami Grant,Portland Trail Blazers,Denver Nuggets,1,38.29,18,3,3,1,1,2,.537,.467,.467,0.0,9.1,4.4,10.2,1.3,2.0,20.1,116,128,-3.5
+30,Damian Lillard,Portland Trail Blazers,Denver Nuggets,1,37.34,40,12,4,2,0,9,.797,.750,.773,2.8,9.3,5.9,53.5,2.7,0.0,30.3,169,126,24.9
+31,Josh Hart,Portland Trail Blazers,Denver Nuggets,1,37.05,12,3,6,3,0,0,.551,.500,.100,8.6,9.5,9.0,10.3,4.0,0.0,15.2,116,123,-1.5
+32,Anfernee Simons,Portland Trail Blazers,Denver Nuggets,1,34.02,6,5,3,0,0,0,.250,.250,.500,0.0,10.3,4.9,17.7,0.0,0.0,20.5,60,131,-20.3
+33,Jusuf Nurkić,Portland Trail Blazers,Denver Nuggets,1,31.14,21,2,9,2,2,2,1.006,1.000,.300,3.4,30.0,16.1,10.2,3.2,5.0,18.8,142,115,9.8
+34,Justise Winslow,Portland Trail Blazers,Denver Nuggets,1,22.25,4,4,5,0,0,0,.333,.333,.000,19.0,5.2,12.4,21.6,0.0,0.0,11.7,131,133,-3.5
+35,Drew Eubanks,Portland Trail Blazers,Denver Nuggets,1,16.46,7,0,2,1,0,1,.700,.700,.200,6.4,7.0,6.7,0.0,3.0,0.0,13.0,146,126,-1.1
+36,Shaedon Sharpe,Portland Trail Blazers,Denver Nuggets,1,14.13,7,0,3,1,0,1,.438,.438,.500,7.5,16.5,11.8,0.0,3.5,0.0,24.5,99,122,-4.9
+37,Trendon Watford,Portland Trail Blazers,Denver Nuggets,1,7.43,2,1,3,0,0,0,.347,.000,.000,27.6,15.2,21.7,14.1,0.0,0.0,21.9,99,130,-9.6
+38,Keon Johnson,Portland Trail Blazers,Denver Nuggets,1,0.29,3,0,0,0,0,1,1.500,1.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,90.2,300,135,202.2
+39,Jabari Smith Jr.,Houston Rockets,San Antonio Spurs,0,34.10,23,0,4,0,1,4,.829,.846,.538,0.0,17.0,7.0,0.0,0.0,3.0,18.8,139,122,3.9
+40,Eric Gordon,Houston Rockets,San Antonio Spurs,0,31.40,14,4,2,0,1,2,.636,.636,.455,3.2,4.6,3.8,17.4,0.0,3.2,16.6,122,123,0.0
+41,Kevin Porter Jr.,Houston Rockets,San Antonio Spurs,0,30.32,12,4,3,1,0,0,.355,.313,.250,0.0,14.3,5.9,17.4,1.6,0.0,26.4,79,121,-13.1
+42,Jalen Green,Houston Rockets,San Antonio Spurs,0,29.42,14,2,3,0,1,2,.391,.353,.176,3.4,9.8,6.1,9.0,0.0,3.4,24.4,101,123,-5.8
+43,Alperen Şengün,Houston Rockets,San Antonio Spurs,0,28.30,16,2,11,0,0,0,.471,.471,.000,25.1,20.4,23.2,11.0,0.0,0.0,28.4,102,123,-6.8
+44,Tari Eason,Houston Rockets,San Antonio Spurs,0,22.57,8,2,6,0,1,2,1.000,1.000,.750,13.4,19.0,15.7,11.1,0.0,4.5,8.8,165,121,5.4
+45,Kenyon Martin Jr.,Houston Rockets,San Antonio Spurs,0,20.51,3,3,4,0,0,0,.315,.333,.667,9.8,14.0,11.5,16.6,0.0,0.0,13.1,77,124,-8.7
+46,Daishen Nix,Houston Rockets,San Antonio Spurs,0,18.18,8,5,4,1,0,0,.410,.250,.500,11.2,15.9,13.1,33.8,2.7,0.0,23.8,113,118,-1.5
+47,Usman Garuba,Houston Rockets,San Antonio Spurs,0,9.50,0,0,4,1,0,0,.000,.000,.000,0.0,59.2,24.4,0.0,5.0,0.0,8.2,0,107,-10.2
+48,Boban Marjanović,Houston Rockets,San Antonio Spurs,0,4.30,7,0,0,0,0,0,1.017,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,30.9,210,126,28.8
+49,Josh Christopher,Houston Rockets,San Antonio Spurs,0,4.30,2,1,1,0,0,0,.500,.500,.000,0.0,32.3,13.3,32.0,0.0,0.0,18.0,128,122,-2.3
+50,TyTy Washington Jr.,Houston Rockets,San Antonio Spurs,0,4.30,2,0,0,0,0,0,.500,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,18.0,109,126,-11.9
+51,Keldon Johnson,San Antonio Spurs,Houston Rockets,1,34.49,32,1,7,0,0,3,.717,.738,.286,4.2,17.6,12.1,5.2,0.0,0.0,33.1,121,114,0.2
+52,Tre Jones,San Antonio Spurs,Houston Rockets,1,34.46,26,5,3,0,0,2,.732,.688,.375,4.2,5.9,5.2,21.4,0.0,0.0,23.2,160,119,4.4
+53,Romeo Langford,San Antonio Spurs,Houston Rockets,1,28.06,11,5,4,2,1,1,.688,.688,.375,5.2,10.9,8.5,22.8,3.5,2.5,14.6,142,108,7.9
+54,Zach Collins,San Antonio Spurs,Houston Rockets,1,27.21,10,3,5,1,1,0,.833,.833,.167,5.3,14.9,11.0,14.1,1.8,2.5,18.3,96,109,-5.6
+55,Malaki Branham,San Antonio Spurs,Houston Rockets,1,24.37,5,1,3,0,0,1,.357,.357,.571,5.9,8.3,7.3,4.6,0.0,0.0,12.9,93,118,-9.7
+56,Josh Richardson,San Antonio Spurs,Houston Rockets,1,27.03,12,2,2,0,0,3,.482,.458,.750,0.0,7.6,4.4,9.1,0.0,0.0,24.3,92,118,-10.3
+57,Doug McDermott,San Antonio Spurs,Houston Rockets,1,23.18,12,2,3,0,1,3,.721,.643,.714,6.2,8.8,7.7,10.3,0.0,3.0,18.2,141,116,2.2
+58,Charles Bassey,San Antonio Spurs,Houston Rockets,1,20.39,10,3,5,1,4,0,1.050,1.000,.000,7.0,19.8,14.5,17.9,2.4,13.5,10.5,223,99,16.2
+59,Isaiah Roby,San Antonio Spurs,Houston Rockets,1,13.41,0,2,5,1,0,0,.000,.000,.667,0.0,37.3,21.9,15.3,3.6,0.0,19.9,24,98,-19.5
+60,Alize Johnson,San Antonio Spurs,Houston Rockets,1,5.40,0,1,1,0,0,0,,,,0.0,18.0,10.6,18.4,0.0,0.0,8.0,53,113,-12.1
