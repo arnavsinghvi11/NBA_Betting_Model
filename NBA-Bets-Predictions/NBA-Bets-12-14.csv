@@ -1,0 +1,32 @@
+,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,M.Fultz u5.5 Ast,SBK5065,-130,1.0,1.7692307692307692,0,Orlando Magic,M.Fultz,Atlanta Hawks,1,0.7692307692307692
+1,1,P.Banchero o31.5 Pts+Rebs+Ast,SBK5065,-115,0.5,0.934782608695652,0,Orlando Magic,P.Banchero,Atlanta Hawks,1,0.434782608695652
+2,2,P.Banchero o31.5 Pts+Rebs+Ast,JoeDellera,-120,0.29,0.5316666666666666,0,Orlando Magic,P.Banchero,Atlanta Hawks,1,0.24166666666666664
+3,3,P.Banchero o2.5 3pt M,JoeDellera,850,0.05,0.475,0,Orlando Magic,P.Banchero,Atlanta Hawks,1,0.425
+4,4,P.Banchero o1.5 3pt M,JoeDellera,225,0.34,1.105,0,Orlando Magic,P.Banchero,Atlanta Hawks,1,0.7649999999999999
+5,5,D.Green u0.5 3pt M,ChicagoFlow,-141,0.71,1.2135460992907805,0,Golden State Warriors,D.Green,Indiana Pacers,0,0.5035460992907805
+6,6,B.Mathurin o15.5 Pts,PropBomb,-130,1.0,1.7692307692307692,0,Indiana Pacers,B.Mathurin,Golden State Warriors,1,0.7692307692307692
+7,7,T.Haliburton o34.5 Pts+Rebs+Ast,SBK5065,-105,0.5,0.9761904761904762,0,Indiana Pacers,T.Haliburton,Golden State Warriors,1,0.47619047619047616
+8,8,T.Haliburton o29.5 Pts+Ast,SBK5065,-120,0.5,0.9166666666666669,0,Indiana Pacers,T.Haliburton,Golden State Warriors,1,0.41666666666666685
+9,9,T.Haliburton o29.5 Pts+Ast,JoeDellera,-110,0.45,0.8590909090909091,0,Indiana Pacers,T.Haliburton,Golden State Warriors,1,0.4090909090909091
+10,10,T.Haliburton o29.5 Pts+Ast,PropBetGuy,-110,1.5,2.863636363636364,0,Indiana Pacers,T.Haliburton,Golden State Warriors,1,1.3636363636363642
+11,11,T.Haliburton o33.5 Pts+Rebs+Ast,JoeDellera,-125,0.8,1.4400000000000002,0,Indiana Pacers,T.Haliburton,Golden State Warriors,1,0.6400000000000001
+12,12,T.Haliburton Yes Double-Double,PropBomb,-140,1.4,2.4,0,Indiana Pacers,T.Haliburton,Golden State Warriors,1,1.0
+13,13,A.Pokusevski o9.5 Pts,SBK5065,-110,0.55,1.05,0,Oklahoma City Thunder,A.Pokusevski,Miami Heat,1,0.5
+14,14,J.Giddey u20.5 Pts+Ast,PropBetGuy,-110,1.1,2.1,0,Oklahoma City Thunder,J.Giddey,Miami Heat,1,1.0
+15,15,D.Finney-Smith o1.5 3pt M,JoeDellera,-135,0.37,0.644074074074074,0,Dallas Mavericks,D.Finney-Smith,Cleveland Cavaliers,1,0.274074074074074
+16,16,D.Finney-Smith o2.5 3pt M,JoeDellera,260,0.15,0.54,0,Dallas Mavericks,D.Finney-Smith,Cleveland Cavaliers,1,0.39
+17,17,J.Allen o9.5 Rebs,SBK5065,-115,0.58,1.0843478260869563,0,Cleveland Cavaliers,J.Allen,Dallas Mavericks,0,0.5043478260869564
+18,18,L.Doncic o9.5 Ast,JoeDellera,175,0.15,0.4125,0,Dallas Mavericks,L.Doncic,Cleveland Cavaliers,1,0.26249999999999996
+19,19,L.Doncic o8.5 Ast,JoeDellera,120,1.0,2.2,0,Dallas Mavericks,L.Doncic,Cleveland Cavaliers,1,1.2000000000000002
+20,20,K.Murray o1.5 3pt M,PropBomb,-136,1.0,1.7352941176470589,0,Sacramento Kings,K.Murray,Toronto Raptors,0,0.7352941176470589
+21,21,P.Siakam o25.5 Pts,PropBomb,-118,1.18,2.18,0,Toronto Raptors,P.Siakam,Sacramento Kings,1,1.0000000000000002
+22,22,D.Fox u5.5 Ast,SBK5065,-120,0.6,1.1,0,Sacramento Kings,D.Fox,Toronto Raptors,0,0.5000000000000001
+23,23,R.Gobert u13.5 Rebs,SBK5065,-115,0.5,0.934782608695652,0,Minnesota Timberwolves,R.Gobert,Los Angeles Clippers,0,0.434782608695652
+24,24,L.Kennard o1.5 3pt M,JoeDellera,-145,0.34,0.5744827586206898,0,Los Angeles Clippers,L.Kennard,Minnesota Timberwolves,1,0.23448275862068974
+25,25,P.George u5.5 Ast,SBK5065,-130,0.65,1.15,0,Los Angeles Clippers,P.George,Minnesota Timberwolves,1,0.4999999999999999
+26,26,P.George o5.5 Rebs,JoeDellera,-145,0.34,0.5744827586206898,0,Los Angeles Clippers,P.George,Minnesota Timberwolves,1,0.23448275862068974
+27,27,J.Randle o3.5 Ast,SBK5065,-134,0.5,0.8731343283582089,0,New York Knicks,J.Randle,Chicago Bulls,0,0.3731343283582089
+28,28,J.Duren o15.5 Pts+Rebs,PropBomb,-125,1.0,1.8,0,Detroit Pistons,J.Duren,Charlotte Hornets,0,0.8
+29,29,T.Rozier o33.5 Pts+Rebs+Ast,SBK5065,-110,0.55,1.05,0,Charlotte Hornets,T.Rozier,Detroit Pistons,1,0.5
+30,30,T.Rozier o33.5 Pts+Rebs+Ast,PropBetGuy,-115,1.15,2.1499999999999995,0,Charlotte Hornets,T.Rozier,Detroit Pistons,1,0.9999999999999996
