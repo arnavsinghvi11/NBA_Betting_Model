@@ -1,0 +1,37 @@
+,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,L.Doncic o3.5 3pt M,KurtisSenif,127,0.4,0.908,0,Dallas Mavericks,L.Doncic,Los Angeles Lakers,1,0.508,N,0.2903225806451613,0,0.4,0,0.4,0
+1,L.Doncic o50.5 Pts+Rebs+Ast,KurtisSenif,-121,0.4,0.7305785123966942,0,Dallas Mavericks,L.Doncic,Los Angeles Lakers,1,0.3305785123966942,N,0.3548387096774194,0,0.2,0,0.2,0
+2,L.Doncic o41.5 Pts+Rebs,KurtisSenif,-119,0.3,0.5521008403361345,0,Dallas Mavericks,L.Doncic,Los Angeles Lakers,1,0.2521008403361345,N,0.45161290322580644,0,0.2,0,0.2,0
+3,L.Doncic o17.5 Rebs+Ast,KurtisSenif,-135,0.22,0.3829629629629629,0,Dallas Mavericks,L.Doncic,Los Angeles Lakers,1,0.1629629629629629,Y,0.3548387096774194,0,0.6,1,0.5,0
+4,L.Doncic o32.5 Pts,KurtisSenif,-131,0.5,0.8816793893129771,0,Dallas Mavericks,L.Doncic,Los Angeles Lakers,1,0.381679389312977,N,0.5806451612903226,1,0.4,0,0.5,0
+5,L.Doncic o41.5 Pts+Ast,KurtisSenif,-127,0.3,0.5362204724409448,0,Dallas Mavericks,L.Doncic,Los Angeles Lakers,1,0.2362204724409448,N,0.4838709677419355,0,0.4,0,0.4,0
+6,L.Doncic o8.5 Rebs,KurtisSenif,-131,0.23,0.4055725190839694,0,Dallas Mavericks,L.Doncic,Los Angeles Lakers,1,0.1755725190839694,Y,0.45161290322580644,0,0.4,0,0.4,0
+7,S.Dinwiddie u26.5 Pts+Rebs+Ast,PropBetGuy,-125,1.0,1.8,0,Dallas Mavericks,S.Dinwiddie,Los Angeles Lakers,1,0.8,Y,0.6363636363636364,1,0.8,1,0.7,1
+8,T.Bryant u8.5 Rebs,SBK5065,-125,0.5,0.9,0,Los Angeles Lakers,T.Bryant,Dallas Mavericks,0,0.4,Y,0.7368421052631579,1,0.4,0,0.7,1
+9,L.James o29.5 Pts,JoeDellera,-115,0.43,0.8039130434782608,0,Los Angeles Lakers,L.James,Dallas Mavericks,0,0.3739130434782607,Y,0.48,0,1.0,1,0.7,1
+10,J.Morant o27.5 Pts,MikeRandle,-120,0.83,1.5216666666666667,0,Memphis Grizzlies,J.Morant,Golden State Warriors,0,0.6916666666666668,Y,0.48148148148148145,0,0.4,0,0.4,0
+11,J.Poole u35.5 Pts+Rebs+Ast,PropBetGuy,-122,1.83,3.33,0,Golden State Warriors,J.Poole,Memphis Grizzlies,1,1.5,N,0.8529411764705882,1,0.6,1,0.7,1
+12,D.DiVincenzo o21.5 Pts+Rebs+Ast,JoeMetz,-104,1.0,1.9615384615384617,0,Golden State Warriors,D.DiVincenzo,Memphis Grizzlies,1,0.9615384615384616,Y,0.20833333333333334,0,0.8,1,0.5,0
+13,D.DiVincenzo o4.5 Ast,JoeDellera,125,0.4,0.9,0,Golden State Warriors,D.DiVincenzo,Memphis Grizzlies,1,0.5,N,0.25,0,0.4,0,0.4,0
+14,J.Poole o34.5 Pts,wheatonbrando,850,0.5,4.75,0,Golden State Warriors,J.Poole,Memphis Grizzlies,1,4.25,N,0.08823529411764706,0,0.2,0,0.2,0
+15,J.Poole o23.5 Pts,wheatonbrando,-107,0.93,1.799158878504673,0,Golden State Warriors,J.Poole,Memphis Grizzlies,1,0.869158878504673,Y,0.35294117647058826,0,0.8,1,0.5,0
+16,J.Jackson o15.5 Pts,JoeMetz,-110,1.1,2.1,0,Memphis Grizzlies,J.Jackson,Golden State Warriors,0,1.0,N,0.625,1,0.4,0,0.5,0
+17,D.Bane o16.5 Pts,JoeDellera,-107,0.5,0.9672897196261684,0,Memphis Grizzlies,D.Bane,Golden State Warriors,0,0.4672897196261684,N,0.7142857142857143,1,0.8,1,0.9,1
+18,A.Gordon u18.5 Pts+Ast,PropBetGuy,-122,1.22,2.22,0,Denver Nuggets,A.Gordon,Phoenix Suns,1,1.0000000000000002,N,0.4827586206896552,0,0.4,0,0.3,0
+19,C.Paul o24.5 Pts+Ast,KurtisSenif,100,0.28,0.56,0,Phoenix Suns,C.Paul,Denver Nuggets,0,0.28,Y,0.4,0,0.6,1,0.5,0
+20,C.Paul o14.5 Rebs+Ast,KurtisSenif,-104,0.27,0.5296153846153847,0,Phoenix Suns,C.Paul,Denver Nuggets,0,0.2596153846153847,Y,0.45,0,0.4,0,0.4,0
+21,C.Paul o13.5 Pts,KurtisSenif,-110,0.25,0.4772727272727273,0,Phoenix Suns,C.Paul,Denver Nuggets,0,0.2272727272727273,Y,0.45,0,0.6,1,0.6,1
+22,C.Paul o17.5 Pts+Rebs,KurtisSenif,-108,0.26,0.5007407407407408,0,Phoenix Suns,C.Paul,Denver Nuggets,0,0.2407407407407408,Y,0.45,0,0.6,1,0.6,1
+23,C.Paul Yes120 Double-Double,KurtisSenif,108,0.45,0.936,0,Phoenix Suns,C.Paul,Denver Nuggets,0,0.486,Y,0.3,0,0.4,0,0.3,0
+24,C.Paul o27.5 Pts+Rebs+Ast,KurtisSenif,-129,0.22,0.3905426356589147,0,Phoenix Suns,C.Paul,Denver Nuggets,0,0.1705426356589147,Y,0.4,0,0.6,1,0.6,1
+25,M.Porter u20.5 Pts+Rebs,KurtisSenif,-119,0.25,0.4600840336134454,0,Denver Nuggets,M.Porter,Phoenix Suns,1,0.2100840336134454,Y,0.3333333333333333,0,0.6,1,0.5,0
+26,N.Jokic u21.5 Rebs+Ast,JoeDellera,-130,1.0,1.7692307692307692,0,Denver Nuggets,N.Jokic,Phoenix Suns,1,0.7692307692307692,N,0.6551724137931034,1,0.4,0,0.4,0
+27,J.Randle o9.5 Rebs,SBK5065,-109,0.55,1.0545871559633029,0,New York Knicks,J.Randle,Philadelphia 76ers,1,0.5045871559633028,N,0.47058823529411764,0,0.8,1,0.7,1
+28,J.Brunson u30.5 Pts+Rebs+Ast,SBK5065,-115,0.58,1.0843478260869563,0,New York Knicks,J.Brunson,Philadelphia 76ers,1,0.5043478260869564,N,0.5882352941176471,1,0.6,1,0.7,1
+29,J.Randle o9.5 Rebs,PropBetGuy,-106,1.06,2.06,0,New York Knicks,J.Randle,Philadelphia 76ers,1,1.0,N,0.47058823529411764,0,0.8,1,0.7,1
+30,M.Robinson u16.5 Pts+Rebs,JoeDellera,-105,0.35,0.6833333333333332,0,New York Knicks,M.Robinson,Philadelphia 76ers,1,0.3333333333333332,N,0.46153846153846156,0,0.4,0,0.3,0
+31,J.Harden o2.5 3pt M,JoeMetz,110,1.1,2.3100000000000005,0,Philadelphia 76ers,J.Harden,New York Knicks,0,1.2100000000000004,Y,0.6111111111111112,1,0.6,1,0.8,1
+32,G.Antetokounmpo o4.5 Ast,SBK5065,-135,0.68,1.1837037037037037,0,Milwaukee Bucks,G.Antetokounmpo,Boston Celtics,0,0.5037037037037037,N,0.5357142857142857,1,0.4,0,0.5,0
+33,J.Tatum u4.5 Ast,SBK5065,-140,0.7,1.2,0,Boston Celtics,J.Tatum,Milwaukee Bucks,1,0.5,N,0.59375,1,0.4,0,0.7,1
+34,J.Holiday u30.5 Pts+Rebs+Ast,PropBetGuy,-113,1.13,2.13,0,Milwaukee Bucks,J.Holiday,Boston Celtics,0,1.0,N,0.5,0,0.4,0,0.3,0
+35,G.Antetokounmpo o11.5 Rebs,JoeMetz,-130,1.3,2.3,0,Milwaukee Bucks,G.Antetokounmpo,Boston Celtics,0,0.9999999999999998,N,0.5357142857142857,1,0.4,0,0.5,0
