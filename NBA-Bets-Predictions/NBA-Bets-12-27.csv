@@ -1,0 +1,37 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,0,A.Reaves o14.5 Pts,JoeDellera,240,0.15,0.51,0,Los Angeles Lakers,A.Reaves,Orlando Magic,0,0.36
+1,1,1,D.Fox o29.5 Pts,KurtisSenif,185,0.1,0.285,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.18499999999999997
+2,2,2,D.Fox o7.5 Ast,SBK5065,170,0.3,0.81,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.51
+3,3,3,D.Fox o7.5 Ast,KurtisSenif,150,0.1,0.25,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.15
+4,4,4,D.Fox o5.5 Rebs,KurtisSenif,130,0.1,0.2299999999999999,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.1299999999999999
+5,5,5,D.Fox o32.5 Pts+Ast,KurtisSenif,105,0.2,0.41,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.20999999999999996
+6,6,6,D.Fox o37.5 Pts+Rebs+Ast,KurtisSenif,105,0.25,0.5125,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.26249999999999996
+7,7,7,D.Fox o6.5 Ast,SBK5065,-104,0.52,1.02,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.5
+8,8,8,D.Fox o11.5 Rebs+Ast,KurtisSenif,-110,0.2,0.3818181818181818,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.18181818181818177
+9,9,9,D.Fox o6.5 Ast,KurtisSenif,-110,0.2,0.3818181818181818,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.18181818181818177
+10,10,10,P.Banchero o20.5 Pts,PropBetGuy,-111,1.11,2.1100000000000003,0,Orlando Magic,P.Banchero,Los Angeles Lakers,1,1.0000000000000002
+11,11,11,D.Fox o25.5 Pts,KurtisSenif,-115,0.35,0.6543478260869564,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.30434782608695643
+12,12,12,D.Fox o30.5 Pts+Rebs,KurtisSenif,-115,0.2,0.3739130434782609,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.17391304347826086
+13,13,13,F.Wagner o18.5 Pts,PropBomb,-115,1.15,2.1499999999999995,0,Orlando Magic,F.Wagner,Los Angeles Lakers,1,0.9999999999999996
+14,14,14,F.Wagner o18.5 Pts,SBK5065,-115,0.58,1.0843478260869563,0,Orlando Magic,F.Wagner,Los Angeles Lakers,1,0.5043478260869564
+15,15,15,D.Ayton u20.5 Pts,JoeDellera,-115,0.3,0.5608695652173913,0,Phoenix Suns,D.Ayton,Memphis Grizzlies,0,0.2608695652173913
+16,16,16,D.Ayton u20.5 Pts,JoeDellera,-115,0.13,0.2430434782608695,0,Phoenix Suns,D.Ayton,Memphis Grizzlies,0,0.1130434782608695
+17,17,17,L.Ball o37.5 Pts+Rebs+Ast,JoeMetz,-115,1.15,2.1499999999999995,0,Charlotte Hornets,L.Ball,Golden State Warriors,0,0.9999999999999996
+18,18,18,J.Harden o30.5 Pts+Ast,JoeDellera,-115,0.43,0.8039130434782608,0,Philadelphia 76ers,J.Harden,Washington Wizards,0,0.37391304347826076
+19,19,19,J.Harden o30.5 Pts+Ast,PropBetGuy,-115,1.0,1.869565217391304,0,Philadelphia 76ers,J.Harden,Washington Wizards,0,0.869565217391304
+20,20,20,I.Zubac u19.5 Pts+Rebs+Ast,SBK5065,-115,0.58,1.0843478260869563,0,Los Angeles Clippers,I.Zubac,Toronto Raptors,0,0.5043478260869564
+21,21,21,J.Murray o20.5 Pts,JoeMetz,-120,1.0,1.8333333333333333,0,Denver Nuggets,J.Murray,Sacramento Kings,0,0.8333333333333333
+22,22,22,D.DiVincenzo o22.5 Pts+Rebs+Ast,JoeMetz,-120,1.2,2.2,0,Golden State Warriors,D.DiVincenzo,Charlotte Hornets,1,1.0000000000000002
+23,23,23,G.Niang o8.5 Pts,SBK5065,-120,0.6,1.1,0,Philadelphia 76ers,G.Niang,Washington Wizards,0,0.5000000000000001
+24,24,24,T.Haliburton o29.5 Pts+Ast,SBK5065,-120,0.5,0.9166666666666669,0,Indiana Pacers,T.Haliburton,Atlanta Hawks,1,0.41666666666666685
+25,25,25,T.Haliburton o29.5 Pts+Ast,JoeDellera,-120,0.83,1.5216666666666667,0,Indiana Pacers,T.Haliburton,Atlanta Hawks,1,0.6916666666666668
+26,26,26,L.Ball o3.5 3pt M,JoeDellera,-124,0.5,0.9032258064516128,0,Charlotte Hornets,L.Ball,Golden State Warriors,0,0.40322580645161277
+27,27,27,M.Porter o5.5 Rebs,SBK5065,-125,0.5,0.9,0,Denver Nuggets,M.Porter,Sacramento Kings,0,0.4
+28,28,28,C.Paul u31.5 Pts+Rebs+Ast,PropBetGuy,-125,1.0,1.8,0,Phoenix Suns,C.Paul,Memphis Grizzlies,0,0.8
+29,29,29,K.Porter u19.5 Pts,PropBomb,-125,1.25,2.25,0,Houston Rockets,K.Porter,Boston Celtics,0,1.0
+30,30,30,A.Horford u19.5 Pts+Rebs+Ast,PropBetGuy,-125,1.0,1.8,0,Boston Celtics,A.Horford,Houston Rockets,1,0.8
+31,31,31,J.Green u25.5 Pts+Ast,JoeDellera,-125,0.5,0.9,0,Houston Rockets,J.Green,Boston Celtics,0,0.4
+32,32,32,D.Ayton u9.5 Rebs,PropBomb,-130,1.3,2.3,0,Phoenix Suns,D.Ayton,Memphis Grizzlies,0,0.9999999999999998
+33,33,33,A.Reaves o12.5 Pts+Ast,JoeDellera,-133,0.75,1.31390977443609,0,Los Angeles Lakers,A.Reaves,Orlando Magic,0,0.5639097744360899
+34,34,34,D.Fox o4.5 Rebs,KurtisSenif,-135,0.35,0.6092592592592592,0,Sacramento Kings,D.Fox,Denver Nuggets,1,0.2592592592592592
+35,35,35,J.Embiid o9.5 Rebs,ChicagoFlow,-140,1.43,2.4514285714285715,0,Philadelphia 76ers,J.Embiid,Washington Wizards,0,1.0214285714285716
