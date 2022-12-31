@@ -1,0 +1,24 @@
+,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,M.Fultz o4.5 Rebs,SBK5065,-130,0.5,0.8846153846153846,0,Orlando Magic,M.Fultz,Washington Wizards,1.0,0.3846153846153846,Y,0.5,0,0.6,1,0.6,1
+1,B.Bol o14.5 Pts,SBK5065,-110,0.55,1.05,0,Orlando Magic,B.Bol,Washington Wizards,1.0,0.5,N,0.2972972972972973,0,0.0,0,0.1,0
+2,B.Bol o23.5 Pts+Rebs,PropBetGuy,-115,1.15,2.1499999999999995,0,Orlando Magic,B.Bol,Washington Wizards,1.0,0.9999999999999996,N,0.35135135135135137,0,0.0,0,0.1,0
+3,B.Bol o14.5 Pts,PropBomb,-105,1.05,2.05,0,Orlando Magic,B.Bol,Washington Wizards,1.0,0.9999999999999998,N,0.2972972972972973,0,0.0,0,0.1,0
+4,O.Okongwu o8.5 Rebs,SBK5065,-121,0.61,1.1141322314049589,0,Atlanta Hawks,O.Okongwu,Los Angeles Lakers,1.0,0.5041322314049589,N,0.3142857142857143,0,0.6,1,0.6,1
+5,D.Schroder u19.5 Pts+Rebs+Ast,PropBetGuy,-120,1.2,2.2,0,Los Angeles Lakers,D.Schroder,Atlanta Hawks,0.0,1.0000000000000002,N,0.7272727272727273,1,0.8,1,0.6,1
+6,D.Murray o1.5 Stl,ChicagoFlow,-125,1.25,2.25,0,Atlanta Hawks,D.Murray,Los Angeles Lakers,1.0,1.0,N,0.5161290322580645,1,0.2,0,0.4,0
+7,D.Murray o1.5 Stl,JoeDellera,-125,0.5,0.9,0,Atlanta Hawks,D.Murray,Los Angeles Lakers,1.0,0.4,N,0.5161290322580645,1,0.2,0,0.4,0
+8,L.James o30.5 Pts,JoeDellera,-106,0.94,1.8267924528301889,0,Los Angeles Lakers,L.James,Atlanta Hawks,0.0,0.8867924528301889,Y,0.39285714285714285,0,0.6,1,0.7,1
+9,T.Jerome o9.5 Pts,JoeDellera,-120,0.35,0.6416666666666667,0,Golden State Warriors,T.Jerome,Portland Trail Blazers,1.0,0.2916666666666667,N,0.23809523809523808,0,0.6,1,0.4,0
+10,A.Simons o29.5 Pts+Rebs+Ast,daletanhardt,-110,1.36,2.5963636363636367,0,Portland Trail Blazers,A.Simons,Golden State Warriors,0.0,1.2363636363636366,Y,0.48484848484848486,0,0.2,0,0.4,0
+11,N.Jokic o11.5 Rebs,JoeDellera,-112,0.89,1.684642857142857,0,Denver Nuggets,N.Jokic,Miami Heat,1.0,0.7946428571428571,Y,0.4375,0,0.4,0,0.6,1
+12,B.Adebayo o19.5 Pts,PropBetGuy,-120,1.0,1.8333333333333333,0,Miami Heat,B.Adebayo,Denver Nuggets,0.0,0.8333333333333333,Y,0.53125,1,0.8,1,0.7,1
+13,B.Adebayo o2.5 Ast,PropBomb,-125,1.25,2.25,0,Miami Heat,B.Adebayo,Denver Nuggets,0.0,1.0,N,0.71875,1,0.6,1,0.7,1
+14,S.Barnes u20.5 Pts+Ast,PropBetGuy,-115,1.0,1.869565217391304,0,Toronto Raptors,S.Barnes,Phoenix Suns,1.0,0.869565217391304,Y,0.5757575757575758,1,0.6,1,0.5,0
+15,S.Barnes o4.5 Ast,PropBomb,-125,1.25,2.25,0,Toronto Raptors,S.Barnes,Phoenix Suns,1.0,1.0,N,0.42424242424242425,0,0.2,0,0.2,0
+16,J.Ivey o4.5 Ast,SBK5065,-115,0.5,0.934782608695652,0,Detroit Pistons,J.Ivey,Chicago Bulls,0.0,0.434782608695652,Y,0.4411764705882353,0,0.4,0,0.4,0
+17,J.Ivey o4.5 Ast,PropBomb,-115,1.0,1.869565217391304,0,Detroit Pistons,J.Ivey,Chicago Bulls,0.0,0.869565217391304,Y,0.4411764705882353,0,0.4,0,0.4,0
+18,J.Duren o10.5 Rebs,JoeDellera,-102,0.5,0.9901960784313726,0,Detroit Pistons,J.Duren,Chicago Bulls,0.0,0.4901960784313726,N,0.2857142857142857,0,0.4,0,0.7,1
+19,C.McCollum u30.5 Pts+Rebs+Ast,PropBetGuy,-111,1.11,2.1100000000000003,0,New Orleans Pelicans,C.McCollum,Philadelphia 76ers,1.0,1.0000000000000002,N,0.5161290322580645,1,0.2,0,0.2,0
+20,J.Embiid o30.5 Pts,SBK5065,-120,0.5,0.9166666666666669,0,Philadelphia 76ers,J.Embiid,New Orleans Pelicans,0.0,0.4166666666666668,Y,0.6538461538461539,1,0.8,1,0.8,1
+21,D.Fox o24.5 Pts,PropBomb,-120,1.2,2.2,0,Sacramento Kings,D.Fox,Utah Jazz,1.0,1.0000000000000002,N,0.4838709677419355,0,0.6,1,0.5,0
+22,G.Antetokounmpo o6.5 Ast,PropBomb,-125,1.25,2.25,0,Milwaukee Bucks,G.Antetokounmpo,Minnesota Timberwolves,1.0,1.0,N,0.3,0,0.4,0,0.2,0
