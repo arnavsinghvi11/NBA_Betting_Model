@@ -4,10 +4,15 @@ import date
 import datetime
 from datetime import datetime
 from datetime import timedelta
+import pytz
+from pytz import timezone
 import os
 import numpy as np
 import pandas as pd
 import regex as re
+import requests
+import selenium
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
 import time
@@ -58,17 +63,19 @@ class Bets:
             break
         pacific_time = datetime.strptime(
             (str(int(earliest.split(':')[0]) + 12) + ':' +
-             earliest.split(':')[1]).strip(), "%H:%M") - timedelta(hours=3,
+             earliest.split(':')[1]).strip().split(' ')[0], "%H:%M") - timedelta(hours=3,
                                                                    minutes=10)
         running_time = str(pacific_time.hour) + ':' + \
             str(pacific_time.minute) + ':00'
+        print(running_time)
         return running_time
 
     def preprocessing(self, entry, name, team, net_unit):
         #data preprocessing of predictions
         prediction = False
         if len(entry.split('"play":')) > 1:
-            prediction = entry.split('"play":')[1].split(',')[0].replace('"', '')
+            prediction = entry.split('"play":')[1].split(',')[0].replace(
+                '"', '')
         
         #extract expert's username
         if name:
@@ -121,7 +128,6 @@ class Bets:
             home_team = two_teams.split('@ <!-- -->')[1].split('<!-- -->')[0]
             games.append([away_team, home_team])
         bet_entries = []
-        
         #extract current bets for games to be played 
         for x in live_bets.split(
                 '"real_status":"scheduled","status_display":null,"start_time"'
@@ -188,12 +194,15 @@ class Bets:
             ]).drop_duplicates(subset=['Play', 'Expert'],
                                keep='first').reset_index(drop=True)
         
-        
         #determine variables for each bet - player's current team, matchup oppponent, matchup's homecourt advantage
         names, set_teams, opponents, hmcrt_advantages = [], [], [], []
         for i in range(len(bets)):
             bet = bets.loc[i]
             name = bet['Play'].split(' ')[0]
+            print(name)
+            print(bet['Teams'])
+            if 'LA' in bet['Teams'][0]:
+                bet['Teams'][0] =  bet['Teams'][0].replace('LA', 'Los Angeles')
             matching_name = all_box_score_results[all_box_score_results['name']
                                                   == name]
             all_games = matching_name[matching_name['team'].isin(bet['Teams'])]
@@ -204,6 +213,13 @@ class Bets:
                 opponents.append(np.NAN)
                 hmcrt_advantages.append(np.NAN)
             else:
+                if name == 'R.Westbrook':
+                    set_teams.append('')
+                    names.append(np.NAN)
+                    opponents.append(np.NAN)
+                    hmcrt_advantages.append(np.NAN) 
+                    print('skipped')
+                    continue
                 if len(set(all_games['name'].values)) == 0:
                     if len(set(matching_name['name'].values)) != 1:
                         set_teams.append('')
@@ -215,7 +231,9 @@ class Bets:
                         found_team = True
                 found_team = True
                 if found_team:
+                    set(all_games['team'].values)
                     plyr_team = list(set(all_games['team'].values))[0]
+                    print(plyr_team)
                     for g in games:
                         if ((len(plyr_team.split(' '))) > 2 and
                             (plyr_team.split(' ')[1] + ' ' +
