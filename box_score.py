@@ -98,14 +98,14 @@ class BoxScore:
 
     def update_all_box_score_results(self,  date, month, day):
         #returns cumulative box score statistics for players
-        all_box_score_results = pd.read_csv("/work/All_Box_Score_Results.csv")
-        box_score = pd.read_csv("/work/NBA-Bets-Box-Score-Results/" + "NBA-Bets-Box-Score-Results-" + month + "-" + day +".csv")
+        all_box_score_results = pd.read_csv("All_Box_Score_Results.csv")
+        box_score = pd.read_csv("NBA-Bets-Box-Score-Results/" + "NBA-Bets-Box-Score-Results-" + month + "-" + day +".csv")
         box_score['date'] = month + "-" + day
         box_score['name'] = box_score['name'].apply(unidecode)
         box_score['name'] = box_score['name'].apply(helper_functions.abbrv)
         box_score['date'] = box_score['date'].apply(date.date_converter)
         all_box_score_results = all_box_score_results.append(box_score)
-        all_box_score_results.to_csv("/work/All_Box_Score_Results.csv")
+        all_box_score_results.to_csv("All_Box_Score_Results.csv")
         
         #formatting for names and dates for predictions/evaluations 
         all_box_score_results['date'] = all_box_score_results['date'].astype('int')

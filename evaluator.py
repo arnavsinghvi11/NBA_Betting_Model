@@ -273,8 +273,8 @@ class Evaluator:
     def all_evaluations(self):
         #return cumulative evaluations
         all_evals = pd.DataFrame()
-        for i in os.listdir('/work/NBA-Bets-Evaluations/'):
-            eval_ = pd.read_csv('/work/NBA-Bets-Evaluations/' + i)
+        for i in os.listdir('NBA-Bets-Evaluations/'):
+            eval_ = pd.read_csv('NBA-Bets-Evaluations/' + i)
             all_evals = all_evals.append(eval_)
         return all_evals
 
@@ -284,9 +284,9 @@ class Evaluator:
         #Gains are defined as net units won per bet placed (e.g. gain of 0.5 for 10 bets would mean profit of 5) 
         all_optimized = pd.DataFrame()
         all_evals_december_onwards = pd.DataFrame()
-        for i in os.listdir('/work/NBA-Bets-Optimized-Evaluations/'):
-            all_optimized = all_optimized.append(pd.read_csv('/work/NBA-Bets-Optimized-Evaluations/' + i))
-            all_evals_december_onwards = all_evals_december_onwards.append(pd.read_csv('/work/NBA-Bets-Evaluations/' + 'NBA-Bets-Evaluations-' + str(i).split('Optimized-Evaluations-')[1].split('.csv')[0] + ".csv"))
+        for i in os.listdir('NBA-Bets-Optimized-Evaluations/'):
+            all_optimized = all_optimized.append(pd.read_csv('NBA-Bets-Optimized-Evaluations/' + i))
+            all_evals_december_onwards = all_evals_december_onwards.append(pd.read_csv('NBA-Bets-Evaluations/' + 'NBA-Bets-Evaluations-' + str(i).split('Optimized-Evaluations-')[1].split('.csv')[0] + ".csv"))
         optimized_gains = (sum(all_optimized[all_optimized['Correct'] == 'Y']['Payout']) - sum(all_optimized[all_optimized['Correct'] == 'N']['Units'])) / len(all_optimized)
         all_gains_december_onwards = (sum(all_evals_december_onwards[all_evals_december_onwards['Correct'] == 'Y']['Payout']) - sum(all_evals_december_onwards[all_evals_december_onwards['Correct'] == 'N']['Units'])) / len(all_evals_december_onwards)
         print('Optimized gains are ' + str(optimized_gains) + ' while regular bets gains are ' + str(all_gains_december_onwards))
