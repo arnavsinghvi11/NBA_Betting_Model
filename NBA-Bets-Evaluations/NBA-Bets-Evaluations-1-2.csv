@@ -1,0 +1,21 @@
+,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,T.Bryant Yes-100 Double-Double,JoeMetz,100,1.0,2.0,0,Los Angeles Lakers,T.Bryant,Charlotte Hornets,0,1.0,Y,0.21739130434782608,0,0.6,1,0.5,0
+1,C.Wood o1.5 Blk,JoeDellera,-105,0.95,1.854761905,0,Dallas Mavericks,C.Wood,Houston Rockets,1,0.904761905,Y,0.2857142857142857,0,0.8,1,0.9,1
+2,P.George o24.5 Pts,JoeDellera,-115,0.87,1.626521739,0,Los Angeles Clippers,P.George,Los Angeles Clippers,1,0.756521739,Y,0.4482758620689655,0,0.6,1,0.5,0
+3,C.LeVert o20.5 Pts+Ast,PropBomb,-115,1.15,2.15,0,Cleveland Cavaliers,C.LeVert,Chicago Bulls,1,1.0,N,0.29411764705882354,0,0.4,0,0.2,0
+4,T.Warren o11.5 Pts,PropBomb,-115,0.7,1.308695652,0,Brooklyn Nets,T.Warren,San Antonio Spurs,1,0.608695652,Y,0.46153846153846156,0,0.6,1,0.6,1
+5,T.Warren o10.5 Pts,JoeMetz,-115,1.0,1.869565217,0,Brooklyn Nets,T.Warren,San Antonio Spurs,1,0.869565217,Y,0.46153846153846156,0,0.6,1,0.6,1
+6,T.Maxey u18.5 Pts+Rebs+Ast,PropBetGuy,-115,1.0,1.869565217,0,Philadelphia 76ers,T.Maxey,New Orleans Pelicans,1,0.869565217,Y,0.23529411764705882,0,0.4,0,0.2,0
+7,B.Adebayo o29.5 Pts+Rebs,PropBetGuy,-120,1.0,1.833333333,0,Miami Heat,B.Adebayo,Miami Heat,0,0.833333333,Y,0.5,0,0.6,1,0.6,1
+8,K.Love o2.5 3pt M,SBK5065,-120,0.5,0.916666667,0,Cleveland Cavaliers,K.Love,Chicago Bulls,1,0.416666667,Y,0.3333333333333333,0,0.6,1,0.5,0
+9,K.Love o2.5 3pt M,PropBomb,-120,1.0,1.833333333,0,Cleveland Cavaliers,K.Love,Chicago Bulls,1,0.833333333,Y,0.3333333333333333,0,0.6,1,0.5,0
+10,L.Ball o38.5 Pts+Rebs+Ast,JoeDellera,-120,0.5,0.916666667,0,Charlotte Hornets,L.Ball,Los Angeles Lakers,1,0.416666667,N,0.5,0,0.6,1,0.7,1
+11,L.Ball o38.5 Pts+Rebs+Ast,PropBetGuy,-120,1.2,2.2,0,Charlotte Hornets,L.Ball,Los Angeles Lakers,1,1.0,N,0.5,0,0.6,1,0.7,1
+12,L.Doncic o33.5 Pts,JoeMetz,-120,1.0,1.833333333,0,Dallas Mavericks,L.Doncic,Houston Rockets,0,0.833333333,Y,0.4857142857142857,0,0.8,1,0.5,0
+13,T.Bryant o9.5 Rebs,JoeDellera,-121,0.41,0.748842975,0,Los Angeles Lakers,T.Bryant,Charlotte Hornets,0,0.338842975,Y,0.2608695652173913,0,0.6,1,0.6,1
+14,O.Okongwu u21.5 Pts+Rebs,PropBetGuy,-122,1.22,2.22,0,Atlanta Hawks,O.Okongwu,Golden State Warriors,0,1.0,N,0.75,1,0.4,0,0.5,0
+15,B.Hield o16.5 Pts,JoeDellera,-125,0.4,0.72,0,Indiana Pacers,B.Hield,Toronto Raptors,1,0.32,Y,0.6578947368421053,1,0.8,1,0.7,1
+16,B.Hield o16.5 Pts,PropBomb,-125,1.11,1.998,0,Indiana Pacers,B.Hield,Toronto Raptors,1,0.888,Y,0.6578947368421053,1,0.8,1,0.7,1
+17,B.Hield o16.5 Pts,PropBetGuy,-125,1.0,1.8,0,Indiana Pacers,B.Hield,Toronto Raptors,1,0.8,Y,0.6578947368421053,1,0.8,1,0.7,1
+18,T.Haliburton o12.5 Rebs+Ast,JoeDellera,-139,0.72,1.237985612,0,Indiana Pacers,T.Haliburton,Toronto Raptors,1,0.517985612,Y,0.6944444444444444,1,0.4,0,0.3,0
+19,D.Murray o1.5 Stl+Blk,JoeDellera,-140,0.36,0.617142857,0,Atlanta Hawks,D.Murray,Golden State Warriors,0,0.257142857,Y,0.59375,1,0.4,0,0.4,0
