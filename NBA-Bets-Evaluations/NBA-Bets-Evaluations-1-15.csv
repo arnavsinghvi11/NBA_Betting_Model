@@ -1,0 +1,30 @@
+,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,K.Irving u7.5 Ast,SBK5065,-120,0.5,0.9166666666666669,0,Brooklyn Nets,K.Irving,Oklahoma City Thunder,1.0,0.4166666666666668,Y,0.90625,1,0.8,1,0.8,1
+1,K.Irving u7.5 Ast,PropBomb,-120,1.0,1.8333333333333333,0,Brooklyn Nets,K.Irving,Oklahoma City Thunder,1.0,0.8333333333333333,Y,0.90625,1,0.8,1,0.8,1
+2,T.Warren o14.5 Pts,PropBomb,-125,1.25,2.25,0,Brooklyn Nets,T.Warren,Oklahoma City Thunder,1.0,1.0,N,0.2222222222222222,0,0.4,0,0.4,0
+3,J.Giddey o31.5 Pts+Rebs+Ast,JoeMetz,-111,1.0,1.900900900900901,0,Oklahoma City Thunder,J.Giddey,Brooklyn Nets,0.0,0.900900900900901,Y,0.46153846153846156,0,0.8,1,0.7,1
+4,T.Warren o19.5 Pts,JoeDellera,330,0.2,0.86,0,Brooklyn Nets,T.Warren,Oklahoma City Thunder,1.0,0.6599999999999999,N,0.1111111111111111,0,0.2,0,0.2,0
+5,T.Warren o14.5 Pts,JoeDellera,-125,1.0,1.8,0,Brooklyn Nets,T.Warren,Oklahoma City Thunder,1.0,0.8,N,0.2222222222222222,0,0.4,0,0.4,0
+6,L.Dort u16.5 Pts+Ast,PropBetGuy,-106,1.06,2.06,0,Oklahoma City Thunder,L.Dort,Brooklyn Nets,0.0,1.0,N,0.5116279069767442,1,0.6,1,0.5,0
+7,N.Claxton o2.5 Blk,SBK5065,-125,0.5,0.9,0,Brooklyn Nets,N.Claxton,Oklahoma City Thunder,1.0,0.4,Y,0.5384615384615384,1,1.0,1,0.8,1
+8,N.Claxton o2.5 Blk,JoeDellera,-125,0.4,0.7200000000000001,0,Brooklyn Nets,N.Claxton,Oklahoma City Thunder,1.0,0.32,Y,0.5384615384615384,1,1.0,1,0.8,1
+9,S.Dinwiddie o20.5 Pts,SBK5065,-105,0.5,0.9761904761904762,0,Dallas Mavericks,S.Dinwiddie,Portland Trail Blazers,0.0,0.4761904761904761,Y,0.25,0,0.6,1,0.3,0
+10,S.Dinwiddie o7.5 Ast,SBK5065,115,0.58,1.247,0,Dallas Mavericks,S.Dinwiddie,Portland Trail Blazers,0.0,0.6670000000000001,Y,0.18181818181818182,0,0.4,0,0.2,0
+11,S.Dinwiddie o27.5 Pts+Ast,SBK5065,-110,1.0,1.9090909090909087,0,Dallas Mavericks,S.Dinwiddie,Portland Trail Blazers,0.0,0.9090909090909088,Y,0.22727272727272727,0,0.6,1,0.3,0
+12,C.Wood o1.5 Blk,SBK5065,-105,0.53,1.0347619047619048,0,Dallas Mavericks,C.Wood,Portland Trail Blazers,0.0,0.5047619047619047,N,0.3170731707317073,0,0.6,1,0.6,1
+13,C.Wood o1.5 Blk,JoeDellera,-105,0.5,0.9761904761904762,0,Dallas Mavericks,C.Wood,Portland Trail Blazers,0.0,0.4761904761904761,N,0.3170731707317073,0,0.6,1,0.6,1
+14,C.Wood o10.5 Rebs,JoeDellera,-120,0.63,1.155,0,Dallas Mavericks,C.Wood,Portland Trail Blazers,0.0,0.525,Y,0.21951219512195122,0,0.6,1,0.4,0
+15,N.Jokic u25.5 Pts,SBK5065,-107,0.5,0.9672897196261684,0,Denver Nuggets,N.Jokic,Orlando Magic,1.0,0.4672897196261684,Y,0.5384615384615384,1,0.8,1,0.7,1
+16,N.Jokic u25.5 Pts,PropBetGuy,-110,1.0,1.9090909090909087,0,Denver Nuggets,N.Jokic,Orlando Magic,1.0,0.9090909090909088,Y,0.5384615384615384,1,0.8,1,0.7,1
+17,J.Murray o18.5 Pts,HPBasketball,-120,0.6,1.1,0,Denver Nuggets,J.Murray,Orlando Magic,1.0,0.5000000000000001,N,0.4722222222222222,0,0.4,0,0.4,0
+18,M.Porter o2.5 3pt M,JoeDellera,135,0.81,1.9035,0,Denver Nuggets,M.Porter,Orlando Magic,1.0,1.0935,Y,0.5517241379310345,1,0.4,0,0.5,0
+19,S.Bey o16.5 Pts,SBK5065,-125,0.5,0.9,0,Detroit Pistons,S.Bey,New York Knicks,1.0,0.4,Y,0.37209302325581395,0,0.8,1,0.5,0
+20,S.Bey o16.5 Pts,JoeDellera,-115,0.22,0.4113043478260869,0,Detroit Pistons,S.Bey,New York Knicks,1.0,0.1913043478260868,Y,0.37209302325581395,0,0.8,1,0.5,0
+21,S.Bey o16.5 Pts,PropBetGuy,-125,1.0,1.8,0,Detroit Pistons,S.Bey,New York Knicks,1.0,0.8,Y,0.37209302325581395,0,0.8,1,0.5,0
+22,A.Sengun o6.5 Ast,JoeDellera,310,0.2,0.82,0,Houston Rockets,A.Sengun,Los Angeles Clippers,0.0,0.6199999999999999,N,0.10256410256410256,0,0.4,0,0.2,0
+23,A.Sengun o4.5 Ast,JoeDellera,-142,0.7,1.1929577464788732,0,Houston Rockets,A.Sengun,Los Angeles Clippers,0.0,0.4929577464788732,Y,0.2564102564102564,0,0.6,1,0.6,1
+24,T.Jones o15.5 Pts,PropBetGuy,-120,1.0,1.8333333333333333,0,San Antonio Spurs,T.Jones,Sacramento Kings,1.0,0.8333333333333333,Y,0.37209302325581395,0,1.0,1,0.7,1
+25,K.Murray u11.5 Pts,PropBomb,-120,1.2,2.2,0,Sacramento Kings,K.Murray,San Antonio Spurs,0.0,1.0000000000000002,N,0.5,0,0.2,0,0.5,0
+26,D.Melton o1.5 Stl,SBK5065,115,0.5,1.075,0,Philadelphia 76ers,D.Melton,Los Angeles Lakers,0.0,0.575,N,0.5,0,0.4,0,0.4,0
+27,J.Harden o38.5 Pts+Rebs+Ast,PropBetGuy,-120,1.0,1.8333333333333333,0,Philadelphia 76ers,J.Harden,Los Angeles Lakers,0.0,0.8333333333333333,Y,0.6428571428571429,1,1.0,1,0.7,1
+28,R.Westbrook o31.5 Pts+Rebs+Ast,JoeMetz,-120,1.0,1.8333333333333333,0,Los Angeles Lakers,R.Westbrook,Philadelphia 76ers,1.0,0.8333333333333333,Y,0.475,0,1.0,1,0.8,1
