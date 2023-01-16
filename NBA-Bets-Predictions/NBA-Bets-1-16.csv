@@ -1,0 +1,35 @@
+,Unnamed: 0,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit
+0,0,T.McConnell o3.5 Rebs,SBK5065,105,0.53,1.0865,0,Indiana Pacers,T.McConnell,Milwaukee Bucks,0,0.5565
+1,1,T.McConnell o6.5 Rebs,JoeDellera,1125,0.15,1.8375,0,Indiana Pacers,T.McConnell,Milwaukee Bucks,0,1.6875
+2,2,T.McConnell o10.5 Rebs+Ast,JoeDellera,105,0.79,1.6195,0,Indiana Pacers,T.McConnell,Milwaukee Bucks,0,0.8294999999999999
+3,3,T.McConnell o3.5 Rebs,JoeDellera,105,0.79,1.6195,0,Indiana Pacers,T.McConnell,Milwaukee Bucks,0,0.8294999999999999
+4,4,A.Nembhard o5.5 Ast,JoeMetz,-135,1.0,1.7407407407407407,0,Indiana Pacers,A.Nembhard,Milwaukee Bucks,0,0.7407407407407407
+5,5,G.Allen o11.5 Pts,SBK5065,-110,0.5,0.9545454545454546,0,Milwaukee Bucks,G.Allen,Indiana Pacers,1,0.4545454545454546
+6,6,A.Nembhard o15.5 Pts+Ast,SBK5065,-115,0.5,0.934782608695652,0,Indiana Pacers,A.Nembhard,Milwaukee Bucks,0,0.434782608695652
+7,7,A.Nembhard Yes1100 Double-Double,JoeDellera,1100,0.1,1.2000000000000002,0,Indiana Pacers,A.Nembhard,Milwaukee Bucks,0,1.1
+8,8,A.Nembhard o15.5 Pts+Ast,JoeDellera,-125,0.6,1.08,0,Indiana Pacers,A.Nembhard,Milwaukee Bucks,0,0.4800000000000001
+9,9,S.Barnes u15.5 Pts,SBK5065,-120,0.6,1.1,0,Toronto Raptors,S.Barnes,New York Knicks,0,0.5000000000000001
+10,10,M.Robinson o10.5 Rebs,JoeMetz,-105,1.05,2.05,0,New York Knicks,M.Robinson,Toronto Raptors,1,0.9999999999999998
+11,11,J.Brunson o6.5 Ast,GreenDotDaily,-115,1.0,1.869565217391304,0,New York Knicks,J.Brunson,Toronto Raptors,1,0.869565217391304
+12,12,S.Barnes u20.5 Pts+Ast,PropBetGuy,-108,1.08,2.08,0,Toronto Raptors,S.Barnes,New York Knicks,0,1.0
+13,13,J.Brunson Yes575 Double-Double,PropBetGuy,575,0.1,0.675,0,New York Knicks,J.Brunson,Toronto Raptors,1,0.5750000000000001
+14,14,J.Brunson o6.5 Ast,PropBetGuy,100,1.0,2.0,0,New York Knicks,J.Brunson,Toronto Raptors,1,1.0
+15,15,R.Westbrook o34.5 Pts+Rebs+Ast,PropBetGuy,-106,1.06,2.06,0,Los Angeles Lakers,R.Westbrook,Houston Rockets,1,1.0
+16,16,E.Gordon o2.5 Ast,SBK5065,-154,0.5,0.8246753246753247,0,Houston Rockets,E.Gordon,Los Angeles Lakers,0,0.3246753246753247
+17,17,T.Bryant o13.5 Pts,SBK5065,-109,0.55,1.0545871559633029,0,Los Angeles Lakers,T.Bryant,Houston Rockets,1,0.5045871559633028
+18,18,A.Sengun o20.5 Pts+Ast,JoeDellera,-110,0.36,0.6872727272727273,0,Houston Rockets,A.Sengun,Los Angeles Lakers,0,0.32727272727272727
+19,19,A.Sengun o4.5 Ast,JoeDellera,-140,0.29,0.4971428571428571,0,Houston Rockets,A.Sengun,Los Angeles Lakers,0,0.20714285714285713
+20,20,J.Green o24.5 Pts,JoeMetz,-113,1.13,2.13,0,Houston Rockets,J.Green,Los Angeles Lakers,0,1.0
+21,21,J.Green o2.5 3pt M,JoeMetz,-128,1.0,1.78125,0,Houston Rockets,J.Green,Los Angeles Lakers,0,0.78125
+22,22,N.Marshall o24.5 Pts+Rebs+Ast,PropBetGuy,-105,1.05,2.05,0,New Orleans Pelicans,N.Marshall,Cleveland Cavaliers,0,0.9999999999999998
+23,23,N.Marshall o7.5 Rebs+Ast,GreenDotDaily,-135,1.0,1.7407407407407407,0,New Orleans Pelicans,N.Marshall,Cleveland Cavaliers,0,0.7407407407407407
+24,24,D.Garland o6.5 Ast,GreenDotDaily,-150,0.5,0.8333333333333333,0,Cleveland Cavaliers,D.Garland,New Orleans Pelicans,1,0.33333333333333326
+25,25,J.Collins o12.5 Pts,JoeDellera,-106,0.94,1.8267924528301889,0,Atlanta Hawks,J.Collins,Miami Heat,1,0.8867924528301889
+26,26,B.Adebayo u10.5 Rebs,JoeDellera,-105,0.5,0.9761904761904762,0,Miami Heat,B.Adebayo,Atlanta Hawks,0,0.47619047619047616
+27,27,T.Rozier u29.5 Pts+Rebs+Ast,PropBetGuy,-120,1.0,1.8333333333333333,0,Charlotte Hornets,T.Rozier,Boston Celtics,1,0.8333333333333333
+28,28,M.Smart o21.5 Pts+Ast,SBK5065,-104,0.52,1.02,0,Boston Celtics,M.Smart,Charlotte Hornets,0,0.5
+29,29,M.Smart o25.5 Pts+Rebs+Ast,JoeMetz,-105,1.05,2.05,0,Boston Celtics,M.Smart,Charlotte Hornets,0,0.9999999999999998
+30,30,S.Curry o27.5 Pts,SBK5065,-110,0.5,0.9545454545454546,0,Golden State Warriors,S.Curry,Washington Wizards,0,0.4545454545454546
+31,31,K.Kuzma o21.5 Pts,SBK5065,-125,0.63,1.134,0,Washington Wizards,K.Kuzma,Golden State Warriors,1,0.5039999999999999
+32,32,J.Poole o2.5 3pt M,JoeMetz,-131,1.0,1.763358778625954,0,Golden State Warriors,J.Poole,Washington Wizards,0,0.7633587786259539
+33,33,J.Jackson o2.5 Blk,JoeDellera,105,0.53,1.0865,0,Memphis Grizzlies,J.Jackson,Phoenix Suns,1,0.5565
