@@ -1,0 +1,24 @@
+,Play,Expert,Odds,Units,Payout,Net Units Record,Teams,name,opponent,hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,N.Claxton o2.5 Blk,JoeDellera,-115,0.75,1.402173913043478,0.0,Brooklyn Nets,N.Claxton,Los Angeles Lakers,1,0.652173913043478,N,0.5531914893617021,1,0.4,0,0.7,1
+1,K.Irving o4.5 Rebs,JoeDellera,-134,0.5,0.8731343283582089,0.0,Brooklyn Nets,K.Irving,Los Angeles Lakers,1,0.3731343283582089,Y,0.6410256410256411,1,0.8,1,0.7,1
+2,R.O'Neale o9.5 Rebs+Ast,JoeDellera,-118,0.5,0.923728813559322,0.0,Brooklyn Nets,R.O'Neale,Los Angeles Lakers,1,0.423728813559322,N,0.3617021276595745,0,0.0,0,0.2,0
+3,N.Claxton o2.5 Blk,SBK5065,-115,0.58,1.0843478260869563,15.7136,Brooklyn Nets,N.Claxton,Los Angeles Lakers,1,0.5043478260869564,N,0.5531914893617021,1,0.4,0,0.7,1
+4,P.Beverley u1.5 3pt M,SBK5065,-110,1.1,2.1,0.0,Los Angeles Lakers,P.Beverley,Brooklyn Nets,0,1.0,Y,0.6744186046511628,1,0.6,1,0.5,0
+5,D.Schroder o15.5 Pts,SBK5065,-110,0.55,1.05,0.0,Los Angeles Lakers,D.Schroder,Brooklyn Nets,0,0.5,N,0.2631578947368421,0,0.2,0,0.2,0
+6,P.Beverley u7.5 Rebs+Ast,SBK5065,-125,1.25,2.25,0.0,Los Angeles Lakers,P.Beverley,Brooklyn Nets,0,1.0,Y,0.7441860465116279,1,0.8,1,0.9,1
+7,T.Bryant o23.5 Pts+Rebs,JoeMetz,-113,1.13,2.13,-3.0200000000000005,Los Angeles Lakers,T.Bryant,Brooklyn Nets,0,1.0,Y,0.3684210526315789,0,0.4,0,0.2,0
+8,J.Williams o1.5 Stl+Blk,JoeDellera,-120,0.4,0.7333333333333334,18.0977,Oklahoma City Thunder,J.Williams,Golden State Warriors,1,0.3333333333333333,Y,0.890625,1,1.0,1,1.0,1
+9,J.Williams o1.5 Stl+Blk,SBK5065,-120,0.6,1.1,15.7136,Oklahoma City Thunder,J.Williams,Golden State Warriors,1,0.5000000000000001,Y,0.890625,1,1.0,1,1.0,1
+10,D.Green o15.5 Rebs+Ast,JoeMetz,-105,1.05,2.05,-3.0200000000000005,Golden State Warriors,D.Green,Oklahoma City Thunder,0,0.9999999999999998,Y,0.32608695652173914,0,0.8,1,0.8,1
+11,R.Gobert o11.5 Rebs,JoeDellera,-110,1.0,1.9090909090909087,18.0977,Minnesota Timberwolves,R.Gobert,Sacramento Kings,1,0.9090909090909092,Y,0.5555555555555556,1,1.0,1,0.7,1
+12,D.Russell o26.5 Pts+Ast,JoeDellera,-100,0.4,0.8,0.0,Minnesota Timberwolves,D.Russell,Sacramento Kings,1,0.4,N,0.43137254901960786,0,0.4,0,0.6,1
+13,R.Gobert o11.5 Rebs,SBK5065,-118,0.59,1.09,15.7136,Minnesota Timberwolves,R.Gobert,Sacramento Kings,1,0.4999999999999999,Y,0.5555555555555556,1,1.0,1,0.7,1
+14,R.Gobert o11.5 Rebs,PropBetGuy,-115,1.15,2.1499999999999995,0.5900000000000016,Minnesota Timberwolves,R.Gobert,Sacramento Kings,1,0.9999999999999996,Y,0.5555555555555556,1,1.0,1,0.7,1
+15,D.Fox u26.5 Pts,PropBomb,-125,1.25,2.25,-6.132299999999999,Sacramento Kings,D.Fox,Minnesota Timberwolves,0,1.0,N,0.6086956521739131,1,0.4,0,0.6,1
+16,A.Edwards o10.5 Rebs+Ast,JoeMetz,-123,1.23,2.23,-3.0200000000000005,Minnesota Timberwolves,A.Edwards,Sacramento Kings,1,1.0,Y,0.42592592592592593,0,0.8,1,0.6,1
+17,R.Gobert o11.5 Rebs,GreenDotDaily,-125,1.0,1.8,-10.4498,Minnesota Timberwolves,R.Gobert,Sacramento Kings,1,0.8,Y,0.5555555555555556,1,1.0,1,0.7,1
+18,S.Barnes o16.5 Pts,JoeDellera,-105,0.5,0.9761904761904762,18.0977,Toronto Raptors,S.Barnes,Phoenix Suns,0,0.4761904761904761,N,0.48,0,0.6,1,0.6,1
+19,F.VanVleet o19.5 Pts,JoeDellera,-121,0.5,0.9132231404958676,0.0,Toronto Raptors,F.VanVleet,Phoenix Suns,0,0.4132231404958677,Y,0.4772727272727273,0,0.6,1,0.7,1
+20,P.Achiuwa Double-Double (Yes),JoeDellera,190,0.25,0.725,0.0,Toronto Raptors,P.Achiuwa,Phoenix Suns,0,0.475,Y,0.2413793103448276,0,0.8,1,0.5,0
+21,C.Capela Double-Double (Yes),JoeDellera,-100,0.5,1.0,18.0977,Atlanta Hawks,C.Capela,Portland Trail Blazers,0,0.5,Y,0.5833333333333334,1,0.8,1,0.5,0
+22,C.Capela Double-Double (Yes),GreenDotDaily,110,1.0,2.1,-10.4498,Atlanta Hawks,C.Capela,Portland Trail Blazers,0,1.1,Y,0.5833333333333334,1,0.8,1,0.5,0
