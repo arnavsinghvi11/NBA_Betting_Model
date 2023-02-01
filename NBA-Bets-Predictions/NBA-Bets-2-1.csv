@@ -1,0 +1,22 @@
+,Play,Teams,Expert,Odds,Units,Payout,Net Units Record,name,opponent,hmcrt_adv,Profit
+0,J.Grant u28.5 Pts+Rebs+Ast,Portland Trail Blazers,SBK5065,-115,0.58,1.0843478260869563,15.4793,J.Grant,Memphis Grizzlies,0,0.5043478260869564
+1,B.Clarke u6.5 Rebs,Memphis Grizzlies,SBK5065,115,0.5,1.075,0,B.Clarke,Portland Trail Blazers,1,0.575
+2,J.Grant u28.5 Pts+Rebs+Ast,Portland Trail Blazers,PropBetGuy,-115,1.15,2.1499999999999995,-5.03,J.Grant,Memphis Grizzlies,0,0.9999999999999996
+3,A.Simons u20.5 Pts,Portland Trail Blazers,JoeMetz,-118,1.18,2.1799999999999997,0.8100000000000014,A.Simons,Memphis Grizzlies,0,0.9999999999999998
+4,J.Tatum o38.5 Pts+Rebs,Boston Celtics,PropBetGuy,-120,1.2,2.2,-5.03,J.Tatum,Brooklyn Nets,1,1.0000000000000002
+5,K.Irving u5.5 Rebs,Brooklyn Nets,GreenDotDaily,-125,1.0,1.8,-7.731599999999999,K.Irving,Boston Celtics,0,0.8
+6,K.Irving u5.5 Rebs,Brooklyn Nets,ChicagoFlow,-125,1.25,2.25,-8.25,K.Irving,Boston Celtics,0,1.0
+7,J.Poeltl o17.5 Pts+Rebs,San Antonio Spurs,SBK5065,-125,0.63,1.1340000000000001,15.4793,J.Poeltl,Sacramento Kings,1,0.5040000000000001
+8,K.Murray o2.5 3pt M,Sacramento Kings,JoeDellera,-106,0.75,1.4575471698113207,18.479499999999998,K.Murray,San Antonio Spurs,0,0.7075471698113207
+9,D.Fox o25.5 Pts,Sacramento Kings,JoeMetz,-105,1.05,2.05,0.8100000000000014,D.Fox,San Antonio Spurs,0,0.9999999999999998
+10,E.Gordon o15.5 Pts,Houston Rockets,SBK5065,-110,0.55,1.05,15.4793,E.Gordon,Oklahoma City Thunder,1,0.5
+11,A.Sengun o37.5 Pts+Rebs+Ast,Houston Rockets,SBK5065,-110,0.55,1.05,0,A.Sengun,Oklahoma City Thunder,1,0.5
+12,J.Williams o1.5 Stl+Blk,Oklahoma City Thunder,SBK5065,-130,0.65,1.15,0,J.Williams,Houston Rockets,0,0.4999999999999999
+13,E.Gordon o15.5 Pts,Houston Rockets,JoeDellera,-110,0.5,0.9545454545454546,18.479499999999998,E.Gordon,Oklahoma City Thunder,1,0.4545454545454546
+14,E.Gordon o15.5 Pts,Houston Rockets,charliedisturco,-110,0.55,1.05,-0.4457000000000001,E.Gordon,Oklahoma City Thunder,1,0.5
+15,K.Thompson o22.5 Pts,Golden State Warriors,PropBetGuy,-115,1.15,2.1499999999999995,-5.03,K.Thompson,Minnesota Timberwolves,0,0.9999999999999996
+16,P.Achiuwa o9.5 Rebs,Toronto Raptors,JoeDellera,105,0.75,1.5374999999999999,18.479499999999998,P.Achiuwa,Utah Jazz,0,0.7874999999999999
+17,P.Achiuwa o8.5 Rebs,Toronto Raptors,JoeDellera,-124,0.5,0.9032258064516129,0,P.Achiuwa,Utah Jazz,0,0.4032258064516129
+18,P.Achiuwa o9.5 Rebs,Toronto Raptors,PropBetGuy,115,1.0,2.15,-5.03,P.Achiuwa,Utah Jazz,0,1.15
+19,M.Bridges o3.5 Ast,Phoenix Suns,SBK5065,100,0.5,1.0,15.4793,M.Bridges,Atlanta Hawks,1,0.5
+20,T.Young o25.5 Pts,Atlanta Hawks,JoeDellera,-115,1.0,1.8695652173913042,18.479499999999998,T.Young,Phoenix Suns,0,0.8695652173913042
