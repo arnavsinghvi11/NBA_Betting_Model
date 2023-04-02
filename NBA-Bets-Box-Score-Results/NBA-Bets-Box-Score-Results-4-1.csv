@@ -1,0 +1,38 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Luka Dončić,Dallas Mavericks,Miami Heat,0,44.31,42,8,10,2,0,2,.748,.720,.240,0.0,27.0,16.1,30.1,2.3,0.0,34.2,138,130,7.5
+1,Kyrie Irving,Dallas Mavericks,Miami Heat,0,42.30,23,8,3,0,0,1,.643,.618,.235,0.0,8.5,5.1,25.3,0.0,0.0,21.7,132,139,-2.1
+2,Tim Hardaway Jr.,Dallas Mavericks,Miami Heat,0,40.31,31,7,6,0,0,6,.925,.933,.667,0.0,17.8,10.6,24.4,0.0,0.0,21.5,168,137,12.1
+3,Reggie Bullock,Dallas Mavericks,Miami Heat,0,23.17,2,3,2,0,0,0,.200,.200,.800,0.0,10.3,6.2,13.8,0.0,0.0,10.5,75,138,-9.2
+4,Dwight Powell,Dallas Mavericks,Miami Heat,0,17.13,2,1,3,0,1,0,1.000,1.000,.000,10.3,13.9,12.5,6.3,0.0,5.7,5.7,131,134,-5.4
+5,Maxi Kleber,Dallas Mavericks,Miami Heat,0,27.00,8,3,5,1,0,2,1.000,1.000,.750,0.0,22.2,13.3,12.8,1.9,0.0,12.7,109,131,1.3
+6,Josh Green,Dallas Mavericks,Miami Heat,0,21.53,0,0,1,0,0,0,.000,.000,.500,0.0,5.5,3.3,0.0,0.0,0.0,6.7,0,140,-16.6
+7,Christian Wood,Dallas Mavericks,Miami Heat,0,12.31,8,2,1,0,1,2,.800,.800,.600,0.0,9.6,5.7,21.6,0.0,7.8,23.5,127,133,8.3
+8,Jaden Hardy,Dallas Mavericks,Miami Heat,0,6.21,3,0,0,0,0,1,.750,.750,1.000,0.0,0.0,0.0,0.0,0.0,0.0,38.6,45,141,-29.8
+9,Justin Holiday,Dallas Mavericks,Miami Heat,0,4.13,3,0,0,0,0,0,.647,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,26.9,138,141,-6.3
+10,Jimmy Butler,Miami Heat,Dallas Mavericks,1,37.00,35,12,3,1,0,1,.840,.781,.188,0.0,14.4,5.8,52.9,1.4,0.0,25.3,185,128,20.3
+11,Tyler Herro,Miami Heat,Dallas Mavericks,1,36.21,15,3,6,1,0,2,.433,.375,.500,3.3,24.5,11.8,10.3,1.4,0.0,23.9,94,127,-8.1
+12,Max Strus,Miami Heat,Dallas Mavericks,1,30.09,18,1,4,0,0,6,.818,.818,.818,4.0,17.7,9.5,4.5,0.0,0.0,19.4,131,131,2.6
+13,Cody Zeller,Miami Heat,Dallas Mavericks,1,28.37,20,0,8,1,0,0,.698,.692,.077,12.6,31.1,20.0,0.0,1.8,0.0,22.5,148,126,2.0
+14,Gabe Vincent,Miami Heat,Dallas Mavericks,1,26.03,9,2,4,0,0,2,.533,.500,.625,9.2,13.6,11.0,9.3,0.0,0.0,16.3,118,131,-4.1
+15,Caleb Martin,Miami Heat,Dallas Mavericks,1,33.16,8,1,1,1,0,0,1.000,1.000,.000,0.0,5.3,2.2,3.7,1.5,0.0,6.8,149,127,-2.4
+16,Kyle Lowry,Miami Heat,Dallas Mavericks,1,26.56,6,7,4,1,0,0,.294,.125,.625,8.9,13.2,10.6,28.9,1.9,0.0,17.0,113,126,-2.4
+17,Kevin Love,Miami Heat,Dallas Mavericks,1,19.23,18,1,5,1,0,2,.773,.667,.556,6.2,36.7,18.5,7.6,2.6,0.0,31.6,137,124,6.9
+18,Duncan Robinson,Miami Heat,Dallas Mavericks,1,2.15,0,0,1,0,0,0,.000,.000,1.000,0.0,79.0,31.8,0.0,0.0,0.0,20.0,0,129,-33.7
+19,Kawhi Leonard,Los Angeles Clippers,New Orleans Pelicans,0,41.24,40,4,8,0,1,4,.653,.607,.286,3.1,20.3,12.0,18.8,0.0,1.7,35.0,133,133,10.0
+20,Russell Westbrook,Los Angeles Clippers,New Orleans Pelicans,0,39.39,24,9,3,1,1,3,.594,.583,.333,0.0,9.1,4.7,35.0,1.3,1.8,23.7,134,134,5.7
+21,Norman Powell,Los Angeles Clippers,New Orleans Pelicans,0,31.59,12,3,5,1,0,0,.558,.444,.444,4.1,15.0,9.7,12.5,1.6,0.0,23.3,84,132,-10.8
+22,Ivica Zubac,Los Angeles Clippers,New Orleans Pelicans,0,29.36,15,0,6,0,1,0,.868,.833,.000,4.4,20.3,12.6,0.0,0.0,2.4,13.0,183,132,2.9
+23,Nicolas Batum,Los Angeles Clippers,New Orleans Pelicans,0,23.36,2,3,3,0,0,0,.500,.500,.500,5.5,10.2,7.9,15.3,0.0,0.0,3.8,158,137,-1.3
+24,Terance Mann,Los Angeles Clippers,New Orleans Pelicans,0,24.30,6,3,4,1,1,2,.500,.500,.500,15.9,4.9,10.2,15.4,2.1,2.8,12.7,123,133,1.5
+25,Mason Plumlee,Los Angeles Clippers,New Orleans Pelicans,0,18.12,6,1,5,1,0,0,.600,.600,.000,21.4,13.2,17.1,7.7,2.9,0.0,14.6,124,130,-3.9
+26,Robert Covington,Los Angeles Clippers,New Orleans Pelicans,0,15.53,4,1,2,0,0,1,.410,.375,.750,8.2,7.6,7.8,7.8,0.0,0.0,16.4,91,138,-10.8
+27,Bones Hyland,Los Angeles Clippers,New Orleans Pelicans,0,15.11,5,1,1,1,0,1,.357,.357,.571,0.0,7.9,4.1,8.9,3.4,0.0,23.4,75,131,-11.2
+28,Trey Murphy III,New Orleans Pelicans,Los Angeles Clippers,1,38.47,19,1,4,2,2,2,.740,.625,.625,3.1,10.0,6.4,3.3,2.7,4.4,15.8,153,120,6.1
+29,Brandon Ingram,New Orleans Pelicans,Los Angeles Clippers,1,38.44,36,8,4,0,0,0,.647,.565,.000,0.0,13.4,6.4,38.3,0.0,0.0,33.0,145,128,9.8
+30,CJ McCollum,New Orleans Pelicans,Los Angeles Clippers,1,38.09,19,3,1,2,0,1,.503,.472,.278,0.0,3.4,1.6,11.8,2.7,0.0,23.1,113,125,-2.8
+31,Herbert Jones,New Orleans Pelicans,Los Angeles Clippers,1,29.51,12,2,4,1,1,1,.987,.833,.333,0.0,17.4,8.4,8.3,1.7,2.9,9.0,216,121,6.5
+32,Jonas Valančiūnas,New Orleans Pelicans,Los Angeles Clippers,1,28.05,23,0,12,0,1,1,.609,.583,.056,29.9,23.1,26.6,0.0,0.0,3.1,34.5,122,124,-2.5
+33,Larry Nance Jr.,New Orleans Pelicans,Los Angeles Clippers,1,19.55,2,4,6,1,1,0,.167,.167,.000,24.1,13.0,18.8,24.4,2.6,4.3,13.3,109,120,1.7
+34,Josh Richardson,New Orleans Pelicans,Los Angeles Clippers,1,19.04,3,1,4,0,0,1,.375,.375,.750,0.0,27.2,13.1,6.4,0.0,0.0,11.6,76,124,-10.1
+35,Dyson Daniels,New Orleans Pelicans,Los Angeles Clippers,1,14.03,5,0,2,0,0,1,.625,.625,.500,17.1,0.0,8.9,0.0,0.0,0.0,12.6,153,132,0.1
+36,Naji Marshall,New Orleans Pelicans,Los Angeles Clippers,1,13.22,3,2,3,0,0,0,.521,.500,.000,0.0,29.1,14.0,18.7,0.0,0.0,9.5,135,124,-1.1
