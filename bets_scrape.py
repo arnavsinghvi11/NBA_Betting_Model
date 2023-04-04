@@ -129,9 +129,7 @@ class Bets:
             games.append([away_team, home_team])
         bet_entries = []
         #extract current bets for games to be played 
-        for x in live_bets.split(
-                '"real_status":"scheduled","status_display":null,"start_time"'
-        )[1:]:
+        for x in live_bets.split('"real_status":"scheduled","status_display":null,"start_time"')[1:]:
             team = []
             teams = x.split('"full_name":"')
             for t in teams[1:3]:
@@ -142,21 +140,22 @@ class Bets:
                     for j in i.split('},{'):
                         if 'units_net' in j:
                             if 'First' not in j:
-                                if len(j.split('"record":')) > 1:
-                                    bet_entries.append(
-                                        self.preprocessing(
-                                            j,
-                                            i.split(',"picture_url":')
-                                            [0].replace('"', ''), team,
-                                            i.split('"record":')[1].split(
-                                                '"units_net":')[1].split(
-                                                    ',')[0]))
-                                else:
-                                    bet_entries.append(
-                                        self.preprocessing(
-                                            j,
-                                            i.split(',"picture_url":')
-                                            [0].replace('"', ''), team, None))
+                                if "odds:" in j:
+                                    if len(j.split('"record":')) > 1:
+                                        bet_entries.append(
+                                            self.preprocessing(
+                                                j,
+                                                i.split(',"picture_url":')
+                                                [0].replace('"', ''), team,
+                                                i.split('"record":')[1].split(
+                                                    '"units_net":')[1].split(
+                                                        ',')[0]))
+                                    else:
+                                        bet_entries.append(
+                                            self.preprocessing(
+                                                j,
+                                                i.split(',"picture_url":')
+                                                [0].replace('"', ''), team, None))
                         else:
                             if 'units_net' in i and 'play' in i and 'settled_at":null' in i and 'First' not in i:
                                 bet_entries.append(
@@ -165,25 +164,27 @@ class Bets:
                     if 'play' in i:
                         if 'units_net' in i:
                             if 'First' not in i:
-                                if len(i.split('"record":')) > 1:
-                                    bet_entries.append(
-                                        self.preprocessing(
-                                            i,
-                                            i.split(',"picture_url":')
-                                            [0].replace('"', ''), team,
-                                            i.split('"record":')[1].split(
-                                                '"units_net":')[1].split(
-                                                    ',')[0]))
-                                else:
-                                    bet_entries.append(
-                                        self.preprocessing(
-                                            i,
-                                            i.split(',"picture_url":')
-                                            [0].replace('"', ''), team, None))
+                                if "odds:" in j:
+                                    if len(i.split('"record":')) > 1:
+                                        bet_entries.append(
+                                            self.preprocessing(
+                                                i,
+                                                i.split(',"picture_url":')
+                                                [0].replace('"', ''), team,
+                                                i.split('"record":')[1].split(
+                                                    '"units_net":')[1].split(
+                                                        ',')[0]))
+                                    else:
+                                        bet_entries.append(
+                                            self.preprocessing(
+                                                i,
+                                                i.split(',"picture_url":')
+                                                [0].replace('"', ''), team, None))
                         else:
                             if 'units_net' in i and 'play' in i and 'settled_at":null' in i and 'First' not in i:
                                 bet_entries.append(
                                     self.preprocessing(i, None, team, None))
+
         
         #build dataset for today's predictions and remove any duplicate bet entries
         bets = pd.DataFrame(
