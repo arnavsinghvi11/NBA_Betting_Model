@@ -639,6 +639,16 @@
 19,19,D.Powell o19.5 Pts+Rebs,SBK5065,-110,0.55,1.05,0.0,Dallas Mavericks,D.Powell,Utah Jazz,0.0,0.5,N,0.0652173913043478,0,0.2,0,0.1,0
 20,20,S.Dinwiddie o2.5 3pt M,JoeMetz,-125,1.0,1.8,0.0,Dallas Mavericks,S.Dinwiddie,Utah Jazz,0.0,0.8,Y,0.58,1,0.8,1,0.7,1
 21,21,F.VanVleet o20.5 Pts,SBK5065,-115,0.58,1.0843478260869563,0.0,Toronto Raptors,F.VanVleet,Portland Trail Blazers,0.0,0.5043478260869564,N,0.4418604651162791,0,0.6,1,0.6,1
+0,0,J.Duren Double-Double (Yes),PropBomb,-130,1.3,2.3,0.0,Detroit Pistons,J.Duren,Brooklyn Nets,1.0,0.9999999999999998,N,0.2769230769230769,0,0.4,0,0.4,0
+1,1,Q.Grimes o14.5 Pts,SBK5065,100,1.0,2.0,0.0,New York Knicks,Q.Grimes,Indiana Pacers,0.0,1.0,Y,0.2318840579710145,0,0.6,1,0.5,0
+2,2,B.Hield u15.5 Pts+Ast,PropBomb,-125,1.25,2.25,0.0,Indiana Pacers,B.Hield,New York Knicks,1.0,1.0,N,0.2692307692307692,0,0.4,0,0.3,0
+3,3,O.Toppin o19.5 Pts,NicholaskMartin,-115,0.5,0.934782608695652,0.0,New York Knicks,O.Toppin,Indiana Pacers,0.0,0.4347826086956521,Y,0.0307692307692307,0,0.4,0,0.2,0
+4,4,A.Nembhard o13.5 Pts,JoeMetz,100,1.0,2.0,0.0,Indiana Pacers,A.Nembhard,New York Knicks,1.0,1.0,N,0.2191780821917808,0,0.6,1,0.5,0
+5,5,P.Siakam o4.5 Ast,JoeDellera,-130,1.0,1.7692307692307692,0.0,Toronto Raptors,P.Siakam,Boston Celtics,0.0,0.7692307692307692,N,0.7285714285714285,1,0.6,1,0.7,1
+6,6,D.DeRozan o23.5 Pts,JoeDellera,-110,0.5,0.9545454545454546,0.0,Chicago Bulls,D.DeRozan,Milwaukee Bucks,0.0,0.4545454545454546,N,0.547945205479452,1,0.2,0,0.3,0
+7,7,J.Davis o15.5 Pts,PropBomb,-115,1.15,2.1499999999999995,0.0,Washington Wizards,J.Davis,Atlanta Hawks,0.0,0.9999999999999996,Y,0.1153846153846153,0,0.6,1,0.3,0
+8,8,C.McCollum u30.5 Pts+Rebs+Ast,PropBetGuy,-115,1.15,2.1499999999999995,0.0,New Orleans Pelicans,C.McCollum,Memphis Grizzlies,1.0,0.9999999999999996,N,0.4931506849315068,0,0.8,1,0.7,1
+9,9,L.James o25.5 Pts,SBK5065,-118,0.59,1.09,0.0,Los Angeles Lakers,L.James,Los Angeles Clippers,0.0,0.4999999999999999,Y,0.660377358490566,1,0.4,0,0.4,0
 0,0,L.Ball o3.5 3pt M,SBK5065,120,0.5,1.1,0.0,Charlotte Hornets,L.Ball,Chicago Bulls,1.0,0.6000000000000001,N,0.7083333333333334,1,0.4,0,0.6,1
 1,1,L.Ball o3.5 3pt M,JoeDellera,120,0.5,1.1,0.0,Charlotte Hornets,L.Ball,Chicago Bulls,1.0,0.6000000000000001,N,0.7083333333333334,1,0.4,0,0.6,1
 2,2,T.Rozier u29.5 Pts+Rebs+Ast,PropBetGuy,-113,1.13,2.13,0.0,Charlotte Hornets,T.Rozier,Chicago Bulls,1.0,1.0,N,0.4390243902439024,0,0.2,0,0.5,0
