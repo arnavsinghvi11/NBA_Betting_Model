@@ -214,13 +214,6 @@ class Bets:
                 opponents.append(np.NAN)
                 hmcrt_advantages.append(np.NAN)
             else:
-                if name == 'R.Westbrook':
-                    set_teams.append('')
-                    names.append(np.NAN)
-                    opponents.append(np.NAN)
-                    hmcrt_advantages.append(np.NAN) 
-                    print('skipped')
-                    continue
                 if len(set(all_games['name'].values)) == 0:
                     if len(set(matching_name['name'].values)) != 1:
                         set_teams.append('')
