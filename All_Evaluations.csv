@@ -2294,6 +2294,18 @@
 88,88,P.Washington o1.5 3pt M,HPBasketball,178,0.5,1.39,-8.9231,Charlotte Hornets,P.Washington,Chicago Bulls,0.0,0.8899999999999999,N,0.625,1,0.4,0,0.625,1
 89,89,P.Washington o2.5 Ast,HPBasketball,-290,1.1,1.4793103448275864,-8.9231,Charlotte Hornets,P.Washington,Chicago Bulls,0.0,0.3793103448275863,Y,0.375,0,0.4,0,0.375,0
 90,90,P.Washington o14.5 Pts,HPBasketball,-178,1.1,1.717977528089888,-8.9231,Charlotte Hornets,P.Washington,Chicago Bulls,0.0,0.6179775280898878,N,0.5,0,0.6,1,0.5,0
+0,0,B.Hield u23.5 Pts+Rebs+Ast,SBK5065,-125,0.63,1.134,0.0,Indiana Pacers,B.Hield,Detroit Pistons,1.0,0.5040000000000001,N,0.4683544303797468,0,0.6,1,0.6,1
+1,1,B.Hield u23.5 Pts+Rebs+Ast,PropBomb,-125,1.25,2.25,0.0,Indiana Pacers,B.Hield,Detroit Pistons,1.0,1.0,N,0.4683544303797468,0,0.6,1,0.6,1
+2,2,A.Nembhard Double-Double (Yes),JoeDellera,180,0.5,1.4,0.0,Indiana Pacers,A.Nembhard,Detroit Pistons,1.0,0.8999999999999999,Y,0.0675675675675675,0,0.4,0,0.3,0
+3,3,J.Ivey o28.5 Pts+Ast,PropBetGuy,-125,1.25,2.25,0.0,Detroit Pistons,J.Ivey,Indiana Pacers,0.0,1.0,Y,0.1506849315068493,0,0.6,1,0.5,0
+4,4,D.Gafford u22.5 Pts+Rebs+Ast,SBK5065,-115,0.58,1.0843478260869563,0.0,Washington Wizards,D.Gafford,Miami Heat,1.0,0.5043478260869564,N,0.7948717948717948,1,0.2,0,0.6,1
+5,5,D.Gafford u7.5 Rebs,The_Oddsmaker,110,1.0,2.1,0.0,Washington Wizards,D.Gafford,Miami Heat,1.0,1.1,N,0.7307692307692307,1,0.4,0,0.6,1
+6,6,J.Green o24.5 Pts,MikeRandle,-110,0.5,0.9545454545454546,0.0,Houston Rockets,J.Green,Charlotte Hornets,0.0,0.4545454545454546,Y,0.4,0,0.6,1,0.5,0
+7,7,S.Mykhailiuk o4.5 Ast,JoeMetz,125,0.94,2.115,0.0,Charlotte Hornets,S.Mykhailiuk,Houston Rockets,1.0,1.1749999999999998,Y,0.2777777777777778,0,1.0,1,0.5,0
+8,8,T.Young o9.5 Ast,JoeMetz,-110,1.1,2.1,0.0,Atlanta Hawks,T.Young,Philadelphia 76ers,1.0,1.0,Y,0.5616438356164384,1,0.8,1,0.6,1
+9,9,D.White u21.5 Pts+Rebs+Ast,SBK5065,-115,0.58,1.0843478260869563,0.0,Boston Celtics,D.White,Toronto Raptors,1.0,0.5043478260869564,N,0.6296296296296297,1,0.4,0,0.4,0
+10,10,Q.Grimes o24.5 Pts,JoeDellera,360,0.4,1.84,0.0,New York Knicks,Q.Grimes,New Orleans Pelicans,0.0,1.44,N,0.0571428571428571,0,0.4,0,0.3,0
+11,11,K.Thompson o4.5 3pt M,JoeMetz,105,1.0,2.05,0.0,Golden State Warriors,K.Thompson,Sacramento Kings,0.0,1.0499999999999998,Y,0.4117647058823529,0,1.0,1,0.7,1
 0,0,M.Turner u7.5 Rebs,JoeDellera,-118,0.4,0.7389830508474576,22.7172,Indiana Pacers,M.Turner,Chicago Bulls,1.0,0.3389830508474576,Y,0.4878048780487805,0,0.6,1,0.4,0
 1,1,T.McConnell Triple-Double Yes,JoeDellera,2200,0.15,3.45,0.0,Indiana Pacers,T.McConnell,Chicago Bulls,1.0,3.3,N,0.0212765957446808,0,0.2,0,0.1,0
 2,2,A.Nesmith o3.5 Rebs,SBK5065,-124,0.62,1.12,2.9946999999999995,Indiana Pacers,A.Nesmith,Chicago Bulls,1.0,0.4999999999999999,Y,0.4186046511627907,0,0.2,0,0.5,0
