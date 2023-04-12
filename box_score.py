@@ -79,7 +79,10 @@ class BoxScore:
             site_data = helper_functions.site_scrape(link)
             team1 = str(site_data).split('Basic and Advanced Stats Table</caption>')[0].split('sortable stats_table')[1].split('caption>')[1].strip()
             team2 = str(site_data).split('Basic and Advanced Stats Table</caption>')[1].split('Basic and Advanced Stats')[-1].split('caption>')[1].strip()
-            homecourt = re.findall("<strong>[A-z0-9\s]+at[A-z0-9\s]+Box Score,", str(site_data))[0].split(' at ')[1].split(' Box')[0]
+            if len(re.findall("<strong>[A-z0-9\s]+at[A-z0-9\s]+Box Score,", str(site_data))) > 0:
+                homecourt = re.findall("<strong>[A-z0-9\s]+at[A-z0-9\s]+Box Score,", str(site_data))[0].split(' at ')[1].split(' Box')[0]
+            elif len(re.findall("<strong>.+at[A-z0-9\s]+Box Score", str(site_data))) > 0:
+                homecourt = re.findall("<strong>.+at[A-z0-9\s]+Box Score", str(site_data))[0].split(' at ')[1].split(' Box')[0]
             if not data:
                 data = self.extract_box_score('Basic Box Score Stats', site_data, str(site_data).split('Basic and Advanced Stats Table</caption>')[1:][0], team1, team2, self.homecourt_advantage(team1, homecourt))
             else:
