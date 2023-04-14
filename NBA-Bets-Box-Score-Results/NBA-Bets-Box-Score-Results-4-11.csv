@@ -1,0 +1,39 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg
+0,Kyle Anderson,Minnesota Timberwolves,Los Angeles Lakers,0,44.39,12,13,5,4,4,2,.429,.429,.357,3.0,10.6,7.0,51.3,4.5,7.8,19.5,97,98
+1,Mike Conley,Minnesota Timberwolves,Los Angeles Lakers,0,43.46,23,4,4,3,1,6,.933,.909,.727,0.0,10.8,5.7,17.6,3.5,2.0,16.9,133,103
+2,Taurean Prince,Minnesota Timberwolves,Los Angeles Lakers,0,43.09,14,0,3,3,0,4,.636,.636,.636,3.1,5.5,4.3,0.0,3.5,0.0,15.7,85,106
+3,Anthony Edwards,Minnesota Timberwolves,Los Angeles Lakers,0,42.49,9,5,8,1,3,0,.240,.176,.529,3.1,19.3,11.7,19.2,1.2,6.1,25.7,57,103
+4,Karl-Anthony Towns,Minnesota Timberwolves,Los Angeles Lakers,0,41.13,24,5,11,0,3,2,.820,.750,.333,3.2,28.6,16.6,25.0,0.0,6.3,19.5,147,103
+5,Nickeil Alexander-Walker,Minnesota Timberwolves,Los Angeles Lakers,0,23.21,11,2,4,1,0,1,.935,.900,.200,0.0,20.2,10.7,16.9,2.2,0.0,12.2,186,104
+6,Jaylen Nowell,Minnesota Timberwolves,Los Angeles Lakers,0,13.22,9,1,1,0,0,1,.643,.643,.429,0.0,8.8,4.7,19.7,0.0,0.0,32.6,87,113
+7,Jordan McLaughlin,Minnesota Timberwolves,Los Angeles Lakers,0,10.18,0,0,0,1,0,0,.000,.000,.600,0.0,0.0,0.0,0.0,4.9,0.0,32.9,0,105
+8,Nathan Knight,Minnesota Timberwolves,Los Angeles Lakers,0,2.23,0,0,1,0,0,0,.000,.000,1.000,0.0,49.4,26.2,0.0,0.0,0.0,20.3,0,100
+9,LeBron James,Los Angeles Lakers,Minnesota Timberwolves,1,45.18,30,6,10,1,2,3,.672,.643,.286,2.6,26.3,13.8,29.3,1.1,5.6,26.1,114,96
+10,Anthony Davis,Los Angeles Lakers,Minnesota Timberwolves,1,42.40,24,4,15,2,3,0,.555,.526,.053,24.8,18.6,21.9,19.4,2.4,8.9,27.0,107,91
+11,Austin Reaves,Los Angeles Lakers,Minnesota Timberwolves,1,39.24,12,3,6,0,0,1,.419,.346,.385,3.0,16.8,9.5,12.4,0.0,0.0,19.0,83,104
+12,D'Angelo Russell,Los Angeles Lakers,Minnesota Timberwolves,1,23.53,2,8,3,1,1,0,.111,.111,.444,0.0,16.6,7.8,49.6,2.1,5.3,18.1,64,95
+13,Jarred Vanderbilt,Los Angeles Lakers,Minnesota Timberwolves,1,22.13,0,1,3,1,1,0,.000,.000,.500,0.0,17.9,8.4,6.3,2.3,5.7,5.8,19,94
+14,Dennis Schröder,Los Angeles Lakers,Minnesota Timberwolves,1,32.33,21,2,4,1,0,3,.677,.542,.333,0.0,16.3,7.7,10.9,1.5,0.0,21.9,138,100
+15,Rui Hachimura,Los Angeles Lakers,Minnesota Timberwolves,1,26.36,12,1,2,0,0,2,.615,.500,.625,4.4,5.0,4.7,6.2,0.0,0.0,19.1,111,105
+16,Troy Brown Jr.,Los Angeles Lakers,Minnesota Timberwolves,1,17.02,2,2,4,2,0,0,.200,.200,.600,0.0,31.1,14.6,17.8,5.9,0.0,15.2,54,88
+17,Malik Beasley,Los Angeles Lakers,Minnesota Timberwolves,1,13.34,5,0,1,0,0,1,.833,.833,.667,0.0,9.8,4.6,0.0,0.0,0.0,12.8,103,105
+18,Wenyen Gabriel,Los Angeles Lakers,Minnesota Timberwolves,1,1.47,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,106
+19,Dejounte Murray,Atlanta Hawks,Miami Heat,0,36.36,18,6,5,0,1,3,.533,.531,.500,2.4,11.2,6.4,22.0,0.0,2.3,20.7,118,110
+20,Trae Young,Atlanta Hawks,Miami Heat,0,36.32,25,7,8,0,0,1,.569,.472,.444,2.4,19.6,10.3,26.7,0.0,0.0,29.5,112,111
+21,Clint Capela,Atlanta Hawks,Miami Heat,0,28.22,4,1,21,0,2,0,.420,.667,.000,24.6,46.8,34.8,4.1,0.0,5.9,8.1,113,101
+22,De'Andre Hunter,Atlanta Hawks,Miami Heat,0,22.45,6,2,6,0,0,0,.291,.222,.222,3.8,22.4,12.4,10.3,0.0,0.0,19.9,80,110
+23,John Collins,Atlanta Hawks,Miami Heat,0,22.27,10,2,4,0,0,1,.536,.563,.500,11.7,4.5,8.4,11.7,0.0,0.0,16.6,135,114
+24,Saddiq Bey,Atlanta Hawks,Miami Heat,0,33.21,17,0,6,0,1,3,.500,.500,.529,10.5,6.1,8.5,0.0,0.0,2.5,20.4,124,111
+25,Bogdan Bogdanović,Atlanta Hawks,Miami Heat,0,26.07,14,2,2,2,0,2,.589,.545,.727,0.0,7.8,3.6,10.3,3.7,0.0,18.2,141,105
+26,Onyeka Okongwu,Atlanta Hawks,Miami Heat,0,19.38,12,3,4,0,4,0,.872,.833,.000,4.4,15.6,9.6,22.4,0.0,17.2,14.0,190,96
+27,Jalen Johnson,Atlanta Hawks,Miami Heat,0,14.12,10,3,7,3,0,0,.563,.625,.250,18.4,28.8,23.2,36.1,10.3,0.0,33.5,99,87
+28,Bam Adebayo,Miami Heat,Atlanta Hawks,1,41.01,12,4,9,3,2,0,.436,.417,.000,5.0,14.9,10.3,14.1,3.6,4.3,14.9,105,110
+29,Jimmy Butler,Miami Heat,Atlanta Hawks,1,38.29,21,9,4,2,1,0,.440,.316,.053,2.7,6.8,4.9,35.6,2.5,2.3,31.1,96,118
+30,Tyler Herro,Miami Heat,Atlanta Hawks,1,34.47,26,0,6,2,0,2,.565,.565,.391,0.0,15.1,8.1,0.0,2.8,0.0,34.6,86,113
+31,Gabe Vincent,Miami Heat,Atlanta Hawks,1,24.23,6,2,3,0,0,2,.500,.500,1.000,0.0,10.7,5.8,11.2,0.0,0.0,11.0,106,122
+32,Max Strus,Miami Heat,Atlanta Hawks,1,23.58,3,1,5,0,0,1,.300,.300,1.000,0.0,18.2,9.8,5.4,0.0,0.0,9.3,69,117
+33,Kyle Lowry,Miami Heat,Atlanta Hawks,1,32.36,33,5,4,0,0,6,.907,.875,.563,0.0,10.7,5.8,32.3,0.0,0.0,24.9,178,121
+34,Caleb Martin,Miami Heat,Atlanta Hawks,1,28.32,0,2,5,0,0,0,.000,.000,.667,0.0,15.3,8.2,8.6,0.0,0.0,6.2,27,120
+35,Victor Oladipo,Miami Heat,Atlanta Hawks,1,9.15,0,1,0,0,1,0,.000,.000,1.000,0.0,0.0,0.0,13.3,0.0,9.4,4.8,49,123
+36,Cody Zeller,Miami Heat,Atlanta Hawks,1,3.33,2,0,3,0,0,0,.250,.250,.000,86.3,0.0,39.8,0.0,0.0,0.0,50.2,92,125
+37,Kevin Love,Miami Heat,Atlanta Hawks,1,3.26,2,0,0,0,0,0,.500,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,25.9,92,128
