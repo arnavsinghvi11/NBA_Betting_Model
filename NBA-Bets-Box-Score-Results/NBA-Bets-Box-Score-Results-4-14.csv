@@ -1,0 +1,43 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg
+0,Zach LaVine,Chicago Bulls,Miami Heat,0,41.06,15,2,4,1,0,0,.323,.286,.286,0.0,11.1,5.3,8.1,1.3,0.0,33.1,56,112
+1,DeMar DeRozan,Chicago Bulls,Miami Heat,0,40.38,26,9,4,1,0,0,.566,.474,.105,2.6,8.4,5.4,41.9,1.3,0.0,29.6,117,113
+2,Nikola Vučević,Chicago Bulls,Miami Heat,0,34.56,12,1,9,0,0,0,.667,.667,.111,0.0,29.4,14.1,5.0,0.0,0.0,13.8,111,109
+3,Alex Caruso,Chicago Bulls,Miami Heat,0,30.22,16,4,3,1,1,4,.727,.727,.727,0.0,11.3,5.4,23.8,1.7,3.3,17.5,140,109
+4,Patrick Beverley,Chicago Bulls,Miami Heat,0,26.44,0,4,2,0,0,0,.000,.000,.750,3.9,4.3,4.1,20.0,0.0,0.0,7.2,61,117
+5,Coby White,Chicago Bulls,Miami Heat,0,31.19,14,4,5,1,1,4,.700,.700,.600,0.0,18.2,8.7,21.6,1.7,3.2,18.5,112,107
+6,Patrick Williams,Chicago Bulls,Miami Heat,0,17.05,2,0,2,1,0,0,.333,.333,.333,0.0,13.4,6.4,0.0,3.0,0.0,11.3,47,107
+7,Andre Drummond,Chicago Bulls,Miami Heat,0,10.14,6,0,8,0,1,0,.676,.750,.000,30.6,55.8,42.6,0.0,0.0,9.8,20.9,144,95
+8,Ayo Dosunmu,Chicago Bulls,Miami Heat,0,4.46,0,0,0,0,0,0,.000,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,10.1,0,118
+9,Derrick Jones Jr.,Chicago Bulls,Miami Heat,0,2.50,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,119
+10,Jimmy Butler,Miami Heat,Chicago Bulls,1,42.53,31,3,5,2,0,0,.546,.458,.083,2.7,9.7,6.4,17.1,2.4,0.0,32.4,113,98
+11,Tyler Herro,Miami Heat,Chicago Bulls,1,39.10,12,7,8,1,1,0,.466,.417,.417,2.9,18.6,11.1,33.2,1.3,2.3,17.4,105,97
+12,Bam Adebayo,Miami Heat,Chicago Bulls,1,37.23,8,4,17,1,1,0,.319,.111,.000,12.2,36.3,24.8,16.7,1.4,2.4,20.2,77,94
+13,Max Strus,Miami Heat,Chicago Bulls,1,35.59,31,0,6,1,0,7,.794,.719,.750,3.2,14.5,9.1,0.0,1.4,0.0,26.0,152,99
+14,Gabe Vincent,Miami Heat,Chicago Bulls,1,27.07,0,2,2,0,0,0,.000,.000,1.000,0.0,7.7,4.0,11.1,0.0,0.0,6.7,27,103
+15,Caleb Martin,Miami Heat,Chicago Bulls,1,27.05,6,0,5,0,0,1,.615,.625,.500,8.4,11.6,10.1,0.0,0.0,0.0,9.9,113,103
+16,Kyle Lowry,Miami Heat,Chicago Bulls,1,19.46,5,1,4,1,0,1,.500,.500,.600,0.0,21.1,11.0,8.9,2.6,0.0,13.9,88,96
+17,Kevin Love,Miami Heat,Chicago Bulls,1,10.37,9,2,4,1,0,1,.654,.583,.667,10.8,29.5,20.6,49.0,4.9,0.0,29.6,149,89
+18,Luguentz Dort,Oklahoma City Thunder,Minnesota Timberwolves,0,36.15,17,3,8,2,0,4,.571,.571,.571,5.3,20.4,11.9,16.5,2.7,0.0,18.3,118,119
+19,Shai Gilgeous-Alexander,Oklahoma City Thunder,Minnesota Timberwolves,0,35.57,22,3,7,1,3,0,.453,.263,.053,10.7,10.3,10.5,15.8,1.3,7.9,29.4,108,119
+20,Jalen Williams,Oklahoma City Thunder,Minnesota Timberwolves,0,32.23,17,5,4,3,0,4,.723,.700,.800,3.0,11.4,6.7,30.1,4.5,0.0,20.3,115,117
+21,Josh Giddey,Oklahoma City Thunder,Minnesota Timberwolves,0,30.01,6,4,5,1,0,0,.216,.154,.308,3.2,16.4,9.0,22.2,1.6,0.0,22.1,59,123
+22,Jaylin Williams,Oklahoma City Thunder,Minnesota Timberwolves,0,22.46,8,0,6,0,2,2,.800,.800,.800,0.0,32.4,14.2,0.0,0.0,8.3,11.0,119,117
+23,Isaiah Joe,Oklahoma City Thunder,Minnesota Timberwolves,0,21.11,7,1,2,0,1,1,.389,.389,.556,4.5,5.8,5.1,9.0,0.0,4.4,21.7,72,125
+24,Lindy Waters III,Oklahoma City Thunder,Minnesota Timberwolves,0,16.19,5,2,2,1,0,1,.357,.357,.857,11.8,0.0,6.6,22.5,3.0,0.0,23.1,76,123
+25,Aaron Wiggins,Oklahoma City Thunder,Minnesota Timberwolves,0,15.03,4,0,2,0,0,0,.667,.667,.000,6.4,8.2,7.2,0.0,0.0,0.0,8.3,141,128
+26,Dario Šarić,Oklahoma City Thunder,Minnesota Timberwolves,0,12.33,2,0,2,1,0,0,.333,.333,.667,0.0,19.6,8.6,0.0,3.8,0.0,13.3,50,117
+27,Ousmane Dieng,Oklahoma City Thunder,Minnesota Timberwolves,0,7.10,4,0,2,0,0,0,.400,.400,.200,0.0,34.3,15.1,0.0,0.0,0.0,29.2,81,123
+28,Jeremiah Robinson-Earl,Oklahoma City Thunder,Minnesota Timberwolves,0,5.11,3,0,1,0,0,1,1.500,1.500,1.000,0.0,23.7,10.4,0.0,0.0,0.0,8.1,300,125
+29,Tre Mann,Oklahoma City Thunder,Minnesota Timberwolves,0,5.11,0,1,1,0,0,0,,,,0.0,23.7,10.4,28.9,0.0,0.0,24.2,15,125
+30,Anthony Edwards,Minnesota Timberwolves,Oklahoma City Thunder,1,38.56,19,6,10,2,1,3,.500,.500,.421,3.2,22.2,13.9,22.3,2.5,2.5,23.4,106,93
+31,Nickeil Alexander-Walker,Minnesota Timberwolves,Oklahoma City Thunder,1,37.17,12,6,4,3,2,2,.600,.600,.700,0.0,10.3,5.8,21.1,3.9,5.3,14.0,116,93
+32,Rudy Gobert,Minnesota Timberwolves,Oklahoma City Thunder,1,32.35,21,2,10,0,0,0,.612,.545,.000,15.1,17.7,16.6,8.6,0.0,0.0,25.6,126,102
+33,Mike Conley,Minnesota Timberwolves,Oklahoma City Thunder,1,29.46,14,3,3,3,1,2,.902,.833,.667,0.0,9.7,5.4,13.2,4.9,3.3,12.8,164,92
+34,Karl-Anthony Towns,Minnesota Timberwolves,Oklahoma City Thunder,1,29.01,28,3,11,0,3,1,.769,.719,.250,12.7,26.5,20.4,20.0,0.0,10.1,28.8,154,93
+35,Kyle Anderson,Minnesota Timberwolves,Oklahoma City Thunder,1,31.31,11,4,6,0,1,2,.583,.556,.333,3.9,15.2,10.3,16.5,0.0,3.1,17.2,103,102
+36,Taurean Prince,Minnesota Timberwolves,Oklahoma City Thunder,1,20.10,6,4,0,1,0,2,.375,.375,.625,0.0,0.0,0.0,24.9,2.4,0.0,19.4,92,104
+37,Jordan McLaughlin,Minnesota Timberwolves,Oklahoma City Thunder,1,6.58,0,0,1,1,0,0,.000,.000,.000,0.0,13.8,7.7,0.0,6.9,0.0,12.5,0,87
+38,Josh Minott,Minnesota Timberwolves,Oklahoma City Thunder,1,3.53,7,0,0,0,0,1,1.215,1.250,.500,0.0,0.0,0.0,0.0,0.0,0.0,32.2,250,110
+39,Nathan Knight,Minnesota Timberwolves,Oklahoma City Thunder,1,3.53,0,1,2,1,0,0,,,,0.0,49.4,27.8,28.7,12.4,0.0,22.4,28,59
+40,Austin Rivers,Minnesota Timberwolves,Oklahoma City Thunder,1,3.00,2,0,0,0,0,0,1.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,29.0,64,110
+41,Wendell Moore Jr.,Minnesota Timberwolves,Oklahoma City Thunder,1,3.00,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,110
