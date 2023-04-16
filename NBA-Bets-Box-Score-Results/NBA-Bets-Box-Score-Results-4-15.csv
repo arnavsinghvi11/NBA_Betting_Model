@@ -1,0 +1,81 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Dejounte Murray,Atlanta Hawks,Boston Celtics,0,35.56,24,6,8,3,0,0,.448,.400,.240,4.5,18.6,10.4,32.5,4.0,0.0,31.2,101,109,7.0
+1,Trae Young,Atlanta Hawks,Boston Celtics,0,34.45,16,8,3,2,0,1,.380,.306,.278,4.6,3.2,4.0,35.5,2.8,0.0,30.4,78,117,-3.8
+2,De'Andre Hunter,Atlanta Hawks,Boston Celtics,0,29.37,11,0,3,2,0,1,.506,.450,.400,0.0,11.3,4.7,0.0,3.2,0.0,16.2,94,113,-4.1
+3,John Collins,Atlanta Hawks,Boston Celtics,0,29.08,12,1,4,0,2,0,.761,.714,.143,2.7,11.5,6.4,5.5,0.0,6.0,12.3,136,117,1.4
+4,Clint Capela,Atlanta Hawks,Boston Celtics,0,26.32,12,0,8,1,0,0,.750,.750,.000,0.0,33.7,14.1,0.0,1.8,0.0,12.2,145,110,4.3
+5,Bogdan Bogdanović,Atlanta Hawks,Boston Celtics,0,27.40,9,4,4,2,2,2,.431,.400,.700,2.9,12.1,6.7,21.2,3.5,6.3,16.7,95,108,5.0
+6,Saddiq Bey,Atlanta Hawks,Boston Celtics,0,23.51,6,3,4,2,0,1,.436,.417,.667,3.4,14.0,7.8,17.8,4.0,0.0,13.4,94,110,2.2
+7,Onyeka Okongwu,Atlanta Hawks,Boston Celtics,0,19.07,3,0,5,0,0,0,.260,.000,.000,20.9,0.0,12.2,0.0,0.0,0.0,12.2,97,124,-12.9
+8,Jalen Johnson,Atlanta Hawks,Boston Celtics,0,13.24,6,1,6,1,0,0,.300,.300,.200,11.9,33.3,20.9,13.1,3.6,0.0,33.2,69,105,-9.6
+9,Jayson Tatum,Boston Celtics,Atlanta Hawks,1,39.58,25,2,11,0,0,3,.523,.500,.304,0.0,22.0,12.8,8.0,0.0,0.0,27.8,104,99,-1.6
+10,Derrick White,Boston Celtics,Atlanta Hawks,1,38.30,24,7,5,0,2,4,.746,.692,.538,2.9,8.3,6.1,26.2,0.0,3.6,20.1,148,102,12.1
+11,Al Horford,Boston Celtics,Atlanta Hawks,1,38.04,6,2,9,1,2,2,.750,.750,1.000,5.9,14.7,11.0,6.4,1.3,3.7,6.8,114,97,2.3
+12,Jaylen Brown,Boston Celtics,Atlanta Hawks,1,37.01,29,3,12,1,0,2,.596,.565,.261,12.1,17.3,15.1,14.7,1.3,0.0,35.1,104,99,0.6
+13,Marcus Smart,Boston Celtics,Atlanta Hawks,1,32.18,11,7,7,3,2,2,.463,.455,.364,6.9,12.4,10.1,28.9,4.5,4.3,18.4,110,91,8.7
+14,Robert Williams,Boston Celtics,Atlanta Hawks,1,21.40,12,2,8,1,1,0,1.000,1.000,.000,10.3,22.2,17.2,15.4,2.2,3.2,15.8,146,92,11.5
+15,Malcolm Brogdon,Boston Celtics,Atlanta Hawks,1,21.27,5,2,5,0,0,0,.322,.167,.500,5.2,14.9,10.9,11.3,0.0,0.0,15.5,96,102,-7.8
+16,Sam Hauser,Boston Celtics,Atlanta Hawks,1,11.02,0,0,1,0,0,0,.000,.000,1.000,0.0,7.3,4.2,0.0,0.0,0.0,7.8,0,105,-15.5
+17,Julius Randle,New York Knicks,Cleveland Cavaliers,0,33.33,19,4,10,2,0,3,.437,.425,.500,6.5,25.4,16.1,21.2,3.1,0.0,34.6,89,102,-0.7
+18,RJ Barrett,New York Knicks,Cleveland Cavaliers,0,31.04,7,6,4,4,0,1,.272,.208,.417,0.0,13.7,6.9,27.3,6.8,0.0,19.4,87,98,3.4
+19,Jalen Brunson,New York Knicks,Cleveland Cavaliers,0,29.30,27,2,2,2,0,1,.524,.479,.167,3.7,3.6,3.7,17.0,3.6,0.0,39.3,120,108,9.1
+20,Quentin Grimes,New York Knicks,Cleveland Cavaliers,0,26.57,5,1,5,0,1,1,.512,.375,1.000,4.0,15.8,10.0,5.1,0.0,3.4,7.9,141,109,-1.0
+21,Mitchell Robinson,New York Knicks,Cleveland Cavaliers,0,26.06,6,0,8,2,0,0,.600,.600,.000,20.9,12.3,16.5,0.0,4.0,0.0,8.3,154,104,2.8
+22,Josh Hart,New York Knicks,Cleveland Cavaliers,0,32.53,17,2,10,1,0,1,.773,.773,.182,16.6,16.2,16.4,11.5,1.6,0.0,17.1,142,108,7.9
+23,Immanuel Quickley,New York Knicks,Cleveland Cavaliers,0,23.36,3,2,3,0,0,0,.222,.000,.400,0.0,13.6,6.9,11.0,0.0,0.0,17.9,48,113,-15.0
+24,Isaiah Hartenstein,New York Knicks,Cleveland Cavaliers,0,21.54,8,0,5,0,0,0,.840,.667,.000,10.0,14.6,12.3,0.0,0.0,0.0,9.4,191,112,1.9
+25,Obi Toppin,New York Knicks,Cleveland Cavaliers,0,14.27,9,1,4,0,0,1,.922,.875,.500,7.5,22.1,14.9,12.3,0.0,0.0,17.6,158,110,12.9
+26,Donovan Mitchell,Cleveland Cavaliers,New York Knicks,1,43.38,38,8,5,3,1,6,.582,.567,.533,2.4,10.0,6.2,42.7,3.6,1.9,35.9,122,109,18.9
+27,Darius Garland,Cleveland Cavaliers,New York Knicks,1,43.13,17,1,0,4,1,2,.594,.615,.308,0.0,0.0,0.0,3.9,4.9,1.9,20.2,84,111,-1.0
+28,Jarrett Allen,Cleveland Cavaliers,New York Knicks,1,42.52,14,4,14,0,0,0,.788,.750,.000,7.5,28.0,17.6,15.3,0.0,0.0,10.4,157,109,5.5
+29,Evan Mobley,Cleveland Cavaliers,New York Knicks,1,37.42,8,2,11,1,0,0,.308,.308,.000,14.1,17.4,15.7,8.2,1.4,0.0,18.0,79,111,-6.6
+30,Isaac Okoro,Cleveland Cavaliers,New York Knicks,1,22.41,6,2,3,0,0,0,.387,.167,.667,9.4,4.8,7.1,12.5,0.0,0.0,15.5,110,121,-4.6
+31,Cedi Osman,Cleveland Cavaliers,New York Knicks,1,18.45,9,2,1,0,0,2,.922,1.000,.750,0.0,5.8,2.9,18.1,0.0,0.0,14.2,147,120,5.8
+32,Caris LeVert,Cleveland Cavaliers,New York Knicks,1,18.11,3,1,1,0,0,0,.190,.143,.429,0.0,6.0,3.0,7.9,0.0,0.0,22.1,45,120,-18.0
+33,Dean Wade,Cleveland Cavaliers,New York Knicks,1,7.27,2,0,1,0,0,0,.532,.000,1.000,0.0,14.6,7.2,0.0,0.0,0.0,11.4,125,116,-2.5
+34,Ricky Rubio,Cleveland Cavaliers,New York Knicks,1,5.31,0,0,2,1,0,0,.000,.000,.000,0.0,39.5,19.6,0.0,9.6,0.0,24.6,0,81,-25.0
+35,Spencer Dinwiddie,Brooklyn Nets,Philadelphia 76ers,0,36.23,14,7,3,2,0,1,.493,.458,.417,0.0,9.0,5.4,28.5,3.0,0.0,25.1,97,135,-6.1
+36,Mikal Bridges,Brooklyn Nets,Philadelphia 76ers,0,34.26,30,1,5,0,1,2,.759,.722,.222,0.0,15.8,9.5,6.3,0.0,3.0,33.2,126,138,3.8
+37,Nic Claxton,Brooklyn Nets,Philadelphia 76ers,0,30.11,5,1,10,0,3,0,.512,.500,.000,5.5,32.5,21.8,4.4,0.0,10.4,8.1,123,126,-1.2
+38,Cameron Johnson,Brooklyn Nets,Philadelphia 76ers,0,27.22,18,2,4,0,0,4,.818,.818,.545,6.0,12.0,9.6,13.1,0.0,0.0,23.9,133,141,3.6
+39,Dorian Finney-Smith,Brooklyn Nets,Philadelphia 76ers,0,17.38,6,0,1,0,0,2,1.000,1.000,.667,9.4,0.0,3.7,0.0,0.0,0.0,11.4,135,146,-0.1
+40,Royce O'Neale,Brooklyn Nets,Philadelphia 76ers,0,27.56,4,6,3,1,0,0,.400,.400,.600,0.0,11.7,7.1,29.0,1.9,0.0,12.6,99,136,-3.5
+41,Day'Ron Sharpe,Brooklyn Nets,Philadelphia 76ers,0,17.24,6,4,6,0,1,0,.773,.667,.000,19.0,25.1,22.7,33.0,0.0,6.0,17.0,136,132,6.0
+42,Seth Curry,Brooklyn Nets,Philadelphia 76ers,0,16.19,10,1,0,0,0,2,1.000,1.000,.600,0.0,0.0,0.0,10.8,0.0,0.0,18.5,150,146,6.1
+43,Joe Harris,Brooklyn Nets,Philadelphia 76ers,0,14.01,3,0,2,0,0,1,.500,.500,1.000,0.0,15.6,9.4,0.0,0.0,0.0,17.9,54,140,-15.2
+44,Yuta Watanabe,Brooklyn Nets,Philadelphia 76ers,0,4.43,3,0,1,0,0,1,.521,.750,1.000,0.0,23.1,13.9,0.0,0.0,0.0,41.3,62,136,-15.1
+45,David Duke Jr.,Brooklyn Nets,Philadelphia 76ers,0,4.43,2,0,0,0,0,0,.333,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,42.6,48,146,-37.3
+46,Edmond Sumner,Brooklyn Nets,Philadelphia 76ers,0,4.27,0,1,0,0,0,0,,,,0.0,0.0,0.0,27.7,0.0,0.0,0.0,233,146,0.2
+47,Cam Thomas,Brooklyn Nets,Philadelphia 76ers,0,4.27,0,0,0,0,0,0,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,11.3,0,146,-20.1
+48,James Harden,Philadelphia 76ers,Brooklyn Nets,1,36.05,23,13,4,1,0,7,.548,.548,.619,3.0,13.8,7.3,55.1,1.5,0.0,32.0,121,119,2.8
+49,Joel Embiid,Philadelphia 76ers,Brooklyn Nets,1,33.02,26,3,5,1,2,1,.655,.500,.267,6.6,15.0,10.0,13.7,1.6,7.1,30.5,138,114,3.3
+50,Tyrese Maxey,Philadelphia 76ers,Brooklyn Nets,1,32.38,13,3,6,3,0,3,.666,.563,.625,3.3,25.4,12.1,11.7,5.0,0.0,13.8,160,110,4.5
+51,Tobias Harris,Philadelphia 76ers,Brooklyn Nets,1,28.42,21,4,4,0,1,3,.750,.750,.214,7.6,11.5,9.2,24.8,0.0,4.1,24.1,149,120,8.9
+52,P.J. Tucker,Philadelphia 76ers,Brooklyn Nets,1,25.00,6,2,7,5,0,2,.500,.500,.833,21.8,13.2,18.4,10.1,10.9,0.0,11.1,155,99,11.9
+53,De'Anthony Melton,Philadelphia 76ers,Brooklyn Nets,1,22.16,6,5,3,1,0,2,.333,.333,.778,4.9,14.9,8.9,28.6,2.4,0.0,18.6,115,117,-3.7
+54,Georges Niang,Philadelphia 76ers,Brooklyn Nets,1,19.50,8,0,0,0,0,2,.800,.800,.800,0.0,0.0,0.0,0.0,0.0,0.0,11.6,152,124,-5.3
+55,Jalen McDaniels,Philadelphia 76ers,Brooklyn Nets,1,16.54,5,2,4,0,0,1,1.250,1.250,.500,0.0,39.2,15.6,15.6,0.0,0.0,5.5,250,120,5.2
+56,Paul Reed,Philadelphia 76ers,Brooklyn Nets,1,12.53,11,0,4,2,0,0,.854,.833,.000,16.9,25.7,20.4,0.0,8.4,0.0,26.6,147,102,7.0
+57,Shake Milton,Philadelphia 76ers,Brooklyn Nets,1,3.15,2,0,0,1,0,0,1.000,1.000,.000,0.0,0.0,0.0,0.0,16.7,0.0,14.2,200,87,22.9
+58,Danuel House Jr.,Philadelphia 76ers,Brooklyn Nets,1,2.32,0,0,1,0,0,0,.000,.000,1.000,0.0,65.3,26.0,0.0,0.0,0.0,18.2,0,118,-27.3
+59,Furkan Korkmaz,Philadelphia 76ers,Brooklyn Nets,1,2.24,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,124,-10.3
+60,Jaden Springer,Philadelphia 76ers,Brooklyn Nets,1,2.24,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,124,-10.8
+61,Montrezl Harrell,Philadelphia 76ers,Brooklyn Nets,1,2.05,0,0,0,0,0,0,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,22.1,0,124,-34.7
+62,Stephen Curry,Golden State Warriors,Sacramento Kings,0,37.25,30,2,6,0,0,6,.718,.700,.700,3.1,13.1,8.5,8.9,0.0,0.0,28.4,108,125,-0.3
+63,Klay Thompson,Golden State Warriors,Sacramento Kings,0,37.04,21,5,6,1,0,5,.553,.553,.737,0.0,15.9,8.5,19.8,1.2,0.0,22.2,113,121,1.2
+64,Draymond Green,Golden State Warriors,Sacramento Kings,0,33.26,4,11,9,2,1,0,.340,.200,.200,6.8,20.5,14.2,38.0,2.8,2.2,10.9,109,115,2.8
+65,Kevon Looney,Golden State Warriors,Sacramento Kings,0,32.13,8,2,9,1,1,0,.862,1.000,.000,7.1,21.3,14.7,7.4,1.4,2.3,5.9,192,117,1.1
+66,Donte DiVincenzo,Golden State Warriors,Sacramento Kings,0,19.48,10,4,3,0,0,2,.850,.800,.800,5.8,9.9,8.0,27.1,0.0,0.0,14.3,158,127,4.9
+67,Andrew Wiggins,Golden State Warriors,Sacramento Kings,0,28.12,17,1,3,0,4,1,.479,.469,.500,8.1,3.5,5.6,5.5,0.0,10.3,25.9,105,124,-1.5
+68,Jordan Poole,Golden State Warriors,Sacramento Kings,0,21.43,17,3,1,0,1,2,.629,.500,.500,0.0,4.5,2.4,19.4,0.0,3.3,27.5,129,127,3.4
+69,Gary Payton II,Golden State Warriors,Sacramento Kings,0,20.24,8,2,4,2,0,0,.571,.571,.286,5.6,14.4,10.3,14.0,4.5,0.0,18.1,98,115,-2.3
+70,Jonathan Kuminga,Golden State Warriors,Sacramento Kings,0,9.45,8,1,0,1,0,0,.546,.500,.333,0.0,0.0,0.0,17.4,4.7,0.0,39.3,87,120,-9.0
+71,De'Aaron Fox,Sacramento Kings,Golden State Warriors,1,40.25,38,5,1,3,0,4,.589,.556,.296,2.4,0.0,1.3,20.8,3.4,0.0,33.5,124,119,7.9
+72,Harrison Barnes,Sacramento Kings,Golden State Warriors,1,36.24,13,2,7,3,0,1,.547,.500,.273,10.8,9.4,10.1,7.1,3.8,0.0,12.5,142,116,5.1
+73,Domantas Sabonis,Sacramento Kings,Golden State Warriors,1,34.53,12,2,16,3,0,0,.320,.294,.059,14.0,36.0,24.2,7.4,4.0,0.0,25.0,76,110,-8.7
+74,Kevin Huerter,Sacramento Kings,Golden State Warriors,1,30.58,6,2,5,0,1,0,.250,.250,.417,0.0,18.5,8.5,7.9,0.0,3.9,14.9,73,121,-10.1
+75,Keegan Murray,Sacramento Kings,Golden State Warriors,1,15.50,2,0,4,0,0,0,.200,.200,.600,12.4,14.4,13.3,0.0,0.0,0.0,12.1,76,123,-12.1
+76,Malik Monk,Sacramento Kings,Golden State Warriors,1,28.51,32,2,3,0,0,2,.835,.692,.308,3.4,7.9,5.5,10.8,0.0,0.0,28.1,165,125,11.9
+77,Davion Mitchell,Sacramento Kings,Golden State Warriors,1,21.47,3,4,1,1,1,1,.500,.500,.667,0.0,5.2,2.4,21.1,2.1,5.5,8.8,92,118,-0.9
+78,Trey Lyles,Sacramento Kings,Golden State Warriors,1,17.57,16,1,6,0,0,4,1.000,1.000,.750,10.9,25.5,17.6,9.6,0.0,0.0,17.1,206,121,18.8
+79,Alex Len,Sacramento Kings,Golden State Warriors,1,12.55,4,0,7,0,1,0,1.000,1.000,.000,15.2,44.2,28.6,0.0,0.0,9.3,11.9,102,112,-3.2
