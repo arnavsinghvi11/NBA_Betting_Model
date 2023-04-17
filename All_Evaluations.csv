@@ -397,6 +397,17 @@
 9,9,J.Wall o13.5 Pts,PropBomb,-106,1.06,2.06,11.6,Los Angeles Clippers,J.Wall,Miami Heat,0.0,1.0,N,0.380952381,0,0.2,0,0.2,0
 10,10,J.Smith o2.5 3pt M,JoeDellera,111,0.56,1.1816,1.6,Houston Rockets,J.Smith,San Antonio Spurs,0.0,0.6216,Y,0.458333333,0,0.8,1,0.8,1
 11,11,J.Hart o7.5 Rebs,PropBetGuy,120,1.0,2.2,-9.6,Portland Trail Blazers,J.Hart,Denver Nuggets,1.0,1.2,N,0.47826087,0,0.4,0,0.4,0
+0,0,G.Antetokounmpo o11.5 Rebs,JoeDellera,-130,1.0,1.7692307692307692,0.0,Milwaukee Bucks,G.Antetokounmpo,Miami Heat,1.0,0.7692307692307692,N,0.546875,1,0.4,0,0.4,0
+1,1,G.Antetokounmpo o11.5 Rebs,SBK5065,-130,0.65,1.15,0.0,Milwaukee Bucks,G.Antetokounmpo,Miami Heat,1.0,0.4999999999999999,N,0.546875,1,0.4,0,0.4,0
+2,2,T.Herro o19.5 Pts,PropBomb,-122,1.22,2.22,0.0,Miami Heat,T.Herro,Milwaukee Bucks,0.0,1.0000000000000002,N,0.5142857142857142,1,0.4,0,0.4,0
+3,3,J.Holiday o6.5 Ast,VegasRefund,-125,1.25,2.25,0.0,Milwaukee Bucks,J.Holiday,Miami Heat,1.0,1.0,Y,0.6470588235294118,1,0.6,1,0.8,1
+4,4,J.Butler u25.5 Pts,PropBetGuy,-120,1.2,2.2,0.0,Miami Heat,J.Butler,Milwaukee Bucks,0.0,1.0000000000000002,N,0.6119402985074627,1,0.4,0,0.4,0
+5,5,N.Batum o2.5 3pt M,JoeDellera,440,0.15,0.81,0.0,Los Angeles Clippers,N.Batum,Phoenix Suns,0.0,0.66,N,0.2278481012658227,0,0.2,0,0.4,0
+6,6,N.Batum o1.5 3pt M,SBK5065,110,0.5,1.05,0.0,Los Angeles Clippers,N.Batum,Phoenix Suns,0.0,0.55,N,0.3670886075949367,0,0.2,0,0.4,0
+7,7,N.Batum o1.5 3pt M,GDAWG5000,110,0.5,1.05,0.0,Los Angeles Clippers,N.Batum,Phoenix Suns,0.0,0.55,N,0.3670886075949367,0,0.2,0,0.4,0
+8,8,D.Booker o5.5 Ast,JoeMetz,112,0.98,2.0776,0.0,Phoenix Suns,D.Booker,Los Angeles Clippers,1.0,1.0976,N,0.4259259259259259,0,0.6,1,0.3,0
+9,9,N.Jokic u22.5 Rebs+Ast,JoeDellera,-120,1.0,1.8333333333333333,0.0,Denver Nuggets,N.Jokic,Minnesota Timberwolves,1.0,0.8333333333333335,Y,0.6285714285714286,1,0.8,1,0.8,1
+10,10,N.Jokic o1.5 3pt M,GDAWG5000,370,0.2,0.94,0.0,Denver Nuggets,N.Jokic,Minnesota Timberwolves,1.0,0.74,N,0.2142857142857142,0,0.0,0,0.1,0
 0,0,S.Dinwiddie u26.5 Pts+Rebs+Ast,SBK5065,-113,0.57,1.074424778761062,23.7555,Dallas Mavericks,S.Dinwiddie,Orlando Magic,0.0,0.504424778761062,N,0.6,1,0.4,0,0.6,1
 1,1,S.Dinwiddie u18.5 Pts,SBK5065,-122,1.22,2.22,23.7555,Dallas Mavericks,S.Dinwiddie,Orlando Magic,0.0,1.0000000000000002,N,0.5,0,0.4,0,0.5,0
 2,2,S.Dinwiddie u3.5 Rebs,SBK5065,-110,0.55,1.05,23.7555,Dallas Mavericks,S.Dinwiddie,Orlando Magic,0.0,0.5,N,0.6,1,0.2,0,0.6,1
