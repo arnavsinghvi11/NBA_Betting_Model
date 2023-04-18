@@ -1055,6 +1055,17 @@
 5,5,K.Kuzma o33.5 Pts+Rebs+Ast,JoeDellera,-121,0.35,0.6392561983471073,0.0,Washington Wizards,K.Kuzma,Los Angeles Clippers,0.0,0.2892561983471073,N,0.4482758620689655,0,0.4,0,0.4,0
 6,6,K.Leonard o6.5 Rebs,PropBomb,-122,1.0,1.819672131147541,0.0,Los Angeles Clippers,K.Leonard,Washington Wizards,1.0,0.819672131147541,Y,0.5454545454545454,1,1.0,1,0.5,0
 7,7,J.Green o23.5 Pts,PropBetGuy,-104,1.04,2.04,0.0,Houston Rockets,J.Green,Portland Trail Blazers,1.0,1.0,N,0.3793103448275862,0,0.4,0,0.4,0
+0,0,S.Dinwiddie o1.5 3pt M,SBK5065,-140,0.7,1.2,0.0,Brooklyn Nets,S.Dinwiddie,Philadelphia 76ers,0.0,0.5,N,0.5,0,0.2,0,0.4,0
+1,1,T.Maxey o6.5 Rebs+Ast,VegasRefund,-120,1.2,2.2,0.0,Philadelphia 76ers,T.Maxey,Brooklyn Nets,1.0,1.0000000000000002,N,0.4838709677419355,0,0.2,0,0.6,1
+2,2,P.Tucker o1.5 3pt M,charliedisturco,490,0.5,2.95,0.0,Philadelphia 76ers,P.Tucker,Brooklyn Nets,1.0,2.45,N,0.1948051948051948,0,0.4,0,0.3,0
+3,3,J.Harden u15.5 Pts,wheatonbrando,280,0.5,1.9,0.0,Philadelphia 76ers,J.Harden,Brooklyn Nets,1.0,1.4,Y,0.2333333333333333,0,0.6,1,0.6,1
+4,4,P.Tucker o1.5 3pt M,AnthonyDabbundo,480,0.5,2.9,0.0,Philadelphia 76ers,P.Tucker,Brooklyn Nets,1.0,2.4,N,0.1948051948051948,0,0.4,0,0.3,0
+5,5,P.Tucker o1.5 3pt M,GDAWG5000,450,0.1,0.55,0.0,Philadelphia 76ers,P.Tucker,Brooklyn Nets,1.0,0.45,N,0.1948051948051948,0,0.4,0,0.3,0
+6,6,D.Fox o33.5 Pts+Ast,JoeDellera,-111,0.8,1.520720720720721,0.0,Sacramento Kings,D.Fox,Golden State Warriors,1.0,0.7207207207207209,N,0.44,0,0.4,0,0.3,0
+7,7,J.Poole u16.5 Pts,SBK5065,-120,0.6,1.1,0.0,Golden State Warriors,J.Poole,Sacramento Kings,0.0,0.5000000000000001,Y,0.3333333333333333,0,0.4,0,0.2,0
+8,8,S.Curry o4.5 3pt M,VegasRefund,-140,1.4,2.4,0.0,Golden State Warriors,S.Curry,Sacramento Kings,0.0,1.0,N,0.5172413793103449,1,0.6,1,0.5,0
+9,9,A.Wiggins Double-Double (Yes),GDAWG5000,1000,0.1,1.1,0.0,Golden State Warriors,A.Wiggins,Sacramento Kings,0.0,1.0,N,0.0769230769230769,0,0.2,0,0.1,0
+10,10,D.Green o15.5 Rebs+Ast,JoeMetz,-106,1.06,2.06,0.0,Golden State Warriors,D.Green,Sacramento Kings,0.0,1.0,N,0.3466666666666667,0,0.2,0,0.5,0
 0,0,S.Barnes o0.5 Blk,JoeDellera,-130,0.5,0.8846153846153846,1.422,Toronto Raptors,S.Barnes,Orlando Magic,0.0,0.3846153846153846,N,0.6086956521739131,1,0.4,0,0.7,1
 1,1,P.Siakam Yes Triple-Double,JoeDellera,1200,0.12,1.56,1.422,Toronto Raptors,P.Siakam,Orlando Magic,0.0,1.44,N,0.125,0,0.0,0,0.1,0
 2,2,F.Wagner o2.5 Ast,SBK5065,-105,0.53,1.0347619047619048,8.4506,Orlando Magic,F.Wagner,Toronto Raptors,1.0,0.5047619047619047,N,0.6666666666666666,1,0.2,0,0.3,0
