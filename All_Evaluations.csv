@@ -262,6 +262,22 @@
 11,11,J.Tatum o3.5 3pt M,GDAWG5000,105,0.5,1.025,2.3123,Boston Celtics,J.Tatum,Houston Rockets,0.0,0.5249999999999999,N,0.40625,0,0.6,1,0.5,0
 12,12,D.Ayton o20.5 Pts+Ast,MrTuttle05,-106,1.06,2.06,4.74,Phoenix Suns,D.Ayton,Golden State Warriors,0.0,1.0,Y,0.4576271186440678,0,0.4,0,0.4,0
 13,13,D.Green o13.5 Rebs+Ast,JoeDellera,-130,0.75,1.3269230769230769,-6.4125000000000005,Golden State Warriors,D.Green,Phoenix Suns,1.0,0.5769230769230769,N,0.5573770491803278,1,0.2,0,0.4,0
+0,0,A.Horford o18.5 Pts+Rebs+Ast,SBK5065,-125,0.63,1.134,0.0,Boston Celtics,A.Horford,Atlanta Hawks,1.0,0.5040000000000001,N,0.4615384615384615,0,0.6,1,0.6,1
+1,1,A.Horford o18.5 Pts+Rebs+Ast,JoeDellera,-125,0.4,0.7200000000000001,0.0,Boston Celtics,A.Horford,Atlanta Hawks,1.0,0.32,N,0.4615384615384615,0,0.6,1,0.6,1
+2,2,A.Horford o18.5 Pts+Rebs+Ast,VegasRefund,-120,1.2,2.2,0.0,Boston Celtics,A.Horford,Atlanta Hawks,1.0,1.0000000000000002,N,0.4615384615384615,0,0.6,1,0.6,1
+3,3,D.Murray Double-Double (Yes),GDAWG5000,1225,0.1,1.3250000000000002,0.0,Atlanta Hawks,D.Murray,Boston Celtics,0.0,1.225,N,0.1038961038961039,0,0.0,0,0.0,0
+4,4,M.Robinson u10.5 Rebs,SBK5065,-135,0.68,1.1837037037037037,0.0,New York Knicks,M.Robinson,Cleveland Cavaliers,0.0,0.5037037037037037,Y,0.639344262295082,1,0.4,0,0.5,0
+5,5,J.Brunson o33.5 Pts+Rebs+Ast,JoeDellera,-115,0.5,0.934782608695652,0.0,New York Knicks,J.Brunson,Cleveland Cavaliers,0.0,0.4347826086956521,N,0.4857142857142857,0,0.4,0,0.5,0
+6,6,M.Robinson u10.5 Rebs,PropBomb,-133,1.33,2.33,0.0,New York Knicks,M.Robinson,Cleveland Cavaliers,0.0,1.0,Y,0.639344262295082,1,0.4,0,0.5,0
+7,7,M.Robinson o10.5 Rebs,GreenDotDaily,-103,1.0,1.970873786407767,0.0,New York Knicks,M.Robinson,Cleveland Cavaliers,0.0,0.970873786407767,N,0.360655737704918,0,0.6,1,0.5,0
+8,8,D.Garland Double-Double (Yes),charliedisturco,400,0.5,2.5,0.0,Cleveland Cavaliers,D.Garland,New York Knicks,1.0,2.0,N,0.2535211267605634,0,0.2,0,0.1,0
+9,9,D.Garland Double-Double (Yes),GDAWG5000,410,0.3,1.5299999999999998,0.0,Cleveland Cavaliers,D.Garland,New York Knicks,1.0,1.2299999999999998,N,0.2535211267605634,0,0.2,0,0.1,0
+10,10,J.Randle u24.5 Pts,PropBetGuy,-110,1.1,2.1,0.0,New York Knicks,J.Randle,Cleveland Cavaliers,0.0,1.0,Y,0.5316455696202531,1,0.8,1,0.7,1
+11,11,R.Westbrook o16.5 Pts,charliedisturco,-125,1.25,2.25,0.0,Los Angeles Clippers,R.Westbrook,Phoenix Suns,0.0,1.0,Y,0.391304347826087,0,0.6,1,0.5,0
+12,12,C.Paul u13.5 Pts,MikeRandle,-111,1.0,1.900900900900901,0.0,Phoenix Suns,C.Paul,Los Angeles Clippers,1.0,0.900900900900901,N,0.4262295081967213,0,0.2,0,0.4,0
+13,13,R.Westbrook o16.5 Pts,VegasRefund,-122,1.22,2.22,0.0,Los Angeles Clippers,R.Westbrook,Phoenix Suns,0.0,1.0000000000000002,Y,0.391304347826087,0,0.6,1,0.5,0
+14,14,K.Leonard Double-Double (Yes),GDAWG5000,310,0.3,1.2299999999999998,0.0,Los Angeles Clippers,K.Leonard,Phoenix Suns,0.0,0.9299999999999996,N,0.074074074074074,0,0.2,0,0.1,0
+15,15,D.Ayton u28.5 Pts+Rebs+Ast,PropBetGuy,-120,1.2,2.2,0.0,Phoenix Suns,D.Ayton,Los Angeles Clippers,1.0,1.0000000000000002,Y,0.4492753623188406,0,0.6,1,0.8,1
 0,0,N.Claxton o2.5 Blk,JoeDellera,-115,0.75,1.402173913043478,0.0,Brooklyn Nets,N.Claxton,Los Angeles Lakers,1.0,0.652173913043478,N,0.5531914893617021,1,0.4,0,0.7,1
 1,1,K.Irving o4.5 Rebs,JoeDellera,-134,0.5,0.8731343283582089,0.0,Brooklyn Nets,K.Irving,Los Angeles Lakers,1.0,0.3731343283582089,Y,0.6410256410256411,1,0.8,1,0.7,1
 2,2,R.O'Neale o9.5 Rebs+Ast,JoeDellera,-118,0.5,0.923728813559322,0.0,Brooklyn Nets,R.O'Neale,Los Angeles Lakers,1.0,0.423728813559322,N,0.3617021276595745,0,0.0,0,0.2,0
