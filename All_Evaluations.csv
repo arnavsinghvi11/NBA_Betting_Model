@@ -1394,6 +1394,9 @@
 19,21,K.Towns o17.5 Pts,PropBomb,-123,1.23,2.23,10.4331,Minnesota Timberwolves,K.Towns,Phoenix Suns,0.0,1.0,Y,0.7083333333333334,1,0.6,1,0.7,1
 20,22,S.Sharpe o20.5 Pts,SBK5065,-120,0.6,1.1,19.1421,Portland Trail Blazers,S.Sharpe,Sacramento Kings,1.0,0.5000000000000001,Y,0.0533333333333333,0,0.8,1,0.4,0
 21,23,S.Sharpe o20.5 Pts,PropBomb,-120,1.2,2.2,10.4331,Portland Trail Blazers,S.Sharpe,Sacramento Kings,1.0,1.0000000000000002,Y,0.0533333333333333,0,0.8,1,0.4,0
+0,0,D.Booker o4.5 Ast,SBK5065,-140,1.0,1.7142857142857144,0.0,Phoenix Suns,D.Booker,Los Angeles Clippers,0.0,0.7142857142857144,Y,0.6842105263157895,1,0.6,1,0.7,1
+1,1,D.Booker o4.5 Ast,JoeDellera,-140,1.0,1.7142857142857144,0.0,Phoenix Suns,D.Booker,Los Angeles Clippers,0.0,0.7142857142857144,Y,0.6842105263157895,1,0.6,1,0.7,1
+2,2,D.Booker o4.5 Ast,VegasRefund,-135,1.35,2.35,0.0,Phoenix Suns,D.Booker,Los Angeles Clippers,0.0,1.0,Y,0.6842105263157895,1,0.6,1,0.7,1
 0,0,T.Harris u15.5 Pts,SBK5065,-110,0.55,1.05,5.2653,Philadelphia 76ers,T.Harris,Indiana Pacers,1.0,0.5,N,0.5,0,0.5,0,0.5,0
 1,1,P.Tucker u5.5 Rebs,SBK5065,-135,1.0,1.7407407407407407,5.2653,Philadelphia 76ers,P.Tucker,Indiana Pacers,1.0,0.7407407407407407,Y,1.0,1,1.0,1,1.0,1
 2,2,J.Smith o6.5 Rebs,SBK5065,-105,0.53,1.0347619047619048,5.2653,Houston Rockets,J.Smith,Utah Jazz,1.0,0.5047619047619047,Y,0.75,1,0.75,1,0.75,1
