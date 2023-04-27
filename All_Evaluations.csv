@@ -2915,6 +2915,22 @@
 18,18,P.George o2.5 3pt M,GDAWG5000,-120,1.2,2.2,0.0,Los Angeles Clippers,P.George,Los Angeles Lakers,0.0,1.0000000000000002,N,0.0,0,0.0,0,0.0,0
 19,19,G.Allen o13.5 Pts,PropBetGuy,3881,0.1,3.981,0.0,Milwaukee Bucks,G.Allen,Philadelphia 76ers,0.0,3.881,N,0.0,0,0.0,0,0.0,0
 20,20,G.Antetokounmpo o30.5 Pts,thepromoguy123_,-110,1.0,1.9090909090909087,0.2,Milwaukee Bucks,G.Antetokounmpo,Philadelphia 76ers,0.0,0.9090909090909088,N,0.0,0,0.0,0,0.0,0
+0,0,J.Hart o18.5 Pts+Rebs,SBK5065,-102,0.31,0.613921568627451,0.0,New York Knicks,J.Hart,Cleveland Cavaliers,0.0,0.3039215686274509,N,0.3333333333333333,0,0.6,1,0.4,0
+1,1,J.Randle o2.5 3pt M,VegasRefund,-118,1.18,2.18,0.0,New York Knicks,J.Randle,Cleveland Cavaliers,0.0,0.9999999999999998,N,0.5,0,0.4,0,0.4,0
+2,2,J.Randle u21.5 Pts,PropBomb,-105,1.05,2.05,0.0,New York Knicks,J.Randle,Cleveland Cavaliers,0.0,0.9999999999999998,Y,0.3658536585365853,0,0.8,1,0.6,1
+3,3,M.Robinson u9.5 Rebs,MikeRandle,-125,1.0,1.8,0.0,New York Knicks,M.Robinson,Cleveland Cavaliers,0.0,0.8,N,0.546875,1,0.6,1,0.4,0
+4,4,J.Hart o18.5 Pts+Rebs,JoeDellera,-100,0.5,1.0,0.0,New York Knicks,J.Hart,Cleveland Cavaliers,0.0,0.5,N,0.3333333333333333,0,0.6,1,0.4,0
+5,5,X.Tillman o10.5 Rebs+Ast,PropBetGuy,-115,1.15,2.1499999999999995,0.0,Memphis Grizzlies,X.Tillman,Los Angeles Lakers,1.0,0.9999999999999996,N,0.2424242424242424,0,0.6,1,0.4,0
+6,6,L.James o9.5 Rebs,JoeDellera,-128,0.5,0.890625,0.0,Los Angeles Lakers,L.James,Memphis Grizzlies,0.0,0.390625,Y,0.2950819672131147,0,0.8,1,0.5,0
+7,7,K.Lowry o8.5 Pts,PropBomb,-110,1.1,2.1,0.0,Miami Heat,K.Lowry,Milwaukee Bucks,0.0,1.0,Y,0.6129032258064516,1,0.4,0,0.5,0
+8,8,J.Butler u29.5 Pts,charliedisturco,-112,1.12,2.12,0.0,Miami Heat,J.Butler,Milwaukee Bucks,0.0,1.0,N,0.7887323943661971,1,0.2,0,0.4,0
+9,9,C.Martin o14.5 Pts+Rebs,HPBasketball,-110,0.21,0.4009090909090909,0.0,Miami Heat,C.Martin,Milwaukee Bucks,0.0,0.1909090909090909,N,0.4358974358974359,0,0.8,1,0.5,0
+10,10,S.Curry o5.5 Ast,The_Oddsmaker,100,1.0,2.0,0.0,Golden State Warriors,S.Curry,Sacramento Kings,0.0,1.0,Y,0.5409836065573771,1,0.4,0,0.5,0
+11,11,D.Fox o10.5 Rebs+Ast,VegasRefund,-135,1.35,2.35,0.0,Sacramento Kings,D.Fox,Golden State Warriors,1.0,1.0,Y,0.4871794871794871,0,0.8,1,0.7,1
+12,12,S.Curry o5.5 Ast,charliedisturco,-105,1.05,2.05,0.0,Golden State Warriors,S.Curry,Sacramento Kings,0.0,0.9999999999999998,Y,0.5409836065573771,1,0.4,0,0.5,0
+13,13,D.Fox o35.5 Pts+Rebs+Ast,ChrisRaybon,-121,1.0,1.826446280991736,0.0,Sacramento Kings,D.Fox,Golden State Warriors,1.0,0.8264462809917354,Y,0.5512820512820513,1,1.0,1,0.9,1
+14,14,A.Wiggins Double-Double (Yes),GDAWG5000,1025,0.1,1.125,0.0,Golden State Warriors,A.Wiggins,Sacramento Kings,0.0,1.025,N,0.0714285714285714,0,0.0,0,0.1,0
+15,15,K.Looney o15.5 Rebs+Ast,HPBasketball,-100,0.2,0.4,0.0,Golden State Warriors,K.Looney,Sacramento Kings,0.0,0.2,Y,0.2183908045977011,0,0.6,1,0.4,0
 0,0,K.Huerter o14.5 Pts,SBK5065,-118,0.59,1.09,17.517899999999997,Sacramento Kings,K.Huerter,Indiana Pacers,0.0,0.4999999999999999,Y,0.4791666666666667,0,0.4,0,0.4,0
 1,1,K.Huerter o2.5 3pt M,SBK5065,120,0.5,1.1,0.0,Sacramento Kings,K.Huerter,Indiana Pacers,0.0,0.6000000000000001,N,0.5416666666666666,1,0.2,0,0.2,0
 2,2,T.Haliburton o20.5 Pts,JoeDellera,-105,0.75,1.4642857142857142,12.2735,Indiana Pacers,T.Haliburton,Sacramento Kings,1.0,0.7142857142857142,N,0.5,0,0.2,0,0.4,0
