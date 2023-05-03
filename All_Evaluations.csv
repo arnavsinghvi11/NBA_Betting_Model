@@ -262,6 +262,13 @@
 2,2,L.Doncic Triple-Double Yes,JoeDellera,800,0.2,1.8,3.719400000000003,Dallas Mavericks,L.Doncic,Charlotte Hornets,0.0,1.6,N,0.1666666666666666,0,0.0,0,0.0,0
 3,3,Z.LaVine o30.5 Pts+Ast,PropBetGuy,-125,1.25,2.25,9.502199999999998,Chicago Bulls,Z.LaVine,Los Angeles Lakers,0.0,1.0,Y,0.4428571428571428,0,0.6,1,0.8,1
 4,4,A.Davis o26.5 Pts,JoeDellera,-125,0.75,1.35,3.719400000000003,Los Angeles Lakers,A.Davis,Chicago Bulls,1.0,0.6000000000000001,N,0.4897959183673469,0,0.4,0,0.5,0
+0,0,M.Strus o12.5 Pts,PropBomb,-125,1.25,2.25,0.0,Miami Heat,M.Strus,New York Knicks,0.0,1.0,Y,0.4044943820224719,0,0.2,0,0.2,0
+1,1,R.Barrett u1.5 3pt M,GDAWG5000,125,0.5,1.125,0.0,New York Knicks,R.Barrett,Miami Heat,1.0,0.625,N,0.5,0,0.4,0,0.6,1
+2,2,D.Schroder o2.5 Ast,PropBomb,-135,1.35,2.35,0.0,Los Angeles Lakers,D.Schroder,Golden State Warriors,0.0,1.0,Y,0.7297297297297297,1,0.6,1,0.7,1
+3,3,A.Davis o0.5 3pt M,GDAWG5000,200,0.5,1.5,0.0,Los Angeles Lakers,A.Davis,Golden State Warriors,0.0,1.0,N,0.265625,0,0.4,0,0.3,0
+4,4,J.Poole o12.5 Pts,JoeMetz,-110,1.1,2.1,0.0,Golden State Warriors,J.Poole,Los Angeles Lakers,1.0,1.0,Y,0.7666666666666667,1,0.4,0,0.5,0
+5,5,J.Poole o2.5 Ast,JoeDellera,106,0.5,1.03,0.0,Golden State Warriors,J.Poole,Los Angeles Lakers,1.0,0.53,Y,0.7888888888888889,1,0.6,1,0.6,1
+6,6,K.Thompson u29.5 Pts+Rebs+Ast,PropBetGuy,-106,1.06,2.06,0.0,Golden State Warriors,K.Thompson,Los Angeles Lakers,1.0,1.0,N,0.5714285714285714,1,0.6,1,0.6,1
 0,0,I.Livers o13.5 Pts,SBK5065,-111,1.11,2.1100000000000003,15.0149,Detroit Pistons,I.Livers,Indiana Pacers,1.0,1.0000000000000002,N,0.0434782608695652,0,0.4,0,0.2,0
 1,1,I.Livers o2.5 3pt M,SBK5065,100,0.5,1.0,0.0,Detroit Pistons,I.Livers,Indiana Pacers,1.0,0.5,N,0.217391304347826,0,0.6,1,0.5,0
 2,2,I.Livers o19.5 Pts,SBK5065,440,0.1,0.54,0.0,Detroit Pistons,I.Livers,Indiana Pacers,1.0,0.44,N,0.0,0,0.0,0,0.0,0
