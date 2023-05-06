@@ -227,6 +227,16 @@
 6,6,X.Tillman u20.5 Pts+Rebs+Ast,SBK5065,-132,0.73,1.283030303030303,0.0,Memphis Grizzlies,X.Tillman,Los Angeles Lakers,0.0,0.553030303030303,N,0.7230769230769231,1,0.6,1,0.5,0
 7,7,D.Bane o3.5 Ast,JoeDellera,-135,1.0,1.7407407407407407,0.0,Memphis Grizzlies,D.Bane,Los Angeles Lakers,0.0,0.7407407407407407,N,0.6774193548387096,1,0.4,0,0.7,1
 8,8,R.Hachimura u13.5 Pts,PropBomb,-120,1.2,2.2,0.0,Los Angeles Lakers,R.Hachimura,Memphis Grizzlies,1.0,1.0000000000000002,Y,0.6842105263157895,1,0.4,0,0.5,0
+0,0,P.Tucker o1.5 3pt M,charliedisturco,450,0.5,2.75,0.0,Philadelphia 76ers,P.Tucker,Boston Celtics,1.0,2.25,Y,0.1951219512195122,0,0.2,0,0.3,0
+1,1,J.Embiid o25.5 Pts,VegasRefund,-121,1.21,2.21,0.0,Philadelphia 76ers,J.Embiid,Boston Celtics,1.0,1.0,Y,0.8169014084507042,1,0.4,0,0.4,0
+2,2,T.Harris o1.5 3pt M,GreenDotDaily,-120,1.0,1.8333333333333333,0.0,Philadelphia 76ers,T.Harris,Boston Celtics,1.0,0.8333333333333335,N,0.5185185185185185,1,0.8,1,0.5,0
+3,3,T.Harris o1.5 3pt M,GDAWG5000,-120,1.2,2.2,0.0,Philadelphia 76ers,T.Harris,Boston Celtics,1.0,1.0000000000000002,N,0.5185185185185185,1,0.8,1,0.5,0
+4,4,M.Brogdon o21.5 Pts+Rebs+Ast,JoeDellera,-115,1.0,1.869565217391304,0.0,Boston Celtics,M.Brogdon,Philadelphia 76ers,0.0,0.8695652173913042,Y,0.6052631578947368,1,0.8,1,0.8,1
+5,5,K.Durant o2.5 3pt M,charliedisturco,130,1.0,2.3,0.0,Phoenix Suns,K.Durant,Denver Nuggets,1.0,1.2999999999999998,N,0.375,0,0.4,0,0.4,0
+6,6,D.Ayton o15.5 Pts,VegasRefund,-120,1.2,2.2,0.0,Phoenix Suns,D.Ayton,Denver Nuggets,1.0,1.0000000000000002,N,0.5733333333333334,1,0.2,0,0.4,0
+7,7,K.Durant o2.5 3pt M,GreenDotDaily,135,1.0,2.35,0.0,Phoenix Suns,K.Durant,Denver Nuggets,1.0,1.35,N,0.375,0,0.4,0,0.4,0
+8,8,K.Durant o2.5 3pt M,GDAWG5000,135,1.0,2.35,0.0,Phoenix Suns,K.Durant,Denver Nuggets,1.0,1.35,N,0.375,0,0.4,0,0.4,0
+9,9,D.Booker o38.5 Pts+Ast,PropBetGuy,-113,1.13,2.13,0.0,Phoenix Suns,D.Booker,Denver Nuggets,1.0,1.0,Y,0.2950819672131147,0,0.6,1,0.5,0
 0,0,P.Banchero u31.5 Pts+Rebs+Ast,PropBetGuy,-113,1.13,2.13,7.802199999999997,Orlando Magic,P.Banchero,Washington Wizards,1.0,1.0,N,0.6060606060606061,1,0.6,1,0.4,0
 1,1,P.Banchero u31.5 Pts+Rebs+Ast,SBK5065,-113,0.57,1.074424778761062,16.2603,Orlando Magic,P.Banchero,Washington Wizards,1.0,0.504424778761062,N,0.6060606060606061,1,0.6,1,0.4,0
 2,2,M.Morris o14.5 Pts+Ast,JoeDellera,-120,0.25,0.4583333333333333,-0.6692999999999989,Washington Wizards,M.Morris,Orlando Magic,0.0,0.2083333333333333,Y,0.5172413793103449,1,0.6,1,0.3,0
