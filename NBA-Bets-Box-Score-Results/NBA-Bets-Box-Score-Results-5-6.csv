@@ -1,0 +1,51 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Klay Thompson,Golden State Warriors,Los Angeles Lakers,0,32.33,15,0,7,1,1,3,.504,.464,.643,2.8,26.0,12.0,0.0,1.5,3.0,26.2,70,124,-9.4
+1,Stephen Curry,Golden State Warriors,Los Angeles Lakers,0,32.03,23,3,4,1,1,4,.515,.524,.476,5.8,8.8,7.0,20.0,1.5,3.1,32.3,96,127,3.1
+2,Andrew Wiggins,Golden State Warriors,Los Angeles Lakers,0,27.50,16,4,9,0,1,2,.673,.636,.364,9.9,30.4,18.0,26.9,0.0,3.5,17.4,152,127,10.7
+3,Draymond Green,Golden State Warriors,Los Angeles Lakers,0,22.45,2,4,2,1,1,0,.250,.250,.250,4.1,6.2,4.9,24.9,2.1,4.3,7.2,105,124,-4.1
+4,JaMychal Green,Golden State Warriors,Los Angeles Lakers,0,11.28,2,0,0,0,0,0,.200,.200,.600,0.0,0.0,0.0,0.0,0.0,0.0,21.4,36,133,-24.2
+5,Donte DiVincenzo,Golden State Warriors,Los Angeles Lakers,0,22.06,5,4,5,0,1,1,.313,.313,.625,8.4,19.2,12.6,27.4,0.0,4.4,16.6,88,127,-4.1
+6,Jordan Poole,Golden State Warriors,Los Angeles Lakers,0,22.06,5,6,3,0,0,0,.253,.222,.444,0.0,19.2,7.6,41.2,0.0,0.0,25.7,60,131,-15.5
+7,Moses Moody,Golden State Warriors,Los Angeles Lakers,0,20.17,5,1,4,0,0,1,.644,.500,.667,9.1,13.9,11.0,7.0,0.0,0.0,7.8,158,131,-3.0
+8,Kevon Looney,Golden State Warriors,Los Angeles Lakers,0,15.54,3,4,4,1,0,0,.798,1.000,.000,5.8,26.6,14.0,36.6,3.0,0.0,12.5,88,123,1.9
+9,Gary Payton II,Golden State Warriors,Los Angeles Lakers,0,12.50,8,0,3,1,1,0,.571,.571,.143,14.4,11.0,13.0,0.0,3.7,7.6,22.3,121,118,7.8
+10,Jonathan Kuminga,Golden State Warriors,Los Angeles Lakers,0,9.11,10,0,1,0,0,1,.868,.875,.250,0.0,15.4,6.1,0.0,0.0,0.0,30.1,136,132,12.1
+11,Anthony Lamb,Golden State Warriors,Los Angeles Lakers,0,5.44,3,0,0,0,0,1,.750,.750,1.000,0.0,0.0,0.0,0.0,0.0,0.0,14.3,138,134,3.5
+12,Patrick Baldwin Jr.,Golden State Warriors,Los Angeles Lakers,0,5.13,0,0,0,0,0,0,.000,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,15.7,0,134,-22.4
+13,Anthony Davis,Los Angeles Lakers,Golden State Warriors,1,33.01,25,3,13,3,4,0,.818,.700,.000,0.0,36.3,22.0,13.7,4.3,12.4,24.5,143,77,15.7
+14,LeBron James,Los Angeles Lakers,Golden State Warriors,1,32.23,21,8,8,0,1,2,.723,.636,.364,4.4,20.0,13.8,35.8,0.0,3.2,19.9,166,99,14.7
+15,Austin Reaves,Los Angeles Lakers,Golden State Warriors,1,29.37,10,2,2,2,0,1,.451,.313,.500,4.8,3.1,3.8,8.4,3.2,0.0,16.6,111,100,-2.8
+16,D'Angelo Russell,Los Angeles Lakers,Golden State Warriors,1,29.27,21,5,3,1,0,5,.808,.808,.615,0.0,9.4,5.7,28.1,1.6,0.0,27.1,113,101,4.6
+17,Jarred Vanderbilt,Los Angeles Lakers,Golden State Warriors,1,15.13,2,0,5,0,0,0,.148,.000,.600,9.3,24.3,18.3,0.0,0.0,0.0,19.7,48,99,-18.0
+18,Lonnie Walker IV,Los Angeles Lakers,Golden State Warriors,1,24.24,12,0,4,2,1,2,.872,.833,.667,0.0,15.1,9.1,0.0,3.9,4.2,14.3,141,91,7.9
+19,Dennis Schröder,Los Angeles Lakers,Golden State Warriors,1,20.12,12,1,0,1,0,3,.558,.611,.667,0.0,0.0,0.0,7.3,2.4,0.0,25.8,99,103,-2.2
+20,Rui Hachimura,Los Angeles Lakers,Golden State Warriors,1,16.29,5,1,1,1,0,1,.833,.833,.333,8.6,0.0,3.4,8.0,2.9,0.0,10.8,130,102,2.9
+21,Shaquille Harrison,Los Angeles Lakers,Golden State Warriors,1,8.33,9,4,0,0,0,1,.900,.900,.200,0.0,0.0,0.0,100.0,0.0,0.0,25.9,193,108,19.2
+22,Troy Brown Jr.,Los Angeles Lakers,Golden State Warriors,1,8.33,2,1,2,0,0,0,.500,.500,.000,0.0,21.6,13.1,15.4,0.0,0.0,10.4,121,100,-1.2
+23,Max Christie,Los Angeles Lakers,Golden State Warriors,1,5.44,6,2,2,0,0,0,1.000,1.000,.000,0.0,32.2,19.5,99.2,0.0,0.0,23.2,209,95,30.1
+24,Tristan Thompson,Los Angeles Lakers,Golden State Warriors,1,5.44,2,0,3,0,0,0,.333,.333,.000,49.2,16.1,29.2,0.0,0.0,0.0,30.9,84,102,-11.2
+25,Malik Beasley,Los Angeles Lakers,Golden State Warriors,1,5.44,0,0,1,0,0,0,.000,.000,.000,0.0,16.1,9.7,0.0,0.0,0.0,15.5,0,102,-19.7
+26,Wenyen Gabriel,Los Angeles Lakers,Golden State Warriors,1,4.56,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,108,-11.1
+27,Josh Hart,New York Knicks,Miami Heat,0,38.17,15,2,12,1,0,2,.528,.500,.500,2.5,29.3,15.4,10.1,1.3,0.0,17.9,102,102,2.6
+28,Julius Randle,New York Knicks,Miami Heat,0,38.01,10,2,14,0,0,0,.291,.267,.333,9.9,26.9,18.0,9.7,0.0,0.0,23.5,62,106,-9.6
+29,Jalen Brunson,New York Knicks,Miami Heat,0,37.33,20,8,6,0,0,0,.442,.350,.250,2.5,13.6,7.8,46.4,0.0,0.0,25.5,113,111,5.3
+30,RJ Barrett,New York Knicks,Miami Heat,0,25.29,14,1,3,0,0,2,.404,.375,.438,0.0,12.0,5.8,8.7,0.0,0.0,30.4,86,112,-2.9
+31,Mitchell Robinson,New York Knicks,Miami Heat,0,14.13,2,0,5,0,0,0,.500,.500,.000,26.5,7.2,17.2,0.0,0.0,0.0,8.9,102,114,-9.4
+32,Isaiah Hartenstein,New York Knicks,Miami Heat,0,25.58,0,1,3,0,2,0,,,,3.6,7.9,5.7,6.0,0.0,6.4,0.0,223,110,-1.6
+33,Quentin Grimes,New York Knicks,Miami Heat,0,21.38,8,0,1,1,0,1,.538,.500,.571,4.4,0.0,2.3,0.0,2.3,0.0,16.5,102,112,-0.3
+34,Immanuel Quickley,New York Knicks,Miami Heat,0,20.09,12,0,1,1,0,2,.466,.417,.667,4.7,0.0,2.4,0.0,2.5,0.0,29.1,96,111,4.2
+35,Obi Toppin,New York Knicks,Miami Heat,0,16.54,5,1,3,1,1,1,.417,.417,.667,5.6,12.1,8.7,11.2,2.9,4.9,22.5,64,103,-3.1
+36,DaQuan Jeffries,New York Knicks,Miami Heat,0,0.54,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,117,-13.0
+37,Miles McBride,New York Knicks,Miami Heat,0,0.54,0,0,0,0,0,0,.000,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,46.9,0,117,-40.1
+38,Bam Adebayo,Miami Heat,New York Knicks,1,35.57,17,0,12,0,1,0,.539,.500,.000,11.4,20.9,16.3,0.0,0.0,2.6,19.2,116,88,2.4
+39,Jimmy Butler,Miami Heat,New York Knicks,1,35.36,28,3,4,0,2,0,.542,.429,.095,5.7,5.3,5.5,17.7,0.0,5.3,32.2,116,95,10.7
+40,Gabe Vincent,Miami Heat,New York Knicks,1,30.03,5,4,0,2,0,0,.268,.125,.500,0.0,0.0,0.0,19.1,3.3,0.0,15.5,66,92,-4.2
+41,Max Strus,Miami Heat,New York Knicks,1,29.36,19,0,3,1,1,3,.638,.607,.714,0.0,9.5,5.0,0.0,1.7,3.2,20.7,134,90,11.6
+42,Kevin Love,Miami Heat,New York Knicks,1,23.03,4,4,9,0,0,0,.340,.200,.600,8.9,28.6,19.1,25.3,0.0,0.0,14.1,85,85,0.7
+43,Kyle Lowry,Miami Heat,New York Knicks,1,24.48,14,4,3,0,1,2,.651,.556,.444,0.0,11.4,5.9,28.4,0.0,3.8,17.9,150,92,15.4
+44,Caleb Martin,Miami Heat,New York Knicks,1,22.32,3,0,5,0,0,0,.315,.000,1.000,9.1,12.5,10.9,0.0,0.0,0.0,12.3,65,93,-9.4
+45,Duncan Robinson,Miami Heat,New York Knicks,1,12.40,4,1,1,0,0,1,.311,.250,.833,0.0,7.4,3.9,12.1,0.0,0.0,24.2,67,96,-7.9
+46,Cody Zeller,Miami Heat,New York Knicks,1,12.09,6,1,6,0,0,0,.500,.500,.000,0.0,46.5,24.2,17.1,0.0,0.0,27.1,78,76,-4.7
+47,Haywood Highsmith,Miami Heat,New York Knicks,1,11.48,5,0,6,0,0,1,.625,.625,.250,26.0,23.9,24.9,0.0,0.0,0.0,13.9,149,87,8.1
+48,Nikola Jović,Miami Heat,New York Knicks,1,0.54,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,100,-2.4
+49,Omer Yurtseven,Miami Heat,New York Knicks,1,0.54,0,0,1,0,0,0,,,,0.0,100.0,54.4,0.0,0.0,0.0,45.7,0,48,-46.2
