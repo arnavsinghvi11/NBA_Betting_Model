@@ -2076,6 +2076,12 @@
 29,29,F.VanVleet u18.5 Pts,SBK5065,-125,0.5,0.9,0.0,Toronto Raptors,F.VanVleet,Cleveland Cavaliers,0.0,0.4,Y,0.5185185185185185,1,0.4,0,0.3,0
 30,30,B.Beal u25.5 Pts,SBK5065,-102,0.5,0.9901960784313726,0.0,Washington Wizards,B.Beal,Sacramento Kings,0.0,0.4901960784313726,Y,0.5,0,0.4,0,0.4,0
 31,31,S.Gilgeous-Alexander u30.5 Pts,JoeMetz,-111,1.11,2.1100000000000003,0.0,Oklahoma City Thunder,S.Gilgeous-Alexander,New Orleans Pelicans,1.0,1.0000000000000002,N,0.3666666666666666,0,0.4,0,0.4,0
+0,0,P.Tucker u4.5 Rebs,PropBomb,-135,1.35,2.35,0.0,Philadelphia 76ers,P.Tucker,Boston Celtics,0.0,1.0,Y,0.6162790697674418,1,0.8,1,0.6,1
+1,1,P.Tucker u4.5 Rebs,SBK5065,-145,0.73,1.233448275862069,0.0,Philadelphia 76ers,P.Tucker,Boston Celtics,0.0,0.5034482758620691,Y,0.6162790697674418,1,0.8,1,0.6,1
+2,2,P.Tucker u0.5 3pt M,GDAWG5000,180,0.5,1.4,0.0,Philadelphia 76ers,P.Tucker,Boston Celtics,0.0,0.8999999999999999,N,0.4534883720930232,0,0.0,0,0.3,0
+3,3,M.Smart o3.5 Rebs,VegasRefund,115,1.0,2.15,0.0,Boston Celtics,M.Smart,Philadelphia 76ers,1.0,1.15,Y,0.4324324324324324,0,0.4,0,0.5,0
+4,4,A.Horford o14.5 Pts+Rebs,charliedisturco,-130,1.3,2.3,0.0,Boston Celtics,A.Horford,Philadelphia 76ers,1.0,0.9999999999999998,Y,0.5263157894736842,1,0.6,1,0.5,0
+5,5,M.Smart o23.5 Pts+Rebs+Ast,PropBetGuy,-113,1.13,2.13,0.0,Boston Celtics,M.Smart,Philadelphia 76ers,1.0,1.0,N,0.3918918918918919,0,0.4,0,0.4,0
 0,0,K.Durant u5.5 Ast,JoeDellera,-113,0.5,0.9424778761061948,2.5023,Brooklyn Nets,K.Durant,Washington Wizards,0.0,0.4424778761061948,N,0.5714285714285714,1,0.4,0,0.6,1
 1,1,K.Porzingis u28.5 Pts+Ast,JoeDellera,-122,0.35,0.6368852459016393,2.5023,Washington Wizards,K.Porzingis,Brooklyn Nets,1.0,0.2868852459016393,Y,0.6666666666666666,1,0.2,0,0.5,0
 2,2,J.Goodwin o21.5 Pts+Rebs+Ast,PropBetGuy,-105,1.05,2.05,0.0,Washington Wizards,J.Goodwin,Brooklyn Nets,1.0,0.9999999999999998,Y,0.2857142857142857,0,0.6,1,0.3,0
