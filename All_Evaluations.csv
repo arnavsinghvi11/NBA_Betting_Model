@@ -3185,6 +3185,15 @@
 12,12,T.Jones o24.5 Pts+Rebs+Ast,JoeMetz,-115,1.15,2.1499999999999995,-5.369,Memphis Grizzlies,T.Jones,Los Angeles Clippers,0.0,0.9999999999999996,Y,0.1428571428571428,0,0.2,0,0.1,0
 13,13,X.Tillman o8.5 Rebs,JoeDellera,-115,0.5,0.934782608695652,-7.000099999999998,Memphis Grizzlies,X.Tillman,Los Angeles Clippers,0.0,0.4347826086956521,N,0.1590909090909091,0,0.4,0,0.3,0
 14,14,T.Jones o13.5 Pts,JoeDellera,-120,0.75,1.375,0.0,Memphis Grizzlies,T.Jones,Los Angeles Clippers,0.0,0.625,Y,0.238095238095238,0,0.4,0,0.2,0
+0,0,A.Davis u2.5 Ast,The_Oddsmaker,100,1.0,2.0,0.0,Los Angeles Lakers,A.Davis,Denver Nuggets,0.0,1.0,N,0.4857142857142857,0,0.2,0,0.4,0
+1,1,A.Gordon o0.5 3pt M,PropBomb,-127,1.27,2.27,0.0,Denver Nuggets,A.Gordon,Los Angeles Lakers,1.0,1.0,N,0.5625,1,0.4,0,0.6,1
+2,2,J.Murray u35.5 Pts+Rebs+Ast,MikeRandle,-110,1.0,1.9090909090909087,0.0,Denver Nuggets,J.Murray,Los Angeles Lakers,1.0,0.9090909090909092,N,0.6493506493506493,1,0.4,0,0.5,0
+3,3,N.Jokic o1.5 3pt M,SBK5065,182,0.5,1.41,0.0,Denver Nuggets,N.Jokic,Los Angeles Lakers,1.0,0.91,Y,0.2716049382716049,0,0.6,1,0.7,1
+4,4,K.Caldwell-Pope o1.5 3pt M,GDAWG5000,110,1.0,2.1,0.0,Denver Nuggets,K.Caldwell-Pope,Los Angeles Lakers,1.0,1.1,Y,0.5113636363636364,1,0.4,0,0.5,0
+5,5,D.Schroder o0.5 Stl,HPBasketball,-140,0.14,0.24,0.0,Los Angeles Lakers,D.Schroder,Denver Nuggets,0.0,0.1,N,0.475,0,0.4,0,0.7,1
+6,6,A.Gordon o5.5 Rebs,VegasRefund,-135,1.35,2.35,0.0,Denver Nuggets,A.Gordon,Los Angeles Lakers,1.0,1.0,N,0.6375,1,0.8,1,0.8,1
+7,7,A.Davis o35.5 Pts+Rebs,charliedisturco,-115,1.15,2.1499999999999995,0.0,Los Angeles Lakers,A.Davis,Denver Nuggets,0.0,0.9999999999999996,Y,0.6,1,0.8,1,0.6,1
+8,8,N.Jokic o1.5 3pt M,JoeDellera,176,0.75,2.07,0.0,Denver Nuggets,N.Jokic,Los Angeles Lakers,1.0,1.3199999999999998,Y,0.2716049382716049,0,0.6,1,0.7,1
 0,0,J.Embiid o30.5 Pts,SBK5065,-125,0.63,1.134,0.0,Philadelphia 76ers,J.Embiid,Detroit Pistons,1.0,0.5039999999999999,N,0.5909090909090909,1,0.6,1,0.6,1
 1,1,J.Duren u10.5 Rebs,SBK5065,-123,0.62,1.1240650406504065,0.0,Detroit Pistons,J.Duren,Philadelphia 76ers,0.0,0.5040650406504065,Y,0.7419354838709677,1,0.2,0,0.3,0
 2,2,J.Ivey u14.5 Pts,SBK5065,-120,0.6,1.1,0.0,Detroit Pistons,J.Ivey,Philadelphia 76ers,0.0,0.5000000000000001,N,0.3666666666666666,0,0.4,0,0.6,1
