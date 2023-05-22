@@ -1559,6 +1559,13 @@
 13,13,D.Melton o2.5 3pt M,JoeDellera,-125,1.0,1.8,0.0,Philadelphia 76ers,D.Melton,Orlando Magic,0.0,0.8,N,0.2222222222222222,0,0.6,1,0.4,0
 14,14,J.Jackson o15.5 Pts,JoeMetz,-115,1.15,2.1499999999999995,-13.0855,Memphis Grizzlies,J.Jackson,New York Knicks,0.0,0.9999999999999996,N,0.8,1,0.8,1,0.8,1
 15,15,J.Brown o3.5 Ast,SBK5065,-132,0.66,1.16,18.319,Boston Celtics,J.Brown,Washington Wizards,1.0,0.4999999999999999,N,0.4210526315789473,0,0.6,1,0.5,0
+0,0,K.Love u6.5 Rebs+Ast,PropBomb,-125,1.25,2.25,0.0,Miami Heat,K.Love,Boston Celtics,1.0,1.0,Y,0.4117647058823529,0,0.4,0,0.5,0
+1,1,K.Love u6.5 Rebs+Ast,SBK5065,-125,0.63,1.134,0.0,Miami Heat,K.Love,Boston Celtics,1.0,0.5040000000000001,Y,0.4117647058823529,0,0.4,0,0.5,0
+2,2,M.Strus o11.5 Pts,MikeRandle,-120,1.0,1.8333333333333333,0.0,Miami Heat,M.Strus,Boston Celtics,1.0,0.8333333333333335,N,0.5066666666666667,1,0.2,0,0.4,0
+3,3,J.Brown o24.5 Pts,charliedisturco,100,0.75,1.5,0.0,Boston Celtics,J.Brown,Miami Heat,0.0,0.75,N,0.6923076923076923,1,0.6,1,0.7,1
+4,4,B.Adebayo o31.5 Pts+Rebs+Ast,PropBetGuy,-117,1.76,3.2642735042735045,0.0,Miami Heat,B.Adebayo,Boston Celtics,1.0,1.5042735042735045,N,0.5833333333333334,1,0.4,0,0.4,0
+5,5,J.Butler Double-Double (Yes),GDAWG5000,310,0.33,1.353,0.0,Miami Heat,J.Butler,Boston Celtics,1.0,1.023,N,0.1451612903225806,0,0.2,0,0.1,0
+6,6,C.Martin o2.5 3pt M,JoeDellera,340,0.35,1.54,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,1.19,Y,0.1666666666666666,0,0.6,1,0.3,0
 0,0,K.Hayes o20.5 Pts+Rebs+Ast,PropBetGuy,-120,1.2,2.2,-13.85,Detroit Pistons,K.Hayes,Sacramento Kings,1.0,1.0000000000000002,N,0.2903225806451613,0,0.4,0,0.5,0
 1,1,O.Okongwu o12.5 Pts,PropBomb,-125,1.25,2.25,13.808700000000002,Atlanta Hawks,O.Okongwu,Charlotte Hornets,0.0,1.0,N,0.1724137931034483,0,0.4,0,0.2,0
 2,2,N.Richards o7.5 Pts,PropBomb,-120,1.2,2.2,13.808700000000002,Charlotte Hornets,N.Richards,Atlanta Hawks,1.0,1.0000000000000002,Y,0.5862068965517241,1,0.4,0,0.5,0
