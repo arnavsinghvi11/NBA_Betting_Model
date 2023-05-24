@@ -124,7 +124,9 @@ class Bets:
         games = []
         for i in live_bets.split('"game-picks-header__teams">')[1:]:
             two_teams = i.split('Picks</div>')[0]
+            print(two_teams)
             away_team = two_teams.split('<!-- --> ')[0]
+            print(away_team)
             home_team = two_teams.split('@ <!-- -->')[1].split('<!-- -->')[0]
             games.append([away_team, home_team])
         bet_entries = []
