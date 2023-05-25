@@ -3615,6 +3615,24 @@
 18,19,R.Gobert o15.5 Rebs,JoeDellera,450,0.15,0.825,-11.1303,Minnesota Timberwolves,R.Gobert,Los Angeles Clippers,0.0,0.6749999999999999,N,0.1923076923076923,0,0.2,0,0.1,0
 19,20,R.Gobert o13.5 Rebs,JoeDellera,200,0.25,0.75,0.0,Minnesota Timberwolves,R.Gobert,Los Angeles Clippers,0.0,0.5,N,0.3076923076923077,0,0.4,0,0.4,0
 20,21,R.Gobert o11.5 Rebs,JoeDellera,104,1.0,2.04,0.0,Minnesota Timberwolves,R.Gobert,Los Angeles Clippers,0.0,1.04,N,0.5192307692307693,1,0.4,0,0.4,0
+0,0,B.Adebayo u3.5 Ast,The_Oddsmaker,-110,1.0,1.9090909090909087,0.0,Miami Heat,B.Adebayo,Boston Celtics,1.0,0.9090909090909088,Y,0.6027397260273972,1,0.8,1,0.7,1
+1,1,M.Smart o9.5 Rebs+Ast,JoeDellera,-123,0.6,1.0878048780487803,0.0,Boston Celtics,M.Smart,Miami Heat,0.0,0.4878048780487803,N,0.4833333333333333,0,0.2,0,0.1,0
+2,2,M.Smart o12.5 Rebs+Ast,JoeDellera,280,0.15,0.57,0.0,Boston Celtics,M.Smart,Miami Heat,0.0,0.4199999999999999,N,0.2,0,0.2,0,0.1,0
+3,3,R.Williams u6.5 Rebs,PropBomb,-140,1.0,1.7142857142857144,0.0,Boston Celtics,R.Williams,Miami Heat,0.0,0.7142857142857144,Y,0.3529411764705882,0,0.4,0,0.3,0
+4,4,M.Brogdon u13.5 Pts,PropBomb,-130,1.0,1.7692307692307692,0.0,Boston Celtics,M.Brogdon,Miami Heat,0.0,0.7692307692307692,Y,0.4615384615384615,0,0.8,1,0.6,1
+5,5,D.White u2.5 Ast,SBK5065,-122,0.5,0.9098360655737704,0.0,Boston Celtics,D.White,Miami Heat,0.0,0.4098360655737704,Y,0.358974358974359,0,0.8,1,0.5,0
+6,6,J.Tatum o29.5 Pts,charliedisturco,-118,0.5,0.923728813559322,0.0,Boston Celtics,J.Tatum,Miami Heat,0.0,0.423728813559322,Y,0.5833333333333334,1,0.8,1,0.6,1
+7,7,C.Martin o11.5 Pts,GreenDotDaily,-163,0.61,0.9842331288343558,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,0.3742331288343558,Y,0.3880597014925373,0,0.6,1,0.4,0
+8,8,J.Tatum o10.5 Rebs,VegasRefund,110,1.1,2.3100000000000005,0.0,Boston Celtics,J.Tatum,Miami Heat,0.0,1.2100000000000004,Y,0.3888888888888889,0,0.4,0,0.5,0
+9,9,J.Tatum o29.5 Pts,VegasRefund,-110,1.0,1.9090909090909087,0.0,Boston Celtics,J.Tatum,Miami Heat,0.0,0.9090909090909088,Y,0.5833333333333334,1,0.8,1,0.6,1
+10,10,C.Martin o11.5 Pts,PropBomb,-130,1.0,1.7692307692307692,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,0.7692307692307692,Y,0.3880597014925373,0,0.6,1,0.4,0
+11,11,K.Lowry o0.5 Blk,GDAWG5000,155,0.5,1.275,0.0,Miami Heat,K.Lowry,Boston Celtics,1.0,0.7749999999999999,N,0.3396226415094339,0,0.4,0,0.3,0
+12,12,C.Martin o4.5 Rebs,MikeRandle,-120,1.0,1.8333333333333333,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,0.8333333333333333,N,0.4776119402985074,0,0.4,0,0.4,0
+13,13,J.Tatum o3.5 3pt M,GDAWG5000,180,1.8,5.04,0.0,Boston Celtics,J.Tatum,Miami Heat,0.0,3.24,Y,0.375,0,0.2,0,0.2,0
+14,14,C.Martin o14.5 Pts,GDAWG5000,200,1.0,3.0,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,2.0,Y,0.2388059701492537,0,0.6,1,0.3,0
+15,15,K.Love u6.5 Rebs+Ast,PropBomb,-131,1.5,2.645038167938931,0.0,Miami Heat,K.Love,Boston Celtics,1.0,1.1450381679389312,Y,0.4444444444444444,0,0.6,1,0.6,1
+16,16,C.Martin o2.5 3pt M,JoeDellera,220,0.5,1.6,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,1.1,N,0.1641791044776119,0,0.4,0,0.3,0
+17,17,C.Martin o1.5 3pt M,JoeDellera,-145,0.34,0.5744827586206898,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,0.2344827586206897,Y,0.4029850746268656,0,0.6,1,0.5,0
 0,0,J.Harden o21.5 Pts,PropBomb,-115,1.15,2.1499999999999995,0.0,Philadelphia 76ers,J.Harden,Sacramento Kings,1.0,0.9999999999999996,N,0.4615384615384615,0,0.4,0,0.4,0
 1,1,J.Harden o9.5 Ast,JoeDellera,-115,0.5,0.934782608695652,1.4482999999999993,Philadelphia 76ers,J.Harden,Sacramento Kings,1.0,0.434782608695652,Y,0.6153846153846154,1,0.8,1,0.7,1
 2,2,D.Sabonis u35.5 Pts+Rebs+Ast,SBK5065,-106,0.53,1.03,2.999799999999999,Sacramento Kings,D.Sabonis,Philadelphia 76ers,0.0,0.5,N,0.5384615384615384,1,0.0,0,0.4,0
