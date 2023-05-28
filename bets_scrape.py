@@ -118,20 +118,28 @@ class Bets:
         #extract bets predictions for today's games
         soup = self.site_scrape_chrome(
             "https://www.actionnetwork.com/nba/picks")
-        live_bets = str(soup).split('"status":"complete"')[0]
-        
+        # live_bets = str(soup).split('"status":"complete"')[0]
+        live_bets = str(soup)
         #extract home and away teams for each matchup
         games = []
         for i in live_bets.split('"game-picks-header__teams">')[1:]:
             two_teams = i.split('Picks</div>')[0]
-            print(two_teams)
-            away_team = two_teams.split('<!-- --> ')[0]
-            print(away_team)
-            home_team = two_teams.split('@ <!-- -->')[1].split('<!-- -->')[0]
+            if '<!-- --> ' in two_teams:
+                away_team = two_teams.split('<!-- --> ')[0]
+                home_team = two_teams.split('@ <!-- -->')[1].split('<!-- -->')[0]
+            else:
+                away_team = two_teams.split(' ')[0]
+                home_team = two_teams.split('@ ')[1].strip()
             games.append([away_team, home_team])
         bet_entries = []
         #extract current bets for games to be played 
-        for x in live_bets.split('"real_status":"scheduled","status_display":null,"start_time"')[1:]:
+        if '"real_status":"scheduled"' in live_bets:
+            current_bets = live_bets.split('"real_status":"scheduled","status_display":null,"start_time"')[1:]
+        elif '"real_status":"created"' in live_bets:
+            current_bets = live_bets.split('"real_status":"created","status_display":null,"start_time"')[1:]
+        else:
+            current_bets = live_bets.split('"real_status":"inprogress",')[1:] 
+        for x in current_bets:
             team = []
             teams = x.split('"full_name":"')
             for t in teams[1:3]:
@@ -142,7 +150,7 @@ class Bets:
                     for j in i.split('},{'):
                         if 'units_net' in j:
                             if 'First' not in j:
-                                if "odds:" in j:
+                                if 'odds"' in j:
                                     if len(j.split('"record":')) > 1:
                                         bet_entries.append(
                                             self.preprocessing(
@@ -166,7 +174,7 @@ class Bets:
                     if 'play' in i:
                         if 'units_net' in i:
                             if 'First' not in i:
-                                if "odds:" in j:
+                                if 'odds"' in j:
                                     if len(i.split('"record":')) > 1:
                                         bet_entries.append(
                                             self.preprocessing(
@@ -196,14 +204,11 @@ class Bets:
                 'Net Units Record'
             ]).drop_duplicates(subset=['Play', 'Expert'],
                                keep='first').reset_index(drop=True)
-        
         #determine variables for each bet - player's current team, matchup oppponent, matchup's homecourt advantage
         names, set_teams, opponents, hmcrt_advantages = [], [], [], []
         for i in range(len(bets)):
             bet = bets.loc[i]
             name = bet['Play'].split(' ')[0]
-            print(name)
-            print(bet['Teams'])
             if 'LA' in bet['Teams'][0]:
                 bet['Teams'][0] =  bet['Teams'][0].replace('LA', 'Los Angeles')
             matching_name = all_box_score_results[all_box_score_results['name']
@@ -229,7 +234,6 @@ class Bets:
                 if found_team:
                     set(all_games['team'].values)
                     plyr_team = list(set(all_games['team'].values))[0]
-                    print(plyr_team)
                     for g in games:
                         if ((len(plyr_team.split(' '))) > 2 and
                             (plyr_team.split(' ')[1] + ' ' +
