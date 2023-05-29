@@ -1,0 +1,17 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Jayson Tatum,Boston Celtics,Miami Heat,0,43.56,31,5,12,1,2,0,.542,.364,.364,7.8,18.9,13.9,21.6,1.2,3.5,32.9,118,112,6.7
+1,Marcus Smart,Boston Celtics,Miami Heat,0,42.15,21,1,4,0,0,4,.626,.600,.733,2.7,6.6,4.8,4.4,0.0,0.0,22.5,104,124,-4.3
+2,Derrick White,Boston Celtics,Miami Heat,0,42.03,11,6,4,1,3,3,.550,.550,.700,2.7,6.6,4.9,23.3,1.3,5.4,10.9,138,118,8.3
+3,Jaylen Brown,Boston Celtics,Miami Heat,0,38.58,26,3,10,2,0,0,.637,.563,.250,14.7,11.8,13.1,16.1,2.8,0.0,28.6,121,115,5.0
+4,Al Horford,Boston Celtics,Miami Heat,0,31.53,4,2,7,0,2,0,.333,.333,.333,3.6,17.4,11.2,9.7,0.0,4.8,10.0,81,115,-5.2
+5,Grant Williams,Boston Celtics,Miami Heat,0,22.04,1,1,3,0,0,0,.102,.000,.750,0.0,12.5,6.9,6.4,0.0,0.0,10.1,38,120,-13.0
+6,Robert Williams,Boston Celtics,Miami Heat,0,17.01,10,0,7,0,1,0,.791,.800,.000,6.7,32.5,21.0,0.0,0.0,4.5,17.0,164,105,7.4
+7,Sam Hauser,Boston Celtics,Miami Heat,0,1.50,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,129,-6.1
+8,Jimmy Butler,Miami Heat,Boston Celtics,1,46.40,24,8,11,1,0,2,.442,.286,.190,13.8,9.8,12.0,29.5,1.2,0.0,27.1,116,119,3.7
+9,Bam Adebayo,Miami Heat,Boston Celtics,1,45.39,11,5,13,1,1,0,.310,.250,.000,14.2,15.0,14.5,18.3,1.2,2.4,16.9,104,116,-1.6
+10,Gabe Vincent,Miami Heat,Boston Celtics,1,41.17,15,0,4,0,1,3,.417,.417,.333,2.2,8.3,4.9,0.0,0.0,2.7,19.9,88,120,-8.3
+11,Caleb Martin,Miami Heat,Boston Celtics,1,40.33,21,1,15,1,1,4,.711,.692,.615,2.3,39.5,18.9,4.8,1.3,2.8,16.8,138,107,7.0
+12,Max Strus,Miami Heat,Boston Celtics,1,25.17,10,3,1,0,0,2,.536,.500,.625,0.0,4.5,2.0,20.9,0.0,0.0,16.0,129,123,0.6
+13,Duncan Robinson,Miami Heat,Boston Celtics,1,20.08,13,2,1,0,0,3,.591,.591,.545,0.0,5.7,2.5,22.6,0.0,0.0,23.7,129,122,2.9
+14,Kyle Lowry,Miami Heat,Boston Celtics,1,18.05,8,3,2,2,1,0,.581,.500,.167,5.1,6.3,5.6,31.8,5.9,6.2,18.9,124,106,9.5
+15,Cody Zeller,Miami Heat,Boston Celtics,1,2.21,1,0,0,0,0,0,.568,,,0.0,0.0,0.0,0.0,0.0,0.0,16.2,122,124,-11.9
