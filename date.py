@@ -38,6 +38,8 @@ class Date:
                 multipler = 1000
             if int(col.split('-')[0]) == 5:
                 multipler = 10000
+            if int(col.split('-')[0]) == 6:
+                multipler = 100000
             col = str(int(col.split('-')[0]) * 10000 * multipler)+ col.split('-')[1]
         else:
             if int(col.split('-')[1]) < 10: 
