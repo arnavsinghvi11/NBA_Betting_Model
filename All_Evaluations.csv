@@ -3619,6 +3619,33 @@
 10,11,M.Porter o2.5 3pt M,JoeDellera,-120,1.0,1.8333333333333333,-9.3433,Denver Nuggets,M.Porter,Los Angeles Clippers,1.0,0.8333333333333335,Y,0.6222222222222222,1,0.8,1,0.7,1
 11,12,N.Jokic o36.5 Pts+Rebs,JoeDellera,-120,0.25,0.4583333333333333,0.0,Denver Nuggets,N.Jokic,Los Angeles Clippers,1.0,0.2083333333333333,Y,0.4814814814814814,0,0.6,1,0.5,0
 12,13,N.Jokic o13.5 Rebs,JoeDellera,-100,0.7,1.4,0.0,Denver Nuggets,N.Jokic,Los Angeles Clippers,1.0,0.7,Y,0.2592592592592592,0,0.4,0,0.5,0
+0,0,K.Love o4.5 Rebs,PropBomb,-130,1.3,2.3,17.3538,Miami Heat,K.Love,Denver Nuggets,1.0,0.9999999999999998,N,0.6585365853658537,1,0.4,0,0.6,1
+1,1,B.Adebayo o3.5 Ast,PropBomb,-135,1.35,2.35,0.0,Miami Heat,B.Adebayo,Denver Nuggets,1.0,1.0,N,0.4343434343434343,0,0.8,1,0.6,1
+2,2,J.Butler u2.5 Stl+Blk,PropBomb,-129,1.29,2.29,0.0,Miami Heat,J.Butler,Denver Nuggets,1.0,1.0,Y,0.0,0,0.0,0,0.0,0
+3,3,J.Butler u6.5 Ast,The_Oddsmaker,100,1.0,2.0,-0.1500000000000001,Miami Heat,J.Butler,Denver Nuggets,1.0,1.0,Y,0.6666666666666666,1,0.4,0,0.6,1
+4,4,K.Love o5.5 Pts,SBK5065,-122,0.61,1.11,4.5924000000000005,Miami Heat,K.Love,Denver Nuggets,1.0,0.5000000000000001,Y,0.7073170731707317,1,0.8,1,0.6,1
+5,5,K.Love o11.5 Pts+Rebs+Ast,SBK5065,-123,0.62,1.1240650406504065,0.0,Miami Heat,K.Love,Denver Nuggets,1.0,0.5040650406504065,N,0.7073170731707317,1,0.4,0,0.4,0
+6,6,M.Porter o22.5 Pts+Rebs+Ast,ChrisRaybon,-125,1.0,1.8,4.7383,Denver Nuggets,M.Porter,Miami Heat,0.0,0.8,N,0.5925925925925926,1,0.6,1,0.7,1
+7,7,K.Love o11.5 Pts+Rebs+Ast,ChrisRaybon,-120,1.0,1.8333333333333333,0.0,Miami Heat,K.Love,Denver Nuggets,1.0,0.8333333333333335,N,0.7073170731707317,1,0.4,0,0.4,0
+8,8,K.Love o4.5 Rebs,cowhitchurch,-130,0.65,1.15,0.5,Miami Heat,K.Love,Denver Nuggets,1.0,0.4999999999999999,N,0.6585365853658537,1,0.4,0,0.6,1
+9,9,B.Adebayo o3.5 Ast,cowhitchurch,-135,0.68,1.1837037037037037,0.0,Miami Heat,B.Adebayo,Denver Nuggets,1.0,0.5037037037037037,N,0.4343434343434343,0,0.8,1,0.6,1
+10,10,J.Butler u25.5 Pts,cowhitchurch,-105,0.53,1.0347619047619048,0.0,Miami Heat,J.Butler,Denver Nuggets,1.0,0.5047619047619047,N,0.5862068965517241,1,0.6,1,0.5,0
+11,11,J.Murray o6.5 Ast,cowhitchurch,-135,0.68,1.1837037037037037,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,0.5037037037037037,Y,0.4404761904761904,0,0.6,1,0.4,0
+12,12,M.Strus o10.5 Pts,RenoJonny,-105,1.05,2.05,0.2320999999999997,Miami Heat,M.Strus,Denver Nuggets,1.0,0.9999999999999998,N,0.5288461538461539,1,0.2,0,0.3,0
+13,13,M.Porter o7.5 Rebs,charliedisturco,115,0.5,1.075,-6.566000000000001,Denver Nuggets,M.Porter,Miami Heat,0.0,0.575,N,0.2716049382716049,0,0.6,1,0.6,1
+14,14,M.Porter o9.5 Rebs,charliedisturco,300,0.5,2.0,0.0,Denver Nuggets,M.Porter,Miami Heat,0.0,1.5,N,0.1481481481481481,0,0.6,1,0.5,0
+15,15,K.Love o11.5 Pts+Rebs+Ast,JoeDellera,-123,0.5,0.9065040650406504,-3.663900000000001,Miami Heat,K.Love,Denver Nuggets,1.0,0.4065040650406504,N,0.7073170731707317,1,0.4,0,0.4,0
+16,16,J.Murray o6.5 Ast,JoeDellera,-135,0.75,1.3055555555555556,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,0.5555555555555556,Y,0.4404761904761904,0,0.6,1,0.4,0
+17,17,A.Gordon o0.5 Blk,JoeDellera,-110,0.5,0.9545454545454546,0.0,Denver Nuggets,A.Gordon,Miami Heat,0.0,0.4545454545454546,N,0.5402298850574713,1,0.8,1,0.6,1
+18,18,M.Porter o22.5 Pts+Rebs+Ast,GreenDotDaily,-140,1.0,1.7142857142857144,0.0,Denver Nuggets,M.Porter,Miami Heat,0.0,0.7142857142857144,N,0.5925925925925926,1,0.6,1,0.7,1
+19,19,K.Love o11.5 Pts+Rebs+Ast,GreenDotDaily,-143,1.0,1.6993006993006992,0.0,Miami Heat,K.Love,Denver Nuggets,1.0,0.6993006993006992,N,0.7073170731707317,1,0.4,0,0.4,0
+20,20,J.Butler u2.5 Stl+Blk,GreenDotDaily,-135,1.0,1.7407407407407407,0.0,Miami Heat,J.Butler,Denver Nuggets,1.0,0.7407407407407407,Y,0.0,0,0.0,0,0.0,0
+21,21,G.Vincent o17.5 Pts+Ast,JoeMetz,-105,1.05,2.05,3.010000000000001,Miami Heat,G.Vincent,Denver Nuggets,1.0,0.9999999999999998,N,0.2857142857142857,0,0.4,0,0.4,0
+22,22,M.Porter o2.5 3pt M,GDAWG5000,-115,1.15,2.1499999999999995,-4.209999999999999,Denver Nuggets,M.Porter,Miami Heat,0.0,0.9999999999999996,N,0.5925925925925926,1,0.4,0,0.5,0
+23,23,M.Strus o2.5 3pt M,GDAWG5000,150,1.0,2.5,0.0,Miami Heat,M.Strus,Denver Nuggets,1.0,1.5,N,0.4230769230769231,0,0.2,0,0.2,0
+24,24,J.Butler u25.5 Pts,PropBetGuy,-105,1.05,2.05,6.820000000000001,Miami Heat,J.Butler,Denver Nuggets,1.0,0.9999999999999998,N,0.5862068965517241,1,0.6,1,0.5,0
+25,25,G.Vincent o13.5 Pts,PropBetGuy,-118,1.18,2.18,0.0,Miami Heat,G.Vincent,Denver Nuggets,1.0,0.9999999999999998,N,0.3186813186813186,0,0.6,1,0.6,1
+26,26,N.Jokic o10.5 Ast,VegasRefund,110,1.0,2.1,0.0,Denver Nuggets,N.Jokic,Miami Heat,0.0,1.1,N,0.375,0,0.4,0,0.7,1
 0,0,T.Rozier o21.5 Pts,SBK5065,-114,0.57,1.0699999999999998,0.0,Charlotte Hornets,T.Rozier,Minnesota Timberwolves,1.0,0.4999999999999999,Y,0.6153846153846154,1,0.6,1,0.5,0
 1,1,R.Gobert o12.5 Rebs,JoeDellera,-136,0.4,0.6941176470588236,-7.5137,Minnesota Timberwolves,R.Gobert,Charlotte Hornets,0.0,0.2941176470588236,Y,0.5294117647058824,1,0.6,1,0.5,0
 2,2,D.Melton o2.5 3pt M,PropBomb,-129,1.29,2.29,0.0,Philadelphia 76ers,D.Melton,Orlando Magic,0.0,1.0,Y,0.2352941176470588,0,0.6,1,0.4,0
