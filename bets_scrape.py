@@ -174,7 +174,7 @@ class Bets:
                     if 'play' in i:
                         if 'units_net' in i:
                             if 'First' not in i:
-                                if 'odds"' in j:
+                                if 'odds"' in i:
                                     if len(i.split('"record":')) > 1:
                                         bet_entries.append(
                                             self.preprocessing(
