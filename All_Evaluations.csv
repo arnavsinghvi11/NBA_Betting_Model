@@ -3757,6 +3757,29 @@
 15,15,K.Love u6.5 Rebs+Ast,PropBomb,-131,1.5,2.645038167938931,0.0,Miami Heat,K.Love,Boston Celtics,1.0,1.1450381679389312,Y,0.4444444444444444,0,0.6,1,0.6,1
 16,16,C.Martin o2.5 3pt M,JoeDellera,220,0.5,1.6,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,1.1,N,0.1641791044776119,0,0.4,0,0.3,0
 17,17,C.Martin o1.5 3pt M,JoeDellera,-145,0.34,0.5744827586206898,0.0,Miami Heat,C.Martin,Boston Celtics,1.0,0.2344827586206897,Y,0.4029850746268656,0,0.6,1,0.5,0
+0,0,J.Butler o26.5 Pts,PropBomb,-110,1.43,2.73,8.8038,Miami Heat,J.Butler,Denver Nuggets,1.0,1.3,N,0.3409090909090909,0,0.4,0,0.4,0
+1,1,C.Braun o4.5 Pts,PropBomb,-105,1.05,2.05,0.0,Denver Nuggets,C.Braun,Miami Heat,0.0,0.9999999999999998,N,0.3894736842105263,0,0.4,0,0.3,0
+2,2,J.Murray u25.5 Pts,PropBomb,-108,1.08,2.08,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,1.0,Y,0.7058823529411765,1,0.6,1,0.4,0
+3,3,D.Robinson u7.5 Pts,PropBomb,-130,1.3,2.3,0.0,Miami Heat,D.Robinson,Denver Nuggets,1.0,0.9999999999999998,N,0.5384615384615384,1,0.2,0,0.2,0
+4,4,A.Gordon u12.5 Pts,ChrisRaybon,-125,1.0,1.8,0.0,Denver Nuggets,A.Gordon,Miami Heat,0.0,0.8,N,0.3636363636363636,0,0.4,0,0.7,1
+5,5,D.Robinson u1.5 Ast,ChrisRaybon,-250,1.0,1.4,0.0,Miami Heat,D.Robinson,Denver Nuggets,1.0,0.3999999999999999,N,0.7076923076923077,1,0.8,1,0.6,1
+6,6,K.Caldwell-Pope u1.5 Ast,ChrisRaybon,-170,1.0,1.5882352941176472,0.0,Denver Nuggets,K.Caldwell-Pope,Miami Heat,0.0,0.5882352941176472,N,0.3854166666666667,0,0.6,1,0.4,0
+7,7,J.Murray o7.5 Ast,JoeDellera,-120,1.0,1.8333333333333333,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,0.8333333333333335,Y,0.3294117647058823,0,0.8,1,0.4,0
+8,8,J.Murray o9.5 Ast,JoeDellera,255,0.2,0.71,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,0.51,Y,0.1294117647058823,0,0.8,1,0.4,0
+9,9,K.Love o1.5 3pt M,charliedisturco,145,0.5,1.225,-5.266,Miami Heat,K.Love,Denver Nuggets,1.0,0.7250000000000001,Y,0.5476190476190477,1,0.8,1,0.5,0
+10,10,M.Strus o2.5 3pt M,charliedisturco,190,0.5,1.45,0.0,Miami Heat,M.Strus,Denver Nuggets,1.0,0.95,N,0.419047619047619,0,0.2,0,0.1,0
+11,11,C.Martin o5.5 Rebs+Ast,JoeMetz,-125,1.25,2.25,5.06,Miami Heat,C.Martin,Denver Nuggets,1.0,1.0,Y,0.6145833333333334,1,0.8,1,0.6,1
+12,12,J.Butler u40.5 Pts+Rebs+Ast,PropBetGuy,-122,1.22,2.22,7.87,Miami Heat,J.Butler,Denver Nuggets,1.0,1.0000000000000002,Y,0.7272727272727273,1,0.8,1,0.6,1
+13,13,G.Vincent o12.5 Pts,VegasRefund,-125,1.25,2.25,0.0,Miami Heat,G.Vincent,Denver Nuggets,1.0,1.0,N,0.3369565217391304,0,0.4,0,0.6,1
+14,14,J.Butler o26.5 Pts,VegasRefund,-130,1.3,2.3,0.0,Miami Heat,J.Butler,Denver Nuggets,1.0,0.9999999999999998,N,0.3409090909090909,0,0.4,0,0.4,0
+15,15,J.Murray o7.5 Ast,cowhitchurch,-112,1.12,2.12,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,1.0,Y,0.3294117647058823,0,0.8,1,0.4,0
+16,16,J.Butler u40.5 Pts+Rebs+Ast,cowhitchurch,-120,0.6,1.1,0.0,Miami Heat,J.Butler,Denver Nuggets,1.0,0.5000000000000001,Y,0.7272727272727273,1,0.8,1,0.6,1
+17,17,J.Murray o8.5 Ast,cowhitchurch,154,0.5,1.27,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,0.77,Y,0.2352941176470588,0,0.8,1,0.4,0
+18,18,J.Murray o9.5 Ast,cowhitchurch,270,0.5,1.85,0.0,Denver Nuggets,J.Murray,Miami Heat,0.0,1.35,Y,0.1294117647058823,0,0.8,1,0.4,0
+19,19,D.Robinson u1.5 Ast,cowhitchurch,-250,2.0,2.8,0.0,Miami Heat,D.Robinson,Denver Nuggets,1.0,0.7999999999999998,N,0.7076923076923077,1,0.8,1,0.6,1
+20,20,K.Caldwell-Pope u1.5 Ast,cowhitchurch,-170,1.5,2.382352941176471,0.0,Denver Nuggets,K.Caldwell-Pope,Miami Heat,0.0,0.882352941176471,N,0.3854166666666667,0,0.6,1,0.4,0
+21,21,C.Martin o14.5 Pts,GDAWG5000,500,0.25,1.5,-8.06,Miami Heat,C.Martin,Denver Nuggets,1.0,1.25,N,0.2291666666666666,0,0.2,0,0.5,0
+22,22,J.Butler Double-Double (Yes),GDAWG5000,330,0.3,1.2899999999999998,0.0,Miami Heat,J.Butler,Denver Nuggets,1.0,0.9899999999999998,N,0.1590909090909091,0,0.0,0,0.1,0
 0,0,J.Harden o21.5 Pts,PropBomb,-115,1.15,2.1499999999999995,0.0,Philadelphia 76ers,J.Harden,Sacramento Kings,1.0,0.9999999999999996,N,0.4615384615384615,0,0.4,0,0.4,0
 1,1,J.Harden o9.5 Ast,JoeDellera,-115,0.5,0.934782608695652,1.4482999999999993,Philadelphia 76ers,J.Harden,Sacramento Kings,1.0,0.434782608695652,Y,0.6153846153846154,1,0.8,1,0.7,1
 2,2,D.Sabonis u35.5 Pts+Rebs+Ast,SBK5065,-106,0.53,1.03,2.999799999999999,Sacramento Kings,D.Sabonis,Philadelphia 76ers,0.0,0.5,N,0.5384615384615384,1,0.0,0,0.4,0
