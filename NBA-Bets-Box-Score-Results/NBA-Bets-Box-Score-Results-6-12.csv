@@ -1,0 +1,20 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Bam Adebayo,Miami Heat,Denver Nuggets,0,44.08,20,1,12,1,0,0,.479,.450,.000,9.5,17.3,12.9,4.7,1.1,0.0,21.4,102,101,0.5
+1,Jimmy Butler,Miami Heat,Denver Nuggets,0,41.18,21,5,3,3,0,2,.460,.333,.278,2.0,5.3,3.5,21.4,3.6,0.0,25.0,102,99,6.2
+2,Max Strus,Miami Heat,Denver Nuggets,0,31.36,12,1,8,0,1,1,.482,.458,.500,2.7,24.2,12.0,6.0,0.0,2.7,18.4,94,99,-1.0
+3,Gabe Vincent,Miami Heat,Denver Nuggets,0,21.43,6,3,0,1,0,0,.231,.231,.308,0.0,0.0,0.0,25.1,2.3,0.0,25.9,59,103,-8.3
+4,Kevin Love,Miami Heat,Denver Nuggets,0,14.10,3,0,2,1,2,1,.375,.375,1.000,0.0,15.4,6.7,0.0,3.5,12.1,12.2,77,89,3.3
+5,Kyle Lowry,Miami Heat,Denver Nuggets,0,34.20,12,4,9,2,1,4,.462,.462,.692,4.9,22.2,12.5,20.4,2.9,2.5,17.6,100,93,5.5
+6,Caleb Martin,Miami Heat,Denver Nuggets,0,32.02,10,1,5,1,1,0,.506,.444,.444,2.6,13.6,7.4,5.5,1.6,2.7,16.0,90,99,-2.7
+7,Duncan Robinson,Miami Heat,Denver Nuggets,0,16.48,5,3,3,0,2,1,.417,.417,.500,0.0,19.5,8.5,31.4,0.0,10.2,20.6,74,96,2.9
+8,Haywood Highsmith,Miami Heat,Denver Nuggets,0,2.54,0,0,1,0,0,0,,,,0.0,37.6,16.4,0.0,0.0,0.0,0.0,0,95,-10.2
+9,Cody Zeller,Miami Heat,Denver Nuggets,0,1.01,0,0,1,0,0,0,.000,.000,.000,82.8,0.0,46.7,0.0,0.0,0.0,42.5,54,109,-27.6
+10,Nikola Jokić,Denver Nuggets,Miami Heat,1,42.18,28,4,16,0,1,1,.769,.781,.188,2.6,29.9,18.0,18.6,0.0,1.9,23.3,125,90,9.9
+11,Jamal Murray,Denver Nuggets,Miami Heat,1,41.15,14,8,8,1,0,2,.467,.467,.467,0.0,16.3,9.2,30.0,1.2,0.0,22.6,80,95,-2.9
+12,Kentavious Caldwell-Pope,Denver Nuggets,Miami Heat,1,34.00,11,2,4,2,3,1,.506,.450,.500,3.2,7.4,5.6,8.7,2.9,6.9,15.5,106,89,7.3
+13,Michael Porter Jr.,Denver Nuggets,Miami Heat,1,33.37,16,3,13,0,0,1,.447,.441,.353,6.5,27.6,18.4,15.3,0.0,0.0,24.9,99,93,2.6
+14,Aaron Gordon,Denver Nuggets,Miami Heat,1,28.39,4,1,7,2,1,0,.258,.167,.333,7.6,14.7,11.6,4.6,3.5,2.7,13.6,68,88,-4.7
+15,Bruce Brown,Denver Nuggets,Miami Heat,1,28.09,10,1,6,1,0,0,.317,.286,.357,15.5,6.0,10.1,5.5,1.8,0.0,26.4,79,98,-5.6
+16,Christian Braun,Denver Nuggets,Miami Heat,1,24.17,7,1,3,0,1,0,.527,.500,.000,4.5,6.9,5.9,5.8,0.0,3.2,12.1,121,99,2.5
+17,Jeff Green,Denver Nuggets,Miami Heat,1,4.44,4,1,0,0,0,0,1.000,1.000,.000,0.0,0.0,0.0,57.2,0.0,0.0,18.8,202,104,16.6
+18,DeAndre Jordan,Denver Nuggets,Miami Heat,1,3.01,0,0,0,0,1,0,,,,0.0,0.0,0.0,0.0,0.0,26.1,0.0,0,84,5.4
