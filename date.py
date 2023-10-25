@@ -10,9 +10,9 @@ class Date:
         date_format='%m/%d/%Y %H:%M:%S %Z'
         date = datetime.now(tz=pytz.utc)
         if days > 0: 
-            correct_date = date.astimezone(timezone('US/Pacific')) + timedelta(days = 1)
+            correct_date = date.astimezone(timezone('US/Pacific')) + timedelta(days = days)
         elif days < 0:
-            correct_date = date.astimezone(timezone('US/Pacific')) - timedelta(days = 1)
+            correct_date = date.astimezone(timezone('US/Pacific')) - timedelta(days = -days)
         else:
             correct_date = date.astimezone(timezone('US/Pacific'))
         return correct_date.strftime(date_format)
@@ -43,7 +43,8 @@ class Date:
             col = str(int(col.split('-')[0]) * 10000 * multipler)+ col.split('-')[1]
         else:
             if int(col.split('-')[1]) < 10: 
-                col = col.split('-')[0] + '0' + col.split('-')[1]
+                col = col.split('-')[0] + col.split('-')[1]#+ '0' + col.split('-')[1]
             else:
                 col = col.split('-')[0] + col.split('-')[1]
+
         return int(col)

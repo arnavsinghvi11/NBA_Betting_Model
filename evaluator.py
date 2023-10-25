@@ -76,7 +76,7 @@ class Evaluator:
             name = bet['Play'].split(' ')[0]
             teams = [bet['Teams']]
             prop = bet['Play'].split(' ')[1]
-
+            print(name, teams)
             #determine type of prop bets
             prop_bet_type = bet['Play'].split(' ')[2]
             if 'Yes' in prop_bet_type:
@@ -90,10 +90,32 @@ class Evaluator:
             
             #evaluate past trends based on identified player's past statistics 
             matching_name = all_box_score_results[all_box_score_results['name'] == name]
+            if len(matching_name) == 0:
+                print(name)
+                print('in here')
+                all_games_prcts.append(0.0)
+                all_games_trues.append(0)
+                last5_prcts.append(0.0)
+                last5_trues.append(0)
+                last10_prcts.append(0.0)
+                last10_trues.append(0)
+                continue  
             all_games = matching_name[matching_name['team'].isin(teams)]
-            last5_games = all_games[:5]
-            last10_games =  all_games[:10]
-            all_games_prct, all_games_true = self.past_evaluator(all_games, prop_bet_type, prop_bet_number, over)
+            if is_evaluation:
+                last_all_games = all_games[1:]
+                if len(last_all_games) < 1:
+                    last_all_games = all_games[:1]
+                last5_games = all_games[1:6]
+                if len(last5_games) < 1:
+                    last5_games = all_games[:1]
+                last10_games =  all_games[1:11]
+                if len(last10_games) < 1:
+                    last10_games = all_games[:1]
+            else:
+                last_all_games = all_games
+                last5_games = all_games[:5]
+                last10_games =  all_games[:10]
+            all_games_prct, all_games_true = self.past_evaluator(last_all_games, prop_bet_type, prop_bet_number, over)
             last5_prct, last5_true = self.past_evaluator(last5_games, prop_bet_type, prop_bet_number, over)
             last10_prct, last10_true = self.past_evaluator(last10_games, prop_bet_type, prop_bet_number, over)
             all_games_prcts.append(all_games_prct)
@@ -108,13 +130,13 @@ class Evaluator:
         #determine if inputs for evaluted predictions which have 'Correct' feature identified or current predictions which are to be determined
         if is_evaluation:
             features_list = ['Play', 'Expert', 'Odds',
-            'Units', 'Payout', 'Net Units Record', 'Teams', 'name', 'opponent',
-            'hmcrt_adv', 'Profit', 'Correct', 'All Game Percentages',
+            'Units', 'Payout', 'Teams', 'Name', 'Opponent',
+            'Hmcrt_adv', 'Profit', 'Correct', 'All Game Percentages',
             'All Game Correct', 'Last 5 Percentages', 'Last 5 Correct',
             'Last 10 Percentages', 'Last 10 Correct']
         else:
-            features_list = ['Play', 'Expert', 'Teams',  'opponent',
-        'hmcrt_adv', 'All Game Percentages',
+            features_list = ['Play', 'Expert', 'Teams',  'Opponent',
+        'Hmcrt_adv', 'All Game Percentages',
         'All Game Correct', 'Last 5 Percentages', 'Last 5 Correct',
         'Last 10 Percentages', 'Last 10 Correct']
         return predictions[features_list]
