@@ -1,0 +1,51 @@
+,Play,Expert,Odds,Units,Payout,Teams,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,J.Brown o5.5 Rebs,Noto,-105,1.05,2.05,Boston Celtics,J.Brown,Philadelphia 76ers,0,0.9999999999999998,N,0.8333333333333334,1,0.8,1,0.8333333333333334,1
+1,J.Holiday o4.5 Rebs,GreenDotDaily,-175,0.57,0.8957142857142856,Denver Nuggets,J.Holiday,Golden State Warriors,1,0.3257142857142856,N,0.0,0,0.0,0,0.0,0
+2,D.Melton o1.5 Stl+Blk,SBK5065,115,0.5,1.075,Philadelphia 76ers,D.Melton,Boston Celtics,1,0.575,N,1.0,1,1.0,1,1.0,1
+3,K.Oubre u21.5 Pts+Rebs,cowhitchurch,-120,0.6,1.1,Philadelphia 76ers,K.Oubre,Boston Celtics,1,0.5000000000000001,N,0.3333333333333333,0,0.4,0,0.3333333333333333,0
+4,J.Holiday u5.5 Ast,cowhitchurch,116,0.58,1.2528,Denver Nuggets,J.Holiday,Golden State Warriors,1,0.6728,Y,1.0,1,1.0,1,1.0,1
+5,J.Holiday o4.5 Rebs,cowhitchurch,-108,1.0,1.925925925925926,Denver Nuggets,J.Holiday,Golden State Warriors,1,0.925925925925926,N,0.0,0,0.0,0,0.0,0
+6,J.Embiid o34.5 Pts+Ast,FanRacingOnline,-110,0.55,1.05,Philadelphia 76ers,J.Embiid,Boston Celtics,1,0.5,N,0.6666666666666666,1,0.8,1,0.6666666666666666,1
+7,K.Oubre u21.5 Pts+Rebs,PropBetGuy,-120,1.2,2.2,Philadelphia 76ers,K.Oubre,Boston Celtics,1,1.0000000000000002,N,0.3333333333333333,0,0.4,0,0.3333333333333333,0
+8,J.Holiday o4.5 Rebs,JoeDellera,-145,0.69,1.1658620689655173,Denver Nuggets,J.Holiday,Golden State Warriors,1,0.4758620689655173,N,0.0,0,0.0,0,0.0,0
+9,J.Holiday o4.5 Rebs,SBK5065,-145,0.69,1.1658620689655173,Denver Nuggets,J.Holiday,Golden State Warriors,1,0.4758620689655173,N,0.0,0,0.0,0,0.0,0
+10,J.Holiday u6.5 Ast,JoeDellera,-150,0.17,0.2833333333333333,Denver Nuggets,J.Holiday,Golden State Warriors,1,0.1133333333333333,Y,1.0,1,1.0,1,1.0,1
+11,J.Holiday u6.5 Ast,SBK5065,-145,0.69,1.1658620689655173,Denver Nuggets,J.Holiday,Golden State Warriors,1,0.4758620689655173,Y,1.0,1,1.0,1,1.0,1
+12,J.Allen o21.5 Pts+Rebs,cowhitchurch,-125,0.63,1.134,Cleveland Cavaliers,J.Allen,Oklahoma City Thunder,0,0.5040000000000001,N,0.0,0,0.0,0,0.0,0
+13,J.Allen o21.5 Pts+Rebs,JoeDellera,-104,0.52,1.02,Cleveland Cavaliers,J.Allen,Oklahoma City Thunder,0,0.5,N,0.0,0,0.0,0,0.0,0
+14,K.Leonard o20.5 Pts,SBK5065,-120,0.6,1.1,Los Angeles Clippers,K.Leonard,Brooklyn Nets,0,0.5000000000000001,N,0.6666666666666666,1,0.6,1,0.6666666666666666,1
+15,J.Harden o6.5 Ast,GreenDotDaily,-125,1.0,1.8,Los Angeles Clippers,J.Harden,Brooklyn Nets,0,0.8,N,0.0,0,0.0,0,0.0,0
+16,C.Thomas u26.5 Pts,cowhitchurch,-120,0.5,0.9166666666666669,Brooklyn Nets,C.Thomas,Los Angeles Clippers,1,0.4166666666666667,Y,0.2857142857142857,0,0.4,0,0.2857142857142857,0
+17,L.James o27.5 Pts,JoeDellera,-110,0.5,0.9545454545454546,Los Angeles Lakers,L.James,Houston Rockets,0,0.4545454545454546,N,0.2857142857142857,0,0.4,0,0.2857142857142857,0
+18,A.Sengun o30.5 Pts+Rebs+Ast,the_degenerates,-115,1.15,2.1499999999999995,Houston Rockets,A.Sengun,Los Angeles Lakers,1,0.9999999999999996,N,0.5,0,0.6,1,0.5,0
+19,A.Reaves o14.5 Pts,SportsBookBreakers,-120,1.2,2.2,Los Angeles Lakers,A.Reaves,Houston Rockets,0,1.0000000000000002,N,0.42857142857142855,0,0.6,1,0.42857142857142855,0
+20,J.Collins o7.5 Rebs,cowhitchurch,-115,0.5,0.934782608695652,Utah Jazz,J.Collins,Indiana Pacers,0,0.4347826086956521,Y,0.625,1,0.4,0,0.625,1
+21,J.Collins o7.5 Rebs,SBK5065,-105,0.76,1.4838095238095237,Utah Jazz,J.Collins,Indiana Pacers,0,0.7238095238095237,Y,0.625,1,0.4,0,0.625,1
+22,M.Williams o12.5 Pts,PropBomb,-130,1.0,1.7692307692307692,Charlotte Hornets,M.Williams,Washington Wizards,1,0.7692307692307692,Y,0.6666666666666666,1,0.6,1,0.6666666666666666,1
+23,B.Miller o14.5 Pts,cowhitchurch,-150,0.75,1.25,Charlotte Hornets,B.Miller,Washington Wizards,1,0.5,N,0.3333333333333333,0,0.4,0,0.3333333333333333,0
+24,T.Maledon u4.5 Ast,cowhitchurch,-165,0.5,0.803030303030303,Charlotte Hornets,T.Maledon,Washington Wizards,1,0.303030303030303,Y,1.0,1,1.0,1,1.0,1
+25,L.Ball o9.5 Ast,cowhitchurch,-145,0.73,1.233448275862069,Charlotte Hornets,L.Ball,Washington Wizards,1,0.5034482758620691,N,0.5,0,0.4,0,0.5,0
+26,T.Maledon u4.5 Ast,SBK5065,-155,1.0,1.6451612903225803,Charlotte Hornets,T.Maledon,Washington Wizards,1,0.6451612903225805,Y,1.0,1,1.0,1,1.0,1
+27,L.Ball o9.5 Ast,PropBomb,-125,1.25,2.25,Charlotte Hornets,L.Ball,Washington Wizards,1,1.0,N,0.5,0,0.4,0,0.5,0
+28,K.Kuzma o20.5 Pts,PropBetGuy,-113,1.0,1.8849557522123892,Washington Wizards,K.Kuzma,Charlotte Hornets,0,0.8849557522123894,Y,1.0,1,1.0,1,1.0,1
+29,V.Wembanyama u19.5 Pts,GreenDotDaily,-120,0.83,1.5216666666666667,San Antonio Spurs,V.Wembanyama,New York Knicks,0,0.6916666666666668,Y,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+30,Z.Collins u25.5 Pts+Rebs+Ast,GreenDotDaily,-127,0.79,1.4120472440944882,San Antonio Spurs,Z.Collins,New York Knicks,0,0.6220472440944882,Y,0.7142857142857143,1,0.6,1,0.7142857142857143,1
+31,K.Johnson o18.5 Pts,cowhitchurch,100,0.5,1.0,San Antonio Spurs,K.Johnson,New York Knicks,0,0.5,N,0.42857142857142855,0,0.4,0,0.42857142857142855,0
+32,V.Wembanyama u19.5 Pts,JoeDellera,-105,0.95,1.8547619047619048,San Antonio Spurs,V.Wembanyama,New York Knicks,0,0.9047619047619048,Y,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+33,J.Hawkins o3.5 Rebs,Noto,-160,1.6,2.6,New Orleans Pelicans,J.Hawkins,Minnesota Timberwolves,0,1.0,N,0.7142857142857143,1,0.8,1,0.7142857142857143,1
+34,B.Ingram u24.5 Pts,PropBetGuy,-111,1.0,1.900900900900901,New Orleans Pelicans,B.Ingram,Minnesota Timberwolves,0,0.900900900900901,Y,0.75,1,0.75,1,0.75,1
+35,J.Valanciunas o8.5 Rebs,JoeDellera,-150,0.75,1.25,New Orleans Pelicans,J.Valanciunas,Minnesota Timberwolves,0,0.5,N,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+36,K.Looney o2.5 Ast,SBK5065,-125,0.5,0.9,Golden State Warriors,K.Looney,Denver Nuggets,0,0.4,Y,0.5,0,0.6,1,0.5,0
+37,M.Porter o6.5 Rebs,GreenDotDaily,-112,0.89,1.684642857142857,Denver Nuggets,M.Porter,Golden State Warriors,1,0.7946428571428571,Y,0.625,1,0.4,0,0.625,1
+38,R.Jackson u4.5 Ast,SBK5065,110,0.75,1.5750000000000002,Denver Nuggets,R.Jackson,Golden State Warriors,1,0.8250000000000002,N,0.625,1,0.8,1,0.625,1
+39,A.Gordon o15.5 Pts,cowhitchurch,-105,0.53,1.0347619047619048,Denver Nuggets,A.Gordon,Golden State Warriors,1,0.5047619047619047,N,0.25,0,0.4,0,0.25,0
+40,J.Jackson u23.5 Pts,JoeDellera,-125,0.5,0.9,Memphis Grizzlies,J.Jackson,Miami Heat,1,0.4,N,0.5714285714285714,1,0.4,0,0.5714285714285714,1
+41,J.Jackson u23.5 Pts,SBK5065,-125,1.0,1.8,Memphis Grizzlies,J.Jackson,Miami Heat,1,0.8,N,0.5714285714285714,1,0.4,0,0.5714285714285714,1
+43,G.Trent o9.5 Pts,SBK5065,-122,0.5,0.9098360655737704,Toronto Raptors,G.Trent,Dallas Mavericks,0,0.4098360655737705,Y,0.42857142857142855,0,0.4,0,0.42857142857142855,0
+44,K.Irving o6.5 Ast,Noto,105,1.0,2.05,Dallas Mavericks,K.Irving,Toronto Raptors,1,1.0499999999999998,N,0.6,1,0.6,1,0.6,1
+45,K.Irving o6.5 Ast,cowhitchurch,124,0.5,1.12,Dallas Mavericks,K.Irving,Toronto Raptors,1,0.6200000000000001,N,0.6,1,0.6,1,0.6,1
+46,K.Irving o6.5 Ast,JoeDellera,105,1.0,2.05,Dallas Mavericks,K.Irving,Toronto Raptors,1,1.0499999999999998,N,0.6,1,0.6,1,0.6,1
+47,D.Mitchell u16.5 Pts+Rebs+Ast,SBK5065,-125,1.25,2.25,Cleveland Cavaliers,D.Mitchell,Oklahoma City Thunder,0,1.0,N,0.0,0,0.0,0,0.0,0
+48,M.Brogdon o9.5 Ast,charliedisturco,230,0.35,1.1549999999999998,Portland Trail Blazers,M.Brogdon,Sacramento Kings,0,0.8049999999999998,N,0.2857142857142857,0,0.4,0,0.2857142857142857,0
+49,M.Monk o4.5 Ast,Noto,-133,1.0,1.7518796992481205,Sacramento Kings,M.Monk,Portland Trail Blazers,1,0.7518796992481203,Y,0.5,0,0.4,0,0.5,0
+50,M.Sasser o10.5 Pts,SBK5065,-110,0.5,0.9545454545454546,Detroit Pistons,M.Sasser,Milwaukee Bucks,0,0.4545454545454546,Y,0.25,0,0.4,0,0.25,0
