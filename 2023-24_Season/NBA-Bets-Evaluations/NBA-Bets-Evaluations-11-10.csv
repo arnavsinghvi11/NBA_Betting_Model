@@ -1,0 +1,28 @@
+,Play,Expert,Odds,Units,Payout,Teams,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,P.Washington o21.5 Pts+Rebs,SBK5065,-115,0.8,1.4956521739130435,Charlotte Hornets,P.Washington,Washington Wizards,0.0,0.6956521739130435,N,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+1,M.Williams o22.5 Pts+Rebs,the_degenerates,-125,1.0,1.8,Charlotte Hornets,M.Williams,Washington Wizards,0.0,0.8,Y,0.7142857142857143,1,0.8,1,0.7142857142857143,1
+2,K.Kuzma o36.5 Pts+Rebs+Ast,JoeMetz,-105,1.05,2.05,Washington Wizards,K.Kuzma,Charlotte Hornets,1.0,0.9999999999999998,N,0.2857142857142857,0,0.4,0,0.2857142857142857,0
+3,T.Maledon u3.5 Ast,SBK5065,-130,1.0,1.7692307692307692,Charlotte Hornets,T.Maledon,Washington Wizards,0.0,0.7692307692307692,N,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+4,L.Ball o9.5 Ast,cowhitchurch,-119,0.6,1.104201680672269,Charlotte Hornets,L.Ball,Washington Wizards,0.0,0.504201680672269,N,0.42857142857142855,0,0.4,0,0.42857142857142855,0
+5,L.Ball o9.5 Ast,JoeDellera,-119,1.0,1.8403361344537816,Charlotte Hornets,L.Ball,Washington Wizards,0.0,0.8403361344537816,N,0.42857142857142855,0,0.4,0,0.42857142857142855,0
+6,A.Thompson o7.5 Rebs,PropBomb,-115,1.0,1.869565217391304,Detroit Pistons,A.Thompson,Philadelphia 76ers,1.0,0.8695652173913042,Y,0.5555555555555556,1,0.4,0,0.5555555555555556,1
+7,A.Thompson o7.5 Rebs,SBK5065,-115,0.5,0.934782608695652,Detroit Pistons,A.Thompson,Philadelphia 76ers,1.0,0.4347826086956521,Y,0.5555555555555556,1,0.4,0,0.5555555555555556,1
+8,A.Thompson o7.5 Rebs,Noto,-119,1.0,1.8403361344537816,Detroit Pistons,A.Thompson,Philadelphia 76ers,1.0,0.8403361344537816,Y,0.5555555555555556,1,0.4,0,0.5555555555555556,1
+9,T.Harris o5.5 Rebs,Noto,-145,1.45,2.45,Philadelphia 76ers,T.Harris,Detroit Pistons,0.0,1.0000000000000002,N,0.42857142857142855,0,0.4,0,0.42857142857142855,0
+10,J.Embiid o4.5 Ast,Noto,-129,1.29,2.29,Philadelphia 76ers,J.Embiid,Detroit Pistons,0.0,1.0,N,0.7142857142857143,1,0.6,1,0.7142857142857143,1
+11,J.Duren o1.5 Ast,SBK5065,-130,0.77,1.3623076923076922,Detroit Pistons,J.Duren,Philadelphia 76ers,1.0,0.5923076923076922,Y,0.7142857142857143,1,0.6,1,0.7142857142857143,1
+12,A.Thompson o20.5 Pts+Rebs,PropBetGuy,-115,1.0,1.869565217391304,Detroit Pistons,A.Thompson,Philadelphia 76ers,1.0,0.8695652173913042,Y,0.7777777777777778,1,1.0,1,0.7777777777777778,1
+13,D.McDermott u8.5 Pts,SBK5065,-105,0.5,0.9761904761904762,San Antonio Spurs,D.McDermott,Minnesota Timberwolves,1.0,0.4761904761904761,Y,0.75,1,0.6,1,0.75,1
+14,K.Towns o8.5 Rebs,Noto,105,1.05,2.1525,Minnesota Timberwolves,K.Towns,San Antonio Spurs,0.0,1.1024999999999998,Y,0.7142857142857143,1,0.6,1,0.7142857142857143,1
+15,Z.Collins o3.5 Ast,Noto,-101,1.0,1.99009900990099,San Antonio Spurs,Z.Collins,Minnesota Timberwolves,1.0,0.99009900990099,Y,0.75,1,0.8,1,0.75,1
+16,K.Johnson u18.5 Pts,cowhitchurch,-121,0.5,0.9132231404958676,San Antonio Spurs,K.Johnson,Minnesota Timberwolves,1.0,0.4132231404958677,Y,0.625,1,0.6,1,0.625,1
+17,R.Gobert o11.5 Rebs,JoeDellera,-135,1.35,2.35,Minnesota Timberwolves,R.Gobert,San Antonio Spurs,0.0,1.0,N,0.7142857142857143,1,0.6,1,0.7142857142857143,1
+18,R.Gobert o14.5 Rebs,JoeDellera,295,0.25,0.9875,Minnesota Timberwolves,R.Gobert,San Antonio Spurs,0.0,0.7375,N,0.0,0,0.0,0,0.0,0
+19,D.Jones o6.5 Pts,SBK5065,-130,0.5,0.8846153846153846,Dallas Mavericks,D.Jones,Los Angeles Clippers,1.0,0.3846153846153846,Y,0.5,0,0.6,1,0.5,0
+20,K.Leonard u26.5 Pts+Ast,PropBetGuy,-120,1.2,2.2,Los Angeles Clippers,K.Leonard,Dallas Mavericks,0.0,1.0000000000000002,N,0.42857142857142855,0,0.6,1,0.42857142857142855,0
+21,K.Irving o6.5 Ast,Noto,109,1.0,2.09,Dallas Mavericks,K.Irving,Los Angeles Clippers,1.0,1.09,N,0.5,0,0.6,1,0.5,0
+22,J.Clarkson u18.5 Pts,SBK5065,-120,0.6,1.1,Utah Jazz,J.Clarkson,Memphis Grizzlies,0.0,0.5000000000000001,N,0.5555555555555556,1,0.4,0,0.5555555555555556,1
+23,L.Markkanen o24.5 Pts,the_degenerates,-110,1.0,1.9090909090909087,Utah Jazz,L.Markkanen,Memphis Grizzlies,0.0,0.9090909090909092,Y,0.4444444444444444,0,0.4,0,0.4444444444444444,0
+24,J.Collins o8.5 Rebs,cowhitchurch,105,0.5,1.025,Utah Jazz,J.Collins,Memphis Grizzlies,0.0,0.5249999999999999,N,0.5555555555555556,1,0.2,0,0.5555555555555556,1
+25,J.Brown o21.5 Pts,SportsBookBreakers,-127,1.02,1.8231496062992123,Boston Celtics,J.Brown,Brooklyn Nets,1.0,0.8031496062992125,Y,0.7142857142857143,1,0.8,1,0.7142857142857143,1
+26,L.Walker o12.5 Pts,SBK5065,-115,0.87,1.6265217391304347,Brooklyn Nets,L.Walker,Boston Celtics,0.0,0.7565217391304347,Y,0.8571428571428571,1,0.8,1,0.8571428571428571,1
