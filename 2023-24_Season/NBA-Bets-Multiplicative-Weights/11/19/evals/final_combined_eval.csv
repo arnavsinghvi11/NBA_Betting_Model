@@ -1,0 +1,11 @@
+Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Correct
+L.Walker o12.5 Pts,JoeDellera,-102,0.5,L.Walker,Brooklyn Nets,Philadelphia 76ers,1,0.9901960784313726,0.4901960784313726,0.7272727272727273,1,0.6,1,0.7,1,Y
+L.Walker o12.5 Pts,SBK5065,-102,1.0,L.Walker,Brooklyn Nets,Philadelphia 76ers,1,1.9803921568627447,0.9803921568627452,0.7272727272727273,1,0.6,1,0.7,1,Y
+O.Toppin u11.5 Pts,SBK5065,-125,0.5,O.Toppin,Indiana Pacers,Orlando Magic,1,0.9,0.4,0.7272727272727273,1,0.4,0,0.7,1,Y
+K.George o9.5 Pts,SBK5065,-115,1.0,K.George,Utah Jazz,Phoenix Suns,1,1.869565217391304,0.8695652173913042,0.25,0,0.4,0,0.3,0,N
+J.Ivey o3.5 Ast,SBK5065,-118,0.5,J.Ivey,Detroit Pistons,Toronto Raptors,0,0.923728813559322,0.423728813559322,0.2222222222222222,0,0.2,0,0.2222222222222222,0,Y
+N.Claxton u8.5 Rebs,SBK5065,-125,0.75,N.Claxton,Brooklyn Nets,Philadelphia 76ers,1,1.35,0.6000000000000001,0.75,1,0.75,1,0.75,1,N
+D.Booker o39.5 Pts+Ast,JoeDellera,170,0.2,D.Booker,Phoenix Suns,Utah Jazz,0,0.54,0.34,0.5,0,0.5,0,0.5,0,N
+D.Booker o34.5 Pts+Ast,JoeDellera,-122,1.0,D.Booker,Phoenix Suns,Utah Jazz,0,1.819672131147541,0.819672131147541,1.0,1,1.0,1,1.0,1,N
+D.Sabonis o32.5 Pts+Rebs,the_degenerates,-120,1.0,D.Sabonis,Sacramento Kings,Dallas Mavericks,0,1.8333333333333333,0.8333333333333335,0.5454545454545454,1,0.6,1,0.5,0,Y
+D.Bane u36.5 Pts+Rebs+Ast,PropBetGuy,-118,1.18,D.Bane,Memphis Grizzlies,Boston Celtics,1,2.18,0.9999999999999998,0.5,0,0.6,1,0.5,0,N
