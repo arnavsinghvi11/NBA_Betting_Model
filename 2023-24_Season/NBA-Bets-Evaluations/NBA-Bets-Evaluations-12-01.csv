@@ -1,0 +1,26 @@
+,Unnamed: 0,Play,Expert,Odds,Units,Payout,Teams,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,0,P.Pritchard o9.5 Pts,SBK5065,330,0.83,3.5689999999999995,Boston Celtics,P.Pritchard,Philadelphia 76ers,1,2.7389999999999994,Y,0.2777777777777778,0,0.6,1,0.3,0
+1,1,P.Pritchard o6.5 Pts,JoeDellera,100,0.5,1.0,Boston Celtics,P.Pritchard,Philadelphia 76ers,1,0.5,Y,0.3888888888888889,0,0.6,1,0.5,0
+2,2,P.Pritchard o14.5 Pts,JoeDellera,1225,0.25,3.3125,Boston Celtics,P.Pritchard,Philadelphia 76ers,1,3.0625,N,0.1111111111111111,0,0.2,0,0.1,0
+3,3,P.Pritchard o9.5 Pts,JoeDellera,280,1.4,5.319999999999999,Boston Celtics,P.Pritchard,Philadelphia 76ers,1,3.92,Y,0.2777777777777778,0,0.6,1,0.3,0
+4,4,P.Pritchard o6.5 Pts,SBK5065,105,0.53,1.0865,Boston Celtics,P.Pritchard,Philadelphia 76ers,1,0.5565,Y,0.3888888888888889,0,0.6,1,0.5,0
+5,5,J.Holiday u15.5 Pts,SBK5065,-125,0.5,0.9,Boston Celtics,J.Holiday,Philadelphia 76ers,1,0.4,Y,0.8125,1,1.0,1,0.9,1
+6,6,S.Hauser o8.5 Pts,PropBetGuy,-110,1.0,1.9090909090909087,Boston Celtics,S.Hauser,Philadelphia 76ers,1,0.9090909090909092,Y,0.6666666666666666,1,0.8,1,0.8,1
+7,7,J.Holiday u15.5 Pts,kylemurray03,-122,0.82,1.4921311475409835,Boston Celtics,J.Holiday,Philadelphia 76ers,1,0.6721311475409836,Y,0.8125,1,1.0,1,0.9,1
+8,11,J.Brown o2.5 Ast,Noto,-150,1.5,2.5,Boston Celtics,J.Brown,Philadelphia 76ers,1,1.0,N,0.375,0,0.2,0,0.3,0
+9,12,J.Brown o2.5 Ast,SBK5065,-130,1.0,1.7692307692307692,Boston Celtics,J.Brown,Philadelphia 76ers,1,0.7692307692307692,N,0.375,0,0.2,0,0.3,0
+10,13,J.Goodwin o12.5 Pts+Rebs+Ast,SBK5065,-113,0.57,1.074424778761062,Phoenix Suns,J.Goodwin,Denver Nuggets,1,0.504424778761062,N,0.375,0,0.2,0,0.3,0
+11,14,M.Porter o26.5 Pts+Rebs,PropBetGuy,-113,1.0,1.8849557522123888,Denver Nuggets,M.Porter,Phoenix Suns,0,0.8849557522123894,Y,0.6470588235294118,1,0.8,1,0.8,1
+12,15,N.Jokic o9.5 Ast,kylemurray03,105,1.05,2.1525,Denver Nuggets,N.Jokic,Phoenix Suns,0,1.1024999999999998,Y,0.6470588235294118,1,0.8,1,0.8,1
+13,16,K.Durant o31.5 Pts,kylemurray03,-113,1.0,1.8849557522123888,Phoenix Suns,K.Durant,Denver Nuggets,1,0.8849557522123894,N,0.3888888888888889,0,0.6,1,0.4,0
+14,17,J.Hardy o12.5 Pts,SBK5065,-110,0.55,1.05,Dallas Mavericks,J.Hardy,Memphis Grizzlies,1,0.5,N,0.5263157894736842,1,0.6,1,0.6,1
+15,18,D.Bane o23.5 Pts,kylemurray03,-110,0.91,1.7372727272727273,Memphis Grizzlies,D.Bane,Dallas Mavericks,0,0.8272727272727273,Y,0.3888888888888889,0,0.4,0,0.4,0
+16,19,J.Jackson o26.5 Pts+Rebs,kylemurray03,-111,1.0,1.900900900900901,Memphis Grizzlies,J.Jackson,Dallas Mavericks,0,0.900900900900901,N,0.375,0,0.6,1,0.5,0
+17,20,D.Lively u22.5 Pts+Rebs+Ast,SBK5065,-120,0.5,0.9166666666666669,Dallas Mavericks,D.Lively,Memphis Grizzlies,1,0.4166666666666667,Y,0.0714285714285714,0,0.0,0,0.0,0
+18,21,D.Lively u21.5 Pts+Rebs+Ast,SBK5065,-105,0.95,1.8547619047619048,Dallas Mavericks,D.Lively,Memphis Grizzlies,1,0.9047619047619048,Y,0.5294117647058824,1,0.2,0,0.4,0
+19,22,M.Flynn o3.5 Pts,SBK5065,-110,0.55,1.05,Toronto Raptors,M.Flynn,New York Knicks,1,0.5,N,0.4705882352941176,0,0.2,0,0.3,0
+20,23,J.Brunson u35.5 Pts+Rebs+Ast,PropBetGuy,-115,1.0,1.869565217391304,New York Knicks,J.Brunson,Toronto Raptors,0,0.8695652173913042,Y,0.7333333333333333,1,0.8,1,0.8,1
+21,24,M.Robinson o10.5 Rebs,Noto,-110,1.1,2.1,New York Knicks,M.Robinson,Toronto Raptors,0,1.0,N,0.7333333333333333,1,0.8,1,0.8,1
+22,25,C.Osman o6.5 Pts,SBK5065,-125,0.5,0.9,San Antonio Spurs,C.Osman,New Orleans Pelicans,0,0.4,Y,0.6842105263157895,1,0.4,0,0.7,1
+23,26,J.Sochan o9.5 Rebs+Ast,kylemurray03,105,1.0,2.05,San Antonio Spurs,J.Sochan,New Orleans Pelicans,0,1.0499999999999998,N,0.6666666666666666,1,0.6,1,0.6,1
+24,27,P.Banchero o21.5 Pts,GoldBoys,-106,0.94,1.8267924528301889,Orlando Magic,P.Banchero,Washington Wizards,1,0.8867924528301887,Y,0.5555555555555556,1,0.4,0,0.4,0
