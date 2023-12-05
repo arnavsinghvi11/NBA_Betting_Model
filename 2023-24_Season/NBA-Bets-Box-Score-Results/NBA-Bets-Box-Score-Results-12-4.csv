@@ -1,0 +1,39 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Jrue Holiday,Boston Celtics,Indiana Pacers,0,38.02,9,3,6,1,1,1,.455,.389,.556,2.7,12.6,7.8,9.0,1.2,2.3,11.5,105,121,-2.6
+1,Jayson Tatum,Boston Celtics,Indiana Pacers,0,37.22,32,6,12,1,0,2,.550,.538,.308,2.7,28.3,15.9,26.3,1.3,0.0,33.5,116,120,6.7
+2,Derrick White,Boston Celtics,Indiana Pacers,0,35.58,18,8,4,1,1,2,.533,.500,.563,0.0,10.7,5.5,29.1,1.3,2.5,24.5,98,121,-2.1
+3,Jaylen Brown,Boston Celtics,Indiana Pacers,0,31.29,30,0,9,1,2,2,.640,.652,.304,6.5,21.3,14.1,0.0,1.5,5.6,33.8,110,115,4.5
+4,Al Horford,Boston Celtics,Indiana Pacers,0,31.21,2,4,7,0,1,0,.333,.333,.333,6.5,15.3,11.0,13.8,0.0,2.8,6.4,90,123,-3.6
+5,Sam Hauser,Boston Celtics,Indiana Pacers,0,22.39,15,1,6,0,0,5,.833,.833,.778,9.0,17.0,13.1,6.0,0.0,0.0,16.0,169,125,11.0
+6,Luke Kornet,Boston Celtics,Indiana Pacers,0,16.39,6,2,4,1,4,0,.600,.600,.000,24.5,0.0,11.9,15.4,2.8,21.4,14.5,130,102,10.6
+7,Payton Pritchard,Boston Celtics,Indiana Pacers,0,15.19,0,2,4,0,0,0,.000,.000,.800,0.0,25.1,12.9,13.6,0.0,0.0,13.1,29,124,-14.6
+8,Dalano Banton,Boston Celtics,Indiana Pacers,0,11.11,0,1,4,0,0,0,.000,.000,.000,9.1,25.8,17.7,9.3,0.0,0.0,14.4,28,123,-17.5
+9,Tyrese Haliburton,Indiana Pacers,Boston Celtics,1,40.06,26,13,10,1,0,5,.705,.694,.611,7.2,17.8,12.3,50.1,1.2,0.0,20.2,162,110,14.4
+10,Bruce Brown,Indiana Pacers,Boston Celtics,1,35.48,13,4,8,3,0,1,.497,.350,.300,0.0,22.8,11.1,13.8,3.9,0.0,19.7,94,102,-2.3
+11,Myles Turner,Indiana Pacers,Boston Celtics,1,34.22,17,1,10,1,1,2,.517,.500,.375,2.8,26.7,14.4,4.2,1.4,2.5,21.0,106,106,0.1
+12,Buddy Hield,Indiana Pacers,Boston Celtics,1,31.58,21,2,2,2,0,4,.823,.818,.545,6.0,0.0,3.1,9.2,2.9,0.0,18.9,151,112,9.7
+13,Obi Toppin,Indiana Pacers,Boston Celtics,1,25.40,12,1,2,0,2,2,.676,.625,.500,0.0,8.0,3.9,5.3,0.0,6.7,15.2,134,112,3.7
+14,Aaron Nesmith,Indiana Pacers,Boston Celtics,1,30.56,14,1,1,0,1,1,.643,.650,.300,0.0,3.3,1.6,4.6,0.0,2.8,16.9,112,115,-2.9
+15,Bennedict Mathurin,Indiana Pacers,Boston Celtics,1,27.05,16,2,5,0,0,4,.538,.500,.500,3.5,15.1,9.1,10.4,0.0,0.0,25.8,106,114,-0.7
+16,T.J. McConnell,Indiana Pacers,Boston Celtics,1,9.10,2,3,2,1,0,0,.200,.200,.000,0.0,22.3,10.8,41.6,5.1,0.0,24.0,75,100,-3.5
+17,Andrew Nembhard,Indiana Pacers,Boston Celtics,1,4.55,1,1,1,0,0,0,.174,.000,.000,0.0,20.8,10.1,22.7,0.0,0.0,25.7,59,111,-19.9
+18,Brandon Ingram,New Orleans Pelicans,Sacramento Kings,0,40.27,30,6,8,1,0,3,.626,.575,.300,5.9,17.8,11.9,20.3,1.2,0.0,28.2,135,126,2.0
+19,CJ McCollum,New Orleans Pelicans,Sacramento Kings,0,35.53,17,7,2,2,2,3,.607,.607,.357,0.0,6.7,3.3,24.9,2.8,6.1,19.6,126,123,3.7
+20,Herbert Jones,New Orleans Pelicans,Sacramento Kings,0,34.48,23,5,5,0,2,3,.779,.731,.385,10.3,6.9,8.6,19.2,0.0,6.3,19.9,164,129,7.6
+21,Jonas Valančiūnas,New Orleans Pelicans,Sacramento Kings,0,29.26,18,0,11,0,0,0,.705,.636,.000,16.3,28.5,22.4,0.0,0.0,0.0,20.6,146,125,-5.6
+22,Zion Williamson,New Orleans Pelicans,Sacramento Kings,0,27.39,10,6,6,3,0,0,.625,.625,.250,4.3,21.7,13.0,27.2,5.4,0.0,19.1,105,115,-0.6
+23,Trey Murphy III,New Orleans Pelicans,Sacramento Kings,0,29.41,16,1,2,0,1,3,.576,.577,.615,0.0,8.1,4.0,4.3,0.0,3.7,20.6,126,130,-3.3
+24,Jose Alvarado,New Orleans Pelicans,Sacramento Kings,0,17.38,9,2,3,2,2,2,.922,1.000,.750,0.0,20.4,10.2,14.0,5.7,12.4,14.7,149,109,16.9
+25,Naji Marshall,New Orleans Pelicans,Sacramento Kings,0,13.28,4,2,4,1,0,0,.515,.333,.667,17.8,17.8,17.8,16.4,3.7,0.0,15.9,125,120,-0.7
+26,Dyson Daniels,New Orleans Pelicans,Sacramento Kings,0,6.22,0,0,1,2,0,0,.000,.000,.000,18.8,0.0,9.4,0.0,15.7,0.0,6.9,80,98,4.0
+27,Cody Zeller,New Orleans Pelicans,Sacramento Kings,0,4.38,0,0,0,1,0,0,,,,0.0,0.0,0.0,0.0,10.8,0.0,0.0,0,110,4.1
+28,De'Aaron Fox,Sacramento Kings,New Orleans Pelicans,1,39.51,30,4,5,1,0,1,.488,.420,.280,3.0,12.0,7.5,18.6,1.3,0.0,39.3,92,135,-11.0
+29,Domantas Sabonis,Sacramento Kings,New Orleans Pelicans,1,36.22,26,10,13,2,1,0,.793,.667,.083,16.5,26.4,21.4,48.1,2.8,2.4,20.4,176,126,19.9
+30,Harrison Barnes,Sacramento Kings,New Orleans Pelicans,1,34.08,4,1,4,1,1,1,.515,.500,1.000,3.5,10.5,7.0,3.8,1.5,2.5,7.3,82,133,-6.0
+31,Kevin Huerter,Sacramento Kings,New Orleans Pelicans,1,31.31,12,2,5,0,0,2,.600,.600,.700,3.8,15.2,9.5,10.0,0.0,0.0,13.5,131,137,-3.1
+32,Keegan Murray,Sacramento Kings,New Orleans Pelicans,1,31.04,14,1,4,0,0,4,.636,.636,.727,0.0,15.5,7.7,5.1,0.0,0.0,16.5,113,136,-5.1
+33,Malik Monk,Sacramento Kings,New Orleans Pelicans,1,32.26,21,5,3,2,0,5,.706,.679,.643,3.7,7.4,5.5,26.8,3.1,0.0,23.5,123,132,6.6
+34,Trey Lyles,Sacramento Kings,New Orleans Pelicans,1,16.25,5,6,1,0,0,0,.434,.250,.750,0.0,7.3,3.7,50.0,0.0,0.0,15.0,136,139,3.1
+35,Keon Ellis,Sacramento Kings,New Orleans Pelicans,1,8.09,5,0,0,1,0,1,.868,.750,1.000,0.0,0.0,0.0,0.0,6.1,0.0,15.1,180,127,9.1
+36,Sasha Vezenkov,Sacramento Kings,New Orleans Pelicans,1,6.14,0,0,2,0,0,0,.000,.000,.333,38.5,0.0,19.3,0.0,0.0,0.0,20.5,53,140,-31.0
+37,JaVale McGee,Sacramento Kings,New Orleans Pelicans,1,3.50,0,0,1,1,0,0,.000,.000,.000,0.0,31.3,15.7,0.0,13.1,0.0,11.1,0,102,-5.9
