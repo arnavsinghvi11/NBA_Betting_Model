@@ -1,0 +1,31 @@
+,Unnamed: 0,Play,Expert,Odds,Units,Payout,Teams,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,0,C.Thomas o24.5 Pts+Rebs+Ast,kylemurray03,-110,1.0,1.9090909090909087,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.9090909090909092,N,0.8,1,0.8,1,0.8,1
+1,1,C.Thomas o22.5 Pts+Rebs,kylemurray03,-145,1.0,1.6896551724137931,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.6896551724137931,N,0.7,1,0.8,1,0.7,1
+2,2,N.Claxton o21.5 Pts+Rebs,SBK5065,-125,1.25,2.25,Brooklyn Nets,N.Claxton,Atlanta Hawks,0,1.0,N,0.5,0,0.6,1,0.5,0
+3,3,C.Thomas u19.5 Pts,SBK5065,124,0.62,1.3888,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.7688,Y,0.3,0,0.2,0,0.3,0
+4,4,C.Thomas o2.5 Rebs,Noto,-145,1.45,2.45,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,1.0000000000000002,N,0.6,1,0.6,1,0.6,1
+5,5,C.Thomas o19.5 Pts,SBK5065,-105,0.53,1.0347619047619048,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.5047619047619047,N,0.7,1,0.8,1,0.7,1
+6,6,C.Thomas o19.5 Pts,PropBomb,-105,1.05,2.05,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.9999999999999998,N,0.7,1,0.8,1,0.7,1
+7,7,C.Thomas o19.5 Pts,JoeMetz,-105,1.05,2.05,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.9999999999999998,N,0.7,1,0.8,1,0.7,1
+8,8,C.Thomas o19.5 Pts,PropBetGuy,110,1.0,2.1,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,1.1,N,0.7,1,0.8,1,0.7,1
+9,9,C.Thomas o18.5 Pts,GoldBoys,-105,1.0,1.9523809523809523,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.9523809523809524,N,0.7,1,0.8,1,0.7,1
+10,10,C.Thomas o18.5 Pts,TheBMatt,-105,1.05,2.05,Brooklyn Nets,C.Thomas,Atlanta Hawks,0,0.9999999999999998,N,0.7,1,0.8,1,0.7,1
+11,11,N.Claxton o21.5 Pts+Rebs,JoeDellera,-125,1.0,1.8,Brooklyn Nets,N.Claxton,Atlanta Hawks,0,0.8,N,0.5,0,0.6,1,0.5,0
+12,12,A.Sengun o37.5 Pts+Rebs+Ast,the_degenerates,-121,1.21,2.21,Houston Rockets,A.Sengun,Oklahoma City Thunder,1,1.0,N,0.3529411764705882,0,0.6,1,0.5,0
+13,13,N.Jokic o11.5 Rebs,cowhitchurch,-140,1.0,1.7142857142857144,Denver Nuggets,N.Jokic,Los Angeles Clippers,0,0.7142857142857144,Y,0.65,1,0.4,0,0.5,0
+14,14,N.Jokic o12.5 Rebs,PropBetGuy,-120,1.0,1.8333333333333333,Denver Nuggets,N.Jokic,Los Angeles Clippers,0,0.8333333333333335,Y,0.6,1,0.4,0,0.5,0
+15,15,N.Jokic o12.5 Rebs,JoeDellera,105,1.05,2.1525,Denver Nuggets,N.Jokic,Los Angeles Clippers,0,1.1024999999999998,Y,0.6,1,0.4,0,0.5,0
+16,16,N.Jokic o9.5 Ast,kylemurray03,105,1.05,2.1525,Denver Nuggets,N.Jokic,Los Angeles Clippers,0,1.1024999999999998,Y,0.45,0,0.6,1,0.5,0
+17,17,J.Duren o1.5 Ast,Noto,-125,1.25,2.25,Detroit Pistons,J.Duren,Memphis Grizzlies,1,1.0,N,0.6923076923076923,1,0.6,1,0.6,1
+18,18,D.Bane o5.5 Ast,JoeDellera,105,0.53,1.0865,Memphis Grizzlies,D.Bane,Detroit Pistons,0,0.5565,Y,0.3157894736842105,0,0.4,0,0.4,0
+19,19,J.Jackson o20.5 Pts,kylemurray03,-120,0.83,1.5216666666666667,Memphis Grizzlies,J.Jackson,Detroit Pistons,0,0.6916666666666668,Y,0.4210526315789473,0,0.2,0,0.3,0
+20,20,J.Duren u12.5 Pts,SBK5065,-110,1.0,1.9090909090909087,Detroit Pistons,J.Duren,Memphis Grizzlies,1,0.9090909090909092,N,0.6153846153846154,1,0.6,1,0.8,1
+21,21,J.Embiid o42.5 Pts+Rebs,the_degenerates,-120,2.0,3.666666666666667,Philadelphia 76ers,J.Embiid,Washington Wizards,0,1.666666666666667,Y,0.5625,1,0.6,1,0.6,1
+22,22,J.Poole o17.5 Pts,ParlayBanditz,-105,0.95,1.8547619047619048,Washington Wizards,J.Poole,Philadelphia 76ers,1,0.9047619047619048,Y,0.4444444444444444,0,0.6,1,0.4,0
+23,23,J.Embiid o30.5 Pts,JoeDellera,-125,0.8,1.4400000000000002,Philadelphia 76ers,J.Embiid,Washington Wizards,0,0.6400000000000001,Y,0.625,1,0.8,1,0.7,1
+24,24,T.Maxey o28.5 Pts+Rebs,kylemurray03,-128,1.0,1.78125,Philadelphia 76ers,T.Maxey,Washington Wizards,0,0.78125,N,0.6111111111111112,1,0.8,1,0.6,1
+25,25,P.Banchero o18.5 Pts,JoeDellera,-120,0.83,1.5216666666666667,Orlando Magic,P.Banchero,Cleveland Cavaliers,0,0.6916666666666668,Y,0.6,1,0.8,1,0.7,1
+26,26,P.Siakam o20.5 Pts,PropBomb,-120,1.0,1.8333333333333333,Toronto Raptors,P.Siakam,Miami Heat,1,0.8333333333333335,Y,0.4,0,0.4,0,0.5,0
+27,27,D.DeRozan o24.5 Pts,cowhitchurch,-108,1.0,1.925925925925926,Chicago Bulls,D.DeRozan,Charlotte Hornets,1,0.925925925925926,Y,0.2105263157894736,0,0.4,0,0.3,0
+28,28,C.White o22.5 Pts+Ast,PropBetGuy,-120,1.0,1.8333333333333333,Chicago Bulls,C.White,Charlotte Hornets,1,0.8333333333333335,Y,0.3809523809523809,0,0.6,1,0.5,0
+29,29,K.Thompson o17.5 Pts,ParlayBanditz,-110,1.0,1.9090909090909087,Golden State Warriors,K.Thompson,Portland Trail Blazers,1,0.9090909090909092,N,0.3684210526315789,0,0.6,1,0.4,0
