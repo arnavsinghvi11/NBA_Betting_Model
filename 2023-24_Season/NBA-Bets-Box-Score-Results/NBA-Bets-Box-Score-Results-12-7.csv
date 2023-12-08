@@ -1,0 +1,47 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,Brandon Ingram,New Orleans Pelicans,Los Angeles Lakers,0,31.13,9,7,3,0,0,0,.324,.308,.231,2.6,7.5,4.6,38.6,0.0,0.0,22.4,71,137,-10.8
+1,Herbert Jones,New Orleans Pelicans,Los Angeles Lakers,0,26.01,10,1,7,2,1,0,.460,.400,.300,12.3,13.5,12.8,6.9,3.6,3.6,18.9,99,125,-1.6
+2,Zion Williamson,New Orleans Pelicans,Los Angeles Lakers,0,25.46,13,3,2,0,0,0,.611,.750,.000,3.1,4.5,3.7,24.5,0.0,0.0,21.9,92,138,-6.2
+3,CJ McCollum,New Orleans Pelicans,Los Angeles Lakers,0,25.20,9,2,4,2,0,1,.321,.321,.286,3.2,13.9,7.5,14.3,3.7,0.0,24.5,69,127,-7.0
+4,Jonas Valančiūnas,New Orleans Pelicans,Los Angeles Lakers,0,23.05,9,2,3,1,3,1,.455,.389,.444,0.0,15.2,6.2,15.0,2.1,12.2,19.5,90,123,0.4
+5,Trey Murphy III,New Orleans Pelicans,Los Angeles Lakers,0,22.25,14,1,3,0,0,2,.504,.462,.538,0.0,15.7,6.4,9.2,0.0,0.0,25.7,103,136,-0.5
+6,Jose Alvarado,New Orleans Pelicans,Los Angeles Lakers,0,20.18,8,4,2,2,0,2,.571,.571,.429,0.0,11.5,4.7,35.2,4.7,0.0,16.3,109,126,5.0
+7,Dyson Daniels,New Orleans Pelicans,Los Angeles Lakers,0,16.58,4,0,8,0,1,0,.340,.200,.400,9.4,41.4,22.4,0.0,0.0,5.5,14.4,89,127,-5.6
+8,Naji Marshall,New Orleans Pelicans,Los Angeles Lakers,0,12.08,5,0,4,0,0,1,.868,.750,.500,13.2,19.3,15.7,0.0,0.0,0.0,13.3,134,135,-2.3
+9,Jordan Hawkins,New Orleans Pelicans,Los Angeles Lakers,0,12.00,4,0,2,0,0,0,.250,.250,.375,0.0,19.5,7.9,0.0,0.0,0.0,27.6,52,135,-17.8
+10,Cody Zeller,New Orleans Pelicans,Los Angeles Lakers,0,12.00,2,1,2,0,0,0,.532,.000,.000,6.7,9.8,7.9,11.8,0.0,0.0,6.5,143,137,-6.4
+11,Kira Lewis Jr.,New Orleans Pelicans,Los Angeles Lakers,0,6.23,2,0,0,0,0,0,.333,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,26.0,48,139,-20.4
+12,Jeremiah Robinson-Earl,New Orleans Pelicans,Los Angeles Lakers,0,6.23,0,1,2,0,0,0,.000,.000,.000,0.0,36.7,14.9,22.1,0.0,0.0,13.0,23,131,-12.0
+13,Anthony Davis,Los Angeles Lakers,New Orleans Pelicans,1,31.14,16,5,15,2,2,0,.592,.500,.200,18.7,25.6,22.8,19.5,3.0,4.8,21.2,135,78,9.1
+14,Cam Reddish,Los Angeles Lakers,New Orleans Pelicans,1,23.26,9,2,5,0,0,1,.654,.583,.333,10.0,10.2,10.1,10.0,0.0,0.0,14.3,137,94,1.2
+15,Taurean Prince,Los Angeles Lakers,New Orleans Pelicans,1,23.17,15,1,3,1,0,5,.833,.833,.889,0.0,10.3,6.1,5.6,2.0,0.0,16.5,161,89,10.1
+16,LeBron James,Los Angeles Lakers,New Orleans Pelicans,1,22.32,30,8,5,0,0,4,.966,.917,.333,0.0,17.8,10.5,61.2,0.0,0.0,29.3,206,91,34.7
+17,D'Angelo Russell,Los Angeles Lakers,New Orleans Pelicans,1,21.59,14,1,3,1,0,2,.700,.700,.500,0.0,10.9,6.5,6.4,2.2,0.0,27.1,90,89,-3.5
+18,Austin Reaves,Los Angeles Lakers,New Orleans Pelicans,1,23.12,17,7,5,1,0,3,.790,.722,.667,0.0,17.2,10.2,39.5,2.0,0.0,23.4,151,87,15.2
+19,Rui Hachimura,Los Angeles Lakers,New Orleans Pelicans,1,21.21,12,2,1,0,0,1,.607,.611,.333,0.0,3.7,2.2,12.6,0.0,0.0,19.7,132,96,-1.3
+20,Max Christie,Los Angeles Lakers,New Orleans Pelicans,1,17.03,6,0,2,1,0,0,.510,.600,.200,0.0,9.4,5.6,0.0,2.8,0.0,14.7,98,88,-3.1
+21,Jaxson Hayes,Los Angeles Lakers,New Orleans Pelicans,1,16.46,4,0,4,0,0,0,.581,.667,.333,0.0,19.1,11.3,0.0,0.0,0.0,11.3,79,89,-9.0
+22,Jarred Vanderbilt,Los Angeles Lakers,New Orleans Pelicans,1,14.25,2,1,5,0,1,0,.500,.500,.000,0.0,27.7,16.5,7.6,0.0,5.2,5.9,126,83,4.3
+23,Christian Wood,Los Angeles Lakers,New Orleans Pelicans,1,8.15,4,2,6,0,0,0,.500,.500,.250,42.6,29.1,34.6,32.9,0.0,0.0,31.0,107,86,-0.7
+24,Maxwell Lewis,Los Angeles Lakers,New Orleans Pelicans,1,8.15,3,1,1,0,0,1,.375,.375,.500,0.0,9.7,5.8,14.1,0.0,0.0,25.8,74,94,-11.2
+25,Jalen Hood-Schifino,Los Angeles Lakers,New Orleans Pelicans,1,8.15,1,1,4,0,1,0,.129,.000,.000,14.2,29.1,23.0,12.4,0.0,9.1,25.2,55,79,-14.0
+26,Tyrese Haliburton,Indiana Pacers,Milwaukee Bucks,0,36.32,27,15,7,0,1,3,.679,.658,.474,8.0,10.9,9.5,55.4,0.0,2.1,21.4,162,120,16.7
+27,Myles Turner,Indiana Pacers,Milwaukee Bucks,0,31.50,26,2,10,1,3,2,.604,.556,.444,3.1,28.3,15.5,8.3,1.4,7.2,26.6,134,108,8.8
+28,Buddy Hield,Indiana Pacers,Milwaukee Bucks,0,30.02,8,2,11,2,1,0,.337,.273,.545,13.0,23.3,18.1,7.1,3.1,2.5,18.2,87,109,-5.7
+29,Bruce Brown,Indiana Pacers,Milwaukee Bucks,0,28.07,10,1,3,1,0,0,.465,.333,.111,0.0,10.7,5.3,3.8,1.6,0.0,16.5,99,117,-7.4
+30,Obi Toppin,Indiana Pacers,Milwaukee Bucks,0,21.16,14,2,6,0,0,1,.788,.813,.375,13.8,14.1,14.0,12.4,0.0,0.0,16.4,168,120,7.3
+31,Aaron Nesmith,Indiana Pacers,Milwaukee Bucks,0,26.44,6,1,1,0,1,1,.466,.417,.667,0.0,3.7,1.9,3.9,0.0,2.9,9.5,110,121,-7.6
+32,Bennedict Mathurin,Indiana Pacers,Milwaukee Bucks,0,23.44,9,1,6,0,1,0,.338,.250,.167,8.3,16.9,12.5,4.6,0.0,3.2,25.4,78,117,-14.8
+33,Isaiah Jackson,Indiana Pacers,Milwaukee Bucks,0,16.10,11,0,6,1,0,0,.739,.714,.000,6.1,30.9,18.4,0.0,2.8,0.0,20.5,129,109,3.5
+34,Andrew Nembhard,Indiana Pacers,Milwaukee Bucks,0,14.07,8,2,0,1,1,0,.800,.800,.000,0.0,0.0,0.0,18.7,3.3,5.4,13.9,167,113,12.3
+35,T.J. McConnell,Indiana Pacers,Milwaukee Bucks,0,11.28,9,4,1,3,0,0,.571,.571,.000,8.5,0.0,4.3,50.3,12.0,0.0,37.3,98,98,13.6
+36,Damian Lillard,Milwaukee Bucks,Indiana Pacers,1,41.36,24,7,7,1,1,4,.530,.450,.450,0.0,16.5,8.3,23.1,1.1,1.7,24.6,111,121,1.6
+37,Giannis Antetokounmpo,Milwaukee Bucks,Indiana Pacers,1,40.30,37,2,10,0,2,0,.748,.684,.053,2.5,21.8,12.2,8.6,0.0,3.4,25.3,153,121,10.8
+38,Brook Lopez,Milwaukee Bucks,Indiana Pacers,1,36.54,18,2,6,0,4,3,.491,.500,.588,5.4,10.6,8.0,7.7,0.0,7.5,20.9,106,122,-0.1
+39,Malik Beasley,Milwaukee Bucks,Indiana Pacers,1,36.16,7,1,3,0,0,1,.389,.389,.444,2.8,5.4,4.1,3.4,0.0,0.0,9.9,96,128,-7.3
+40,Khris Middleton,Milwaukee Bucks,Indiana Pacers,1,29.36,20,4,7,2,0,4,.720,.692,.385,3.4,19.9,11.7,20.5,3.1,0.0,24.1,119,117,7.7
+41,Bobby Portis,Milwaukee Bucks,Indiana Pacers,1,17.47,4,1,6,0,1,0,.400,.400,.200,22.5,11.0,16.7,7.2,0.0,3.9,13.5,106,124,-4.5
+42,Cameron Payne,Milwaukee Bucks,Indiana Pacers,1,16.27,4,2,1,0,0,0,.222,.222,.333,0.0,6.0,3.0,15.7,0.0,0.0,26.7,50,128,-19.5
+43,MarJon Beauchamp,Milwaukee Bucks,Indiana Pacers,1,15.25,5,0,6,0,1,0,.525,.667,.000,19.5,19.1,19.3,0.0,0.0,4.5,12.3,128,121,2.5
+44,A.J. Green,Milwaukee Bucks,Indiana Pacers,1,4.13,0,0,0,0,0,0,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,9.5,0,130,-16.3
+45,Andre Jackson Jr.,Milwaukee Bucks,Indiana Pacers,1,1.16,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,129,-20.8
