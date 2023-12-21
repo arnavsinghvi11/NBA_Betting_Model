@@ -1,0 +1,23 @@
+,Unnamed: 0,Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Correct
+0,0,J.Smith o8.5 Rebs,SBK5065,-132,0.5,J.Smith,Houston Rockets,Atlanta Hawks,1,0.8787878787878788,0.3787878787878788,0.5,0,0.6,1,0.7,1,Y
+1,3,J.Green u19.5 Pts,SBK5065,-104,0.5,J.Green,Houston Rockets,Atlanta Hawks,1,0.9807692307692308,0.4807692307692308,0.7659574468085106,1,1.0,1,1.0,1,Y
+2,5,D.Fox o29.5 Pts,GarageGuyChase,-115,1.15,D.Fox,Sacramento Kings,Boston Celtics,1,2.1499999999999995,0.9999999999999996,0.5263157894736842,1,0.6,1,0.6,1,N
+3,7,H.Barnes o3.5 Rebs,GarageGuyChase,105,1.05,H.Barnes,Sacramento Kings,Boston Celtics,1,2.1525,1.1024999999999998,0.52,1,0.2,0,0.5,0,Y
+4,9,K.Porzingis u8.5 Rebs,SBK5065,-104,0.7,K.Porzingis,Boston Celtics,Sacramento Kings,0,1.373076923076923,0.6730769230769231,0.7894736842105263,1,0.6,1,0.7,1,N
+5,12,D.Fox o29.5 Pts,the_degenerates,-108,1.08,D.Fox,Sacramento Kings,Boston Celtics,1,2.08,1.0,0.5263157894736842,1,0.6,1,0.6,1,N
+6,15,B.Miller o15.5 Pts,kylemurray03,-115,0.87,B.Miller,Charlotte Hornets,Indiana Pacers,0,1.6265217391304347,0.7565217391304347,0.391304347826087,0,0.6,1,0.6,1,Y
+7,16,B.Miller u16.5 Pts,HPBasketball,-102,0.26,B.Miller,Charlotte Hornets,Indiana Pacers,0,0.5149019607843137,0.2549019607843137,0.6956521739130435,1,0.8,1,0.6,1,N
+8,17,B.Hield u4.5 Rebs,SBK5065,-135,0.74,B.Hield,Indiana Pacers,Charlotte Hornets,1,1.288148148148148,0.548148148148148,0.7692307692307693,1,1.0,1,0.7,1,Y
+9,18,M.Bridges o6.5 Rebs,cowhitchurch,-130,0.65,M.Bridges,Brooklyn Nets,New York Knicks,1,1.15,0.4999999999999999,0.3076923076923077,0,0.0,0,0.2,0,N
+10,19,M.Bridges o9.5 Rebs,SBK5065,400,0.15,M.Bridges,Brooklyn Nets,New York Knicks,1,0.75,0.6,0.1153846153846153,0,0.0,0,0.1,0,N
+11,20,M.Bridges o6.5 Rebs,SBK5065,-130,0.65,M.Bridges,Brooklyn Nets,New York Knicks,1,1.15,0.4999999999999999,0.3076923076923077,0,0.0,0,0.2,0,N
+12,21,A.Edwards o4.5 Ast,kylemurray03,-125,0.8,A.Edwards,Minnesota Timberwolves,Philadelphia 76ers,0,1.4400000000000002,0.6400000000000001,0.6363636363636364,1,0.6,1,0.7,1,Y
+13,22,K.Towns o32.5 Pts+Rebs+Ast,kylemurray03,-131,0.76,K.Towns,Minnesota Timberwolves,Philadelphia 76ers,0,1.340152671755725,0.580152671755725,0.56,1,0.6,1,0.5,0,Y
+14,25,S.Merrill o7.5 Pts,SBK5065,-120,0.83,S.Merrill,Cleveland Cavaliers,Utah Jazz,1,1.5216666666666667,0.6916666666666668,0.3571428571428571,0,0.6,1,0.5,0,Y
+15,27,D.Wade u8.5 Pts,SBK5065,-130,0.5,D.Wade,Cleveland Cavaliers,Utah Jazz,1,0.8846153846153846,0.3846153846153846,0.85,1,0.4,0,0.7,1,Y
+16,29,L.Markkanen o21.5 Pts,GoldBoys,-102,0.98,L.Markkanen,Utah Jazz,Cleveland Cavaliers,0,1.9407843137254903,0.9607843137254904,0.5555555555555556,1,0.4,0,0.5,0,Y
+17,30,S.Barnes o7.5 Rebs,kylemurray03,-130,0.77,S.Barnes,Toronto Raptors,Denver Nuggets,1,1.3623076923076922,0.5923076923076922,0.7692307692307693,1,0.6,1,0.7,1,Y
+18,31,M.Porter o14.5 Pts,cowhitchurch,-115,0.58,M.Porter,Denver Nuggets,Toronto Raptors,0,1.0843478260869563,0.5043478260869564,0.5714285714285714,1,0.4,0,0.6,1,N
+19,33,M.Porter o14.5 Pts,JoeDellera,-115,1.0,M.Porter,Denver Nuggets,Toronto Raptors,0,1.869565217391304,0.8695652173913042,0.5714285714285714,1,0.4,0,0.6,1,N
+20,35,C.White o33.5 Pts+Rebs+Ast,the_degenerates,-104,1.04,C.White,Chicago Bulls,Los Angeles Lakers,1,2.04,1.0,0.2857142857142857,0,1.0,1,0.8,1,N
+21,36,C.White o33.5 Pts+Rebs+Ast,PropBetGuy,-111,1.11,C.White,Chicago Bulls,Los Angeles Lakers,1,2.1100000000000003,1.0000000000000002,0.2857142857142857,0,1.0,1,0.8,1,N

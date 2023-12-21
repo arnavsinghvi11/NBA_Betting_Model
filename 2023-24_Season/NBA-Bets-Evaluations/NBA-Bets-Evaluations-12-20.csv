@@ -1,0 +1,42 @@
+,Unnamed: 0,Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Correct
+0,0,J.Smith o8.5 Rebs,SBK5065,-132,0.5,J.Smith,Houston Rockets,Atlanta Hawks,1,0.8787878787878788,0.3787878787878788,0.5,0,0.6,1,0.7,1,Y
+1,1,T.Young u30.5 Pts,SBK5065,-125,0.5,T.Young,Atlanta Hawks,Houston Rockets,0,0.9,0.4,0.5833333333333334,1,0.2,0,0.3,0,Y
+2,2,T.Young u43.5 Pts+Rebs+Ast,PropBetGuy,-110,1.1,T.Young,Atlanta Hawks,Houston Rockets,0,2.1,1.0,0.5833333333333334,1,0.2,0,0.3,0,N
+3,3,J.Green u19.5 Pts,SBK5065,-104,0.5,J.Green,Houston Rockets,Atlanta Hawks,1,0.9807692307692308,0.4807692307692308,0.7659574468085106,1,1.0,1,1.0,1,Y
+4,4,T.Young o9.5 Ast,SportsBookBreakers,-133,1.02,T.Young,Atlanta Hawks,Houston Rockets,0,1.7869172932330828,0.7669172932330828,0.6666666666666666,1,0.8,1,0.7,1,Y
+5,5,D.Fox o29.5 Pts,GarageGuyChase,-115,1.15,D.Fox,Sacramento Kings,Boston Celtics,1,2.1499999999999995,0.9999999999999996,0.5263157894736842,1,0.6,1,0.6,1,N
+6,6,J.Holiday o6.5 Rebs,GarageGuyChase,-115,1.0,J.Holiday,Boston Celtics,Sacramento Kings,0,1.869565217391304,0.8695652173913042,0.4583333333333333,0,0.2,0,0.3,0,Y
+7,7,H.Barnes o3.5 Rebs,GarageGuyChase,105,1.05,H.Barnes,Sacramento Kings,Boston Celtics,1,2.1525,1.1024999999999998,0.52,1,0.2,0,0.5,0,Y
+8,8,D.White o17.5 Pts,GarageGuyChase,-125,1.0,D.White,Boston Celtics,Sacramento Kings,0,1.8,0.8,0.391304347826087,0,0.4,0,0.5,0,Y
+9,9,K.Porzingis u8.5 Rebs,SBK5065,-104,0.7,K.Porzingis,Boston Celtics,Sacramento Kings,0,1.373076923076923,0.6730769230769231,0.7894736842105263,1,0.6,1,0.7,1,N
+10,10,J.Brown o9.5 Rebs,JoeDellera,900,0.15,J.Brown,Boston Celtics,Sacramento Kings,0,1.5,1.35,0.0,0,0.0,0,0.0,0,N
+11,11,J.Brown o5.5 Rebs,JoeDellera,-115,0.5,J.Brown,Boston Celtics,Sacramento Kings,0,0.934782608695652,0.4347826086956521,0.4,0,0.2,0,0.4,0,N
+12,12,D.Fox o29.5 Pts,the_degenerates,-108,1.08,D.Fox,Sacramento Kings,Boston Celtics,1,2.08,1.0,0.5263157894736842,1,0.6,1,0.6,1,N
+13,13,D.Sabonis o38.5 Pts+Rebs+Ast,cowhitchurch,-120,0.6,D.Sabonis,Sacramento Kings,Boston Celtics,1,1.1,0.5000000000000001,0.56,1,0.6,1,0.5,0,N
+14,14,D.Sabonis o38.5 Pts+Rebs+Ast,JoeDellera,-115,1.15,D.Sabonis,Sacramento Kings,Boston Celtics,1,2.1499999999999995,0.9999999999999996,0.56,1,0.6,1,0.5,0,N
+15,15,B.Miller o15.5 Pts,kylemurray03,-115,0.87,B.Miller,Charlotte Hornets,Indiana Pacers,0,1.6265217391304347,0.7565217391304347,0.391304347826087,0,0.6,1,0.6,1,Y
+16,16,B.Miller u16.5 Pts,HPBasketball,-102,0.26,B.Miller,Charlotte Hornets,Indiana Pacers,0,0.5149019607843137,0.2549019607843137,0.6956521739130435,1,0.8,1,0.6,1,N
+17,17,B.Hield u4.5 Rebs,SBK5065,-135,0.74,B.Hield,Indiana Pacers,Charlotte Hornets,1,1.288148148148148,0.548148148148148,0.7692307692307693,1,1.0,1,0.7,1,Y
+18,18,M.Bridges o6.5 Rebs,cowhitchurch,-130,0.65,M.Bridges,Brooklyn Nets,New York Knicks,1,1.15,0.4999999999999999,0.3076923076923077,0,0.0,0,0.2,0,N
+19,19,M.Bridges o9.5 Rebs,SBK5065,400,0.15,M.Bridges,Brooklyn Nets,New York Knicks,1,0.75,0.6,0.1153846153846153,0,0.0,0,0.1,0,N
+20,20,M.Bridges o6.5 Rebs,SBK5065,-130,0.65,M.Bridges,Brooklyn Nets,New York Knicks,1,1.15,0.4999999999999999,0.3076923076923077,0,0.0,0,0.2,0,N
+21,21,A.Edwards o4.5 Ast,kylemurray03,-125,0.8,A.Edwards,Minnesota Timberwolves,Philadelphia 76ers,0,1.4400000000000002,0.6400000000000001,0.6363636363636364,1,0.6,1,0.7,1,Y
+22,22,K.Towns o32.5 Pts+Rebs+Ast,kylemurray03,-131,0.76,K.Towns,Minnesota Timberwolves,Philadelphia 76ers,0,1.340152671755725,0.580152671755725,0.56,1,0.6,1,0.5,0,Y
+23,23,T.Maxey o22.5 Pts,HPBasketball,-180,0.25,T.Maxey,Philadelphia 76ers,Minnesota Timberwolves,1,0.3888888888888889,0.1388888888888889,0.64,1,0.4,0,0.7,1,Y
+24,24,A.Edwards o26.5 Pts,JoeDellera,-108,0.93,A.Edwards,Minnesota Timberwolves,Philadelphia 76ers,0,1.791111111111111,0.8611111111111113,0.4090909090909091,0,0.4,0,0.4,0,Y
+25,25,S.Merrill o7.5 Pts,SBK5065,-120,0.83,S.Merrill,Cleveland Cavaliers,Utah Jazz,1,1.5216666666666667,0.6916666666666668,0.3571428571428571,0,0.6,1,0.5,0,Y
+26,26,C.Porter o26.5 Pts+Rebs+Ast,PropBetGuy,-115,1.15,C.Porter,Cleveland Cavaliers,Utah Jazz,1,2.1499999999999995,0.9999999999999996,0.0625,0,0.0,0,0.1,0,N
+27,27,D.Wade u8.5 Pts,SBK5065,-130,0.5,D.Wade,Cleveland Cavaliers,Utah Jazz,1,0.8846153846153846,0.3846153846153846,0.85,1,0.4,0,0.7,1,Y
+28,28,J.Allen u28.5 Pts+Rebs+Ast,HPBasketball,-120,0.5,J.Allen,Cleveland Cavaliers,Utah Jazz,1,0.9166666666666669,0.4166666666666667,0.8181818181818182,1,0.8,1,0.8,1,Y
+29,29,L.Markkanen o21.5 Pts,GoldBoys,-102,0.98,L.Markkanen,Utah Jazz,Cleveland Cavaliers,0,1.9407843137254903,0.9607843137254904,0.5555555555555556,1,0.4,0,0.5,0,Y
+30,30,S.Barnes o7.5 Rebs,kylemurray03,-130,0.77,S.Barnes,Toronto Raptors,Denver Nuggets,1,1.3623076923076922,0.5923076923076922,0.7692307692307693,1,0.6,1,0.7,1,Y
+31,31,M.Porter o14.5 Pts,cowhitchurch,-115,0.58,M.Porter,Denver Nuggets,Toronto Raptors,0,1.0843478260869563,0.5043478260869564,0.5714285714285714,1,0.4,0,0.6,1,N
+32,32,M.Porter o19.5 Pts,JoeDellera,320,0.25,M.Porter,Denver Nuggets,Toronto Raptors,0,1.05,0.8,0.3928571428571428,0,0.2,0,0.3,0,N
+33,33,M.Porter o14.5 Pts,JoeDellera,-115,1.0,M.Porter,Denver Nuggets,Toronto Raptors,0,1.869565217391304,0.8695652173913042,0.5714285714285714,1,0.4,0,0.6,1,N
+34,34,A.Davis o27.5 Pts,CroweRadio,-110,0.4,A.Davis,Los Angeles Lakers,Chicago Bulls,0,0.7636363636363637,0.3636363636363636,0.4230769230769231,0,0.8,1,0.6,1,N
+35,35,C.White o33.5 Pts+Rebs+Ast,the_degenerates,-104,1.04,C.White,Chicago Bulls,Los Angeles Lakers,1,2.04,1.0,0.2857142857142857,0,1.0,1,0.8,1,N
+36,36,C.White o33.5 Pts+Rebs+Ast,PropBetGuy,-111,1.11,C.White,Chicago Bulls,Los Angeles Lakers,1,2.1100000000000003,1.0000000000000002,0.2857142857142857,0,1.0,1,0.8,1,N
+37,37,T.Herro u9.5 Rebs+Ast,kylemurray03,-120,1.0,T.Herro,Miami Heat,Orlando Magic,0,1.8333333333333333,0.8333333333333335,0.5555555555555556,1,0.6,1,0.5555555555555556,1,N
+38,38,P.Banchero o30.5 Pts+Rebs+Ast,HPBasketball,-160,0.55,P.Banchero,Orlando Magic,Miami Heat,1,0.89375,0.34375,0.48,0,0.6,1,0.7,1,N
+39,39,I.Zubac o12.5 Pts,SBK5065,-120,0.6,I.Zubac,Los Angeles Clippers,Dallas Mavericks,0,1.1,0.5000000000000001,0.3461538461538461,0,0.6,1,0.6,1,N
+40,40,C.Thomas u25.5 Pts,SBK5065,-110,0.5,C.Thomas,Brooklyn Nets,New York Knicks,1,0.9545454545454546,0.4545454545454546,0.5294117647058824,1,0.6,1,0.7,1,Y
