@@ -1,0 +1,32 @@
+,Unnamed: 0,Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Correct
+0,0,A.Simons o32.5 Pts+Ast,kylemurray03,-115,1.0,A.Simons,Portland Trail Blazers,Washington Wizards,1,1.869565217391304,0.8695652173913042,0.375,0,0.4,0,0.375,0,Y
+1,1,J.Grant u5.5 Rebs,cowhitchurch,-130,0.65,J.Grant,Portland Trail Blazers,Washington Wizards,1,1.15,0.4999999999999999,0.7727272727272727,1,0.8,1,0.8,1,Y
+2,2,J.Grant u5.5 Rebs,SBK5065,-130,1.0,J.Grant,Portland Trail Blazers,Washington Wizards,1,1.7692307692307692,0.7692307692307692,0.7727272727272727,1,0.8,1,0.8,1,Y
+3,3,A.Davis u3.5 Ast,SBK5065,-130,1.0,A.Davis,Los Angeles Lakers,Minnesota Timberwolves,0,1.7692307692307692,0.7692307692307692,0.5769230769230769,1,0.6,1,0.7,1,N
+4,4,M.Bagley u21.5 Pts+Rebs+Ast,SBK5065,-105,1.0,M.Bagley,Detroit Pistons,Utah Jazz,1,1.9523809523809523,0.9523809523809524,0.9090909090909092,1,1.0,1,0.9,1,N
+5,5,W.Kessler o2.5 Blk,PropBomb,100,1.0,W.Kessler,Utah Jazz,Detroit Pistons,0,2.0,1.0,0.4736842105263157,0,0.8,1,0.6,1,Y
+6,6,W.Kessler o2.5 Blk,kylemurray03,-115,1.0,W.Kessler,Utah Jazz,Detroit Pistons,0,1.869565217391304,0.8695652173913042,0.4736842105263157,0,0.8,1,0.6,1,Y
+7,7,W.Kessler o2.5 Blk,cowhitchurch,100,1.0,W.Kessler,Utah Jazz,Detroit Pistons,0,2.0,1.0,0.4736842105263157,0,0.8,1,0.6,1,Y
+8,8,F.Wagner o4.5 Rebs,kylemurray03,-120,1.0,F.Wagner,Orlando Magic,Milwaukee Bucks,0,1.8333333333333333,0.8333333333333335,0.72,1,0.8,1,0.9,1,Y
+9,9,G.Antetokounmpo u5.5 Ast,kylemurray03,114,1.0,G.Antetokounmpo,Milwaukee Bucks,Orlando Magic,1,2.14,1.1399999999999997,0.5769230769230769,1,0.4,0,0.5,0,N
+10,10,F.Wagner u19.5 Pts,PropBetGuy,-115,1.15,F.Wagner,Orlando Magic,Milwaukee Bucks,0,2.1499999999999995,0.9999999999999996,0.52,1,0.8,1,0.5,0,N
+11,11,G.Antetokounmpo u12.5 Rebs,SBK5065,-130,1.0,G.Antetokounmpo,Milwaukee Bucks,Orlando Magic,1,1.7692307692307692,0.7692307692307692,0.6923076923076923,1,0.4,0,0.6,1,Y
+12,12,B.Hield u14.5 Pts,gneiffer07,-110,1.1,B.Hield,Indiana Pacers,Memphis Grizzlies,0,2.1,1.0,0.6923076923076923,1,0.8,1,0.8,1,N
+13,13,J.Morant o30.5 Pts,gneiffer07,-110,1.1,J.Morant,Memphis Grizzlies,Indiana Pacers,1,2.1,1.0,1.0,1,1.0,1,1.0,1,N
+14,14,T.Haliburton u25.5 Pts,SBK5065,-110,0.55,T.Haliburton,Indiana Pacers,Memphis Grizzlies,0,1.05,0.5,0.5652173913043478,1,1.0,1,0.5,0,Y
+15,15,B.Biyombo u7.5 Rebs,SBK5065,-110,1.0,B.Biyombo,Memphis Grizzlies,Indiana Pacers,1,1.9090909090909087,0.9090909090909092,0.6,1,0.8,1,0.8,1,Y
+16,16,T.Haliburton o11.5 Ast,the_degenerates,-117,1.17,T.Haliburton,Indiana Pacers,Memphis Grizzlies,0,2.17,1.0,0.5217391304347826,1,0.2,0,0.3,0,Y
+17,17,J.Morant u9.5 Ast,SBK5065,-130,1.0,J.Morant,Memphis Grizzlies,Indiana Pacers,1,1.7692307692307692,0.7692307692307692,1.0,1,1.0,1,1.0,1,Y
+18,18,B.Hield u4.5 Rebs,SBK5065,-128,1.0,B.Hield,Indiana Pacers,Memphis Grizzlies,0,1.78125,0.78125,0.7692307692307693,1,1.0,1,0.7,1,N
+19,19,D.Bane u5.5 Ast,SBK5065,-140,1.0,D.Bane,Memphis Grizzlies,Indiana Pacers,1,1.7142857142857144,0.7142857142857144,0.68,1,0.8,1,0.7,1,N
+20,20,D.Bane u5.5 Ast,JoeDellera,-140,1.0,D.Bane,Memphis Grizzlies,Indiana Pacers,1,1.7142857142857144,0.7142857142857144,0.68,1,0.8,1,0.7,1,N
+21,21,D.Vassell o17.5 Pts,gneiffer07,-115,1.15,D.Vassell,San Antonio Spurs,Chicago Bulls,0,2.1499999999999995,0.9999999999999996,0.4761904761904761,0,0.2,0,0.4,0,Y
+22,22,C.White o34.5 Pts+Rebs+Ast,the_degenerates,-112,1.12,C.White,Chicago Bulls,San Antonio Spurs,1,2.12,1.0,0.1785714285714285,0,0.8,1,0.5,0,N
+23,23,J.Sochan u6.5 Rebs,JoeDellera,-140,0.5,J.Sochan,San Antonio Spurs,Chicago Bulls,0,0.8571428571428572,0.3571428571428572,0.6538461538461539,1,0.4,0,0.6,1,N
+24,24,J.Sochan u6.5 Rebs,SBK5065,-140,1.25,J.Sochan,San Antonio Spurs,Chicago Bulls,0,2.1428571428571432,0.8928571428571432,0.6538461538461539,1,0.4,0,0.6,1,N
+25,25,C.White o10.5 Rebs+Ast,JoeDellera,-129,1.0,C.White,Chicago Bulls,San Antonio Spurs,1,1.7751937984496124,0.7751937984496124,0.3214285714285714,0,0.8,1,0.7,1,Y
+26,26,C.White o10.5 Rebs+Ast,SBK5065,-129,0.65,C.White,Chicago Bulls,San Antonio Spurs,1,1.1538759689922482,0.5038759689922482,0.3214285714285714,0,0.8,1,0.7,1,Y
+27,27,S.Merrill o10.5 Pts,SBK5065,-132,1.0,S.Merrill,Cleveland Cavaliers,New Orleans Pelicans,1,1.7575757575757576,0.7575757575757576,0.0714285714285714,0,0.2,0,0.1,0,N
+28,28,I.Okoro u11.5 Pts,SBK5065,-115,0.58,I.Okoro,Cleveland Cavaliers,New Orleans Pelicans,1,1.0843478260869563,0.5043478260869564,0.8888888888888888,1,0.8,1,0.9,1,N
+29,29,I.Okoro u10.5 Pts,SBK5065,100,0.5,I.Okoro,Cleveland Cavaliers,New Orleans Pelicans,1,1.0,0.5,0.7222222222222222,1,0.6,1,0.8,1,N
+30,30,M.Strus u4.5 Ast,SBK5065,-137,1.0,M.Strus,Cleveland Cavaliers,New Orleans Pelicans,1,1.72992700729927,0.7299270072992701,0.6666666666666666,1,0.8,1,0.6,1,N
