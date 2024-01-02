@@ -66,7 +66,7 @@ class BoxScore:
 
     def full_box_scores(self, month, day):
         #extract yesterday's box score statistics
-        total_site_data = helper_functions.site_scrape('https://www.basketball-reference.com/boxscores/' + '?month=' + month + '&day=' + day + '&year=2023')
+        total_site_data = helper_functions.site_scrape('https://www.basketball-reference.com/boxscores/' + '?month=' + month + '&day=' + day + '&year=2024')
         
         #iterate through matchups list to add each game's box score link 
         links = []
