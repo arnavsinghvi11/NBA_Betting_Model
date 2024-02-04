@@ -1,13 +1,19 @@
 ,Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
-0,F.Wagner o19.5 Pts,JoeDellera,-120,1.0,F.Wagner,Orlando Magic,Detroit Pistons,0,1.8333333333333335,0.8333333333333335,0.5121951219512195,1,0.4,0,0.4,0
-1,F.Wagner o19.5 Pts,PropBetGuy,-120,1.2,F.Wagner,Orlando Magic,Detroit Pistons,0,2.2,1.0000000000000002,0.5121951219512195,1,0.4,0,0.4,0
+0,I.Smith u8.5 Ast,kylemurray03,-115,2.0,I.Smith,Charlotte Hornets,Indiana Pacers,1,3.7391304347826084,1.7391304347826084,0.975,1,0.8,1,0.9,1
+1,B.McGowens o8.5 Pts,kylemurray03,-120,1.0,B.McGowens,Charlotte Hornets,Indiana Pacers,1,1.8333333333333335,0.8333333333333335,0.2631578947368421,0,0.2,0,0.2,0
 2,N.Richards u10.5 Rebs,SBK5065,-130,1.0,N.Richards,Charlotte Hornets,Indiana Pacers,1,1.7692307692307692,0.7692307692307692,0.8157894736842105,1,0.6,1,0.7,1
 3,B.Miller o22.5 Pts,the_degenerates,-120,1.2,B.Miller,Charlotte Hornets,Indiana Pacers,1,2.2,1.0000000000000002,0.17073170731707318,0,0.4,0,0.6,1
 4,N.Richards u10.5 Rebs,kylemurray03,-125,1.0,N.Richards,Charlotte Hornets,Indiana Pacers,1,1.8,0.8,0.8157894736842105,1,0.6,1,0.7,1
-5,R.Westbrook u13.5 Pts,SBK5065,-113,1.0,R.Westbrook,Los Angeles Clippers,Miami Heat,0,1.8849557522123894,0.8849557522123894,0.6808510638297872,1,0.6,1,0.6,1
-6,J.Harden o7.5 Ast,JoeDellera,-140,1.0,J.Harden,Los Angeles Clippers,Miami Heat,0,1.7142857142857144,0.7142857142857144,0.6190476190476191,1,0.4,0,0.7,1
-8,J.Nurkic o13.5 Rebs+Ast,kylemurray03,-130,1.0,J.Nurkic,Phoenix Suns,Washington Wizards,0,1.7692307692307692,0.7692307692307692,0.5,0,0.2,0,0.5,0
-9,D.Booker o10.5 Rebs+Ast,kylemurray03,-111,1.0,D.Booker,Phoenix Suns,Washington Wizards,0,1.900900900900901,0.900900900900901,0.6,1,0.4,0,0.4,0
+5,N.Powell o11.5 Pts,SBK5065,-120,0.6,N.Powell,Los Angeles Clippers,Miami Heat,0,1.1,0.5000000000000001,0.7021276595744681,1,0.8,1,0.7,1
+6,N.Powell o11.5 Pts,PropBetGuy,-115,1.15,N.Powell,Los Angeles Clippers,Miami Heat,0,2.1499999999999995,0.9999999999999996,0.7021276595744681,1,0.8,1,0.7,1
+7,R.Westbrook u13.5 Pts,SBK5065,-113,1.0,R.Westbrook,Los Angeles Clippers,Miami Heat,0,1.8849557522123894,0.8849557522123894,0.6808510638297872,1,0.6,1,0.6,1
+8,J.Harden o7.5 Ast,JoeDellera,-140,1.0,J.Harden,Los Angeles Clippers,Miami Heat,0,1.7142857142857144,0.7142857142857144,0.6190476190476191,1,0.4,0,0.7,1
+9,D.White o3.5 Ast,kylemurray03,-151,1.0,D.White,Boston Celtics,Memphis Grizzlies,1,1.6622516556291391,0.6622516556291391,0.7111111111111111,1,0.8,1,0.6,1
 10,J.Brown o21.5 Pts+Ast,kylemurray03,-115,1.0,J.Brown,Boston Celtics,Memphis Grizzlies,1,1.8695652173913042,0.8695652173913042,0.6739130434782609,1,0.6,1,0.7,1
-12,C.Sexton o25.5 Pts+Ast,the_degenerates,-120,1.2,C.Sexton,Utah Jazz,Milwaukee Bucks,1,2.2,1.0000000000000002,0.42,0,0.6,1,0.8,1
-13,C.Sexton o19.5 Pts,JoeDellera,-120,1.0,C.Sexton,Utah Jazz,Milwaukee Bucks,1,1.8333333333333335,0.8333333333333335,0.46,0,0.6,1,0.8,1
+12,J.Clarkson u5.5 Ast,SBK5065,-140,1.0,J.Clarkson,Utah Jazz,Milwaukee Bucks,1,1.7142857142857144,0.7142857142857144,0.625,1,0.6,1,0.8,1
+13,C.Sexton o25.5 Pts+Ast,the_degenerates,-120,1.2,C.Sexton,Utah Jazz,Milwaukee Bucks,1,2.2,1.0000000000000002,0.42,0,0.6,1,0.8,1
+14,C.Sexton o19.5 Pts,JoeDellera,-120,1.0,C.Sexton,Utah Jazz,Milwaukee Bucks,1,1.8333333333333335,0.8333333333333335,0.46,0,0.6,1,0.8,1
+17,F.Wagner o19.5 Pts,JoeDellera,-120,1.0,F.Wagner,Orlando Magic,Detroit Pistons,0,1.8333333333333335,0.8333333333333335,0.5121951219512195,1,0.4,0,0.4,0
+18,F.Wagner o19.5 Pts,PropBetGuy,-120,1.2,F.Wagner,Orlando Magic,Detroit Pistons,0,2.2,1.0000000000000002,0.5121951219512195,1,0.4,0,0.4,0
+20,J.Nurkic o13.5 Rebs+Ast,kylemurray03,-130,1.0,J.Nurkic,Phoenix Suns,Washington Wizards,0,1.7692307692307692,0.7692307692307692,0.5,0,0.2,0,0.5,0
+21,D.Booker o10.5 Rebs+Ast,kylemurray03,-111,1.0,D.Booker,Phoenix Suns,Washington Wizards,0,1.900900900900901,0.900900900900901,0.6,1,0.4,0,0.4,0
