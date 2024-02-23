@@ -1,0 +1,28 @@
+Unnamed: 0,Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,T.Mann o4.5 Rebs,kylemurray03,102,0.98,T.Mann,Charlotte Hornets,Utah Jazz,0,1.9796,0.9996,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+1,J.Harden o4.5 Rebs,kylemurray03,-144,1.44,J.Harden,Los Angeles Clippers,Oklahoma City Thunder,0,2.44,1.0,0.5625,1,0.8,1,0.8,1
+2,P.Achiuwa o9.5 Rebs,cowhitchurch,-106,0.53,P.Achiuwa,New York Knicks,Philadelphia 76ers,0,1.03,0.5,0.3043478260869565,0,0.6,1,0.5,0
+3,P.Achiuwa o9.5 Rebs,kylemurray03,-122,1.22,P.Achiuwa,New York Knicks,Philadelphia 76ers,0,2.22,1.0000000000000002,0.3043478260869565,0,0.6,1,0.5,0
+4,J.Hart o7.5 Rebs,JoeDellera,-140,1.0,J.Hart,New York Knicks,Philadelphia 76ers,0,1.7142857142857144,0.7142857142857144,0.4259259259259259,0,0.8,1,0.9,1
+5,J.Duren o10.5 Rebs,kylemurray03,-128,1.28,J.Duren,Detroit Pistons,Indiana Pacers,0,2.28,1.0000000000000002,0.6410256410256411,1,0.6,1,0.6,1
+0,D.Fox u6.5 Ast,SBK5065,-125,0.63,D.Fox,Sacramento Kings,San Antonio Spurs,1,1.134,0.5040000000000001,0.6875,1,0.4,0,0.7,1
+1,T.McConnell u5.5 Ast,JoeDellera,-140,1.0,T.McConnell,Indiana Pacers,Detroit Pistons,1,1.7142857142857144,0.7142857142857144,0.5652173913043478,1,0.4,0,0.3,0
+2,F.Wagner o3.5 Ast,JoeDellera,-122,0.75,F.Wagner,Orlando Magic,Cleveland Cavaliers,0,1.3647540983606556,0.6147540983606556,0.5319148936170213,1,0.6,1,0.7,1
+3,D.Schroder o3.5 Ast,kylemurray03,-150,1.5,D.Schroder,Brooklyn Nets,Toronto Raptors,0,2.5,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+4,I.Quickley u6.5 Ast,SBK5065,-135,0.68,I.Quickley,Toronto Raptors,Brooklyn Nets,1,1.1837037037037037,0.5037037037037037,0.65,1,0.8,1,0.6,1
+5,I.Quickley u6.5 Ast,kylemurray03,-120,1.2,I.Quickley,Toronto Raptors,Brooklyn Nets,1,2.2,1.0000000000000002,0.65,1,0.8,1,0.6,1
+0,D.Avdija o22.5 Pts+Rebs,kylemurray03,-120,1.2,D.Avdija,Washington Wizards,Denver Nuggets,0,2.2,1.0000000000000002,0.3148148148148148,0,0.8,1,0.6,1
+0,J.Brunson o36.5 Pts+Ast,the_degenerates,-120,1.2,J.Brunson,New York Knicks,Philadelphia 76ers,0,2.2,1.0000000000000002,0.4038461538461538,0,0.6,1,0.7,1
+1,F.Wagner o22.5 Pts+Ast,kylemurray03,-120,1.2,F.Wagner,Orlando Magic,Cleveland Cavaliers,0,2.2,1.0000000000000002,0.6382978723404256,1,0.6,1,0.7,1
+0,W.Kessler o2.5 Blk,cowhitchurch,-135,1.35,W.Kessler,Utah Jazz,Charlotte Hornets,1,2.35,1.0,0.5416666666666666,1,0.8,1,0.8,1
+1,W.Kessler o2.5 Blk,kylemurray03,-125,1.25,W.Kessler,Utah Jazz,Charlotte Hornets,1,2.25,1.0,0.5416666666666666,1,0.8,1,0.8,1
+0,D.DiVincenzo o26.5 Pts+Rebs+Ast,kylemurray03,-115,1.15,D.DiVincenzo,New York Knicks,Philadelphia 76ers,0,2.1499999999999995,0.9999999999999996,0.1851851851851851,0,0.8,1,0.6,1
+0,K.Porzingis o18.5 Pts,SBK5065,-125,0.5,K.Porzingis,Boston Celtics,Chicago Bulls,0,0.9,0.4,0.575,1,0.8,1,0.7,1
+1,K.Porzingis o18.5 Pts,JoeDellera,-110,1.0,K.Porzingis,Boston Celtics,Chicago Bulls,0,1.9090909090909087,0.9090909090909092,0.575,1,0.8,1,0.7,1
+2,K.Porzingis o18.5 Pts,kylemurray03,-120,1.2,K.Porzingis,Boston Celtics,Chicago Bulls,0,2.2,1.0000000000000002,0.575,1,0.8,1,0.7,1
+3,D.Avdija o15.5 Pts,cowhitchurch,-120,0.6,D.Avdija,Washington Wizards,Denver Nuggets,0,1.1,0.5000000000000001,0.3148148148148148,0,0.8,1,0.5,0
+4,D.Avdija o15.5 Pts,JoeDellera,-102,1.0,D.Avdija,Washington Wizards,Denver Nuggets,0,1.9803921568627447,0.9803921568627452,0.3148148148148148,0,0.8,1,0.5,0
+5,D.Gafford o9.5 Pts,TheBMatt,-106,0.75,D.Gafford,Dallas Mavericks,Phoenix Suns,1,1.4575471698113207,0.7075471698113207,1.0,1,1.0,1,1.0,1
+6,E.Gordon u13.5 Pts,SBK5065,-128,1.28,E.Gordon,Phoenix Suns,Dallas Mavericks,0,2.28,1.0000000000000002,0.574468085106383,1,0.6,1,0.6,1
+7,M.Bridges u25.5 Pts,SBK5065,-115,1.15,M.Bridges,Brooklyn Nets,Toronto Raptors,0,2.1499999999999995,0.9999999999999996,0.7222222222222222,1,0.4,0,0.6,1
+8,J.Ivey o16.5 Pts,JoeDellera,-125,1.0,J.Ivey,Detroit Pistons,Indiana Pacers,0,1.8,0.8,0.44,0,0.6,1,0.6,1
