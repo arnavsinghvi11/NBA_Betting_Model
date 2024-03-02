@@ -1,10 +1,17 @@
 ,Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
-3,B.Ingram o21.5 Pts,GDAWG5000,-115,0.57,B.Ingram,New Orleans Pelicans,Indiana Pacers,1.0,1.0656521739130431,0.4956521739130434,0.5185185185185185,1,0.6,1,0.5,0
-4,B.Portis o13.5 Pts,PropBetGuy,-120,1.2,B.Portis,Milwaukee Bucks,Chicago Bulls,0.0,2.2,1.0000000000000002,0.4,0,1.0,1,0.7,1
-12,B.Hield o12.5 Pts,TheBMatt,-115,1.15,B.Hield,Philadelphia 76ers,Charlotte Hornets,1.0,2.1499999999999995,0.9999999999999996,0.75,1,0.6,1,0.75,1
-13,B.Hield o12.5 Pts,JoeDellera,-115,1.0,B.Hield,Philadelphia 76ers,Charlotte Hornets,1.0,1.869565217391304,0.8695652173913042,0.75,1,0.6,1,0.75,1
-15,S.Curry u29.5 Pts,SBK5065,-125,1.0,S.Curry,Golden State Warriors,Toronto Raptors,0.0,1.8,0.8,0.5636363636363636,1,0.6,1,0.5,0
-17,J.Tatum o26.5 Pts,GoldBoys,-115,1.15,J.Tatum,Boston Celtics,Dallas Mavericks,1.0,2.1499999999999995,0.9999999999999996,0.4909090909090909,0,0.4,0,0.4,0
-18,K.Irving o24.5 Pts,JoeDellera,-110,0.75,K.Irving,Dallas Mavericks,Boston Celtics,0.0,1.431818181818182,0.6818181818181819,0.5675675675675675,1,1.0,1,0.8,1
-19,K.Irving o24.5 Pts,PropBetGuy,-110,1.1,K.Irving,Dallas Mavericks,Boston Celtics,0.0,2.1,1.0,0.5675675675675675,1,1.0,1,0.8,1
-13,K.Towns o21.5 Pts,gneiffer07,-115,1.15,K.Towns,Minnesota Timberwolves,Sacramento Kings,1.0,2.1499999999999995,0.9999999999999996,0.5263157894736842,1,0.6,1,0.5,0
+1,B.Portis o13.5 Pts,PropBetGuy,-120,1.2,B.Portis,Milwaukee Bucks,Chicago Bulls,0.0,2.2,1.0000000000000002,0.4,0,1.0,1,0.7,1
+11,B.Ingram o21.5 Pts,GDAWG5000,-115,0.57,B.Ingram,New Orleans Pelicans,Indiana Pacers,1.0,1.0656521739130431,0.4956521739130434,0.5185185185185185,1,0.6,1,0.5,0
+14,S.Curry o11.5 Pts,PropBetGuy,-115,1.15,S.Curry,Golden State Warriors,Toronto Raptors,0.0,2.1499999999999995,0.9999999999999996,0.9454545454545454,1,1.0,1,1.0,1
+17,B.Hield o12.5 Pts,TheBMatt,-115,1.15,B.Hield,Philadelphia 76ers,Charlotte Hornets,1.0,2.1499999999999995,0.9999999999999996,0.75,1,0.6,1,0.75,1
+18,B.Hield o12.5 Pts,JoeDellera,-115,1.0,B.Hield,Philadelphia 76ers,Charlotte Hornets,1.0,1.869565217391304,0.8695652173913042,0.75,1,0.6,1,0.75,1
+19,S.Curry u28.5 Pts,NicholaskMartin,-125,1.0,S.Curry,Golden State Warriors,Toronto Raptors,0.0,1.8,0.8,0.5272727272727272,1,0.6,1,0.5,0
+20,S.Curry u28.5 Pts,PropBomb,-125,1.25,S.Curry,Golden State Warriors,Toronto Raptors,0.0,2.25,1.0,0.5272727272727272,1,0.6,1,0.5,0
+22,S.Curry u29.5 Pts,SBK5065,-125,1.0,S.Curry,Golden State Warriors,Toronto Raptors,0.0,1.8,0.8,0.5636363636363636,1,0.6,1,0.5,0
+24,K.Porzingis o20.5 Pts,the_degenerates,-118,1.18,K.Porzingis,Boston Celtics,Dallas Mavericks,1.0,2.18,0.9999999999999998,0.4883720930232558,0,0.6,1,0.6,1
+26,J.Tatum o26.5 Pts,GoldBoys,-115,1.15,J.Tatum,Boston Celtics,Dallas Mavericks,1.0,2.1499999999999995,0.9999999999999996,0.4909090909090909,0,0.4,0,0.4,0
+27,K.Irving o24.5 Pts,JoeDellera,-110,0.75,K.Irving,Dallas Mavericks,Boston Celtics,0.0,1.431818181818182,0.6818181818181819,0.5675675675675675,1,1.0,1,0.8,1
+28,K.Irving o24.5 Pts,PropBetGuy,-110,1.1,K.Irving,Dallas Mavericks,Boston Celtics,0.0,2.1,1.0,0.5675675675675675,1,1.0,1,0.8,1
+35,K.Towns o21.5 Pts,gneiffer07,-115,1.15,K.Towns,Minnesota Timberwolves,Sacramento Kings,1.0,2.1499999999999995,0.9999999999999996,0.5263157894736842,1,0.6,1,0.5,0
+38,L.Stevens o8.5 Pts,SBK5065,-105,1.0,L.Stevens,Memphis Grizzlies,Portland Trail Blazers,1.0,1.9523809523809523,0.9523809523809524,0.6666666666666666,1,0.6,1,0.6666666666666666,1
+0,G.Antetokounmpo o29.5 Pts,the_degenerates,-105,1.05,G.Antetokounmpo,Milwaukee Bucks,Chicago Bulls,0.0,2.05,0.9999999999999998,0.5862068965517241,1,0.6,1,0.5,0
+18,J.McDaniels o9.5 Pts,TheBMatt,-108,0.55,J.McDaniels,Minnesota Timberwolves,Sacramento Kings,1.0,1.0592592592592591,0.5092592592592593,0.5918367346938775,1,0.4,0,0.4,0

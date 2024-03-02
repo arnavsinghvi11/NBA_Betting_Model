@@ -1,16 +1,26 @@
 ,Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
-1,J.Valanciunas u21.5 Pts+Rebs,JoeDellera,-125,1.0,J.Valanciunas,New Orleans Pelicans,Indiana Pacers,1.0,1.8,0.8,0.38333333333333336,0,0.4,0,0.6,1
-2,J.Valanciunas u21.5 Pts+Rebs,SBK5065,-125,1.25,J.Valanciunas,New Orleans Pelicans,Indiana Pacers,1.0,2.25,1.0,0.38333333333333336,0,0.4,0,0.6,1
-5,B.Lopez o1.5 3pt M,TheBMatt,-110,0.55,B.Lopez,Milwaukee Bucks,Chicago Bulls,0.0,1.05,0.5,0.49122807017543857,0,0.6,1,0.6,1
-6,B.Lopez o1.5 3pt M,GDAWG5000,-110,0.55,B.Lopez,Milwaukee Bucks,Chicago Bulls,0.0,1.05,0.5,0.49122807017543857,0,0.6,1,0.6,1
-7,G.Antetokounmpo u11.5 Rebs,SBK5065,+100,0.5,G.Antetokounmpo,Milwaukee Bucks,Chicago Bulls,0.0,1.0,0.5,0.5517241379310345,1,0.6,1,0.6,1
-8,N.Vucevic o1.5 3pt M,JoeDellera,+135,1.0,N.Vucevic,Chicago Bulls,Milwaukee Bucks,1.0,2.35,1.35,0.35185185185185186,0,0.4,0,0.4,0
-10,M.Bridges o7.5 Rebs,GDAWG5000,+105,0.5,M.Bridges,Charlotte Hornets,Philadelphia 76ers,0.0,1.025,0.5249999999999999,0.4583333333333333,0,0.8,1,0.6,1
-11,M.Bridges o7.5 Rebs,TheBMatt,+106,0.75,M.Bridges,Charlotte Hornets,Philadelphia 76ers,0.0,1.545,0.7949999999999999,0.4583333333333333,0,0.8,1,0.6,1
-15,S.Curry u29.5 Pts,SBK5065,-125,1.0,S.Curry,Golden State Warriors,Toronto Raptors,0.0,1.8,0.8,0.5636363636363636,1,0.6,1,0.5,0
-17,J.Tatum o26.5 Pts,GoldBoys,-115,1.15,J.Tatum,Boston Celtics,Dallas Mavericks,1.0,2.1499999999999995,0.9999999999999996,0.4909090909090909,0,0.4,0,0.4,0
-20,J.Tatum o8.5 Rebs,TheBMatt,-115,1.0,J.Tatum,Boston Celtics,Dallas Mavericks,1.0,1.8695652173913042,0.8695652173913042,0.43636363636363634,0,0.4,0,0.5,0
-22,D.Fox u2.5 Stl,JoeDellera,-140,1.0,D.Fox,Sacramento Kings,Minnesota Timberwolves,0.0,1.7142857142857144,0.7142857142857144,0.7058823529411765,1,0.4,0,0.4,0
-23,D.Fox u2.5 Stl,SBK5065,-140,1.4,D.Fox,Sacramento Kings,Minnesota Timberwolves,0.0,2.4,1.0,0.7058823529411765,1,0.4,0,0.4,0
-25,K.Towns o21.5 Pts,gneiffer07,-115,1.15,K.Towns,Minnesota Timberwolves,Sacramento Kings,1.0,2.1499999999999995,0.9999999999999996,0.5263157894736842,1,0.6,1,0.5,0
-26,R.Gobert o27.5 Pts+Rebs,GDAWG5000,-104,0.52,R.Gobert,Minnesota Timberwolves,Sacramento Kings,1.0,1.02,0.5,0.42105263157894735,0,0.6,1,0.6,1
+0,G.Antetokounmpo o29.5 Pts,the_degenerates,-105,1.05,G.Antetokounmpo,Milwaukee Bucks,Chicago Bulls,0.0,2.05,0.9999999999999998,0.5862068965517241,1,0.6,1,0.5,0
+2,B.Lopez o1.5 3pt M,TheBMatt,-110,0.55,B.Lopez,Milwaukee Bucks,Chicago Bulls,0.0,1.05,0.5,0.49122807017543857,0,0.6,1,0.6,1
+3,B.Lopez o1.5 3pt M,GDAWG5000,-110,0.55,B.Lopez,Milwaukee Bucks,Chicago Bulls,0.0,1.05,0.5,0.49122807017543857,0,0.6,1,0.6,1
+4,G.Antetokounmpo u11.5 Rebs,SBK5065,+100,0.5,G.Antetokounmpo,Milwaukee Bucks,Chicago Bulls,0.0,1.0,0.5,0.5517241379310345,1,0.6,1,0.6,1
+5,N.Vucevic o1.5 3pt M,JoeDellera,+135,1.0,N.Vucevic,Chicago Bulls,Milwaukee Bucks,1.0,2.35,1.35,0.35185185185185186,0,0.4,0,0.4,0
+7,P.Siakam o28.5 Pts+Rebs,the_degenerates,-104,1.04,P.Siakam,Indiana Pacers,New Orleans Pelicans,0.0,2.04,1.0,0.3684210526315789,0,0.4,0,0.4,0
+9,J.Valanciunas u21.5 Pts+Rebs,JoeDellera,-125,1.0,J.Valanciunas,New Orleans Pelicans,Indiana Pacers,1.0,1.8,0.8,0.38333333333333336,0,0.4,0,0.6,1
+10,J.Valanciunas u21.5 Pts+Rebs,SBK5065,-125,1.25,J.Valanciunas,New Orleans Pelicans,Indiana Pacers,1.0,2.25,1.0,0.38333333333333336,0,0.4,0,0.6,1
+14,S.Curry o11.5 Pts,PropBetGuy,-115,1.15,S.Curry,Golden State Warriors,Toronto Raptors,0.0,2.1499999999999995,0.9999999999999996,0.9454545454545454,1,1.0,1,1.0,1
+15,M.Bridges o7.5 Rebs,GDAWG5000,+105,0.5,M.Bridges,Charlotte Hornets,Philadelphia 76ers,0.0,1.025,0.5249999999999999,0.4583333333333333,0,0.8,1,0.6,1
+16,M.Bridges o7.5 Rebs,TheBMatt,+106,0.75,M.Bridges,Charlotte Hornets,Philadelphia 76ers,0.0,1.545,0.7949999999999999,0.4583333333333333,0,0.8,1,0.6,1
+19,S.Curry u28.5 Pts,NicholaskMartin,-125,1.0,S.Curry,Golden State Warriors,Toronto Raptors,0.0,1.8,0.8,0.5272727272727272,1,0.6,1,0.5,0
+20,S.Curry u28.5 Pts,PropBomb,-125,1.25,S.Curry,Golden State Warriors,Toronto Raptors,0.0,2.25,1.0,0.5272727272727272,1,0.6,1,0.5,0
+22,S.Curry u29.5 Pts,SBK5065,-125,1.0,S.Curry,Golden State Warriors,Toronto Raptors,0.0,1.8,0.8,0.5636363636363636,1,0.6,1,0.5,0
+24,K.Porzingis o20.5 Pts,the_degenerates,-118,1.18,K.Porzingis,Boston Celtics,Dallas Mavericks,1.0,2.1799999999999997,0.9999999999999998,0.4883720930232558,0,0.6,1,0.6,1
+25,L.Doncic o49.5 Pts+Rebs+Ast,the_degenerates,-115,1.15,L.Doncic,Dallas Mavericks,Boston Celtics,0.0,2.1499999999999995,0.9999999999999996,0.6274509803921569,1,0.6,1,0.6,1
+26,J.Tatum o26.5 Pts,GoldBoys,-115,1.15,J.Tatum,Boston Celtics,Dallas Mavericks,1.0,2.1499999999999995,0.9999999999999996,0.4909090909090909,0,0.4,0,0.4,0
+29,J.Tatum o8.5 Rebs,TheBMatt,-115,1.0,J.Tatum,Boston Celtics,Dallas Mavericks,1.0,1.8695652173913042,0.8695652173913042,0.43636363636363634,0,0.4,0,0.5,0
+31,J.McDaniels o9.5 Pts,TheBMatt,-108,0.55,J.McDaniels,Minnesota Timberwolves,Sacramento Kings,1.0,1.0592592592592593,0.5092592592592593,0.5918367346938775,1,0.4,0,0.4,0
+32,D.Fox u2.5 Stl,JoeDellera,-140,1.0,D.Fox,Sacramento Kings,Minnesota Timberwolves,0.0,1.7142857142857144,0.7142857142857144,0.7058823529411765,1,0.4,0,0.4,0
+33,D.Fox u2.5 Stl,SBK5065,-140,1.4,D.Fox,Sacramento Kings,Minnesota Timberwolves,0.0,2.4,1.0,0.7058823529411765,1,0.4,0,0.4,0
+35,K.Towns o21.5 Pts,gneiffer07,-115,1.15,K.Towns,Minnesota Timberwolves,Sacramento Kings,1.0,2.1499999999999995,0.9999999999999996,0.5263157894736842,1,0.6,1,0.5,0
+36,R.Gobert o27.5 Pts+Rebs,GDAWG5000,-104,0.52,R.Gobert,Minnesota Timberwolves,Sacramento Kings,1.0,1.02,0.5,0.42105263157894735,0,0.6,1,0.6,1
+38,L.Stevens o8.5 Pts,SBK5065,-105,1.0,L.Stevens,Memphis Grizzlies,Portland Trail Blazers,1.0,1.9523809523809523,0.9523809523809523,0.6666666666666666,1,0.6,1,0.6666666666666666,1
+39,Z.Williams u8.5 Rebs+Ast,SBK5065,-130,1.0,Z.Williams,Memphis Grizzlies,Portland Trail Blazers,1.0,1.7692307692307692,0.7692307692307692,0.8163265306122449,1,0.8,1,0.8,1
