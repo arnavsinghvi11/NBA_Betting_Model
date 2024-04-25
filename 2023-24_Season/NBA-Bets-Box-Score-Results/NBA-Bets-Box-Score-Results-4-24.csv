@@ -1,0 +1,42 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm,date
+0,B.Adebayo,Miami Heat,Boston Celtics,0,39.55,21,2,10,0,0,0,.671,.692,.077,6.5,22.9,15.2,9.2,0.0,0.0,19.8,142,113,0.5,4000000024
+1,T.Herro,Miami Heat,Boston Celtics,0,38.45,24,14,5,1,0,6,.813,.769,.846,0.0,14.7,7.8,61.2,1.3,0.0,23.2,158,112,15.8,4000000024
+2,C.Martin,Miami Heat,Boston Celtics,0,36.13,21,0,2,1,0,5,.815,.792,.500,0.0,6.3,3.4,0.0,1.4,0.0,18.0,147,113,4.5,4000000024
+3,J.Jaquez,Miami Heat,Boston Celtics,0,30.56,14,1,2,1,0,3,.474,.423,.462,0.0,7.4,3.9,5.0,1.7,0.0,25.8,90,112,-7.8,4000000024
+4,N.Jovic,Miami Heat,Boston Celtics,0,24.53,11,6,9,3,1,3,1.100,1.100,.800,0.0,41.3,22.0,39.5,6.3,4.0,20.3,117,93,17.0,4000000024
+5,H.Highsmith,Miami Heat,Boston Celtics,0,26.23,9,0,3,1,0,3,.750,.750,.833,4.9,8.7,6.9,0.0,2.0,0.0,13.4,117,111,1.2,4000000024
+6,D.Wright,Miami Heat,Boston Celtics,0,19.54,5,1,4,0,0,1,.512,.375,.750,6.5,17.2,12.2,7.0,0.0,0.0,12.4,126,114,-4.0,4000000024
+7,D.Robinson,Miami Heat,Boston Celtics,0,16.46,6,0,1,2,0,2,.375,.375,.875,0.0,6.8,3.6,0.0,6.2,0.0,30.2,55,102,-15.0,4000000024
+8,K.Love,Miami Heat,Boston Celtics,0,6.15,0,1,4,0,0,0,.000,.000,.000,0.0,73.1,38.9,20.8,0.0,0.0,8.1,69,104,-7.0,4000000024
+9,J.Tatum,Boston Celtics,Miami Heat,1,41.12,28,3,8,0,1,2,.595,.550,.300,0.0,25.2,11.8,13.8,0.0,3.6,30.5,108,127,-0.7,4000000024
+10,J.Holiday,Boston Celtics,Miami Heat,1,37.24,9,2,3,2,1,1,.375,.375,.333,0.0,10.4,4.9,8.1,2.8,4.0,17.7,70,121,-9.0,4000000024
+11,J.Brown,Boston Celtics,Miami Heat,1,37.20,33,1,8,1,1,4,.644,.652,.391,9.2,17.4,13.0,6.3,1.4,4.0,36.4,113,124,6.5,4000000024
+12,D.White,Boston Celtics,Miami Heat,1,35.40,13,4,1,1,1,2,.770,.750,.500,0.0,3.6,1.7,17.8,1.5,4.2,12.5,142,125,2.7,4000000024
+13,K.Porzingis,Boston Celtics,Miami Heat,1,29.58,6,4,8,3,2,0,.279,.111,.444,7.6,26.0,16.2,18.1,5.2,10.0,20.2,76,108,-3.3,4000000024
+14,A.Horford,Boston Celtics,Miami Heat,1,23.28,6,3,8,1,1,1,.773,.833,.333,4.9,38.7,20.7,18.6,2.2,6.4,9.9,139,118,7.7,4000000024
+15,P.Pritchard,Boston Celtics,Miami Heat,1,19.43,0,3,1,0,0,0,,,,0.0,6.6,3.1,19.7,0.0,0.0,0.0,232,131,-8.5,4000000024
+16,S.Hauser,Boston Celtics,Miami Heat,1,15.15,6,1,2,1,1,2,.600,.600,.800,0.0,17.0,8.0,10.3,3.4,9.8,15.5,121,115,8.8,4000000024
+17,T.Murphy,New Orleans Pelicans,Oklahoma City Thunder,0,37.35,8,2,5,0,1,2,.500,.500,.750,3.2,16.0,8.9,8.8,0.0,2.6,12.9,91,140,-3.8,4000000024
+18,C.McCollum,New Orleans Pelicans,Oklahoma City Thunder,0,36.19,15,4,5,2,0,1,.504,.464,.357,3.3,16.5,9.2,21.1,3.0,0.0,25.1,90,135,-2.5,4000000024
+19,H.Jones,New Orleans Pelicans,Oklahoma City Thunder,0,35.54,18,1,2,0,0,4,.911,.889,.778,0.0,8.4,3.7,5.4,0.0,0.0,16.0,143,143,3.7,4000000024
+20,B.Ingram,New Orleans Pelicans,Oklahoma City Thunder,0,32.42,18,3,4,1,1,0,.666,.500,.000,0.0,18.3,8.2,17.2,1.6,3.0,24.4,118,135,2.8,4000000024
+21,J.Valanciunas,New Orleans Pelicans,Oklahoma City Thunder,0,22.45,19,2,7,0,0,0,.620,.571,.000,10.5,33.0,20.5,26.2,0.0,0.0,36.8,117,140,5.3,4000000024
+22,N.Marshall,New Orleans Pelicans,Oklahoma City Thunder,0,25.28,10,0,2,1,0,0,.644,.500,.333,0.0,11.8,5.2,0.0,2.1,0.0,14.7,137,138,-0.4,4000000024
+23,J.Alvarado,New Orleans Pelicans,Oklahoma City Thunder,0,16.47,0,2,1,0,0,0,.000,.000,.600,0.0,8.9,4.0,17.3,0.0,0.0,17.3,21,143,-18.7,4000000024
+24,L.Nance,New Orleans Pelicans,Oklahoma City Thunder,0,14.26,2,1,6,0,0,0,1.000,1.000,.000,24.9,31.2,27.7,11.2,0.0,0.0,13.4,83,141,-10.2,4000000024
+25,D.Daniels,New Orleans Pelicans,Oklahoma City Thunder,0,7.30,0,0,1,0,0,0,.000,.000,.500,0.0,20.0,8.9,0.0,0.0,0.0,12.9,0,142,-16.7,4000000024
+26,J.Robinson-Earl,New Orleans Pelicans,Oklahoma City Thunder,0,5.17,2,1,1,0,0,0,.347,.500,.000,22.7,0.0,12.6,38.0,0.0,0.0,26.4,98,144,-0.1,4000000024
+27,J.Hawkins,New Orleans Pelicans,Oklahoma City Thunder,0,5.17,0,0,1,0,0,0,.000,.000,1.000,0.0,28.4,12.6,0.0,0.0,0.0,18.3,0,141,-24.7,4000000024
+28,J.Williams,Oklahoma City Thunder,New Orleans Pelicans,1,35.19,21,7,5,1,0,1,.618,.618,.176,0.0,17.0,9.4,29.4,1.5,0.0,27.2,124,102,4.4,4000000024
+29,S.Gilgeous-Alexander,Oklahoma City Thunder,New Orleans Pelicans,1,35.00,33,5,3,2,0,3,.795,.763,.263,0.0,10.3,5.7,24.3,3.1,0.0,32.9,148,100,14.2,4000000024
+30,L.Dort,Oklahoma City Thunder,New Orleans Pelicans,1,30.54,15,2,1,1,0,4,.768,.750,.750,4.9,0.0,2.2,7.8,1.7,0.0,17.6,145,106,6.9,4000000024
+31,C.Holmgren,Oklahoma City Thunder,New Orleans Pelicans,1,28.44,26,1,7,0,2,3,.831,.808,.462,5.2,25.1,16.2,5.4,0.0,7.1,29.3,155,99,12.4,4000000024
+32,J.Giddey,Oklahoma City Thunder,New Orleans Pelicans,1,25.42,13,3,6,0,0,1,.604,.500,.333,0.0,28.0,15.6,14.5,0.0,0.0,25.1,113,103,-1.3,4000000024
+33,C.Wallace,Oklahoma City Thunder,New Orleans Pelicans,1,18.47,2,3,3,0,0,0,.500,.500,.500,16.0,6.4,10.6,17.6,0.0,0.0,5.4,171,108,3.4,4000000024
+34,J.Williams,Oklahoma City Thunder,New Orleans Pelicans,1,16.59,0,1,1,0,0,0,.000,.000,1.000,0.0,7.1,3.9,6.1,0.0,0.0,3.0,65,108,-5.0,4000000024
+35,I.Joe,Oklahoma City Thunder,New Orleans Pelicans,1,16.43,8,1,2,1,0,2,1.000,1.000,.500,0.0,14.4,8.0,7.7,3.2,0.0,12.1,193,99,13.9,4000000024
+36,A.Wiggins,Oklahoma City Thunder,New Orleans Pelicans,1,12.16,6,2,5,0,0,0,1.042,1.000,.000,12.2,39.1,27.2,20.5,0.0,0.0,11.9,222,101,13.9,4000000024
+37,G.Hayward,Oklahoma City Thunder,New Orleans Pelicans,1,10.11,0,0,2,0,0,0,.000,.000,.000,0.0,23.6,13.1,0.0,0.0,0.0,5.0,0,104,-6.7,4000000024
+38,K.Williams,Oklahoma City Thunder,New Orleans Pelicans,1,3.29,0,0,1,0,0,0,.000,.000,1.000,0.0,34.4,19.1,0.0,0.0,0.0,14.5,0,102,-16.8,4000000024
+39,O.Dieng,Oklahoma City Thunder,New Orleans Pelicans,1,2.58,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,110,-2.5,4000000024
+40,L.Waters,Oklahoma City Thunder,New Orleans Pelicans,1,2.58,0,0,1,0,0,0,.000,.000,1.000,0.0,40.4,22.5,0.0,0.0,0.0,17.1,0,100,-19.8,4000000024
