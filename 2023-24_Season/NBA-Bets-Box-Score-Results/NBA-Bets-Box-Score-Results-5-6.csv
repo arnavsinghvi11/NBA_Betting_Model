@@ -1,0 +1,44 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm,date
+0,A.Edwards,Minnesota Timberwolves,Denver Nuggets,0,37.19,27,7,2,2,0,1,.672,.676,.235,0.0,5.1,2.8,32.3,2.9,0.0,30.3,119,98,7.5,5000000006
+1,K.Towns,Minnesota Timberwolves,Denver Nuggets,0,35.47,27,1,12,1,2,3,.805,.767,.333,6.4,26.8,17.5,4.7,1.5,5.1,24.6,142,84,12.2,5000000006
+2,M.Conley,Minnesota Timberwolves,Denver Nuggets,0,31.38,4,6,3,2,1,0,.368,.400,.400,0.0,9.1,4.9,23.4,3.4,2.9,8.1,120,93,0.7,5000000006
+3,J.McDaniels,Minnesota Timberwolves,Denver Nuggets,0,26.26,5,3,2,2,1,0,.317,.286,.143,0.0,7.3,3.9,14.2,4.1,3.4,15.8,78,92,-4.9,5000000006
+4,K.Anderson,Minnesota Timberwolves,Denver Nuggets,0,26.16,6,8,9,2,1,0,.375,.375,.125,30.5,7.3,17.9,40.0,4.1,3.4,17.9,121,92,11.3,5000000006
+5,N.Alexander-Walker,Minnesota Timberwolves,Denver Nuggets,0,29.44,14,1,6,0,3,4,.778,.778,.778,0.0,19.4,10.5,4.8,0.0,9.1,15.8,130,91,10.1,5000000006
+6,N.Reid,Minnesota Timberwolves,Denver Nuggets,0,29.03,14,0,5,1,4,4,.500,.500,.571,3.9,13.2,9.0,0.0,1.9,12.5,25.9,88,90,1.9,5000000006
+7,M.Morris,Minnesota Timberwolves,Denver Nuggets,0,7.32,2,0,0,1,0,0,.250,.250,.750,0.0,0.0,0.0,0.0,7.2,0.0,24.9,54,91,-13.0,5000000006
+8,J.Minott,Minnesota Timberwolves,Denver Nuggets,0,3.15,3,0,0,0,0,1,1.500,1.500,1.000,0.0,0.0,0.0,0.0,0.0,0.0,14.5,300,108,28.3,5000000006
+9,L.Garza,Minnesota Timberwolves,Denver Nuggets,0,3.15,2,1,0,0,0,0,.500,.500,.000,0.0,0.0,0.0,54.2,0.0,0.0,28.9,123,108,9.9,5000000006
+10,W.Moore,Minnesota Timberwolves,Denver Nuggets,0,3.15,2,0,1,0,0,0,1.000,1.000,.000,0.0,29.5,16.1,0.0,0.0,0.0,14.5,200,87,3.7,5000000006
+11,J.McLaughlin,Minnesota Timberwolves,Denver Nuggets,0,3.15,0,1,0,0,0,0,,,,0.0,0.0,0.0,35.2,0.0,0.0,0.0,231,107,-4.5,5000000006
+12,L.Miller,Minnesota Timberwolves,Denver Nuggets,0,3.15,0,0,2,0,0,0,.000,.000,1.000,0.0,59.1,32.1,0.0,0.0,0.0,14.5,0,69,-16.3,5000000006
+13,M.Porter,Denver Nuggets,Minnesota Timberwolves,1,39.24,9,2,5,1,1,1,.375,.375,.583,2.4,11.6,6.6,10.1,1.4,2.4,18.2,68,121,-7.0,5000000006
+14,N.Jokic,Denver Nuggets,Minnesota Timberwolves,1,38.36,16,8,16,0,1,0,.512,.385,.077,14.9,29.6,21.6,43.7,0.0,2.4,22.8,111,119,6.1,5000000006
+15,J.Murray,Denver Nuggets,Minnesota Timberwolves,1,35.55,8,2,13,2,1,0,.212,.167,.222,5.3,35.0,18.9,10.7,3.0,2.6,28.6,51,111,-12.2,5000000006
+16,A.Gordon,Denver Nuggets,Minnesota Timberwolves,1,33.04,20,2,4,1,0,3,.672,.679,.357,8.7,3.5,6.3,16.7,1.6,0.0,21.6,137,123,10.0,5000000006
+17,K.Caldwell-Pope,Denver Nuggets,Minnesota Timberwolves,1,27.40,4,0,3,1,0,0,.333,.333,.333,6.9,4.1,5.7,0.0,2.0,0.0,11.4,74,122,-10.0,5000000006
+18,J.Holiday,Denver Nuggets,Minnesota Timberwolves,1,21.32,13,1,2,0,0,4,.945,1.000,.833,0.0,10.6,4.8,11.1,0.0,0.0,16.4,155,125,10.2,5000000006
+19,C.Braun,Denver Nuggets,Minnesota Timberwolves,1,10.30,2,0,2,1,1,0,.500,.500,.000,9.1,10.9,9.9,0.0,5.2,9.0,8.6,123,108,7.2,5000000006
+20,R.Jackson,Denver Nuggets,Minnesota Timberwolves,1,10.11,3,1,2,0,0,1,.250,.250,.500,9.4,11.2,10.2,19.4,0.0,0.0,30.9,64,125,-13.1,5000000006
+21,P.Watson,Denver Nuggets,Minnesota Timberwolves,1,9.12,0,0,2,0,1,0,.000,.000,.500,10.4,12.4,11.3,0.0,0.0,10.2,14.1,16,118,-11.4,5000000006
+22,J.Pickett,Denver Nuggets,Minnesota Timberwolves,1,3.29,2,0,0,0,0,0,1.000,1.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,12.9,200,128,7.3,5000000006
+23,J.Strawther,Denver Nuggets,Minnesota Timberwolves,1,3.29,2,0,0,0,0,0,.532,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,24.2,136,128,-0.5,5000000006
+24,Z.Nnaji,Denver Nuggets,Minnesota Timberwolves,1,3.29,1,0,1,0,1,0,.266,.000,.000,27.6,0.0,15.0,0.0,0.0,27.0,24.2,84,109,1.9,5000000006
+25,H.Tyson,Denver Nuggets,Minnesota Timberwolves,1,3.29,0,0,0,0,0,0,.000,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,12.9,0,128,-18.5,5000000006
+26,P.Siakam,Indiana Pacers,New York Knicks,0,36.40,19,5,6,1,0,1,.535,.531,.188,6.7,15.9,10.9,18.4,1.4,0.0,23.8,115,129,-1.4,5000000006
+27,T.Haliburton,Indiana Pacers,New York Knicks,0,36.08,6,8,2,4,0,2,.500,.500,.833,0.0,8.1,3.7,24.5,5.6,0.0,11.6,96,121,-0.6,5000000006
+28,M.Turner,Indiana Pacers,New York Knicks,0,34.36,23,3,2,1,1,2,.617,.563,.375,3.6,4.2,3.9,11.9,1.5,2.4,26.4,123,129,1.1,5000000006
+29,A.Nesmith,Indiana Pacers,New York Knicks,0,30.53,12,3,6,0,0,0,.694,.500,.333,8.0,18.8,13.0,11.3,0.0,0.0,14.5,145,132,-2.0,5000000006
+30,A.Nembhard,Indiana Pacers,New York Knicks,0,29.08,11,4,2,0,0,1,.506,.450,.200,0.0,10.0,4.6,16.7,0.0,0.0,17.3,117,133,-7.4,5000000006
+31,T.McConnell,Indiana Pacers,New York Knicks,0,22.17,18,3,1,3,0,0,.563,.563,.063,0.0,6.5,3.0,24.3,6.8,0.0,35.4,106,119,4.5,5000000006
+32,O.Toppin,Indiana Pacers,New York Knicks,0,19.17,12,3,6,0,1,2,.857,.857,.429,0.0,45.3,20.7,22.3,0.0,4.2,16.9,169,124,13.6,5000000006
+33,B.Sheppard,Indiana Pacers,New York Knicks,0,17.43,8,2,2,0,0,2,.800,.800,.800,0.0,16.4,7.5,14.3,0.0,0.0,13.1,157,132,4.7,5000000006
+34,I.Jackson,Indiana Pacers,New York Knicks,0,13.18,8,1,5,0,3,0,.621,.667,.000,18.5,32.8,25.1,11.4,0.0,18.4,22.5,135,115,10.9,5000000006
+35,J.Hart,New York Knicks,Indiana Pacers,1,48.00,24,8,13,3,1,1,.726,.731,.077,12.1,23.1,18.1,22.9,3.1,1.6,20.0,129,117,8.4,5000000006
+36,D.DiVincenzo,New York Knicks,Indiana Pacers,1,43.41,25,1,3,0,2,5,.735,.735,.529,0.0,8.5,4.6,3.3,0.0,3.5,19.4,127,124,1.7,5000000006
+37,J.Brunson,New York Knicks,Indiana Pacers,1,43.32,43,6,6,0,1,1,.669,.558,.154,3.3,14.1,9.2,23.2,0.0,1.8,37.1,132,125,5.0,5000000006
+38,O.Anunoby,New York Knicks,Indiana Pacers,1,42.05,13,4,9,2,0,3,.464,.464,.500,0.0,26.3,14.3,11.9,2.4,0.0,17.0,95,120,-1.3,5000000006
+39,I.Hartenstein,New York Knicks,Indiana Pacers,1,36.01,13,4,6,0,0,1,.658,.611,.111,8.1,13.7,11.1,14.3,0.0,0.0,13.5,140,127,0.9,5000000006
+40,M.Robinson,New York Knicks,Indiana Pacers,1,11.47,2,1,2,0,0,0,1.000,1.000,.000,12.3,10.4,11.3,10.2,0.0,0.0,3.8,212,127,0.4,5000000006
+41,M.McBride,New York Knicks,Indiana Pacers,1,10.36,0,1,0,0,0,0,.000,.000,.500,0.0,0.0,0.0,10.3,0.0,0.0,8.4,37,129,-14.1,5000000006
+42,P.Achiuwa,New York Knicks,Indiana Pacers,1,4.18,1,0,1,0,0,0,.568,,,0.0,28.6,15.5,0.0,0.0,0.0,9.1,123,125,-2.7,5000000006
