@@ -1,0 +1,42 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm,date
+0,J.Tatum,Boston Celtics,Cleveland Cavaliers,0,41.58,33,6,13,1,1,2,.570,.480,.320,3.1,32.7,18.8,24.1,1.3,2.4,40.0,111,102,5.3,50000000011
+1,J.Brown,Boston Celtics,Cleveland Cavaliers,0,40.39,28,3,9,1,0,2,.783,.824,.176,6.4,19.7,13.5,13.8,1.4,0.0,24.2,142,106,9.6,50000000011
+2,A.Horford,Boston Celtics,Cleveland Cavaliers,0,38.46,2,2,7,0,0,0,.143,.143,.857,10.0,11.8,11.0,6.2,0.0,0.0,8.9,80,111,-8.1,50000000011
+3,J.Holiday,Boston Celtics,Cleveland Cavaliers,0,37.40,18,5,8,0,1,3,.827,.850,.400,6.9,18.2,12.9,19.9,0.0,2.7,15.6,162,108,12.4,50000000011
+4,D.White,Boston Celtics,Cleveland Cavaliers,0,36.54,12,3,3,1,1,3,.446,.423,.615,0.0,9.3,4.9,10.9,1.5,2.7,19.3,98,106,-0.9,50000000011
+5,P.Pritchard,Boston Celtics,Cleveland Cavaliers,0,22.20,5,3,3,0,0,1,.625,.625,.500,5.8,10.2,8.2,17.6,0.0,0.0,11.1,127,112,0.7,50000000011
+6,S.Hauser,Boston Celtics,Cleveland Cavaliers,0,9.56,6,0,0,0,0,2,1.000,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,19.9,124,114,8.0,50000000011
+7,L.Kornet,Boston Celtics,Cleveland Cavaliers,0,7.51,2,0,1,0,1,0,1.000,1.000,.000,0.0,14.6,7.7,0.0,0.0,12.7,6.3,200,100,5.0,50000000011
+8,O.Brissett,Boston Celtics,Cleveland Cavaliers,0,1.00,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,114,-3.5,50000000011
+9,S.Mykhailiuk,Boston Celtics,Cleveland Cavaliers,0,1.00,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,114,-24.9,50000000011
+10,J.Springer,Boston Celtics,Cleveland Cavaliers,0,1.00,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,114,-4.0,50000000011
+11,J.Walsh,Boston Celtics,Cleveland Cavaliers,0,0.56,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,114,-3.2,50000000011
+12,D.Mitchell,Cleveland Cavaliers,Boston Celtics,1,43.24,33,3,6,2,0,7,.708,.705,.545,0.0,17.9,8.4,14.6,2.5,0.0,26.8,143,118,16.6,50000000011
+13,D.Garland,Cleveland Cavaliers,Boston Celtics,1,37.51,15,6,3,0,1,1,.472,.433,.400,0.0,10.3,4.8,26.8,0.0,2.8,23.5,99,124,-2.5,50000000011
+14,M.Strus,Cleveland Cavaliers,Boston Celtics,1,37.27,6,2,5,0,0,2,.375,.375,.750,0.0,17.3,8.1,7.7,0.0,0.0,12.0,77,124,-7.5,50000000011
+15,E.Mobley,Cleveland Cavaliers,Boston Celtics,1,37.06,17,1,8,1,0,0,.690,.636,.091,9.2,17.5,13.1,4.8,1.5,0.0,20.6,118,121,1.3,50000000011
+16,I.Okoro,Cleveland Cavaliers,Boston Celtics,1,17.47,2,1,1,1,0,0,.143,.143,.571,0.0,7.3,3.4,8.1,3.1,0.0,22.4,34,120,-14.2,50000000011
+17,C.LeVert,Cleveland Cavaliers,Boston Celtics,1,29.37,15,1,6,0,0,1,.582,.542,.250,7.7,17.5,12.3,6.2,0.0,0.0,23.3,116,124,1.9,50000000011
+18,D.Wade,Cleveland Cavaliers,Boston Celtics,1,16.48,5,3,3,0,1,1,.417,.417,.667,6.8,15.4,10.8,28.3,0.0,6.2,17.8,112,120,5.5,50000000011
+19,S.Merrill,Cleveland Cavaliers,Boston Celtics,1,10.53,0,0,0,0,0,0,.000,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,4.6,0,128,-11.4,50000000011
+20,M.Morris,Cleveland Cavaliers,Boston Celtics,1,4.36,0,0,1,0,0,0,.000,.000,.000,0.0,28.2,13.2,0.0,0.0,0.0,21.6,0,122,-22.9,50000000011
+21,T.Thompson,Cleveland Cavaliers,Boston Celtics,1,4.31,0,0,2,0,0,0,,,,25.3,28.7,26.9,0.0,0.0,0.0,0.0,233,121,-10.6,50000000011
+22,S.Gilgeous-Alexander,Oklahoma City Thunder,Dallas Mavericks,0,42.00,31,6,10,1,5,2,.566,.478,.130,5.9,18.3,12.8,25.8,1.2,9.9,36.2,106,104,7.8,50000000011
+23,L.Dort,Oklahoma City Thunder,Dallas Mavericks,0,39.34,8,2,2,2,1,2,.444,.444,.778,3.1,2.4,2.7,7.1,2.5,2.1,13.0,82,112,-4.4,50000000011
+24,J.Williams,Oklahoma City Thunder,Dallas Mavericks,0,38.20,16,8,6,0,1,1,.621,.625,.167,0.0,15.0,8.4,34.3,0.0,2.2,19.4,113,113,2.2,50000000011
+25,C.Holmgren,Oklahoma City Thunder,Dallas Mavericks,0,34.57,13,3,8,1,4,0,.580,.556,.222,7.0,16.5,12.3,13.2,1.4,9.5,16.4,121,105,4.7,50000000011
+26,J.Giddey,Oklahoma City Thunder,Dallas Mavericks,0,13.24,9,1,2,0,0,1,.563,.563,.500,0.0,14.3,8.0,15.1,0.0,0.0,28.0,111,115,2.2,50000000011
+27,A.Wiggins,Oklahoma City Thunder,Dallas Mavericks,0,21.57,6,0,4,1,0,0,.429,.429,.429,0.0,17.5,9.8,0.0,2.3,0.0,17.1,72,109,-6.6,50000000011
+28,I.Joe,Oklahoma City Thunder,Dallas Mavericks,0,19.28,13,2,2,1,0,3,.929,.929,.571,0.0,9.9,5.5,19.2,2.6,0.0,19.3,149,111,14.3,50000000011
+29,C.Wallace,Oklahoma City Thunder,Dallas Mavericks,0,14.09,3,0,1,0,0,1,.500,.500,1.000,8.7,0.0,3.8,0.0,0.0,0.0,9.9,113,120,-4.7,50000000011
+30,J.Williams,Oklahoma City Thunder,Dallas Mavericks,0,13.10,2,1,4,1,0,0,.347,.000,1.000,0.0,29.2,16.4,9.6,3.8,0.0,10.3,93,99,-3.3,50000000011
+31,G.Hayward,Oklahoma City Thunder,Dallas Mavericks,0,3.01,0,0,2,0,0,0,.000,.000,.000,0.0,63.6,35.8,0.0,0.0,0.0,15.5,0,95,-15.7,50000000011
+32,K.Irving,Dallas Mavericks,Oklahoma City Thunder,1,40.48,22,7,5,1,1,2,.647,.647,.353,4.7,9.0,6.6,30.2,1.2,2.3,21.5,118,106,7.9,50000000011
+33,P.Washington,Dallas Mavericks,Oklahoma City Thunder,1,40.14,27,2,6,0,0,5,.587,.587,.522,4.8,12.2,8.0,9.2,0.0,0.0,23.9,130,110,7.0,50000000011
+34,L.Doncic,Dallas Mavericks,Oklahoma City Thunder,1,39.34,22,5,15,2,0,1,.514,.441,.235,7.3,37.3,20.4,19.9,2.5,0.0,26.8,104,101,5.7,50000000011
+35,D.Jones,Dallas Mavericks,Oklahoma City Thunder,1,35.53,3,1,4,2,0,0,.144,.100,.300,5.4,6.9,6.0,3.6,2.8,0.0,14.5,44,105,-9.9,50000000011
+36,D.Gafford,Dallas Mavericks,Oklahoma City Thunder,1,19.31,8,3,5,0,1,0,.680,.800,.000,4.9,25.2,13.8,25.3,0.0,4.8,14.7,126,105,9.2,50000000011
+37,D.Lively,Dallas Mavericks,Oklahoma City Thunder,1,27.14,12,1,8,0,0,0,.489,.286,.000,10.6,22.6,15.8,5.0,0.0,0.0,20.4,112,109,-2.1,50000000011
+38,T.Hardaway,Dallas Mavericks,Oklahoma City Thunder,1,15.58,8,1,2,1,0,2,.444,.444,.556,0.0,15.4,6.8,10.0,3.1,0.0,23.5,103,103,5.1,50000000011
+39,J.Green,Dallas Mavericks,Oklahoma City Thunder,1,15.01,3,1,1,1,0,1,.500,.500,1.000,6.4,0.0,3.6,8.9,3.3,0.0,11.1,95,105,-1.7,50000000011
+40,D.Exum,Dallas Mavericks,Oklahoma City Thunder,1,5.47,0,0,2,0,0,0,,,,16.6,21.3,18.7,0.0,0.0,0.0,0.0,220,109,-2.0,50000000011
