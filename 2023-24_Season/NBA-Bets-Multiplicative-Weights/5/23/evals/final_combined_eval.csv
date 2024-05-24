@@ -1,0 +1,34 @@
+Play,Expert,Odds,Units,Name,Teams,Opponent,Hmcrt_adv,Payout,Profit,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Correct
+A.Horford o2.5 3pt M,cowhitchurch,148,0.51,A.Horford,Boston Celtics,Indiana Pacers,1,1.2648,0.7547999999999999,0.2368421052631578,0,0.6,1,0.3,0,N
+A.Horford o2.5 3pt M,JoeDellera,150,1.0,A.Horford,Boston Celtics,Indiana Pacers,1,2.5,1.5,0.2368421052631578,0,0.6,1,0.3,0,N
+J.Holiday o24.5 Pts+Rebs+Ast,the_degenerates,-110,1.1,J.Holiday,Boston Celtics,Indiana Pacers,1,2.1,1.0,0.3375,0,0.6,1,0.3,0,Y
+P.Siakam o31.5 Pts+Rebs+Ast,GDAWG5000,-120,0.6,P.Siakam,Indiana Pacers,Boston Celtics,0,1.1,0.5000000000000001,0.4363636363636363,0,0.6,1,0.4,0,Y
+P.Siakam o31.5 Pts+Rebs+Ast,cowhitchurch,-125,0.63,P.Siakam,Indiana Pacers,Boston Celtics,0,1.134,0.5040000000000001,0.4363636363636363,0,0.6,1,0.4,0,Y
+P.Siakam o31.5 Pts+Rebs+Ast,JoeDellera,-125,1.0,P.Siakam,Indiana Pacers,Boston Celtics,0,1.8,0.8,0.4363636363636363,0,0.6,1,0.4,0,Y
+J.Tatum o29.5 Pts,charliedisturco,-120,0.5,J.Tatum,Boston Celtics,Indiana Pacers,1,0.9166666666666669,0.4166666666666667,0.3529411764705882,0,0.6,1,0.3,0,N
+J.Holiday o13.5 Pts,VegasRefund,-118,1.18,J.Holiday,Boston Celtics,Indiana Pacers,1,2.18,0.9999999999999998,0.3875,0,0.6,1,0.4,0,Y
+J.Brown o25.5 Pts,kylemurray03,-110,1.1,J.Brown,Boston Celtics,Indiana Pacers,1,2.1,1.0,0.3950617283950617,0,0.6,1,0.5,0,Y
+O.Toppin o8.5 Pts,GreenDotDaily,-135,1.0,O.Toppin,Indiana Pacers,Boston Celtics,0,1.7407407407407407,0.7407407407407407,0.5979381443298969,1,0.6,1,0.7,1,Y
+B.Sheppard o3.5 Pts,charliedisturco,-135,0.54,B.Sheppard,Indiana Pacers,Boston Celtics,0,0.94,0.4,0.5555555555555556,1,0.8,1,0.7,1,Y
+M.Turner o16.5 Pts,HPBasketball,-110,0.55,M.Turner,Indiana Pacers,Boston Celtics,0,1.05,0.5,0.5108695652173914,1,0.6,1,0.5,0,N
+O.Toppin o9.5 Pts,HPBasketball,-105,0.55,O.Toppin,Indiana Pacers,Boston Celtics,0,1.0738095238095238,0.5238095238095237,0.5360824742268041,1,0.6,1,0.7,1,Y
+O.Toppin o9.5 Pts,PropBetGuy,105,1.0,O.Toppin,Indiana Pacers,Boston Celtics,0,2.05,1.0499999999999998,0.5360824742268041,1,0.6,1,0.7,1,Y
+A.Nesmith o10.5 Pts,VegasRefund,-128,1.28,A.Nesmith,Indiana Pacers,Boston Celtics,0,2.28,1.0000000000000002,0.5632183908045977,1,0.4,0,0.4,0,N
+B.Sheppard o3.5 Pts,VegasRefund,-125,1.25,B.Sheppard,Indiana Pacers,Boston Celtics,0,2.25,1.0,0.5555555555555556,1,0.8,1,0.7,1,Y
+D.White o4.5 Ast,VegasRefund,-139,1.39,D.White,Boston Celtics,Indiana Pacers,1,2.39,0.9999999999999998,0.5833333333333334,1,0.6,1,0.4,0,Y
+J.Brown u3.5 Ast,GDAWG5000,-135,0.68,J.Brown,Boston Celtics,Indiana Pacers,1,1.1837037037037037,0.5037037037037037,0.5679012345679012,1,0.6,1,0.8,1,Y
+J.Brown u3.5 Ast,JoeDellera,-135,0.5,J.Brown,Boston Celtics,Indiana Pacers,1,0.8703703703703703,0.3703703703703703,0.5679012345679012,1,0.6,1,0.8,1,Y
+J.Brown u3.5 Ast,SBK5065,-135,1.0,J.Brown,Boston Celtics,Indiana Pacers,1,1.7407407407407407,0.7407407407407407,0.5679012345679012,1,0.6,1,0.8,1,Y
+J.Brown u3.5 Ast,ChrisRaybon,-135,1.0,J.Brown,Boston Celtics,Indiana Pacers,1,1.7407407407407407,0.7407407407407407,0.5679012345679012,1,0.6,1,0.8,1,Y
+T.McConnell o4.5 Ast,VegasRefund,-125,1.25,T.McConnell,Indiana Pacers,Boston Celtics,0,2.25,1.0,0.6046511627906976,1,0.6,1,0.5,0,N
+J.Holiday o10.5 Rebs+Ast,cowhitchurch,-109,0.55,J.Holiday,Boston Celtics,Indiana Pacers,1,1.0545871559633029,0.5045871559633028,0.4375,0,0.6,1,0.5,0,Y
+J.Holiday o10.5 Rebs+Ast,GDAWG5000,-102,0.51,J.Holiday,Boston Celtics,Indiana Pacers,1,1.01,0.5,0.4375,0,0.6,1,0.5,0,Y
+J.Holiday o10.5 Rebs+Ast,TheBMatt,-102,1.0,J.Holiday,Boston Celtics,Indiana Pacers,1,1.9803921568627447,0.9803921568627452,0.4375,0,0.6,1,0.5,0,Y
+J.Holiday o10.5 Rebs+Ast,JoeDellera,-102,1.02,J.Holiday,Boston Celtics,Indiana Pacers,1,2.02,1.0,0.4375,0,0.6,1,0.5,0,Y
+J.Tatum o40.5 Pts+Rebs,the_degenerates,-118,1.18,J.Tatum,Boston Celtics,Indiana Pacers,1,2.18,0.9999999999999998,0.2352941176470588,0,0.6,1,0.3,0,N
+J.Tatum o9.5 Rebs,charliedisturco,-150,0.6,J.Tatum,Boston Celtics,Indiana Pacers,1,1.0,0.3999999999999999,0.388235294117647,0,0.8,1,0.8,1,N
+L.Kornet u3.5 Rebs,GDAWG5000,-110,0.55,L.Kornet,Boston Celtics,Indiana Pacers,1,1.05,0.5,0.4722222222222222,0,0.6,1,0.4,0,Y
+L.Kornet u3.5 Rebs,charliedisturco,-110,0.5,L.Kornet,Boston Celtics,Indiana Pacers,1,0.9545454545454546,0.4545454545454546,0.4722222222222222,0,0.6,1,0.4,0,Y
+L.Kornet u3.5 Rebs,SBK5065,-106,0.53,L.Kornet,Boston Celtics,Indiana Pacers,1,1.03,0.5,0.4722222222222222,0,0.6,1,0.4,0,Y
+L.Kornet u3.5 Rebs,JoeDellera,105,1.0,L.Kornet,Boston Celtics,Indiana Pacers,1,2.05,1.0499999999999998,0.4722222222222222,0,0.6,1,0.4,0,Y
+L.Kornet u3.5 Rebs,PropBomb,-110,1.32,L.Kornet,Boston Celtics,Indiana Pacers,1,2.52,1.2,0.4722222222222222,0,0.6,1,0.4,0,Y
