@@ -1,0 +1,19 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm,date
+0,A.Edwards,Minnesota Timberwolves,Dallas Mavericks,0,40.26,29,9,10,0,0,2,.508,.480,.200,3.5,24.3,15.2,41.2,0.0,0.0,41.4,99,113,-3.5,50000000028
+1,R.Gobert,Minnesota Timberwolves,Dallas Mavericks,0,39.15,13,1,10,0,1,0,.725,.800,.000,0.0,27.8,15.7,3.6,0.0,3.0,13.5,118,110,-1.5,50000000028
+2,J.McDaniels,Minnesota Timberwolves,Dallas Mavericks,0,38.51,10,0,1,1,1,2,.625,.625,.500,0.0,2.8,1.6,0.0,1.4,3.0,10.0,120,115,0.2,50000000028
+3,M.Conley,Minnesota Timberwolves,Dallas Mavericks,0,34.12,14,7,3,4,0,1,.651,.611,.444,4.1,6.4,5.4,30.7,6.2,0.0,15.3,154,104,13.0,50000000028
+4,K.Towns,Minnesota Timberwolves,Dallas Mavericks,0,29.35,25,1,5,0,0,4,.873,.846,.385,0.0,18.4,10.4,6.7,0.0,0.0,30.0,123,115,5.0,50000000028
+5,K.Anderson,Minnesota Timberwolves,Dallas Mavericks,0,24.58,2,4,4,3,0,0,.333,.333,.000,17.0,4.4,9.9,20.7,6.3,0.0,5.8,145,104,6.8,50000000028
+6,N.Reid,Minnesota Timberwolves,Dallas Mavericks,0,19.51,6,1,5,0,1,0,.466,.500,.167,7.1,22.0,15.5,7.6,0.0,5.9,18.2,91,110,-3.6,50000000028
+7,N.Alexander-Walker,Minnesota Timberwolves,Dallas Mavericks,0,12.52,6,0,2,1,1,2,.600,.600,1.000,0.0,17.0,9.6,0.0,4.1,9.1,22.6,91,100,7.1,50000000028
+8,K.Irving,Dallas Mavericks,Minnesota Timberwolves,1,41.59,16,4,2,1,0,1,.414,.361,.333,5.2,0.0,2.9,16.9,1.3,0.0,25.8,84,119,-7.9,50000000028
+9,P.Washington,Dallas Mavericks,Minnesota Timberwolves,1,41.42,10,2,5,0,1,2,.360,.308,.692,5.2,10.2,7.4,7.5,0.0,2.3,16.6,86,118,-6.1,50000000028
+10,L.Doncic,Dallas Mavericks,Minnesota Timberwolves,1,40.45,28,10,15,1,0,4,.533,.429,.524,5.4,45.0,22.7,45.7,1.3,0.0,33.4,117,113,9.5,50000000028
+11,D.Jones,Dallas Mavericks,Minnesota Timberwolves,1,34.16,9,4,5,1,0,2,.654,.667,.500,6.4,12.4,9.0,18.8,1.5,0.0,12.0,119,117,2.5,50000000028
+12,D.Gafford,Dallas Mavericks,Minnesota Timberwolves,1,31.21,12,1,8,1,3,0,1.000,1.000,.000,7.0,27.0,15.7,6.2,1.7,9.2,8.9,208,107,9.1,50000000028
+13,J.Green,Dallas Mavericks,Minnesota Timberwolves,1,16.49,5,1,1,1,0,1,.644,.500,1.000,0.0,8.4,3.7,9.2,3.1,0.0,13.5,111,113,-0.5,50000000028
+14,M.Kleber,Dallas Mavericks,Minnesota Timberwolves,1,13.29,2,1,1,0,0,0,.333,.333,.667,0.0,10.5,4.6,11.7,0.0,0.0,10.3,87,119,-9.1,50000000028
+15,J.Hardy,Dallas Mavericks,Minnesota Timberwolves,1,12.05,13,0,1,0,0,3,.813,.813,.500,0.0,11.7,5.1,0.0,0.0,0.0,34.6,122,120,14.3,50000000028
+16,D.Exum,Dallas Mavericks,Minnesota Timberwolves,1,4.26,5,0,0,1,0,1,.833,.833,.667,0.0,0.0,0.0,0.0,11.9,0.0,31.5,148,96,36.1,50000000028
+17,D.Powell,Dallas Mavericks,Minnesota Timberwolves,1,3.08,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,14.8,0,120,-29.3,50000000028
