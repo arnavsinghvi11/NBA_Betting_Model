@@ -1,0 +1,46 @@
+,Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,C.White o8.5 Rebs+Ast,JBBets1,-115,1.0,1.869565217391304,Chicago Bulls,C.White,Oklahoma City Thunder,1,0.8695652173913042,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+1,J.Smith o11.5 Pts+Rebs,CeeJPicks,-120,1.2,2.2,Chicago Bulls,J.Smith,Oklahoma City Thunder,1,1.0000000000000002,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+2,S.Gilgeous-Alexander o28.5 Pts,Markus_Markets,-125,1.0,1.8,Oklahoma City Thunder,S.Gilgeous-Alexander,Chicago Bulls,0,0.8,N,0.0,0,0.0,0,0.0,0
+3,J.Williams o1.5 3pt M,ThePropfessor_,-110,1.1,2.1,Oklahoma City Thunder,J.Williams,Chicago Bulls,0,1.0,N,0.5,0,0.5,0,0.5,0
+4,S.Gilgeous-Alexander o42.5 Pts+Rebs+Ast,TopShelfAction,-110,0.8,1.5272727272727271,Oklahoma City Thunder,S.Gilgeous-Alexander,Chicago Bulls,0,0.7272727272727273,N,0.5,0,0.5,0,0.5,0
+5,J.Williams o19.5 Pts,therocketplays,-125,0.8,1.4400000000000002,Oklahoma City Thunder,J.Williams,Chicago Bulls,0,0.6400000000000001,Y,0.5,0,0.5,0,0.5,0
+6,Z.LaVine u26.5 Pts+Rebs+Ast,TopShelfAction,102,0.8,1.616,Chicago Bulls,Z.LaVine,Oklahoma City Thunder,1,0.8160000000000001,N,0.0,0,0.0,0,0.0,0
+7,J.Williams o19.5 Pts,RoyalsProps,-120,1.0,1.8333333333333333,Oklahoma City Thunder,J.Williams,Chicago Bulls,0,0.8333333333333335,Y,0.5,0,0.5,0,0.5,0
+8,J.Williams o19.5 Pts,JoeDellera,-105,0.95,1.8547619047619048,Oklahoma City Thunder,J.Williams,Chicago Bulls,0,0.9047619047619048,Y,0.5,0,0.5,0,0.5,0
+9,J.Strawther o5.5 Pts,ThePropfessor_,-125,1.0,1.8,Denver Nuggets,J.Strawther,Los Angeles Clippers,1,0.8,Y,1.0,1,1.0,1,1.0,1
+10,J.Murray o19.5 Pts,RoyalsProps,-114,1.0,1.8771929824561404,Denver Nuggets,J.Murray,Los Angeles Clippers,1,0.8771929824561404,Y,0.5,0,0.5,0,0.5,0
+11,R.Westbrook o4.5 Ast,TopShelfAction,130,0.5,1.15,Denver Nuggets,R.Westbrook,Los Angeles Clippers,1,0.6499999999999999,N,0.5,0,0.5,0,0.5,0
+12,J.Harden u2.5 3pt M,TopShelfAction,135,0.68,1.598,Los Angeles Clippers,J.Harden,Denver Nuggets,0,0.918,Y,1.0,1,1.0,1,1.0,1
+13,J.Harden o39.5 Pts+Rebs+Ast,cowhitchurch,130,0.65,1.495,Los Angeles Clippers,J.Harden,Denver Nuggets,0,0.8449999999999999,Y,1.0,1,1.0,1,1.0,1
+14,J.Murray o28.5 Pts+Rebs+Ast,kylemurray03,-110,1.0,1.9090909090909087,Denver Nuggets,J.Murray,Los Angeles Clippers,1,0.9090909090909092,Y,0.5,0,0.5,0,0.5,0
+15,T.Rozier o15.5 Pts,TopShelfAction,104,1.04,2.1216,Miami Heat,T.Rozier,Charlotte Hornets,0,1.0816,Y,1.0,1,1.0,1,1.0,1
+16,B.Adebayo o1.5 3pt M,GDAWG5000,700,0.15,1.2,Miami Heat,B.Adebayo,Charlotte Hornets,0,1.05,N,0.0,0,0.0,0,0.0,0
+17,B.Adebayo o0.5 3pt M,GDAWG5000,145,0.5,1.225,Miami Heat,B.Adebayo,Charlotte Hornets,0,0.7250000000000001,N,0.0,0,0.0,0,0.0,0
+18,B.Adebayo o30.5 Pts+Rebs+Ast,PvB_Bets,-105,1.0,1.9523809523809523,Miami Heat,B.Adebayo,Charlotte Hornets,0,0.9523809523809524,N,0.0,0,0.0,0,0.0,0
+19,B.Adebayo o9.5 Rebs,kylemurray03,-136,1.0,1.7352941176470589,Miami Heat,B.Adebayo,Charlotte Hornets,0,0.7352941176470589,Y,0.5,0,0.5,0,0.5,0
+20,K.Irving o20.5 Pts,PropBetGuy,-125,1.0,1.8,Dallas Mavericks,K.Irving,Phoenix Suns,0,0.8,Y,0.5,0,0.5,0,0.5,0
+21,K.Irving o28.5 Pts+Rebs+Ast,kylemurray03,-120,1.0,1.8333333333333333,Dallas Mavericks,K.Irving,Phoenix Suns,0,0.8333333333333335,Y,0.5,0,0.5,0,0.5,0
+22,D.Sabonis o12.5 Rebs,TopShelfAction,-113,0.5,0.9424778761061948,Sacramento Kings,D.Sabonis,Los Angeles Lakers,0,0.4424778761061947,N,0.0,0,0.0,0,0.0,0
+23,L.James o1.5 3pt M,TopShelfAction,-120,0.42,0.77,Los Angeles Lakers,L.James,Sacramento Kings,1,0.35,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+24,D.Sabonis o37.5 Pts+Rebs+Ast,TopShelfAction,104,0.52,1.0608,Sacramento Kings,D.Sabonis,Los Angeles Lakers,0,0.5408,Y,0.5,0,0.5,0,0.5,0
+25,K.Murray o2.5 3pt M,TopShelfAction,-135,0.7,1.2185185185185183,Sacramento Kings,K.Murray,Los Angeles Lakers,0,0.5185185185185184,N,0.5,0,0.5,0,0.5,0
+26,D.Sabonis o17.5 Pts,TopShelfAction,116,0.7,1.512,Sacramento Kings,D.Sabonis,Los Angeles Lakers,0,0.812,Y,1.0,1,1.0,1,1.0,1
+27,D.DeRozan o22.5 Pts,TopShelfAction,130,1.17,2.691,Sacramento Kings,D.DeRozan,Los Angeles Lakers,0,1.521,Y,1.0,1,1.0,1,1.0,1
+28,D.Russell o13.5 Pts,RoyalsProps,-120,1.0,1.8333333333333333,Los Angeles Lakers,D.Russell,Sacramento Kings,1,0.8333333333333335,Y,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+29,D.Fox o2.5 3pt M,Mjaybrxd,-115,0.87,1.6265217391304347,Sacramento Kings,D.Fox,Los Angeles Lakers,0,0.7565217391304347,Y,0.5,0,0.5,0,0.5,0
+30,R.Hachimura o1.5 3pt M,TopShelfAction,140,1.4,3.36,Los Angeles Lakers,R.Hachimura,Sacramento Kings,1,1.96,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+31,E.Mobley o15.5 Pts,JBBets1,-132,1.0,1.7575757575757576,Cleveland Cavaliers,E.Mobley,Washington Wizards,0,0.7575757575757576,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+32,C.LeVert o6.5 Rebs+Ast,MJCLocks,-120,1.2,2.2,Cleveland Cavaliers,C.LeVert,Washington Wizards,0,1.0000000000000002,N,0.0,0,0.0,0,0.0,0
+33,J.Poole o29.5 Pts,gamblersdream,750,0.7,5.949999999999999,Washington Wizards,J.Poole,Cleveland Cavaliers,1,5.249999999999999,N,0.0,0,0.0,0,0.0,0
+34,E.Mobley o1.5 3pt M,GDAWG5000,750,0.15,1.275,Cleveland Cavaliers,E.Mobley,Washington Wizards,0,1.125,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+35,E.Mobley o0.5 3pt M,GDAWG5000,140,0.5,1.2,Cleveland Cavaliers,E.Mobley,Washington Wizards,0,0.7,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+36,J.Poole u0.5 Blk,PvB_Bets,-145,0.69,1.1658620689655173,Washington Wizards,J.Poole,Cleveland Cavaliers,1,0.4758620689655173,Y,0.5,0,0.5,0,0.5,0
+37,J.Tatum o5.5 Ast,TopShelfAction,-125,0.8,1.4400000000000002,Boston Celtics,J.Tatum,Detroit Pistons,0,0.6400000000000001,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+38,J.Brown o2.5 3pt M,TopShelfAction,130,0.52,1.196,Boston Celtics,J.Brown,Detroit Pistons,0,0.6759999999999999,Y,1.0,1,1.0,1,1.0,1
+39,C.Cunningham u7.5 Ast,PropBomb,-120,1.2,2.2,Detroit Pistons,C.Cunningham,Boston Celtics,1,1.0000000000000002,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+40,T.Harris u22.5 Pts+Rebs+Ast,PropBetGuy,-115,1.0,1.869565217391304,Detroit Pistons,T.Harris,Boston Celtics,1,0.8695652173913042,Y,1.0,1,1.0,1,1.0,1
+41,D.DiVincenzo o2.5 3pt M,MJCLocks,130,1.3,2.99,Minnesota Timberwolves,D.DiVincenzo,Toronto Raptors,1,1.6899999999999995,Y,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+42,D.DiVincenzo o17.5 Pts+Rebs+Ast,Mjaybrxd,-110,0.91,1.7372727272727273,Minnesota Timberwolves,D.DiVincenzo,Toronto Raptors,1,0.8272727272727273,Y,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+43,G.Dick u2.5 3pt M,TopShelfAction,-135,1.1,1.914814814814815,Toronto Raptors,G.Dick,Minnesota Timberwolves,0,0.8148148148148149,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+44,Z.Edey u1.5 Blk,PvB_Bets,-115,0.87,1.6265217391304347,Memphis Grizzlies,Z.Edey,Orlando Magic,1,0.7565217391304347,Y,1.0,1,1.0,1,1.0,1
