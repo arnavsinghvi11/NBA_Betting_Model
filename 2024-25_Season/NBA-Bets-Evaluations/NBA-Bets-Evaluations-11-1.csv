@@ -1,0 +1,82 @@
+,Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value
+0,N.Jokic o26.5 Pts,the_degenerates,Denver Nuggets,Minnesota Timberwolves,0.0,0.75,1,0.75,1,0.75,1,-125,1.25,2.25,1.0,N.Jokic,N,26.0
+1,N.Jokic o26.5 Pts,CeeJPicks,Denver Nuggets,Minnesota Timberwolves,0.0,0.75,1,0.75,1,0.75,1,-136,1.36,2.3600000000000003,1.0000000000000002,N.Jokic,N,26.0
+2,J.Randle u5.5 Ast,kylemurray03,Minnesota Timberwolves,Denver Nuggets,1.0,0.75,1,0.75,1,0.75,1,-135,1.35,2.35,1.0,J.Randle,N,7.0
+3,R.Gobert o11.5 Rebs,TopShelfAction,Minnesota Timberwolves,Denver Nuggets,1.0,0.5,0,0.5,0,0.5,0,110,1.0,2.1,1.1,R.Gobert,Y,14.0
+4,N.Jokic o11.5 Rebs,TopShelfAction,Denver Nuggets,Minnesota Timberwolves,0.0,0.5,0,0.5,0,0.5,0,105,1.0,2.05,1.0499999999999998,N.Jokic,N,9.0
+5,J.Randle o6.5 Rebs,MillyProps,Minnesota Timberwolves,Denver Nuggets,1.0,0.75,1,0.75,1,0.75,1,-125,1.0,1.8,0.8,J.Randle,N,6.0
+6,N.Jokic o19.5 Rebs+Ast,PlayerPropSavant,Denver Nuggets,Minnesota Timberwolves,0.0,0.5,0,0.5,0,0.5,0,100,1.0,2.0,1.0,N.Jokic,Y,22.0
+7,J.McDaniels u1.5 3pt M,PvB_Bets,Minnesota Timberwolves,Denver Nuggets,1.0,1.0,1,1.0,1,1.0,1,-165,1.0,1.606060606060606,0.606060606060606,J.McDaniels,N,2.0
+8,N.Jokic u27.5 Pts,sandyplashkes,Denver Nuggets,Minnesota Timberwolves,0.0,0.25,0,0.25,0,0.25,0,-116,1.16,2.16,0.9999999999999998,N.Jokic,Y,26.0
+9,M.Porter o20.5 Pts+Rebs+Ast,Markus_Markets,Denver Nuggets,Minnesota Timberwolves,0.0,1.0,1,1.0,1,1.0,1,-130,1.0,1.7692307692307692,0.7692307692307692,M.Porter,Y,26.0
+10,Y.Missi o1.5 Blk,JayMoneyIsMoney23,New Orleans Pelicans,Indiana Pacers,1.0,0.8,1,0.8,1,0.8,1,175,0.5,1.375,0.875,Y.Missi,N,1.0
+11,B.Mathurin o14.5 Pts,PropBetGuy,Indiana Pacers,New Orleans Pelicans,0.0,0.6,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002,B.Mathurin,Y,19.0
+12,J.Alvarado u5.5 Ast,kylemurray03,New Orleans Pelicans,Indiana Pacers,1.0,1.0,1,1.0,1,1.0,1,104,1.0,2.04,1.04,J.Alvarado,N,7.0
+13,B.Ingram o1.5 3pt M,TopShelfAction,New Orleans Pelicans,Indiana Pacers,1.0,0.8,1,0.8,1,0.8,1,-135,1.2,2.088888888888889,0.8888888888888886,B.Ingram,Y,3.0
+14,M.Turner o6.5 Rebs,TopShelfAction,Indiana Pacers,New Orleans Pelicans,0.0,0.5,0,0.5,0,0.5,0,-110,1.0,1.9090909090909087,0.9090909090909092,M.Turner,N,4.0
+15,B.Ingram o23.5 Pts,gneiffer07,New Orleans Pelicans,Indiana Pacers,1.0,0.4,0,0.4,0,0.4,0,-120,1.2,2.2,1.0000000000000002,B.Ingram,Y,26.0
+16,J.Alvarado o3.5 Ast,PvB_Bets,New Orleans Pelicans,Indiana Pacers,1.0,0.8,1,0.8,1,0.8,1,-122,1.0,1.819672131147541,0.819672131147541,J.Alvarado,Y,7.0
+17,B.Ingram o23.5 Pts,Markus_Markets,New Orleans Pelicans,Indiana Pacers,1.0,0.4,0,0.4,0,0.4,0,-106,1.0,1.9433962264150944,0.9433962264150944,B.Ingram,Y,26.0
+18,S.Gilgeous-Alexander o27.5 Pts,Mjaybrxd,Oklahoma City Thunder,Portland Trail Blazers,0.0,0.5,0,0.5,0,0.5,0,-120,1.0,1.8333333333333333,0.8333333333333335,S.Gilgeous-Alexander,Y,30.0
+19,D.Ayton o11.5 Rebs,gamblersdream,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.6,1,0.6,1,0.6,1,105,2.5,5.125,2.625,D.Ayton,N,5.0
+20,J.Williams o18.5 Pts,itsbucketsnba,Oklahoma City Thunder,Portland Trail Blazers,0.0,0.5,0,0.5,0,0.5,0,-120,1.0,1.8333333333333333,0.8333333333333335,J.Williams,Y,22.0
+21,J.Williams o1.5 Stl,MJCLocks,Oklahoma City Thunder,Portland Trail Blazers,0.0,0.5,0,0.5,0,0.5,0,102,1.0,2.02,1.02,J.Williams,Y,4.0
+22,J.Williams o2.5 Stl,MJCLocks,Oklahoma City Thunder,Portland Trail Blazers,0.0,0.25,0,0.25,0,0.25,0,330,0.25,1.075,0.825,J.Williams,Y,4.0
+23,D.Fox o24.5 Pts,the_degenerates,Sacramento Kings,Atlanta Hawks,0.0,0.25,0,0.25,0,0.25,0,-115,1.15,2.1499999999999995,0.9999999999999996,D.Fox,Y,31.0
+24,J.Johnson o29.5 Pts+Rebs,PlayerPropSavant,Atlanta Hawks,Sacramento Kings,1.0,0.4,0,0.4,0,0.4,0,-117,1.17,2.17,1.0,J.Johnson,N,19.0
+25,K.Murray o13.5 Pts,JBBets1,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.0,0,0.0,0,0.0,0,-138,1.0,1.7246376811594204,0.7246376811594204,K.Murray,N,9.0
+26,D.Fox o2.5 3pt M,TopShelfAction,Sacramento Kings,Atlanta Hawks,0.0,0.25,0,0.25,0,0.25,0,120,0.5,1.1,0.6000000000000001,D.Fox,Y,4.0
+27,D.DeRozan o25.5 Pts+Ast,CeeJPicks,Sacramento Kings,Atlanta Hawks,0.0,1.0,1,1.0,1,1.0,1,-105,1.05,2.05,0.9999999999999998,D.DeRozan,Y,29.0
+28,C.Capela u19.5 Pts+Rebs+Ast,gneiffer07,Atlanta Hawks,Sacramento Kings,1.0,0.8,1,0.8,1,0.8,1,-105,1.05,2.05,0.9999999999999998,C.Capela,Y,29.0
+29,K.Murray o19.5 Pts+Rebs,Mjaybrxd,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.0,0,0.0,0,0.0,0,-120,1.0,1.8333333333333333,0.8333333333333335,K.Murray,N,12.0
+30,D.Fox o33.5 Pts+Rebs+Ast,RoyalsProps,Sacramento Kings,Atlanta Hawks,0.0,0.25,0,0.25,0,0.25,0,-125,0.63,1.134,0.5040000000000001,D.Fox,N,12.0
+31,Z.Risacher u2.5 Ast,JoeDellera,Atlanta Hawks,Sacramento Kings,1.0,1.0,1,1.0,1,1.0,1,-170,1.0,1.5882352941176472,0.5882352941176472,Z.Risacher,Y,0.0
+32,M.Beasley o8.5 Pts,kylemurray03,Detroit Pistons,New York Knicks,1.0,0.8,1,0.8,1,0.8,1,100,1.0,2.0,1.0,M.Beasley,N,8.0
+33,T.Hardaway u2.5 Rebs,JoeDellera,Detroit Pistons,New York Knicks,1.0,0.8,1,0.8,1,0.8,1,112,1.0,2.12,1.12,T.Hardaway,Y,1.0
+34,K.Towns o20.5 Pts,JoeDellera,New York Knicks,Detroit Pistons,0.0,0.5,0,0.5,0,0.5,0,-119,1.0,1.8403361344537816,0.8403361344537816,K.Towns,Y,21.0
+35,K.Towns o20.5 Pts,kylemurray03,New York Knicks,Detroit Pistons,0.0,0.5,0,0.5,0,0.5,0,-113,1.13,2.13,1.0,K.Towns,Y,21.0
+36,J.Duren u22.5 Pts+Rebs,kylemurray03,Detroit Pistons,New York Knicks,1.0,0.6,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002,J.Duren,Y,12.0
+37,J.Ivey o1.5 3pt M,PropBetGuy,Detroit Pistons,New York Knicks,1.0,0.8,1,0.8,1,0.8,1,-125,1.25,2.25,1.0,J.Ivey,Y,2.0
+38,N.Vucevic u19.5 Pts,itsbucketsnba,Chicago Bulls,Brooklyn Nets,0.0,0.4,0,0.4,0,0.4,0,-112,1.0,1.8928571428571428,0.8928571428571428,N.Vucevic,N,28.0
+39,C.Thomas o25.5 Pts,Markus_Markets,Brooklyn Nets,Chicago Bulls,1.0,0.6,1,0.6,1,0.6,1,-117,1.0,1.8547008547008548,0.8547008547008548,C.Thomas,Y,32.0
+40,C.White o2.5 3pt M,TopShelfAction,Chicago Bulls,Brooklyn Nets,0.0,0.6,1,0.6,1,0.6,1,-135,1.1,1.914814814814815,0.8148148148148149,C.White,Y,5.0
+41,D.Schroder u19.5 Pts,gneiffer07,Brooklyn Nets,Chicago Bulls,1.0,0.2,0,0.2,0,0.2,0,-115,1.15,2.1499999999999995,0.9999999999999996,D.Schroder,Y,9.0
+42,C.White o8.5 Rebs+Ast,Mjaybrxd,Chicago Bulls,Brooklyn Nets,0.0,0.4,0,0.4,0,0.4,0,-110,1.0,1.9090909090909087,0.9090909090909092,C.White,N,8.0
+43,C.Johnson o14.5 Pts,RoyalsProps,Brooklyn Nets,Chicago Bulls,1.0,0.2,0,0.2,0,0.2,0,-120,1.2,2.2,1.0000000000000002,C.Johnson,N,14.0
+44,Z.LaVine o20.5 Pts,JoeDellera,Chicago Bulls,Brooklyn Nets,0.0,0.8,1,0.8,1,0.8,1,-113,1.0,1.8849557522123888,0.8849557522123894,Z.LaVine,Y,21.0
+45,C.Thomas o25.5 Pts,PropBetGuy,Brooklyn Nets,Chicago Bulls,1.0,0.6,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996,C.Thomas,Y,32.0
+46,D.Schroder o6.5 Ast,kylemurray03,Brooklyn Nets,Chicago Bulls,1.0,0.6,1,0.6,1,0.6,1,-125,1.25,2.25,1.0,D.Schroder,Y,7.0
+47,A.Black o8.5 Pts,charliedisturco,Orlando Magic,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,100,0.75,1.5,0.75,A.Black,N,7.0
+48,A.Black o14.5 Pts,charliedisturco,Orlando Magic,Cleveland Cavaliers,0.0,0.0,0,0.0,0,0.0,0,650,0.25,1.875,1.625,A.Black,N,7.0
+49,A.Black o11.5 Pts+Ast,ThePropfessor_,Orlando Magic,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002,A.Black,Y,13.0
+50,E.Mobley o25.5 Pts+Rebs+Ast,JBBets1,Cleveland Cavaliers,Orlando Magic,1.0,0.8,1,0.8,1,0.8,1,-130,1.0,1.7692307692307692,0.7692307692307692,E.Mobley,Y,13.0
+51,A.Black o7.5 Pts,therocketplays,Orlando Magic,Cleveland Cavaliers,0.0,0.8,1,0.8,1,0.8,1,-102,1.02,2.02,1.0,A.Black,N,7.0
+52,J.Suggs o15.5 Pts,kylemurray03,Orlando Magic,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-110,1.1,2.1,1.0,J.Suggs,Y,28.0
+53,J.Suggs o14.5 Pts,JoeDellera,Orlando Magic,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-125,1.0,1.8,0.8,J.Suggs,Y,28.0
+54,E.Mobley o25.5 Pts+Rebs+Ast,kylemurray03,Cleveland Cavaliers,Orlando Magic,1.0,0.8,1,0.8,1,0.8,1,-115,1.15,2.1499999999999995,0.9999999999999996,E.Mobley,Y,28.0
+55,A.Davis o27.5 Pts,the_degenerates,Los Angeles Lakers,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,-124,1.24,2.24,0.9999999999999998,A.Davis,Y,38.0
+56,L.James o23.5 Pts,TopShelfAction,Los Angeles Lakers,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,100,0.8,1.6,0.8,L.James,Y,27.0
+57,D.Russell o19.5 Pts+Ast,Mjaybrxd,Los Angeles Lakers,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-120,1.0,1.8333333333333333,0.8333333333333335,D.Russell,Y,25.0
+58,D.Russell o19.5 Pts+Ast,RoyalsProps,Los Angeles Lakers,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-111,1.11,2.1100000000000003,1.0000000000000002,D.Russell,Y,25.0
+59,A.Reaves o4.5 Ast,PvB_Bets,Los Angeles Lakers,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,100,1.0,2.0,1.0,A.Reaves,Y,6.0
+60,R.Barrett o24.5 Pts,sandyplashkes,Toronto Raptors,Los Angeles Lakers,1.0,0.5,0,0.5,0,0.5,0,-116,1.16,2.16,0.9999999999999998,R.Barrett,Y,33.0
+61,A.Davis o27.5 Pts,kylemurray03,Los Angeles Lakers,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,-114,1.14,2.14,0.9999999999999998,A.Davis,Y,38.0
+62,J.Poeltl o9.5 Rebs,kylemurray03,Toronto Raptors,Los Angeles Lakers,1.0,0.6,1,0.6,1,0.6,1,-127,1.27,2.27,1.0,J.Poeltl,Y,12.0
+63,L.Kornet o12.5 Pts+Rebs,PropBetGuy,Boston Celtics,Charlotte Hornets,0.0,0.2,0,0.2,0,0.2,0,-111,1.11,2.1100000000000003,1.0000000000000002,L.Kornet,N,9.0
+64,J.Tatum o3.5 3pt M,TopShelfAction,Boston Celtics,Charlotte Hornets,0.0,0.6,1,0.6,1,0.6,1,125,0.9,2.025,1.125,J.Tatum,N,3.0
+65,J.Brown u2.5 3pt M,TopShelfAction,Boston Celtics,Charlotte Hornets,0.0,0.4,0,0.4,0,0.4,0,-115,0.6,1.1217391304347826,0.5217391304347826,J.Brown,Y,0.0
+66,L.Ball u3.5 3pt M,TopShelfAction,Charlotte Hornets,Boston Celtics,1.0,0.25,0,0.25,0,0.25,0,130,0.4,0.92,0.5199999999999999,L.Ball,N,5.0
+67,J.Tatum u15.5 Rebs+Ast,kylemurray03,Boston Celtics,Charlotte Hornets,0.0,0.8,1,0.8,1,0.8,1,-125,1.25,2.25,1.0,J.Tatum,Y,14.0
+68,J.Randle o32.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,Denver Nuggets,1.0,0.75,1,0.75,1,0.75,1,100,1.5,3.0,1.5,J.Randle,Y,14.0
+69,S.Gilgeous-Alexander o39.5 Pts+Rebs+Ast,Rotowire Sleeper,Oklahoma City Thunder,Portland Trail Blazers,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5,S.Gilgeous-Alexander,Y,14.0
+70,D.Ayton o26.5 Pts+Rebs+Ast,Rotowire Prizepicks,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.8,1,0.8,1,0.8,1,100,1.5,3.0,1.5,D.Ayton,Y,14.0
+71,D.Ayton o11.5 Rebs,Rotowire Prizepicks,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.6,1,0.6,1,0.6,1,100,1.5,3.0,1.5,D.Ayton,N,5.0
+72,D.Ayton o10.5 Rebs,Rotowire Sleeper,Portland Trail Blazers,Oklahoma City Thunder,1.0,1.0,1,1.0,1,1.0,1,100,1.5,3.0,1.5,D.Ayton,N,5.0
+73,D.Ayton u26.5 Pts+Rebs,boomerslocks,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.4,0,0.4,0,0.4,0,-130,1.5,2.6538461538461537,1.1538461538461535,D.Ayton,Y,19.0
+74,A.Simons u19.5 Pts,GDAWG5000,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.4,0,0.4,0,0.4,0,-110,0.55,1.05,0.5,A.Simons,Y,9.0
+75,A.Simons u19.5 Pts,PropBomb,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.4,0,0.4,0,0.4,0,-110,1.1,2.1,1.0,A.Simons,Y,9.0
+76,A.Simons u19.5 Pts,ThePropfessor_,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.4,0,0.4,0,0.4,0,-118,1.18,2.18,0.9999999999999998,A.Simons,Y,9.0
+77,S.Gilgeous-Alexander o33.5 Pts+Rebs,Rotowire Sleeper,Oklahoma City Thunder,Portland Trail Blazers,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5,S.Gilgeous-Alexander,Y,37.0
+78,D.Ayton o26.5 Pts+Rebs,Rotowire Prizepicks,Portland Trail Blazers,Oklahoma City Thunder,1.0,0.6,1,0.6,1,0.6,1,100,1.5,3.0,1.5,D.Ayton,N,19.0
+79,C.Holmgren o2.5 Blk,kylemurray03,Oklahoma City Thunder,Portland Trail Blazers,0.0,0.5,0,0.5,0,0.5,0,-106,1.06,2.06,1.0,C.Holmgren,Y,5.0
+80,C.Martin o19.5 Pts+Rebs+Ast,Rotowire Sleeper,Charlotte Hornets,Boston Celtics,1.0,0.25,0,0.25,0,0.25,0,100,1.5,3.0,1.5,C.Martin,Y,5.0
