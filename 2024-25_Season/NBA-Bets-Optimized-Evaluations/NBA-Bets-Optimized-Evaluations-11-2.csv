@@ -1,0 +1,79 @@
+,Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct
+0,D.Lillard o22.5 Pts,RoyalsProps,Milwaukee Bucks,Cleveland Cavaliers,1.0,0.6,1,0.6,1,0.6,1,-115.0,1.73,3.2343478260869563,1.5043478260869565,D.Lillard,Y
+1,D.Lillard o29.5 Pts,JoeDellera,Milwaukee Bucks,Cleveland Cavaliers,1.0,0.4,0,0.4,0,0.4,0,370.0,0.1,0.47,0.37,D.Lillard,Y
+2,J.Allen o13.5 Pts,Markus_Markets,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,-125.0,1.0,1.8,0.8,J.Allen,Y
+3,E.Mobley o25.5 Pts+Rebs+Ast,kylemurray03,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,-113.0,1.13,2.13,1.0,E.Mobley,Y
+4,D.Sabonis o38.5 Pts+Rebs+Ast,GDAWG5000,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-115.0,0.58,1.0843478260869563,0.5043478260869564,D.Sabonis,Y
+5,D.Sabonis o38.5 Pts+Rebs+Ast,JoeDellera,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-115.0,1.0,1.869565217391304,0.8695652173913042,D.Sabonis,Y
+6,D.Sabonis o38.5 Pts+Rebs+Ast,kylemurray03,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-115.0,1.15,2.1499999999999995,0.9999999999999996,D.Sabonis,Y
+7,T.Maxey o3.5 3pt M,Mjaybrxd,Philadelphia 76ers,Memphis Grizzlies,1.0,0.25,0,0.25,0,0.25,0,-115.0,1.0,1.869565217391304,0.8695652173913042,T.Maxey,Y
+8,T.Maxey u6.5 Ast,JoeDellera,Philadelphia 76ers,Memphis Grizzlies,1.0,0.75,1,0.75,1,0.75,1,-130.0,1.0,1.7692307692307692,0.7692307692307692,T.Maxey,Y
+9,S.Aldama o18.5 Pts+Rebs,PropBetGuy,Memphis Grizzlies,Philadelphia 76ers,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-120.0,1.2,2.2,1.0000000000000002,S.Aldama,Y
+10,J.Sochan o25.5 Pts+Rebs+Ast,Mjaybrxd,San Antonio Spurs,Minnesota Timberwolves,1.0,0.8,1,0.8,1,0.8,1,-110.0,1.0,1.9090909090909087,0.9090909090909092,J.Sochan,N
+11,J.Sochan u26.5 Pts+Rebs+Ast,PropBetGuy,San Antonio Spurs,Minnesota Timberwolves,1.0,0.4,0,0.4,0,0.4,0,-122.0,1.22,2.22,1.0000000000000002,J.Sochan,N
+12,J.Randle o27.5 Pts+Rebs,Rotowire Sleeper,Minnesota Timberwolves,San Antonio Spurs,0.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,J.Randle,N
+13,T.Mann o10.5 Pts+Rebs,Rotowire Sleeper,Charlotte Hornets,Boston Celtics,1.0,1.0,1,1.0,1,1.0,1,100.0,1.5,3.0,1.5,T.Mann,Y
+14,K.Huerter o10.5 Pts+Ast,Rotowire Prizepicks,Sacramento Kings,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,K.Huerter,X
+15,R.Gobert o22.5 Pts+Rebs,Rotowire Prizepicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,R.Gobert,N
+16,N.Reid o15.5 Pts+Rebs,Rotowire Prizepicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,N.Reid,N
+17,J.Randle o33.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,J.Randle,N
+18,G.Antetokounmpo o29.5 Pts,the_degenerates,Milwaukee Bucks,Cleveland Cavaliers,1.0,0.6,1,0.6,1,0.6,1,-109.0,1.09,2.0900000000000003,1.0000000000000002,G.Antetokounmpo,Y
+19,D.White o19.5 Pts+Ast,Rotowire Sleeper,Boston Celtics,Charlotte Hornets,0.0,1.0,1,1.0,1,1.0,1,100.0,1.5,3.0,1.5,D.White,Y
+20,D.Sabonis o38.5 Pts+Rebs+Ast,the_degenerates,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002,D.Sabonis,Y
+21,L.Ball o26.5 Pts,TopShelfAction,Charlotte Hornets,Boston Celtics,1.0,0.8,1,0.8,1,0.8,1,115.0,1.0,2.15,1.15,L.Ball,Y
+22,N.Reid o15.5 Pts+Rebs,Rotowire Sleeper,Minnesota Timberwolves,San Antonio Spurs,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,N.Reid,N
+23,D.Mitchell o25.5 Pts,gneiffer07,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.1666666666666666,0,0.2,0,0.1666666666666666,0,-110.0,1.1,2.1,1.0,D.Mitchell,Y
+24,A.Wiggins o20.5 Pts+Rebs,Rotowire Prizepicks,Oklahoma City Thunder,Los Angeles Clippers,0.0,0.4,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,A.Wiggins,N
+25,M.Monk o20.5 Pts+Rebs+Ast,RoyalsProps,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-110.0,1.1,2.1,1.0,M.Monk,N
+26,A.Sengun o32.5 Pts+Rebs+Ast,gneiffer07,Houston Rockets,Golden State Warriors,1.0,0.6,1,0.6,1,0.6,1,-115.0,1.15,2.1499999999999995,0.9999999999999996,A.Sengun,N
+27,E.Mobley o25.5 Pts+Rebs+Ast,Rotowire Prizepicks,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,100.0,1.5,3.0,1.5,E.Mobley,N
+28,A.Gordon o9.5 Rebs,JoeDellera,Denver Nuggets,Utah Jazz,1.0,0.4,0,0.4,0,0.4,0,800.0,0.1,0.9,0.8,A.Gordon,N
+29,D.White o16.5 Pts,PropBetGuy,Boston Celtics,Charlotte Hornets,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,-120.0,1.2,2.2,1.0000000000000002,D.White,Y
+30,A.Horford o14.5 Pts+Rebs+Ast,Rotowire Sleeper,Boston Celtics,Charlotte Hornets,0.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,A.Horford,Y
+31,J.Holiday o15.5 Pts+Rebs,Rotowire Sleeper,Boston Celtics,Charlotte Hornets,0.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5,J.Holiday,Y
+32,D.White o15.5 Pts,Rotowire Sleeper,Boston Celtics,Charlotte Hornets,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,100.0,1.5,3.0,1.5,D.White,Y
+33,K.Murray o13.5 Pts,Rotowire Sleeper,Sacramento Kings,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,K.Murray,Y
+34,K.Oubre o17.5 Pts,RoyalsProps,Philadelphia 76ers,Memphis Grizzlies,1.0,0.5,0,0.5,0,0.5,0,-127.0,1.27,2.27,1.0,K.Oubre,N
+35,M.Monk o20.5 Pts+Rebs+Ast,Mjaybrxd,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,-110.0,1.0,1.9090909090909087,0.9090909090909092,M.Monk,N
+36,N.Reid o16.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,N.Reid,N
+37,D.White o16.5 Pts,JoeDellera,Boston Celtics,Charlotte Hornets,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,-120.0,1.0,1.8333333333333333,0.8333333333333335,D.White,Y
+38,K.Murray o20.5 Pts+Rebs,Rotowire Sleeper,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,K.Murray,Y
+39,A.Sarr o15.5 Pts+Rebs,Rotowire Prizepicks,Washington Wizards,Miami Heat,1.0,0.75,1,0.75,1,0.75,1,100.0,1.5,3.0,1.5,A.Sarr,Y
+40,E.Mobley o23.5 Pts+Rebs,Rotowire Prizepicks,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,100.0,1.5,3.0,1.5,E.Mobley,N
+41,E.Mobley o14.5 Pts,Rotowire Prizepicks,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,E.Mobley,N
+42,E.Mobley o17.5 Pts+Ast,Rotowire Prizepicks,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,E.Mobley,Y
+43,E.Mobley o22.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,100.0,1.5,3.0,1.5,E.Mobley,N
+44,E.Mobley o25.5 Pts+Rebs+Ast,Rotowire Sleeper,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,100.0,1.5,3.0,1.5,E.Mobley,N
+45,R.Gobert o22.5 Pts+Rebs+Ast,CeeJPicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.6,1,0.6,1,0.6,1,-125.0,1.25,2.25,1.0,R.Gobert,N
+46,C.Martin o19.5 Pts+Rebs+Ast,gneiffer07,Charlotte Hornets,Boston Celtics,1.0,0.2,0,0.2,0,0.2,0,-115.0,1.15,2.1499999999999995,0.9999999999999996,C.Martin,N
+47,D.Sabonis o24.5 Pts+Ast,Rotowire Sleeper,Sacramento Kings,Toronto Raptors,0.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,D.Sabonis,Y
+48,A.Simons o23.5 Pts+Rebs,Rotowire Prizepicks,Portland Trail Blazers,Phoenix Suns,0.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5,A.Simons,Y
+49,D.Sabonis o32.5 Pts+Rebs,Rotowire Sleeper,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,D.Sabonis,Y
+50,S.Aldama o17.5 Pts,therocketplays,Memphis Grizzlies,Philadelphia 76ers,0.0,0.5,0,0.4,0,0.5,0,450.0,0.5,2.75,2.25,S.Aldama,N
+51,S.Aldama o18.5 Pts+Rebs,therocketplays,Memphis Grizzlies,Philadelphia 76ers,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-122.0,1.22,2.22,1.0000000000000002,S.Aldama,Y
+52,J.Tatum o3.5 3pt M,TopShelfAction,Boston Celtics,Charlotte Hornets,0.0,0.5,0,0.4,0,0.5,0,-125.0,1.7,3.06,1.36,J.Tatum,N
+53,B.Coulibaly o13.5 Pts,Markus_Markets,Washington Wizards,Miami Heat,1.0,0.75,1,0.75,1,0.75,1,100.0,1.0,2.0,1.0,B.Coulibaly,Y
+54,A.Simons o19.5 Pts,Markus_Markets,Portland Trail Blazers,Phoenix Suns,0.0,0.5,0,0.6,1,0.5,0,-125.0,1.0,1.8,0.8,A.Simons,Y
+55,D.Sabonis o19.5 Rebs+Ast,Rotowire Sleeper,Sacramento Kings,Toronto Raptors,0.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,D.Sabonis,Y
+56,J.Jackson o17.5 Pts,Rotowire Prizepicks,Memphis Grizzlies,Philadelphia 76ers,0.0,0.5,0,0.5,0,0.5,0,100.0,1.5,3.0,1.5,J.Jackson,Y
+57,M.Monk o3.5 Ast,PvB_Bets,Sacramento Kings,Toronto Raptors,0.0,0.6,1,0.6,1,0.6,1,-120.0,1.0,1.8333333333333333,0.8333333333333335,M.Monk,Y
+58,N.Jokic o8.5 Ast,kylemurray03,Denver Nuggets,Utah Jazz,1.0,0.6,1,0.6,1,0.6,1,-130.0,1.3,2.3,0.9999999999999998,N.Jokic,Y
+59,R.Gobert o10.5 Rebs,kylemurray03,Minnesota Timberwolves,San Antonio Spurs,0.0,0.8,1,0.8,1,0.8,1,-135.0,1.35,2.35,1.0,R.Gobert,N
+60,K.Murray o15.5 Pts+Ast,Rotowire Sleeper,Sacramento Kings,Toronto Raptors,0.0,0.4,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,K.Murray,Y
+61,S.Aldama o20.5 Pts+Rebs+Ast,Rotowire Prizepicks,Memphis Grizzlies,Philadelphia 76ers,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,S.Aldama,Y
+62,D.Mitchell o16.5 Pts+Ast,GDAWG5000,Cleveland Cavaliers,Milwaukee Bucks,0.0,1.0,1,1.0,1,1.0,1,-102.0,0.51,1.01,0.5,D.Mitchell,Y
+63,D.Mitchell o16.5 Pts+Ast,PropBomb,Cleveland Cavaliers,Milwaukee Bucks,0.0,1.0,1,1.0,1,1.0,1,-102.0,1.02,2.02,1.0,D.Mitchell,Y
+64,J.Allen o26.5 Pts+Rebs+Ast,Rotowire Sleeper,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.6666666666666666,1,0.8,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,J.Allen,Y
+65,E.Mobley o23.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.8333333333333334,1,0.8,1,0.8333333333333334,1,100.0,1.5,3.0,1.5,E.Mobley,N
+66,D.Brooks o16.5 Pts+Rebs+Ast,Rotowire Prizepicks,Houston Rockets,Golden State Warriors,1.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,D.Brooks,N
+67,D.Mitchell o35.5 Pts+Rebs+Ast,PlayerPropSavant,Cleveland Cavaliers,Milwaukee Bucks,0.0,0.1666666666666666,0,0.2,0,0.1666666666666666,0,-117.0,1.17,2.17,1.0,D.Mitchell,N
+68,J.Randle o19.5 Pts,Rotowire Prizepicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,J.Randle,Y
+69,T.Camara o11.5 Pts+Rebs,Rotowire Prizepicks,Portland Trail Blazers,Phoenix Suns,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,T.Camara,Y
+70,C.Carrington o8.5 Pts,Rotowire Sleeper,Washington Wizards,Miami Heat,1.0,0.75,1,0.75,1,0.75,1,100.0,1.5,3.0,1.5,C.Carrington,N
+71,T.Camara o11.5 Pts+Rebs,Rotowire Sleeper,Portland Trail Blazers,Phoenix Suns,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,T.Camara,Y
+72,A.Sarr o16.5 Pts+Rebs+Ast,Rotowire Prizepicks,Washington Wizards,Miami Heat,1.0,0.75,1,0.75,1,0.75,1,100.0,1.5,3.0,1.5,A.Sarr,Y
+73,I.Zubac o27.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,Oklahoma City Thunder,1.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,I.Zubac,N
+74,A.Simons o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Portland Trail Blazers,Phoenix Suns,0.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5,A.Simons,N
+75,S.Henderson o0.5 3pt made,Rotowire Sleeper,Portland Trail Blazers,Phoenix Suns,0.0,0.8333333333333334,1,1.0,1,0.8333333333333334,1,100.0,1.5,3.0,1.5,S.Henderson,Y
+76,A.Caruso o4.5 Pts,Rotowire Sleeper,Oklahoma City Thunder,Los Angeles Clippers,0.0,0.2,0,0.2,0,0.2,0,100.0,1.5,3.0,1.5,A.Caruso,Y
+77,K.Dunn o5.5 Pts,Rotowire Prizepicks,Los Angeles Clippers,Oklahoma City Thunder,1.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,K.Dunn,Y
