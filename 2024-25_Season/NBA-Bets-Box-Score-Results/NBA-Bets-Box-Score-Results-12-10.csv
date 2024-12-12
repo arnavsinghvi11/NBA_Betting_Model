@@ -1,0 +1,44 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,G.Bitadze,Orlando Magic,Milwaukee Bucks,0,38.01,12,4,14,1,1,0,.462,.462,.154,13.4,31.6,21.3,15.1,1.3,2.7,13.8,125,115,0.3
+1,J.Suggs,Orlando Magic,Milwaukee Bucks,0,37.41,32,1,9,4,1,3,.559,.519,.423,8.1,21.2,13.8,5.0,5.2,2.7,35.0,108,108,7.4
+2,W.Carter,Orlando Magic,Milwaukee Bucks,0,34.01,8,5,11,1,1,0,.592,.400,.400,9.0,31.4,18.7,18.5,1.4,3.0,10.4,123,115,0.6
+3,K.Caldwell-Pope,Orlando Magic,Milwaukee Bucks,0,31.19,7,1,1,1,0,0,.444,.429,.286,0.0,4.3,1.8,4.2,1.5,0.0,10.2,104,120,-6.2
+4,T.Da,Orlando Magic,Milwaukee Bucks,0,15.52,6,0,2,0,0,0,.444,.200,.200,6.4,8.4,7.3,0.0,0.0,0.0,24.8,73,123,-16.3
+5,A.Black,Orlando Magic,Milwaukee Bucks,0,32.16,17,3,6,3,1,0,.548,.500,.000,6.3,16.5,10.8,13.9,4.5,3.2,23.2,106,109,2.6
+6,M.Wagner,Orlando Magic,Milwaukee Bucks,0,19.12,13,1,3,1,0,1,1.083,1.083,.167,5.3,13.9,9.0,9.6,2.5,0.0,14.7,175,117,11.7
+7,C.Anthony,Orlando Magic,Milwaukee Bucks,0,14.39,4,2,0,0,0,0,.167,.167,.250,0.0,0.0,0.0,19.0,0.0,0.0,33.1,52,124,-21.4
+8,J.Howard,Orlando Magic,Milwaukee Bucks,0,12.30,10,1,0,0,0,2,.601,.571,.714,0.0,0.0,0.0,13.0,0.0,0.0,26.9,136,123,5.4
+9,C.Houstan,Orlando Magic,Milwaukee Bucks,0,4.29,0,1,0,0,0,0,,,,0.0,0.0,0.0,26.1,0.0,0.0,0.0,215,124,2.2
+10,D.Lillard,Milwaukee Bucks,Orlando Magic,1,38.44,28,9,2,1,0,2,.722,.600,.333,3.4,2.6,3.0,34.8,1.3,0.0,27.9,134,117,3.1
+11,G.Antetokounmpo,Milwaukee Bucks,Orlando Magic,1,35.36,37,1,7,2,4,0,.632,.625,.083,3.7,17.2,11.4,6.2,2.7,8.2,45.7,101,104,2.3
+12,B.Lopez,Milwaukee Bucks,Orlando Magic,1,28.25,7,0,6,0,0,1,.500,.500,.429,0.0,21.6,12.2,0.0,0.0,0.0,14.6,71,112,-10.1
+13,T.Prince,Milwaukee Bucks,Orlando Magic,1,20.26,0,1,2,1,0,0,.000,.000,1.000,0.0,10.0,5.7,5.6,2.4,0.0,2.3,59,112,-4.0
+14,A.Jackson,Milwaukee Bucks,Orlando Magic,1,8.10,5,0,2,0,0,1,.625,.625,.750,16.3,12.5,14.2,0.0,0.0,0.0,22.6,126,115,-2.9
+15,A.Green,Milwaukee Bucks,Orlando Magic,1,32.34,9,2,4,0,1,3,.500,.500,.889,0.0,12.5,7.1,7.8,0.0,2.2,15.6,84,114,-6.2
+16,B.Portis,Milwaukee Bucks,Orlando Magic,1,31.50,22,4,10,1,1,2,.893,.909,.273,8.4,25.7,18.2,21.2,1.5,2.3,17.9,182,106,16.1
+17,G.Trent,Milwaukee Bucks,Orlando Magic,1,24.28,6,2,0,1,0,2,.750,.750,1.000,0.0,0.0,0.0,10.3,2.0,0.0,7.5,151,116,0.4
+18,K.Middleton,Milwaukee Bucks,Orlando Magic,1,19.47,0,8,4,3,0,0,.000,.000,.500,0.0,20.6,11.7,46.2,7.4,0.0,9.3,90,97,4.3
+19,K.Irving,Dallas Mavericks,Oklahoma City Thunder,0,40.20,17,5,2,1,1,3,.607,.607,.357,0.0,4.4,2.5,20.1,1.2,2.3,17.7,113,124,0.9
+20,L.Doncic,Dallas Mavericks,Oklahoma City Thunder,0,40.10,16,5,11,4,0,2,.465,.400,.533,2.8,22.1,13.7,18.7,4.8,0.0,25.8,82,109,-3.5
+21,D.Lively,Dallas Mavericks,Oklahoma City Thunder,0,31.00,5,5,13,0,1,0,.512,.500,.000,14.7,25.8,21.0,22.2,0.0,3.0,9.9,121,117,2.4
+22,K.Thompson,Dallas Mavericks,Oklahoma City Thunder,0,27.35,19,0,4,0,0,5,.679,.679,.714,4.1,9.7,7.3,0.0,0.0,0.0,22.7,126,126,4.6
+23,Q.Grimes,Dallas Mavericks,Oklahoma City Thunder,0,18.10,4,2,3,1,0,0,.340,.200,.600,6.3,9.8,8.3,14.9,2.7,0.0,21.9,66,119,-11.3
+24,N.Marshall,Dallas Mavericks,Oklahoma City Thunder,0,29.01,19,2,4,1,0,2,.745,.727,.364,0.0,12.3,6.9,12.5,1.7,0.0,22.7,125,121,5.0
+25,S.Dinwiddie,Dallas Mavericks,Oklahoma City Thunder,0,22.42,9,4,3,3,0,1,.436,.389,.444,0.0,11.7,6.6,26.7,6.4,0.0,26.2,82,110,-0.9
+26,D.Gafford,Dallas Mavericks,Oklahoma City Thunder,0,16.05,9,1,2,0,0,0,.846,1.000,.000,0.0,11.1,6.2,11.5,0.0,0.0,14.8,166,125,6.5
+27,O.Prosper,Dallas Mavericks,Oklahoma City Thunder,0,12.12,6,1,2,0,0,2,.750,.750,.500,0.0,14.6,8.2,13.1,0.0,0.0,14.7,146,124,9.1
+28,K.Edwards,Dallas Mavericks,Oklahoma City Thunder,0,0.55,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,131,-5.1
+29,J.Gortman,Dallas Mavericks,Oklahoma City Thunder,0,0.55,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,131,-7.0
+30,D.Powell,Dallas Mavericks,Oklahoma City Thunder,0,0.55,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,131,-6.3
+31,S.Gilgeous-Alexander,Oklahoma City Thunder,Dallas Mavericks,1,37.51,39,5,8,3,1,5,.788,.761,.391,0.0,24.2,10.6,23.5,3.8,2.9,28.7,151,101,20.3
+32,J.Williams,Oklahoma City Thunder,Dallas Mavericks,1,32.16,18,4,7,0,1,0,.411,.381,.143,5.5,17.7,10.8,17.5,0.0,3.4,32.6,87,110,-9.4
+33,L.Dort,Oklahoma City Thunder,Dallas Mavericks,1,31.39,11,2,6,1,1,3,.550,.550,.700,8.4,10.8,9.5,7.6,1.5,3.4,12.8,137,108,2.2
+34,C.Wallace,Oklahoma City Thunder,Dallas Mavericks,1,30.49,11,4,8,2,1,3,.550,.550,.900,11.5,14.8,13.0,15.7,3.1,3.5,14.5,132,104,7.0
+35,I.Hartenstein,Oklahoma City Thunder,Dallas Mavericks,1,30.18,10,3,13,1,1,0,.437,.455,.091,14.7,30.2,21.5,12.5,1.6,3.6,19.4,96,104,-4.1
+36,A.Caruso,Oklahoma City Thunder,Dallas Mavericks,1,22.25,6,4,4,2,0,2,.429,.429,.857,4.0,15.3,8.9,20.5,4.3,0.0,14.5,110,104,3.7
+37,K.Williams,Oklahoma City Thunder,Dallas Mavericks,1,17.18,9,2,2,3,0,3,.900,.900,.800,5.1,6.6,5.8,14.7,8.4,0.0,11.7,190,95,19.5
+38,I.Joe,Oklahoma City Thunder,Dallas Mavericks,1,16.56,9,3,3,0,0,3,.563,.563,1.000,0.0,20.2,8.9,22.7,0.0,0.0,19.2,136,112,5.2
+39,A.Mitchell,Oklahoma City Thunder,Dallas Mavericks,1,9.43,2,2,1,1,0,0,.333,.333,.000,9.1,0.0,5.1,24.1,5.0,0.0,16.7,90,104,-5.1
+40,A.Wiggins,Oklahoma City Thunder,Dallas Mavericks,1,8.55,3,0,0,1,0,1,.750,.750,1.000,0.0,0.0,0.0,0.0,5.4,0.0,13.7,86,103,-1.9
+41,B.Carlson,Oklahoma City Thunder,Dallas Mavericks,1,0.55,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,116,-7.1
+42,D.Jones,Oklahoma City Thunder,Dallas Mavericks,1,0.55,0,0,0,0,0,0,.000,.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,44.3,0,116,-52.8
