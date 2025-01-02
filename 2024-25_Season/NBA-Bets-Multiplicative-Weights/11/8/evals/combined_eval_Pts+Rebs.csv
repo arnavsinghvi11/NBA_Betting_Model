@@ -1,8 +1,11 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,S.Gilgeous-Alexander o31.5 Pts+Rebs,Rotowire Sleeper,S.Gilgeous-Alexander,Y,34.0,Oklahoma City Thunder,Houston Rockets,1.0,0.375,0,0.2,0,0.375,0,100,1.5,3.0,1.5
-1,D.Avdija o15.5 Pts+Rebs,Rotowire Prizepicks,D.Avdija,N,14.0,Portland Trail Blazers,Minnesota Timberwolves,0.0,0.5555555555555556,1,0.6,1,0.5555555555555556,1,100,1.5,3.0,1.5
-2,K.Durant o32.5 Pts+Rebs,the_degenerates,K.Durant,N,31.0,Phoenix Suns,Dallas Mavericks,0.0,0.625,1,0.6,1,0.625,1,-105,1.05,2.05,0.9999999999999998
-3,E.Mobley o22.5 Pts+Rebs,Rotowire Sleeper,E.Mobley,Y,27.0,Cleveland Cavaliers,Golden State Warriors,1.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100,1.5,3.0,1.5
-4,E.Mobley o24.5 Pts+Rebs,JBBets1,E.Mobley,Y,27.0,Cleveland Cavaliers,Golden State Warriors,1.0,0.5555555555555556,1,0.4,0,0.5555555555555556,1,-108,1.0,1.925925925925926,0.925925925925926
-5,R.Hachimura o16.5 Pts+Rebs,Rotowire Sleeper,R.Hachimura,N,13.0,Los Angeles Lakers,Philadelphia 76ers,1.0,0.5714285714285714,1,0.4,0,0.5714285714285714,1,100,1.5,3.0,1.5
-6,I.Zubac o26.5 Pts+Rebs,Rotowire Sleeper,I.Zubac,Y,28.0,Los Angeles Clippers,Sacramento Kings,0.0,0.625,1,0.4,0,0.625,1,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,S.Gilgeous-Alexander o31.5 Pts+Rebs,Rotowire Sleeper,Oklahoma City Thunder,S.Gilgeous-Alexander,Y,34.0,Houston Rockets,1.0,0.375,0,0.2,0,0.375,0,100,1.5,3.0,1.5
+1,D.Avdija o15.5 Pts+Rebs,Rotowire Prizepicks,Portland Trail Blazers,D.Avdija,N,14.0,Minnesota Timberwolves,0.0,0.5555555555555556,1,0.6,1,0.5555555555555556,1,100,1.5,3.0,1.5
+2,K.Durant o32.5 Pts+Rebs,the_degenerates,Phoenix Suns,K.Durant,N,31.0,Dallas Mavericks,0.0,0.625,1,0.6,1,0.625,1,-105,1.05,2.05,0.9999999999999998
+3,E.Mobley o22.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,E.Mobley,Y,27.0,Golden State Warriors,1.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100,1.5,3.0,1.5
+4,E.Mobley o24.5 Pts+Rebs,JBBets1,Cleveland Cavaliers,E.Mobley,Y,27.0,Golden State Warriors,1.0,0.5555555555555556,1,0.4,0,0.5555555555555556,1,-108,1.0,1.925925925925926,0.925925925925926
+5,R.Hachimura o16.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Lakers,R.Hachimura,N,13.0,Philadelphia 76ers,1.0,0.5714285714285714,1,0.4,0,0.5714285714285714,1,100,1.5,3.0,1.5
+6,I.Zubac o26.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,I.Zubac,Y,28.0,Sacramento Kings,0.0,0.625,1,0.4,0,0.625,1,100,1.5,3.0,1.5
+7,L.James o29.5 Pts+Rebs,Rotowire Prizepicks,Los Angeles Lakers,L.James,Y,33.0,Philadelphia 76ers,1.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5
+8,B.Mathurin o23.5 Pts+Rebs,JayMoneyIsMoney23,Indiana Pacers,B.Mathurin,Y,28.0,Charlotte Hornets,0.0,0.5,0,0.6,1,0.5,0,-125,0.63,1.134,0.5040000000000001
+9,B.Adebayo o26.5 Pts+Rebs,Rotowire Sleeper,Miami Heat,B.Adebayo,Y,29.0,Denver Nuggets,0.0,0.1428571428571428,0,0.2,0,0.1428571428571428,0,100,1.5,3.0,1.5

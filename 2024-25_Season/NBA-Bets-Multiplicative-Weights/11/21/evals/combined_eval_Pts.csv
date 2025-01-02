@@ -1,7 +1,7 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,A.Edwards o26.5 Pts,sandyplashkes,A.Edwards,N,26.0,Minnesota Timberwolves,Toronto Raptors,0.0,0.5,0,0.2,0,0.4,0,-112.0,1.12,2.12,1.0
-1,J.Randle o22.5 Pts,HPBasketball,J.Randle,Y,23.0,Minnesota Timberwolves,Toronto Raptors,0.0,0.3571428571428571,0,0.4,0,0.3,0,-110.0,0.27,0.5154545454545455,0.2454545454545454
-2,D.Russell o10.5 Pts,itsbucketsnba,D.Russell,N,7.0,Los Angeles Lakers,Orlando Magic,1.0,0.5714285714285714,1,0.4,0,0.6,1,-110.0,1.0,1.9090909090909087,0.9090909090909092
-3,D.Russell o10.5 Pts,Rotowire Prizepicks,D.Russell,N,7.0,Los Angeles Lakers,Orlando Magic,1.0,0.5714285714285714,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5
-4,D.Knecht o12.5 Pts,theprophunter0_,D.Knecht,Y,17.0,Los Angeles Lakers,Orlando Magic,1.0,0.3571428571428571,0,0.8,1,0.5,0,-120.0,1.2,2.2,1.0000000000000002
-5,A.Black o8.5 Pts,Rotowire Prizepicks,A.Black,N,4.0,Orlando Magic,Los Angeles Lakers,0.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,A.Edwards o26.5 Pts,sandyplashkes,Minnesota Timberwolves,A.Edwards,N,26.0,Toronto Raptors,0.0,0.5,0,0.2,0,0.4,0,-112.0,1.12,2.12,1.0
+1,D.Russell o10.5 Pts,itsbucketsnba,Los Angeles Lakers,D.Russell,N,7.0,Orlando Magic,1.0,0.5714285714285714,1,0.4,0,0.6,1,-110.0,1.0,1.9090909090909087,0.9090909090909092
+2,D.Russell o10.5 Pts,Rotowire Prizepicks,Los Angeles Lakers,D.Russell,N,7.0,Orlando Magic,1.0,0.5714285714285714,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5
+3,A.Black o8.5 Pts,Rotowire Prizepicks,Orlando Magic,A.Black,N,4.0,Los Angeles Lakers,0.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5
+4,J.Randle o22.5 Pts,HPBasketball,Minnesota Timberwolves,J.Randle,Y,23.0,Toronto Raptors,0.0,0.3571428571428571,0,0.4,0,0.3,0,-110.0,0.27,0.5154545454545455,0.2454545454545454
+5,D.Knecht o12.5 Pts,theprophunter0_,Los Angeles Lakers,D.Knecht,Y,17.0,Orlando Magic,1.0,0.3571428571428571,0,0.8,1,0.5,0,-120.0,1.2,2.2,1.0000000000000002

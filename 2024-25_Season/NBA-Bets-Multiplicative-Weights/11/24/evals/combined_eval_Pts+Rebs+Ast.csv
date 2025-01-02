@@ -1,14 +1,11 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,S.Barnes o29.5 Pts+Rebs+Ast,Theotherbabs,S.Barnes,Y,32.0,Toronto Raptors,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,125,1.0,2.25,1.25
-1,D.Sabonis o38.5 Pts+Rebs+Ast,Rotowire Prizepicks,D.Sabonis,N,38.0,Sacramento Kings,Brooklyn Nets,1.0,0.6428571428571429,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-2,K.Huerter o15.5 Pts+Rebs+Ast,Rotowire Sleeper,K.Huerter,N,14.0,Sacramento Kings,Brooklyn Nets,1.0,0.6428571428571429,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-3,S.Barnes o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,S.Barnes,Y,32.0,Toronto Raptors,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-4,B.Adebayo o31.5 Pts+Rebs+Ast,Rotowire Sleeper,B.Adebayo,Y,35.0,Miami Heat,Dallas Mavericks,1.0,0.3846153846153846,0,0.6,1,0.5,0,100,1.5,3.0,1.5
-5,J.Tatum o40.5 Pts+Rebs+Ast,Rotowire Prizepicks,J.Tatum,N,38.0,Boston Celtics,Minnesota Timberwolves,1.0,0.6875,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-6,D.Jones o13.5 Pts+Rebs+Ast,Rotowire Prizepicks,D.Jones,Y,23.0,Los Angeles Clippers,Philadelphia 76ers,0.0,0.6470588235294118,1,0.4,0,0.6,1,100,1.5,3.0,1.5
-7,B.Adebayo o31.5 Pts+Rebs+Ast,Rotowire Prizepicks,B.Adebayo,Y,35.0,Miami Heat,Dallas Mavericks,1.0,0.3846153846153846,0,0.6,1,0.5,0,100,1.5,3.0,1.5
-8,I.Zubac o28.5 Pts+Rebs+Ast,Rotowire Sleeper,I.Zubac,Y,32.0,Los Angeles Clippers,Philadelphia 76ers,0.0,0.6470588235294118,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-9,S.Barnes o28.5 Pts+Rebs+Ast,sandyplashkes,S.Barnes,Y,32.0,Toronto Raptors,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-112,1.68,3.18,1.4999999999999998
-10,S.Barnes o28.5 Pts+Rebs+Ast,Rotowire Sleeper,S.Barnes,Y,32.0,Toronto Raptors,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-11,B.Simmons o18.5 Pts+Rebs+Ast,Rotowire Sleeper,B.Simmons,N,12.0,Brooklyn Nets,Sacramento Kings,0.0,0.4166666666666667,0,0.4,0,0.4,0,100,1.5,3.0,1.5
-12,O.Toppin o12.5 Pts+Rebs+Ast,Rotowire Prizepicks,O.Toppin,Y,14.0,Indiana Pacers,Washington Wizards,1.0,0.6,1,0.8,1,0.5,0,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,D.Sabonis o38.5 Pts+Rebs+Ast,Rotowire Prizepicks,Sacramento Kings,D.Sabonis,N,38.0,Brooklyn Nets,1.0,0.6428571428571429,1.0,0.6,1.0,0.7,1.0,100.0,1.5,3.0,1.5
+1,S.Barnes o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Toronto Raptors,S.Barnes,Y,32.0,Cleveland Cavaliers,0.0,0.6,1.0,0.6,1.0,0.6,1.0,100.0,1.5,3.0,1.5
+2,J.Tatum o40.5 Pts+Rebs+Ast,Rotowire Prizepicks,Boston Celtics,J.Tatum,N,38.0,Minnesota Timberwolves,1.0,0.6875,1.0,0.6,1.0,0.6,1.0,100.0,1.5,3.0,1.5
+3,D.Jones o13.5 Pts+Rebs+Ast,Rotowire Prizepicks,Los Angeles Clippers,D.Jones,Y,23.0,Philadelphia 76ers,0.0,0.6470588235294118,1.0,0.4,0.0,0.6,1.0,100.0,1.5,3.0,1.5
+4,I.Zubac o28.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Clippers,I.Zubac,Y,32.0,Philadelphia 76ers,0.0,0.6470588235294118,1.0,0.8,1.0,0.6,1.0,100.0,1.5,3.0,1.5
+5,S.Barnes o28.5 Pts+Rebs+Ast,sandyplashkes,Toronto Raptors,S.Barnes,Y,32.0,Cleveland Cavaliers,0.0,0.6,1.0,0.6,1.0,0.6,1.0,-112.0,1.68,3.18,1.4999999999999998
+6,S.Barnes o28.5 Pts+Rebs+Ast,Rotowire Sleeper,Toronto Raptors,S.Barnes,Y,32.0,Cleveland Cavaliers,0.0,0.6,1.0,0.6,1.0,0.6,1.0,100.0,1.5,3.0,1.5
+7,B.Simmons o18.5 Pts+Rebs+Ast,Rotowire Sleeper,Brooklyn Nets,B.Simmons,N,12.0,Sacramento Kings,0.0,0.4166666666666667,0.0,0.4,0.0,0.4,0.0,100.0,1.5,3.0,1.5
+8,O.Toppin o12.5 Pts+Rebs+Ast,Rotowire Prizepicks,Indiana Pacers,O.Toppin,Y,14.0,Washington Wizards,1.0,0.6,1.0,0.8,1.0,0.5,0.0,100.0,1.5,3.0,1.5
+9,S.Barnes o29.5 Pts+Rebs+Ast,Theotherbabs,Toronto Raptors,S.Barnes,Y,32.0,Cleveland Cavaliers,0.0,0.6,1.0,0.6,1.0,0.6,1.0,125.0,1.0,2.25,1.25

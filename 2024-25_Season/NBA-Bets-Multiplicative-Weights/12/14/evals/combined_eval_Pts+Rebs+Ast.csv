@@ -1,5 +1,4 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,J.Williams u32.5 Pts+Rebs+Ast,sandyplashkes,J.Williams,Y,30.0,Oklahoma City Thunder,Houston Rockets,1.0,0.5,0,0.4,0,0.4,0,-118,1.18,2.18,0.9999999999999998
-1,I.Hartenstein o25.5 Pts+Rebs+Ast,JoeDellera,I.Hartenstein,Y,31.0,Oklahoma City Thunder,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-135,1.0,1.7407407407407407,0.7407407407407407
-2,I.Hartenstein o25.5 Pts+Rebs+Ast,moneylinewixted,I.Hartenstein,Y,31.0,Oklahoma City Thunder,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-140,1.4,2.4,1.0
-3,T.Eason o16.5 Pts+Rebs+Ast,Rotowire Sleeper,T.Eason,N,14.0,Houston Rockets,Oklahoma City Thunder,0.0,0.6521739130434783,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,J.Williams u32.5 Pts+Rebs+Ast,sandyplashkes,Oklahoma City Thunder,J.Williams,Y,30.0,Houston Rockets,1.0,0.5,0,0.4,0,0.4,0,-118,1.18,2.18,0.9999999999999998
+1,I.Hartenstein o25.5 Pts+Rebs+Ast,JoeDellera,Oklahoma City Thunder,I.Hartenstein,Y,31.0,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-135,1.0,1.7407407407407407,0.7407407407407407
+2,I.Hartenstein o25.5 Pts+Rebs+Ast,moneylinewixted,Oklahoma City Thunder,I.Hartenstein,Y,31.0,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-140,1.4,2.4,1.0

@@ -1,10 +1,8 @@
 Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-S.Barnes o26.5 Pts+Rebs,Rotowire Sleeper,Toronto Raptors,S.Barnes,Y,32.0,Memphis Grizzlies,0.0,0.5882352941176471,1,0.4,0,0.6,1,100,1.5,3.0,1.5
 T.Harris o17.5 Pts+Rebs,Rotowire Prizepicks,Detroit Pistons,T.Harris,N,7.0,Sacramento Kings,0.0,0.6428571428571429,1,0.2,0,0.4,0,100,1.5,3.0,1.5
-N.Vucevic o29.5 Pts+Rebs,Rotowire Prizepicks,Chicago Bulls,N.Vucevic,N,27.0,Atlanta Hawks,0.0,0.6551724137931034,1,0.2,0,0.5,0,100,1.5,3.0,1.5
 K.Middleton u23.5 Pts+Rebs,kylemurray03,Milwaukee Bucks,K.Middleton,N,26.0,Brooklyn Nets,1.0,0.7142857142857143,1,0.6,1,0.7142857142857143,1,-125,1.25,2.25,1.0
-C.Capela o10.5 Pts,therocketplays,Atlanta Hawks,C.Capela,N,8.0,Chicago Bulls,1.0,0.3666666666666666,0,0.2,0,0.1,0,-120,1.2,2.2,1.0000000000000002
-D.Ayton o14.5 Pts,TopShelfAction,Portland Trail Blazers,D.Ayton,Y,18.0,Utah Jazz,1.0,0.55,1,0.4,0,0.6,1,110,0.4,0.8400000000000001,0.44
+S.Barnes o26.5 Pts+Rebs,Rotowire Sleeper,Toronto Raptors,S.Barnes,Y,32.0,Memphis Grizzlies,0.0,0.5882352941176471,1,0.4,0,0.6,1,100,1.5,3.0,1.5
+N.Vucevic o29.5 Pts+Rebs,Rotowire Prizepicks,Chicago Bulls,N.Vucevic,N,27.0,Atlanta Hawks,0.0,0.6551724137931034,1,0.2,0,0.5,0,100,1.5,3.0,1.5
 M.Turner u14.5 Pts,TopShelfAction,Indiana Pacers,M.Turner,Y,12.0,Oklahoma City Thunder,1.0,0.5357142857142857,1,0.4,0,0.5,0,100,0.7,1.4,0.7
 J.Williams u23.5 Pts,TopShelfAction_duplicate,Oklahoma City Thunder,J.Williams,Y,20.0,Indiana Pacers,0.0,0.6206896551724138,1,0.8,1,0.7,1,-105,1.0,1.9523809523809523,0.9523809523809524
 S.Gilgeous-Alexander u32.5 Pts,TopShelfAction,Oklahoma City Thunder,S.Gilgeous-Alexander,N,45.0,Indiana Pacers,0.0,0.6785714285714286,1,0.4,0,0.6,1,-115,0.7,1.3086956521739128,0.6086956521739129
@@ -15,17 +13,33 @@ K.Caldwell-Pope u10.5 Pts,TopShelfAction,Orlando Magic,K.Caldwell-Pope,N,11.0,Mi
 D.Murray u18.5 Pts,TopShelfAction,New Orleans Pelicans,D.Murray,Y,17.0,Houston Rockets,1.0,0.6923076923076923,1,0.6,1,0.7,1,-105,0.5,0.9761904761904762,0.4761904761904761
 J.Smith u13.5 Pts,TopShelfAction_duplicate,Houston Rockets,J.Smith,Y,6.0,New Orleans Pelicans,0.0,0.5172413793103449,1,0.0,0,0.4,0,100,0.6,1.2,0.6
 J.Smith u13.5 Pts,TopShelfAction_duplicate,Chicago Bulls,J.Smith,Y,8.0,Atlanta Hawks,0.0,0.8888888888888888,1,0.8,1,0.9,1,100,0.6,1.2,0.6
-Z.Edey o10.5 Pts,the_degenerates,Memphis Grizzlies,Z.Edey,Y,21.0,Toronto Raptors,1.0,0.4444444444444444,0,0.2,0,0.5,0,100,1.0,2.0,1.0
-J.Grant u15.5 Pts,TopShelfAction,Portland Trail Blazers,J.Grant,Y,14.0,Utah Jazz,1.0,0.5185185185185185,1,0.6,1,0.7,1,116,0.8,1.7280000000000002,0.9280000000000002
 A.Black u9.5 Pts,TopShelfAction,Orlando Magic,A.Black,Y,2.0,Miami Heat,1.0,0.5483870967741935,1,0.4,0,0.6,1,100,0.9,1.8,0.9
 P.Williams u11.5 Pts,TopShelfAction,Chicago Bulls,P.Williams,Y,11.0,Atlanta Hawks,0.0,0.55,1,0.4,0,0.4,0,-130,2.1,3.715384615384616,1.6153846153846154
-B.Mathurin o14.5 Pts,TopShelfAction,Indiana Pacers,B.Mathurin,Y,18.0,Oklahoma City Thunder,1.0,0.6333333333333333,1,0.2,0,0.4,0,-115,0.7,1.3086956521739128,0.6086956521739129
-M.Brogdon o12.5 Pts,TopShelfAction,Washington Wizards,M.Brogdon,N,11.0,Charlotte Hornets,1.0,0.5833333333333334,1,0.4,0,0.7,1,-110,1.0,1.9090909090909087,0.9090909090909092
 G.Dick o15.5 Pts,Rotowire Sleeper,Toronto Raptors,G.Dick,N,14.0,Memphis Grizzlies,0.0,0.56,1,0.8,1,0.6,1,100,1.5,3.0,1.5
 K.Murray o12.5 Pts,itsbucketsnba_duplicate,Sacramento Kings,K.Murray,N,11.0,Detroit Pistons,1.0,0.5172413793103449,1,0.2,0,0.3,0,-112,1.0,1.8928571428571428,0.8928571428571428
-Z.Edey o9.5 Pts,KyleJustBets,Memphis Grizzlies,Z.Edey,Y,21.0,Toronto Raptors,1.0,0.6111111111111112,1,0.4,0,0.6,1,-145,1.0,1.6896551724137931,0.6896551724137931
 A.Simons o18.5 Pts,TopShelfAction,Portland Trail Blazers,A.Simons,N,8.0,Utah Jazz,1.0,0.5,0,0.6,1,0.5,0,-115,0.7,1.3086956521739128,0.6086956521739129
+C.Capela o10.5 Pts,therocketplays,Atlanta Hawks,C.Capela,N,8.0,Chicago Bulls,1.0,0.3666666666666666,0,0.2,0,0.1,0,-120,1.2,2.2,1.0000000000000002
+D.Ayton o14.5 Pts,TopShelfAction,Portland Trail Blazers,D.Ayton,Y,18.0,Utah Jazz,1.0,0.55,1,0.4,0,0.6,1,110,0.4,0.8400000000000001,0.44
+Z.Edey o10.5 Pts,the_degenerates,Memphis Grizzlies,Z.Edey,Y,21.0,Toronto Raptors,1.0,0.4444444444444444,0,0.2,0,0.5,0,100,1.0,2.0,1.0
+J.Grant u15.5 Pts,TopShelfAction,Portland Trail Blazers,J.Grant,Y,14.0,Utah Jazz,1.0,0.5185185185185185,1,0.6,1,0.7,1,116,0.8,1.7280000000000002,0.9280000000000002
+B.Mathurin o14.5 Pts,TopShelfAction,Indiana Pacers,B.Mathurin,Y,18.0,Oklahoma City Thunder,1.0,0.6333333333333333,1,0.2,0,0.4,0,-115,0.7,1.3086956521739128,0.6086956521739129
+M.Brogdon o12.5 Pts,TopShelfAction,Washington Wizards,M.Brogdon,N,11.0,Charlotte Hornets,1.0,0.5833333333333334,1,0.4,0,0.7,1,-110,1.0,1.9090909090909087,0.9090909090909092
+Z.Edey o9.5 Pts,KyleJustBets,Memphis Grizzlies,Z.Edey,Y,21.0,Toronto Raptors,1.0,0.6111111111111112,1,0.4,0,0.6,1,-145,1.0,1.6896551724137931,0.6896551724137931
 S.Sharpe o17.5 Pts,TopShelfAction,Portland Trail Blazers,S.Sharpe,Y,27.0,Utah Jazz,1.0,0.3809523809523809,0,0.4,0,0.4,0,-105,0.9,1.7571428571428571,0.8571428571428571
+M.Bridges o6.5 Rebs,TopShelfAction_duplicate,Charlotte Hornets,M.Bridges,Y,14.0,Washington Wizards,0.0,0.6875,1,0.8,1,0.7,1,-115,0.4,0.7478260869565218,0.3478260869565217
+J.Williams o5.5 Rebs,TopShelfAction_duplicate,Oklahoma City Thunder,J.Williams,N,4.0,Indiana Pacers,0.0,0.5517241379310345,1,0.4,0,0.5,0,-104,1.2,2.353846153846154,1.153846153846154
+S.Gilgeous-Alexander o5.5 Rebs,TopShelfAction,Oklahoma City Thunder,S.Gilgeous-Alexander,Y,7.0,Indiana Pacers,0.0,0.5,0,0.8,1,0.7,1,100,0.8,1.6,0.8
+B.Mathurin u5.5 Rebs,TopShelfAction,Indiana Pacers,B.Mathurin,N,6.0,Oklahoma City Thunder,1.0,0.4,0,0.4,0,0.5,0,110,0.7,1.47,0.77
+B.Adebayo u10.5 Rebs,Markus_Markets,Miami Heat,B.Adebayo,Y,9.0,Orlando Magic,0.0,0.5925925925925926,1,0.8,1,0.6,1,-134,1.0,1.7462686567164178,0.7462686567164178
+B.Adebayo u10.5 Rebs,PvB_Bets,Miami Heat,B.Adebayo,Y,9.0,Orlando Magic,0.0,0.5925925925925926,1,0.8,1,0.6,1,-134,1.0,1.7462686567164178,0.7462686567164178
+B.Adebayo u10.5 Rebs,allanlemdfs,Miami Heat,B.Adebayo,Y,9.0,Orlando Magic,0.0,0.5925925925925926,1,0.8,1,0.6,1,-125,0.63,1.134,0.5040000000000001
+B.Adebayo u10.5 Rebs,GDAWG5000,Miami Heat,B.Adebayo,Y,9.0,Orlando Magic,0.0,0.5925925925925926,1,0.8,1,0.6,1,-125,0.63,1.134,0.5040000000000001
+B.Adebayo u10.5 Rebs,PropBomb,Miami Heat,B.Adebayo,Y,9.0,Orlando Magic,0.0,0.5925925925925926,1,0.8,1,0.6,1,-125,1.25,2.25,1.0
+C.Capela u10.5 Rebs,TopShelfAction,Atlanta Hawks,C.Capela,Y,4.0,Chicago Bulls,1.0,0.7,1,0.8,1,0.6,1,100,1.4,2.8,1.4
+J.Smith u6.5 Rebs,TopShelfAction_duplicate,Chicago Bulls,J.Smith,Y,6.0,Atlanta Hawks,0.0,0.7037037037037037,1,0.4,0,0.5,0,120,0.6,1.32,0.7200000000000001
+N.Richards o5.5 Rebs,TopShelfAction,Charlotte Hornets,N.Richards,N,5.0,Washington Wizards,0.0,0.7142857142857143,1,0.4,0,0.6,1,-110,0.7,1.3363636363636364,0.6363636363636365
+I.Hartenstein o11.5 Rebs,KyleJustBets,Oklahoma City Thunder,I.Hartenstein,Y,13.0,Indiana Pacers,0.0,0.6923076923076923,1,0.6,1,0.7,1,-145,1.0,1.6896551724137931,0.6896551724137931
+J.Johnson o9.5 Rebs,kylemurray03_duplicate,Atlanta Hawks,J.Johnson,Y,15.0,Chicago Bulls,1.0,0.5714285714285714,1,0.8,1,0.6,1,-130,1.0,1.7692307692307692,0.7692307692307692
 S.Henderson o6.5 Rebs+Ast,Markus_Markets,Portland Trail Blazers,S.Henderson,Y,10.0,Utah Jazz,1.0,0.7272727272727273,1,0.6,1,0.7,1,-135,1.0,1.7407407407407407,0.7407407407407407
 K.Olynyk u11.5 Rebs+Ast,allanlemdfs,Toronto Raptors,K.Olynyk,Y,10.0,Memphis Grizzlies,0.0,0.8571428571428571,1,0.8,1,0.8571428571428571,1,-120,0.6,1.1,0.5000000000000001
 J.Duren o11.5 Rebs+Ast,Rotowire Sleeper,Detroit Pistons,J.Duren,Y,13.0,Sacramento Kings,0.0,0.4444444444444444,0,0.4,0,0.3,0,100,1.5,3.0,1.5
@@ -34,20 +48,24 @@ J.Morant o34.5 Pts+Rebs+Ast,RoyalsProps,Memphis Grizzlies,J.Morant,N,26.0,Toront
 K.Murray o20.5 Pts+Rebs+Ast,RoyalsProps_duplicate,Sacramento Kings,K.Murray,Y,25.0,Detroit Pistons,1.0,0.5172413793103449,1,0.2,0,0.4,0,-120,1.2,2.2,1.0000000000000002
 J.Williams u34.5 Pts+Rebs+Ast,TopShelfAction_duplicate,Oklahoma City Thunder,J.Williams,Y,29.0,Indiana Pacers,0.0,0.6206896551724138,1,0.8,1,0.7,1,-110,1.2,2.290909090909091,1.090909090909091
 T.Haliburton u29.5 Pts+Rebs+Ast,TopShelfAction,Indiana Pacers,T.Haliburton,Y,14.0,Oklahoma City Thunder,1.0,0.5666666666666667,1,0.4,0,0.5,0,-105,0.5,0.9761904761904762,0.4761904761904761
-J.Jaquez u20.5 Pts+Rebs+Ast,JoeDellera,Miami Heat,J.Jaquez,N,23.0,Orlando Magic,0.0,0.782608695652174,1,1.0,1,0.9,1,-130,1.0,1.7692307692307692,0.7692307692307692
 N.Vucevic u35.5 Pts+Rebs+Ast,TopShelfAction,Chicago Bulls,N.Vucevic,Y,30.0,Atlanta Hawks,0.0,0.7241379310344828,1,1.0,1,0.8,1,-105,1.3,2.538095238095238,1.238095238095238
-J.Mogbo o13.5 Pts+Rebs+Ast,Rotowire Sleeper,Toronto Raptors,J.Mogbo,N,9.0,Memphis Grizzlies,0.0,0.4,0,0.6,1,0.7,1,100,1.5,3.0,1.5
-D.Avdija o20.5 Pts+Rebs+Ast,Rotowire Sleeper,Portland Trail Blazers,D.Avdija,Y,41.0,Utah Jazz,1.0,0.5517241379310345,1,0.8,1,0.7,1,100,1.5,3.0,1.5
 D.Ayton o25.5 Pts+Rebs+Ast,Rotowire Sleeper,Portland Trail Blazers,D.Ayton,Y,32.0,Utah Jazz,1.0,0.55,1,0.4,0,0.5,0,100,1.5,3.0,1.5
-S.Sharpe o23.5 Pts+Rebs+Ast,Rotowire Sleeper,Portland Trail Blazers,S.Sharpe,Y,35.0,Utah Jazz,1.0,0.3809523809523809,0,0.4,0,0.4,0,100,1.5,3.0,1.5
+J.Jaquez u20.5 Pts+Rebs+Ast,JoeDellera,Miami Heat,J.Jaquez,N,23.0,Orlando Magic,0.0,0.782608695652174,1,1.0,1,0.9,1,-130,1.0,1.7692307692307692,0.7692307692307692
 B.Adebayo u4.5 Ast,TopShelfAction,Miami Heat,B.Adebayo,N,7.0,Orlando Magic,0.0,0.4444444444444444,0,0.6,1,0.3,0,120,0.3,0.66,0.36
 J.Morant o7.5 Ast,TopShelfAction,Memphis Grizzlies,J.Morant,Y,9.0,Toronto Raptors,1.0,0.5555555555555556,1,0.4,0,0.4,0,105,0.3,0.6149999999999999,0.3149999999999999
 S.Gilgeous-Alexander o5.5 Ast,TopShelfAction,Oklahoma City Thunder,S.Gilgeous-Alexander,Y,8.0,Indiana Pacers,0.0,0.5,0,0.4,0,0.4,0,115,1.6,3.44,1.84
 T.Haliburton u8.5 Ast,PvB_Bets,Indiana Pacers,T.Haliburton,Y,8.0,Oklahoma City Thunder,1.0,0.4666666666666667,0,0.2,0,0.6,1,105,1.0,2.05,1.0499999999999998
-T.Young o11.5 Ast,the_degenerates,Atlanta Hawks,T.Young,Y,13.0,Chicago Bulls,1.0,0.5,0,0.2,0,0.3,0,-115,1.15,2.1499999999999995,0.9999999999999996
 J.Poole u5.5 Ast,TopShelfAction,Washington Wizards,J.Poole,Y,3.0,Charlotte Hornets,1.0,0.56,1,0.4,0,0.4,0,-120,1.0,1.8333333333333333,0.8333333333333335
 A.Nembhard o4.5 Ast,TopShelfAction,Indiana Pacers,A.Nembhard,Y,7.0,Oklahoma City Thunder,1.0,0.375,0,0.4,0,0.3,0,100,0.4,0.8,0.4
 D.Avdija o2.5 Ast,Rotowire Sleeper,Portland Trail Blazers,D.Avdija,Y,6.0,Utah Jazz,1.0,0.5517241379310345,1,0.8,1,0.6,1,100,1.5,3.0,1.5
 J.Duren o1.5 Ast,Rotowire Sleeper,Detroit Pistons,J.Duren,Y,3.0,Sacramento Kings,0.0,0.7037037037037037,1,0.8,1,0.9,1,100,1.5,3.0,1.5
-D.Avdija o15.5 Pts+Ast,Rotowire Sleeper,Portland Trail Blazers,D.Avdija,Y,33.0,Utah Jazz,1.0,0.4482758620689655,0,0.8,1,0.7,1,100,1.5,3.0,1.5
+T.Young o11.5 Ast,the_degenerates,Atlanta Hawks,T.Young,Y,13.0,Chicago Bulls,1.0,0.5,0,0.2,0,0.3,0,-115,1.15,2.1499999999999995,0.9999999999999996
 S.Sharpe o19.5 Pts+Ast,Rotowire Sleeper,Portland Trail Blazers,S.Sharpe,Y,30.0,Utah Jazz,1.0,0.4761904761904761,0,0.4,0,0.4,0,100,1.5,3.0,1.5
+D.Avdija o15.5 Pts+Ast,Rotowire Sleeper,Portland Trail Blazers,D.Avdija,Y,33.0,Utah Jazz,1.0,0.4482758620689655,0,0.8,1,0.7,1,100,1.5,3.0,1.5
+D.Fox o2.5 3pt M,TopShelfAction,Sacramento Kings,D.Fox,N,2.0,Detroit Pistons,1.0,0.3666666666666666,0,0.2,0,0.3,0,135,0.2,0.47,0.27
+L.Dort o1.5 3pt M,TopShelfAction,Oklahoma City Thunder,L.Dort,Y,3.0,Indiana Pacers,0.0,0.5714285714285714,1,0.6,1,0.6,1,-135,0.7,1.2185185185185183,0.5185185185185184
+O.Agbaji o1.5 3pt M,TopShelfAction,Toronto Raptors,O.Agbaji,N,1.0,Memphis Grizzlies,0.0,0.4666666666666667,0,0.2,0,0.2,0,154,0.5,1.27,0.77
+J.Suggs o2.5 3pt M,TopShelfAction,Orlando Magic,J.Suggs,N,2.0,Miami Heat,1.0,0.3448275862068966,0,0.4,0,0.4,0,110,1.0,2.1,1.1
+D.Avdija u1.5 3pt M,TopShelfAction,Portland Trail Blazers,D.Avdija,N,2.0,Utah Jazz,1.0,0.5517241379310345,1,0.4,0,0.3,0,-105,0.6,1.1714285714285713,0.5714285714285713
+I.Joe u1.5 3pt M,TopShelfAction,Oklahoma City Thunder,I.Joe,Y,1.0,Indiana Pacers,0.0,0.3461538461538461,0,0.8,1,0.7,1,124,0.7,1.568,0.8680000000000001
+L.Ball o3.5 3pt M,TopShelfAction_duplicate,Charlotte Hornets,L.Ball,Y,4.0,Washington Wizards,0.0,0.7142857142857143,1,0.6,1,0.6,1,-150,1.0,1.6666666666666663,0.6666666666666665

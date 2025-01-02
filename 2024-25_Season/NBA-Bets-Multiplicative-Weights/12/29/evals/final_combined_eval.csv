@@ -15,17 +15,20 @@ A.Edwards o25.5 Pts,itsbucketsnba,Minnesota Timberwolves,A.Edwards,N,14.0,San An
 V.Wembanyama u24.5 Pts,TopShelfAction,San Antonio Spurs,V.Wembanyama,N,34.0,Minnesota Timberwolves,0.0,0.4615384615384615,0,0.2,0,0.3,0,-110,0.5,0.9545454545454546,0.4545454545454546
 K.Johnson u9.5 Pts,TopShelfAction_duplicate,San Antonio Spurs,K.Johnson,N,13.0,Minnesota Timberwolves,0.0,0.3214285714285714,0,0.4,0,0.3,0,105,0.4,0.82,0.4199999999999999
 K.Johnson u9.5 Pts,TopShelfAction_duplicate,Brooklyn Nets,K.Johnson,N,14.0,Orlando Magic,0.0,0.7241379310344828,1,0.4,0,0.6,1,105,0.4,0.82,0.4199999999999999
+C.Paul o3.5 Rebs,kylemurray03,San Antonio Spurs,C.Paul,Y,5.0,Minnesota Timberwolves,0.0,0.5806451612903226,1,0.8,1,0.8,1,-105,1.05,2.05,0.9999999999999998
 K.Olynyk o6.5 Rebs+Ast,kylemurray03,Toronto Raptors,K.Olynyk,Y,8.0,Atlanta Hawks,1.0,0.375,0,0.6,1,0.375,0,-120,1.2,2.2,1.0000000000000002
 J.Jackson u9.5 Rebs+Ast,allanlemdfs,Memphis Grizzlies,J.Jackson,Y,9.0,Oklahoma City Thunder,0.0,0.9,1,0.6,1,0.7,1,-135,0.68,1.1837037037037037,0.5037037037037037
 J.Jaquez o5.5 Rebs+Ast,Rotowire Prizepicks,Miami Heat,J.Jaquez,N,3.0,Houston Rockets,0.0,0.72,1,0.8,1,0.4,0,100,1.5,3.0,1.5
-R.Barrett o36.5 Pts+Rebs+Ast,the_degenerates,Toronto Raptors,R.Barrett,N,27.0,Atlanta Hawks,1.0,0.5,0,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
 J.Sochan o24.5 Pts+Rebs+Ast,Rotowire Prizepicks,San Antonio Spurs,J.Sochan,N,10.0,Minnesota Timberwolves,0.0,0.6666666666666666,1,0.8,1,0.6,1,100,1.5,3.0,1.5
 M.Turner o21.5 Pts+Rebs+Ast,Rotowire Sleeper,Indiana Pacers,M.Turner,Y,22.0,Boston Celtics,0.0,0.5666666666666667,1,0.8,1,0.7,1,100,1.5,3.0,1.5
 D.Bane u31.5 Pts+Rebs+Ast,TopShelfAction,Memphis Grizzlies,D.Bane,N,35.0,Oklahoma City Thunder,0.0,0.7083333333333334,1,0.6,1,0.6,1,-115,0.9,1.6826086956521735,0.7826086956521737
 D.Bane u30.5 Pts+Rebs+Ast,allanlemdfs,Memphis Grizzlies,D.Bane,N,35.0,Oklahoma City Thunder,0.0,0.7083333333333334,1,0.6,1,0.6,1,-137,0.69,1.1936496350364962,0.5036496350364963
 V.Wembanyama u39.5 Pts+Rebs+Ast,TopShelfAction,San Antonio Spurs,V.Wembanyama,N,44.0,Minnesota Timberwolves,0.0,0.5,0,0.4,0,0.5,0,-115,0.7,1.3086956521739128,0.6086956521739129
+R.Barrett o36.5 Pts+Rebs+Ast,the_degenerates,Toronto Raptors,R.Barrett,N,27.0,Atlanta Hawks,1.0,0.5,0,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
 J.Randle o4.5 Ast,TopShelfAction,Minnesota Timberwolves,J.Randle,N,4.0,San Antonio Spurs,1.0,0.3333333333333333,0,0.8,1,0.4,0,120,1.0,2.2,1.2000000000000002
 J.Randle o23.5 Pts+Ast,Rotowire Prizepicks,Minnesota Timberwolves,J.Randle,N,20.0,San Antonio Spurs,1.0,0.6,1,0.8,1,0.6,1,100,1.5,3.0,1.5
 C.Thomas o20.5 Pts+Ast,Rotowire Prizepicks,Brooklyn Nets,C.Thomas,Y,31.0,Orlando Magic,0.0,0.7058823529411765,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-J.Jaquez o12.5 Pts+Ast,Rotowire Sleeper,Miami Heat,J.Jaquez,N,2.0,Houston Rockets,0.0,0.28,0,0.2,0,0.2,0,100,1.5,3.0,1.5
 C.Paul o15.5 Pts+Ast,Rotowire Prizepicks,San Antonio Spurs,C.Paul,Y,20.0,Minnesota Timberwolves,0.0,0.6129032258064516,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+J.Jaquez o12.5 Pts+Ast,Rotowire Sleeper,Miami Heat,J.Jaquez,N,2.0,Houston Rockets,0.0,0.28,0,0.2,0,0.2,0,100,1.5,3.0,1.5
+V.Wembanyama u3.5 3pt M,PvB_Bets,San Antonio Spurs,V.Wembanyama,N,4.0,Minnesota Timberwolves,0.0,0.5384615384615384,1,0.2,0,0.5,0,-155,1.0,1.6451612903225803,0.6451612903225805
+V.Wembanyama u3.5 3pt M,TopShelfAction,San Antonio Spurs,V.Wembanyama,N,4.0,Minnesota Timberwolves,0.0,0.5384615384615384,1,0.2,0,0.5,0,-145,0.7,1.1827586206896552,0.4827586206896552

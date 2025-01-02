@@ -1,16 +1,21 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
-N.Jokic o49.5 Pts+Rebs+Ast,the_degenerates,Denver Nuggets,New York Knicks,1.0,0.8333333333333334,1,1.0,1,0.9,1,-125,1.25,2.25,1.0,N.Jokic
-D.Sabonis o22.5 Pts+Ast,Rotowire Prizepicks,Sacramento Kings,Oklahoma City Thunder,1.0,0.8,1,0.6,1,0.8,1,100,1.5,3.0,1.5,D.Sabonis
-Y.Missi o5.5 Rebs+Ast,Rotowire Prizepicks,New Orleans Pelicans,Indiana Pacers,0.0,0.75,1,1.0,1,0.8,1,100,1.5,3.0,1.5,Y.Missi
-D.Sabonis o36.5 Pts+Rebs+Ast,Rotowire Sleeper,Sacramento Kings,Oklahoma City Thunder,1.0,0.7333333333333333,1,0.8,1,0.9,1,100,1.5,3.0,1.5,D.Sabonis
-B.Miller u34.5 Pts+Rebs+Ast,allanlemdfs,Charlotte Hornets,Orlando Magic,1.0,0.6666666666666666,1,0.4,0,0.6,1,-125,1.25,2.25,1.0,B.Miller
-N.Jokic o27.5 Pts,JoeDellera,Denver Nuggets,New York Knicks,1.0,0.6666666666666666,1,0.8,1,0.7,1,-110,1.0,1.9090909090909087,0.9090909090909092,N.Jokic
-B.Miller u30.5 Pts+Rebs,kylemurray03,Charlotte Hornets,Orlando Magic,1.0,0.6666666666666666,1,0.4,0,0.6,1,-110,1.1,2.1,1.0,B.Miller
-J.Hart o13.5 Pts,HPBasketball,New York Knicks,Denver Nuggets,0.0,0.625,1,1.0,1,0.8,1,-120,0.6,1.1,0.5000000000000001,J.Hart
-J.Poeltl o26.5 Pts+Rebs,ThePropfessor_,Toronto Raptors,Detroit Pistons,0.0,0.5882352941176471,1,1.0,1,0.6,1,-113,1.13,2.13,1.0,J.Poeltl
-J.Brunson o22.5 Pts,Rotowire Prizepicks,New York Knicks,Denver Nuggets,0.0,0.5625,1,0.8,1,0.6,1,100,1.5,3.0,1.5,J.Brunson
-M.Bridges o15.5 Pts,Rotowire Prizepicks,New York Knicks,Denver Nuggets,0.0,0.5625,1,0.6,1,0.5,0,100,1.5,3.0,1.5,M.Bridges
-I.Zubac o26.5 Pts+Rebs,Rotowire Prizepicks,Los Angeles Clippers,Boston Celtics,0.0,0.5555555555555556,1,0.6,1,0.5,0,100,1.5,3.0,1.5,I.Zubac
-A.Black o4.5 Ast,ThePropfessor_,Orlando Magic,Charlotte Hornets,0.0,0.5,0,0.8,1,0.6,1,-125,1.25,2.25,1.0,A.Black
-J.Ivey o25.5 Pts+Ast,PlayerPropSavant,Detroit Pistons,Toronto Raptors,1.0,0.4117647058823529,0,0.2,0,0.4,0,-120,1.2,2.2,1.0000000000000002,J.Ivey
-K.Irving o30.5 Pts+Rebs,the_degenerates,Dallas Mavericks,Atlanta Hawks,0.0,0.375,0,0.2,0,0.4,0,-107,1.07,2.0700000000000003,1.0000000000000002,K.Irving
+N.Jokic o49.5 Pts+Rebs+Ast,the_degenerates,Denver Nuggets,New York Knicks,1.0,0.8333333333333334,1,1.0,1,0.9,1,-125.0,1.25,2.25,1.0,N.Jokic
+D.Sabonis o22.5 Pts+Ast,Rotowire Prizepicks,Sacramento Kings,Oklahoma City Thunder,1.0,0.8,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,D.Sabonis
+Y.Missi o5.5 Rebs+Ast,Rotowire Prizepicks,New Orleans Pelicans,Indiana Pacers,0.0,0.75,1,1.0,1,0.8,1,100.0,1.5,3.0,1.5,Y.Missi
+D.Sabonis o36.5 Pts+Rebs+Ast,Rotowire Sleeper,Sacramento Kings,Oklahoma City Thunder,1.0,0.7333333333333333,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,D.Sabonis
+T.Hardaway u2.5 Rebs,cawright95,Detroit Pistons,Toronto Raptors,1.0,0.7333333333333333,1,0.8,1,0.7,1,-150.0,1.5,2.5,1.0,T.Hardaway
+T.Hardaway u2.5 Rebs,JoeDellera,Detroit Pistons,Toronto Raptors,1.0,0.7333333333333333,1,0.8,1,0.7,1,-130.0,1.0,1.7692307692307692,0.7692307692307692,T.Hardaway
+B.Miller u34.5 Pts+Rebs+Ast,allanlemdfs,Charlotte Hornets,Orlando Magic,1.0,0.6666666666666666,1,0.4,0,0.6,1,-125.0,1.25,2.25,1.0,B.Miller
+S.Barnes o31.5 Pts+Rebs+Ast,Rotowire Prizepicks,Toronto Raptors,Detroit Pistons,0.0,0.6666666666666666,1,0.8,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,S.Barnes
+N.Jokic o27.5 Pts,JoeDellera,Denver Nuggets,New York Knicks,1.0,0.6666666666666666,1,0.8,1,0.7,1,-110.0,1.0,1.9090909090909087,0.9090909090909092,N.Jokic
+B.Miller u30.5 Pts+Rebs,kylemurray03,Charlotte Hornets,Orlando Magic,1.0,0.6666666666666666,1,0.4,0,0.6,1,-110.0,1.1,2.1,1.0,B.Miller
+J.Hart o28.5 Pts+Rebs+Ast,sandyplashkes,New York Knicks,Denver Nuggets,0.0,0.625,1,0.8,1,0.7,1,-112.0,1.12,2.12,1.0,J.Hart
+J.Hart o13.5 Pts,HPBasketball,New York Knicks,Denver Nuggets,0.0,0.625,1,1.0,1,0.8,1,-120.0,0.6,1.1,0.5000000000000001,J.Hart
+J.Poeltl o26.5 Pts+Rebs,ThePropfessor_,Toronto Raptors,Detroit Pistons,0.0,0.5882352941176471,1,1.0,1,0.6,1,-113.0,1.13,2.13,1.0,J.Poeltl
+D.DeRozan o3.5 Rebs,kylemurray03,Sacramento Kings,Oklahoma City Thunder,1.0,0.5714285714285714,1,0.8,1,0.5,0,-125.0,1.25,2.25,1.0,D.DeRozan
+M.Bridges o15.5 Pts,Rotowire Prizepicks,New York Knicks,Denver Nuggets,0.0,0.5625,1,0.6,1,0.5,0,100.0,1.5,3.0,1.5,M.Bridges
+J.Brunson o22.5 Pts,Rotowire Prizepicks,New York Knicks,Denver Nuggets,0.0,0.5625,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5,J.Brunson
+I.Zubac o26.5 Pts+Rebs,Rotowire Prizepicks,Los Angeles Clippers,Boston Celtics,0.0,0.5555555555555556,1,0.6,1,0.5,0,100.0,1.5,3.0,1.5,I.Zubac
+A.Black o4.5 Ast,ThePropfessor_,Orlando Magic,Charlotte Hornets,0.0,0.5,0,0.8,1,0.6,1,-125.0,1.25,2.25,1.0,A.Black
+J.Ivey o25.5 Pts+Ast,PlayerPropSavant,Detroit Pistons,Toronto Raptors,1.0,0.4117647058823529,0,0.2,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002,J.Ivey
+K.Irving o30.5 Pts+Rebs,the_degenerates,Dallas Mavericks,Atlanta Hawks,0.0,0.375,0,0.2,0,0.4,0,-107.0,1.07,2.0700000000000003,1.0000000000000002,K.Irving

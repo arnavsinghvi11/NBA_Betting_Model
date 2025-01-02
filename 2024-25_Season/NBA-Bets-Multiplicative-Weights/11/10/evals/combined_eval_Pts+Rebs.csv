@@ -1,8 +1,7 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,D.Sabonis o28.5 Pts+Rebs,Rotowire Sleeper,D.Sabonis,Y,32.0,Sacramento Kings,Phoenix Suns,0.0,0.8888888888888888,1,0.8,1,0.8888888888888888,1,100.0,1.5,3.0,1.5
-1,R.Gobert o22.5 Pts+Rebs,Rotowire Prizepicks,R.Gobert,N,20.0,Minnesota Timberwolves,Miami Heat,1.0,0.5555555555555556,1,0.6,1,0.5555555555555556,1,100.0,1.5,3.0,1.5
-2,P.George o22.5 Pts+Rebs,Rotowire Prizepicks,P.George,N,18.0,Philadelphia 76ers,Charlotte Hornets,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,100.0,1.5,3.0,1.5
-3,T.Jones o12.5 Pts+Rebs,Rotowire Sleeper,T.Jones,Y,24.0,Phoenix Suns,Sacramento Kings,1.0,0.6666666666666666,1,0.4,0,0.6666666666666666,1,100.0,1.5,3.0,1.5
-4,S.Curry o27.5 Pts+Rebs,Rotowire Prizepicks,S.Curry,Y,41.0,Golden State Warriors,Oklahoma City Thunder,0.0,0.1666666666666666,0,0.2,0,0.1666666666666666,0,100.0,1.5,3.0,1.5
-5,J.Poeltl o22.5 Pts+Rebs,Rotowire Sleeper,J.Poeltl,Y,24.0,Toronto Raptors,Los Angeles Lakers,0.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5
-6,R.Hachimura o16.5 Pts+Rebs,Rotowire Sleeper,R.Hachimura,N,9.0,Los Angeles Lakers,Toronto Raptors,1.0,0.5,0,0.2,0,0.5,0,100.0,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,D.Sabonis o28.5 Pts+Rebs,Rotowire Sleeper,Sacramento Kings,D.Sabonis,Y,32.0,Phoenix Suns,0.0,0.8888888888888888,1,0.8,1,0.8888888888888888,1,100.0,1.5,3.0,1.5
+1,R.Gobert o22.5 Pts+Rebs,Rotowire Prizepicks,Minnesota Timberwolves,R.Gobert,N,20.0,Miami Heat,1.0,0.5555555555555556,1,0.6,1,0.5555555555555556,1,100.0,1.5,3.0,1.5
+2,S.Curry o27.5 Pts+Rebs,Rotowire Prizepicks,Golden State Warriors,S.Curry,Y,41.0,Oklahoma City Thunder,0.0,0.1666666666666666,0,0.2,0,0.1666666666666666,0,100.0,1.5,3.0,1.5
+3,J.Poeltl o22.5 Pts+Rebs,Rotowire Sleeper,Toronto Raptors,J.Poeltl,Y,24.0,Los Angeles Lakers,0.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5
+4,R.Hachimura o16.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Lakers,R.Hachimura,N,9.0,Toronto Raptors,1.0,0.5,0,0.2,0,0.5,0,100.0,1.5,3.0,1.5
+5,T.Jones o12.5 Pts+Rebs,Rotowire Sleeper,Phoenix Suns,T.Jones,Y,24.0,Sacramento Kings,1.0,0.6666666666666666,1,0.4,0,0.6666666666666666,1,100.0,1.5,3.0,1.5

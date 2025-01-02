@@ -1,19 +1,19 @@
-Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value
-G.Antetokounmpo u2.5 Stl+Blk,allanlemdfs,Milwaukee Bucks,Atlanta Hawks,1.0,0.7777777777777778,1,0.8,1,0.6,1,-135,0.68,1.1837037037037037,0.5037037037037037,G.Antetokounmpo,Y,1.0
-G.Antetokounmpo u2.5 Stl+Blk,JoeDellera,Milwaukee Bucks,Atlanta Hawks,1.0,0.7777777777777778,1,0.8,1,0.6,1,-135,1.0,1.7407407407407407,0.7407407407407407,G.Antetokounmpo,Y,1.0
-J.Ivey o7.5 Rebs+Ast,Rotowire Prizepicks,Detroit Pistons,Boston Celtics,0.0,0.6818181818181818,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Ivey,N,4.0
-J.McCain u7.5 Rebs+Ast,allanlemdfs,Philadelphia 76ers,Orlando Magic,1.0,0.8421052631578947,1,0.8,1,0.7,1,-120,0.6,1.1,0.5000000000000001,J.McCain,N,10.0
-J.Randle o18.5 Pts,sandyplashkes,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.7,1,0.6,1,0.7,1,-116,1.16,2.16,0.9999999999999998,J.Randle,Y,20.0
-A.Edwards o24.5 Pts,RoyalsProps,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.6,1,0.6,1,0.6,1,-125,1.25,2.25,1.0,A.Edwards,N,16.0
-A.Horford o7.5 Pts,Rotowire Sleeper,Boston Celtics,Detroit Pistons,1.0,0.8125,1,0.8,1,0.9,1,100,1.5,3.0,1.5,A.Horford,Y,14.0
-R.Gobert o22.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.6,1,0.8,1,0.7,1,100,1.5,3.0,1.5,R.Gobert,Y,24.0
-J.Randle o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Randle,N,28.0
-N.Reid o16.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.7,1,0.4,0,0.6,1,100,1.5,3.0,1.5,N.Reid,N,9.0
-C.Cunningham o34.5 Pts+Rebs+Ast,Rotowire Prizepicks,Detroit Pistons,Boston Celtics,0.0,0.7368421052631579,1,0.8,1,0.8,1,100,1.5,3.0,1.5,C.Cunningham,Y,50.0
-R.Gobert o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.45,0,0.4,0,0.4,0,100,1.5,3.0,1.5,R.Gobert,Y,24.0
-M.Beasley o14.5 Pts+Rebs+Ast,Rotowire Prizepicks,Detroit Pistons,Boston Celtics,0.0,0.782608695652174,1,0.8,1,0.9,1,100,1.5,3.0,1.5,M.Beasley,Y,28.0
-I.Zubac o26.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Clippers,Minnesota Timberwolves,1.0,0.7391304347826086,1,0.6,1,0.8,1,100,1.5,3.0,1.5,I.Zubac,N,15.0
-T.Maxey u36.5 Pts+Rebs+Ast,kylemurray03,Philadelphia 76ers,Orlando Magic,1.0,0.6153846153846154,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996,T.Maxey,Y,26.0
-I.Zubac o27.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Clippers,Minnesota Timberwolves,1.0,0.6521739130434783,1,0.6,1,0.8,1,100,1.5,3.0,1.5,I.Zubac,N,15.0
-J.Randle o28.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Randle,N,28.0
-J.Randle o29.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.65,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Randle,N,28.0
+Play,Expert,Team_x,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value,Team_y
+G.Antetokounmpo u2.5 Stl+Blk,allanlemdfs,Milwaukee Bucks,Atlanta Hawks,1.0,0.7777777777777778,1,0.8,1,0.6,1,-135,0.68,1.1837037037037037,0.5037037037037037,G.Antetokounmpo,Y,1.0,Milwaukee Bucks
+G.Antetokounmpo u2.5 Stl+Blk,JoeDellera,Milwaukee Bucks,Atlanta Hawks,1.0,0.7777777777777778,1,0.8,1,0.6,1,-135,1.0,1.7407407407407407,0.7407407407407407,G.Antetokounmpo,Y,1.0,Milwaukee Bucks
+J.Ivey o7.5 Rebs+Ast,Rotowire Prizepicks,Detroit Pistons,Boston Celtics,0.0,0.6818181818181818,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Ivey,N,4.0,Detroit Pistons
+J.McCain u7.5 Rebs+Ast,allanlemdfs,Philadelphia 76ers,Orlando Magic,1.0,0.8421052631578947,1,0.8,1,0.7,1,-120,0.6,1.1,0.5000000000000001,J.McCain,N,10.0,Philadelphia 76ers
+J.Randle o18.5 Pts,sandyplashkes,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.7,1,0.6,1,0.7,1,-116,1.16,2.16,0.9999999999999998,J.Randle,Y,20.0,Minnesota Timberwolves
+A.Edwards o24.5 Pts,RoyalsProps,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.6,1,0.6,1,0.6,1,-125,1.25,2.25,1.0,A.Edwards,N,16.0,Minnesota Timberwolves
+A.Horford o7.5 Pts,Rotowire Sleeper,Boston Celtics,Detroit Pistons,1.0,0.8125,1,0.8,1,0.9,1,100,1.5,3.0,1.5,A.Horford,Y,14.0,Boston Celtics
+N.Reid o1.5 3pt M,MillyProps,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.6,1,0.4,0,0.5,0,-115,1.0,1.869565217391304,0.8695652173913042,N.Reid,N,0.0,Minnesota Timberwolves
+R.Gobert o22.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.6,1,0.8,1,0.7,1,100,1.5,3.0,1.5,R.Gobert,Y,24.0,Minnesota Timberwolves
+J.Randle o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Randle,N,28.0,Minnesota Timberwolves
+N.Reid o16.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.7,1,0.4,0,0.6,1,100,1.5,3.0,1.5,N.Reid,N,9.0,Minnesota Timberwolves
+C.Cunningham o34.5 Pts+Rebs+Ast,Rotowire Prizepicks,Detroit Pistons,Boston Celtics,0.0,0.7368421052631579,1,0.8,1,0.8,1,100,1.5,3.0,1.5,C.Cunningham,Y,50.0,Detroit Pistons
+R.Gobert o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.45,0,0.4,0,0.4,0,100,1.5,3.0,1.5,R.Gobert,Y,24.0,Minnesota Timberwolves
+M.Beasley o14.5 Pts+Rebs+Ast,Rotowire Prizepicks,Detroit Pistons,Boston Celtics,0.0,0.782608695652174,1,0.8,1,0.9,1,100,1.5,3.0,1.5,M.Beasley,Y,28.0,Detroit Pistons
+I.Zubac o26.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Clippers,Minnesota Timberwolves,1.0,0.7391304347826086,1,0.6,1,0.8,1,100,1.5,3.0,1.5,I.Zubac,N,15.0,Los Angeles Clippers
+I.Zubac o27.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Clippers,Minnesota Timberwolves,1.0,0.6521739130434783,1,0.6,1,0.8,1,100,1.5,3.0,1.5,I.Zubac,N,15.0,Los Angeles Clippers
+J.Randle o28.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Randle,N,28.0,Minnesota Timberwolves
+J.Randle o29.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.65,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Randle,N,28.0,Minnesota Timberwolves

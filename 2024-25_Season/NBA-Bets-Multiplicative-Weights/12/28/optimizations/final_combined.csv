@@ -1,34 +1,37 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
+W.Kessler o2.5 Blk,kylemurray03,Utah Jazz,Philadelphia 76ers,1.0,0.5652173913043478,1,0.6,1,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996,W.Kessler
 N.Vucevic o28.5 Pts+Rebs,Rotowire Sleeper,Chicago Bulls,Milwaukee Bucks,1.0,0.7666666666666667,1,0.8,1,0.7,1,100,1.5,3.0,1.5,N.Vucevic
+N.Vucevic o28.5 Pts+Rebs,Rotowire Prizepicks,Chicago Bulls,Milwaukee Bucks,1.0,0.7666666666666667,1,0.8,1,0.7,1,100,1.5,3.0,1.5,N.Vucevic
+J.Poole u28.5 Pts+Rebs,kylemurray03,Washington Wizards,New York Knicks,1.0,0.7307692307692307,1,0.2,0,0.5,0,-125,1.25,2.25,1.0,J.Poole
+K.Thompson o19.5 Pts+Rebs,Rotowire Sleeper,Dallas Mavericks,Portland Trail Blazers,0.0,0.4074074074074074,0,0.2,0,0.4,0,100,1.5,3.0,1.5,K.Thompson
 N.Jokic o49.5 Pts+Rebs+Ast,Rotowire Prizepicks,Denver Nuggets,Detroit Pistons,1.0,0.6538461538461539,1,0.4,0,0.5,0,100,1.5,3.0,1.5,N.Jokic
+J.Hart o26.5 Pts+Rebs+Ast,Rotowire Sleeper,New York Knicks,Washington Wizards,0.0,0.6,1,0.6,1,0.6,1,100,1.5,3.0,1.5,J.Hart
+S.Curry u17.5 Pts+Rebs+Ast,allanlemdfs_duplicate,Charlotte Hornets,Oklahoma City Thunder,1.0,0.925925925925926,1,1.0,1,0.9,1,-125,0.31,0.558,0.248,S.Curry
+J.Embiid u41.5 Pts+Rebs+Ast,TopShelfAction,Philadelphia 76ers,Utah Jazz,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-110,0.8,1.5272727272727271,0.7272727272727273,J.Embiid
+K.Irving u40.5 Pts+Rebs+Ast,TopShelfAction,Dallas Mavericks,Portland Trail Blazers,0.0,0.75,1,0.8,1,0.8,1,-125,0.9,1.62,0.7200000000000001,K.Irving
+T.Maxey o33.5 Pts+Rebs+Ast,Rotowire Sleeper,Philadelphia 76ers,Utah Jazz,0.0,0.5,0,0.6,1,0.4,0,100,1.5,3.0,1.5,T.Maxey
+A.Davis u46.5 Pts+Rebs+Ast,TopShelfAction,Los Angeles Lakers,Sacramento Kings,1.0,0.6896551724137931,1,0.8,1,0.8,1,-125,0.7,1.26,0.56,A.Davis
+K.Huerter o11.5 Pts+Rebs+Ast,Rotowire Sleeper,Sacramento Kings,Los Angeles Lakers,0.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5,K.Huerter
+A.Davis o44.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Lakers,Sacramento Kings,1.0,0.4137931034482758,0,0.2,0,0.2,0,100,1.5,3.0,1.5,A.Davis
+D.Schroder u1.5 3pt M,TopShelfAction,Golden State Warriors,Phoenix Suns,1.0,0.8,1,0.8,1,0.8,1,110,0.6,1.26,0.66,D.Schroder
+I.Hartenstein o12.5 Rebs,Rotowire Prizepicks,Oklahoma City Thunder,Charlotte Hornets,0.0,0.5714285714285714,1,0.4,0,0.5,0,100,1.5,3.0,1.5,I.Hartenstein
+B.Lopez u5.5 Rebs,Markus_Markets,Milwaukee Bucks,Chicago Bulls,0.0,0.5517241379310345,1,0.6,1,0.5,0,-117,1.0,1.8547008547008548,0.8547008547008548,B.Lopez
 T.Rozier o13.5 Pts,therocketplays,Miami Heat,Atlanta Hawks,0.0,0.44,0,0.4,0,0.5,0,-105,1.05,2.05,0.9999999999999998,T.Rozier
+N.Jokic o28.5 Pts,kylemurray03,Denver Nuggets,Detroit Pistons,1.0,0.5,0,0.4,0,0.4,0,-115,1.15,2.1499999999999995,0.9999999999999996,N.Jokic
+N.Vucevic o18.5 Pts,itsbucketsnba,Chicago Bulls,Milwaukee Bucks,1.0,0.6333333333333333,1,0.6,1,0.6,1,-105,1.0,1.9523809523809523,0.9523809523809524,N.Vucevic
+A.Davis o25.5 Pts,itsbucketsnba,Los Angeles Lakers,Sacramento Kings,1.0,0.5172413793103449,1,0.2,0,0.3,0,-110,1.0,1.9090909090909087,0.9090909090909092,A.Davis
+L.Markkanen u23.5 Pts,TopShelfAction,Utah Jazz,Philadelphia 76ers,1.0,0.6666666666666666,1,0.4,0,0.7,1,-120,0.7,1.2833333333333334,0.5833333333333335,L.Markkanen
+J.Embiid u28.5 Pts,TopShelfAction,Philadelphia 76ers,Utah Jazz,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-120,0.8,1.4666666666666668,0.6666666666666667,J.Embiid
+D.Russell u15.5 Pts,TopShelfAction,Los Angeles Lakers,Sacramento Kings,1.0,0.6428571428571429,1,0.6,1,0.5,0,-110,1.2,2.290909090909091,1.090909090909091,D.Russell
+T.Maxey o24.5 Pts,TopShelfAction,Philadelphia 76ers,Utah Jazz,0.0,0.5454545454545454,1,0.8,1,0.5,0,115,0.7,1.505,0.8049999999999999,T.Maxey
+K.Irving o25.5 Pts,Rotowire Sleeper,Dallas Mavericks,Portland Trail Blazers,0.0,0.3571428571428571,0,0.2,0,0.3,0,100,1.5,3.0,1.5,K.Irving
+S.Sharpe o16.5 Pts,Rotowire Sleeper,Portland Trail Blazers,Dallas Mavericks,1.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5,S.Sharpe
+D.Fox o24.5 Pts,sandyplashkes,Sacramento Kings,Los Angeles Lakers,0.0,0.4838709677419355,0,0.8,1,0.4,0,-112,1.12,2.12,1.0,D.Fox
 S.Gilgeous-Alexander o35.5 Pts+Ast,Rotowire Sleeper,Oklahoma City Thunder,Charlotte Hornets,0.0,0.5172413793103449,1,0.8,1,0.6,1,100,1.5,3.0,1.5,S.Gilgeous-Alexander
 N.Jokic o36.5 Pts+Ast,JoeDellera,Denver Nuggets,Detroit Pistons,1.0,0.7692307692307693,1,0.8,1,0.7,1,-113,1.0,1.8849557522123888,0.8849557522123894,N.Jokic
-K.Irving o25.5 Pts,Rotowire Sleeper,Dallas Mavericks,Portland Trail Blazers,0.0,0.3571428571428571,0,0.2,0,0.3,0,100,1.5,3.0,1.5,K.Irving
+C.Cunningham o33.5 Pts+Ast,the_degenerates,Detroit Pistons,Denver Nuggets,0.0,0.5185185185185185,1,0.8,1,0.7,1,-120,1.2,2.2,1.0000000000000002,C.Cunningham
+A.Simons o22.5 Pts+Ast,Rotowire Prizepicks,Portland Trail Blazers,Dallas Mavericks,1.0,0.5185185185185185,1,0.6,1,0.5,0,100,1.5,3.0,1.5,A.Simons
 I.Hartenstein o15.5 Rebs+Ast,JoeDellera,Oklahoma City Thunder,Charlotte Hornets,0.0,0.6428571428571429,1,0.4,0,0.6,1,-130,1.0,1.7692307692307692,0.7692307692307692,I.Hartenstein
 A.Reaves o4.5 Ast,Markus_Markets,Los Angeles Lakers,Sacramento Kings,1.0,0.64,1,0.8,1,0.6,1,-140,1.0,1.7142857142857144,0.7142857142857144,A.Reaves
 B.Beal o3.5 Ast,Markus_Markets,Phoenix Suns,Golden State Warriors,0.0,0.5,0,0.6,1,0.6,1,-115,1.0,1.869565217391304,0.8695652173913042,B.Beal
-N.Vucevic o28.5 Pts+Rebs,Rotowire Prizepicks,Chicago Bulls,Milwaukee Bucks,1.0,0.7666666666666667,1,0.8,1,0.7,1,100,1.5,3.0,1.5,N.Vucevic
-C.Cunningham o33.5 Pts+Ast,the_degenerates,Detroit Pistons,Denver Nuggets,0.0,0.5185185185185185,1,0.8,1,0.7,1,-120,1.2,2.2,1.0000000000000002,C.Cunningham
-J.Hart o26.5 Pts+Rebs+Ast,Rotowire Sleeper,New York Knicks,Washington Wizards,0.0,0.6,1,0.6,1,0.6,1,100,1.5,3.0,1.5,J.Hart
-S.Curry u17.5 Pts+Rebs+Ast,allanlemdfs_duplicate,Charlotte Hornets,Oklahoma City Thunder,1.0,0.925925925925926,1,1.0,1,0.9,1,-125,0.31,0.558,0.248,S.Curry
-J.Poole u28.5 Pts+Rebs,kylemurray03,Washington Wizards,New York Knicks,1.0,0.7307692307692307,1,0.2,0,0.5,0,-125,1.25,2.25,1.0,J.Poole
-N.Jokic o28.5 Pts,kylemurray03,Denver Nuggets,Detroit Pistons,1.0,0.5,0,0.4,0,0.4,0,-115,1.15,2.1499999999999995,0.9999999999999996,N.Jokic
-W.Kessler o2.5 Blk,kylemurray03,Utah Jazz,Philadelphia 76ers,1.0,0.5652173913043478,1,0.6,1,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996,W.Kessler
-N.Vucevic o18.5 Pts,itsbucketsnba,Chicago Bulls,Milwaukee Bucks,1.0,0.6333333333333333,1,0.6,1,0.6,1,-105,1.0,1.9523809523809523,0.9523809523809524,N.Vucevic
-A.Davis o25.5 Pts,itsbucketsnba,Los Angeles Lakers,Sacramento Kings,1.0,0.5172413793103449,1,0.2,0,0.3,0,-110,1.0,1.9090909090909087,0.9090909090909092,A.Davis
 J.Collins u2.5 Ast,PvB_Bets,Utah Jazz,Philadelphia 76ers,1.0,0.5384615384615384,1,0.6,1,0.6,1,-144,1.0,1.6944444444444444,0.6944444444444444,J.Collins
-J.Embiid u41.5 Pts+Rebs+Ast,TopShelfAction,Philadelphia 76ers,Utah Jazz,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-110,0.8,1.5272727272727271,0.7272727272727273,J.Embiid
-K.Irving u40.5 Pts+Rebs+Ast,TopShelfAction,Dallas Mavericks,Portland Trail Blazers,0.0,0.75,1,0.8,1,0.8,1,-125,0.9,1.62,0.7200000000000001,K.Irving
-S.Sharpe o23.5 Pts+Rebs+Ast,Rotowire Sleeper,Portland Trail Blazers,Dallas Mavericks,1.0,0.4090909090909091,0,0.6,1,0.5,0,100,1.5,3.0,1.5,S.Sharpe
-L.Markkanen u23.5 Pts,TopShelfAction,Utah Jazz,Philadelphia 76ers,1.0,0.6666666666666666,1,0.4,0,0.7,1,-120,0.7,1.2833333333333334,0.5833333333333335,L.Markkanen
-J.Embiid u28.5 Pts,TopShelfAction,Philadelphia 76ers,Utah Jazz,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-120,0.8,1.4666666666666668,0.6666666666666667,J.Embiid
-S.Sharpe o16.5 Pts,Rotowire Sleeper,Portland Trail Blazers,Dallas Mavericks,1.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5,S.Sharpe
-T.Maxey o33.5 Pts+Rebs+Ast,Rotowire Sleeper,Philadelphia 76ers,Utah Jazz,0.0,0.5,0,0.6,1,0.4,0,100,1.5,3.0,1.5,T.Maxey
-D.Russell u15.5 Pts,TopShelfAction,Los Angeles Lakers,Sacramento Kings,1.0,0.6428571428571429,1,0.6,1,0.5,0,-110,1.2,2.290909090909091,1.090909090909091,D.Russell
-D.Fox o24.5 Pts,sandyplashkes,Sacramento Kings,Los Angeles Lakers,0.0,0.4838709677419355,0,0.8,1,0.4,0,-112,1.12,2.12,1.0,D.Fox
-K.Thompson o19.5 Pts+Rebs,Rotowire Sleeper,Dallas Mavericks,Portland Trail Blazers,0.0,0.4074074074074074,0,0.2,0,0.4,0,100,1.5,3.0,1.5,K.Thompson
-T.Maxey o24.5 Pts,TopShelfAction,Philadelphia 76ers,Utah Jazz,0.0,0.5454545454545454,1,0.8,1,0.5,0,115,0.7,1.505,0.8049999999999999,T.Maxey
-A.Simons o22.5 Pts+Ast,Rotowire Prizepicks,Portland Trail Blazers,Dallas Mavericks,1.0,0.5185185185185185,1,0.6,1,0.5,0,100,1.5,3.0,1.5,A.Simons
-A.Davis u46.5 Pts+Rebs+Ast,TopShelfAction,Los Angeles Lakers,Sacramento Kings,1.0,0.6896551724137931,1,0.8,1,0.8,1,-125,0.7,1.26,0.56,A.Davis
-K.Huerter o11.5 Pts+Rebs+Ast,Rotowire Sleeper,Sacramento Kings,Los Angeles Lakers,0.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5,K.Huerter

@@ -1,12 +1,12 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,N.Jokic o27.5 Pts,JoeDellera,N.Jokic,N,22.0,Denver Nuggets,New York Knicks,1.0,0.6666666666666666,1,0.8,1,0.7,1,-110,1.0,1.9090909090909087,0.9090909090909092
-1,M.Bridges o16.5 Pts,RoyalsProps,M.Bridges,N,14.0,New York Knicks,Denver Nuggets,0.0,0.4375,0,0.4,0,0.4,0,-111,1.11,2.1100000000000003,1.0000000000000002
-2,J.Hart o13.5 Pts,HPBasketball,J.Hart,N,12.0,New York Knicks,Denver Nuggets,0.0,0.625,1,1.0,1,0.8,1,-120,0.6,1.1,0.5000000000000001
-3,S.Barnes o18.5 Pts,Theotherbabs,S.Barnes,Y,31.0,Toronto Raptors,Detroit Pistons,0.0,0.5,0,0.6,1,0.5,0,-105,1.0,1.9523809523809523,0.9523809523809524
-4,J.Poeltl o15.5 Pts,Mjaybrxd,J.Poeltl,N,8.0,Toronto Raptors,Detroit Pistons,0.0,0.4705882352941176,0,0.6,1,0.4,0,-125,1.0,1.8,0.8
-5,S.Barnes o18.5 Pts,MillyProps,S.Barnes,Y,31.0,Toronto Raptors,Detroit Pistons,0.0,0.5,0,0.6,1,0.5,0,-120,1.0,1.8333333333333333,0.8333333333333335
-6,Y.Missi o4.5 Pts,Rotowire Prizepicks,Y.Missi,Y,16.0,New Orleans Pelicans,Indiana Pacers,0.0,0.625,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-7,K.Porter o10.5 Pts,Rotowire Sleeper,K.Porter,N,7.0,Los Angeles Clippers,Boston Celtics,0.0,0.3888888888888889,0,0.6,1,0.6,1,100,1.5,3.0,1.5
-8,J.Brunson o22.5 Pts,Rotowire Prizepicks,J.Brunson,Y,23.0,New York Knicks,Denver Nuggets,0.0,0.5625,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-9,M.Bridges o15.5 Pts,Rotowire Prizepicks,M.Bridges,N,14.0,New York Knicks,Denver Nuggets,0.0,0.5625,1,0.6,1,0.5,0,100,1.5,3.0,1.5
-10,C.Thomas u24.5 Pts,KyleJustBets,C.Thomas,Y,23.0,Brooklyn Nets,Golden State Warriors,0.0,0.5625,1,0.6,1,0.7,1,-140,1.0,1.7142857142857144,0.7142857142857144
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,N.Jokic o27.5 Pts,JoeDellera,Denver Nuggets,N.Jokic,N,22.0,New York Knicks,1.0,0.6666666666666666,1,0.8,1,0.7,1,-110.0,1.0,1.9090909090909087,0.9090909090909092
+1,M.Bridges o16.5 Pts,RoyalsProps,New York Knicks,M.Bridges,N,14.0,Denver Nuggets,0.0,0.4375,0,0.4,0,0.4,0,-111.0,1.11,2.1100000000000003,1.0000000000000002
+2,J.Hart o13.5 Pts,HPBasketball,New York Knicks,J.Hart,N,12.0,Denver Nuggets,0.0,0.625,1,1.0,1,0.8,1,-120.0,0.6,1.1,0.5000000000000001
+3,S.Barnes o18.5 Pts,Theotherbabs,Toronto Raptors,S.Barnes,Y,31.0,Detroit Pistons,0.0,0.5,0,0.6,1,0.5,0,-105.0,1.0,1.9523809523809523,0.9523809523809524
+4,S.Barnes o18.5 Pts,MillyProps,Toronto Raptors,S.Barnes,Y,31.0,Detroit Pistons,0.0,0.5,0,0.6,1,0.5,0,-120.0,1.0,1.8333333333333333,0.8333333333333335
+5,Y.Missi o4.5 Pts,Rotowire Prizepicks,New Orleans Pelicans,Y.Missi,Y,16.0,Indiana Pacers,0.0,0.625,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+6,J.Brunson o22.5 Pts,Rotowire Prizepicks,New York Knicks,J.Brunson,Y,23.0,Denver Nuggets,0.0,0.5625,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+7,M.Bridges o15.5 Pts,Rotowire Prizepicks,New York Knicks,M.Bridges,N,14.0,Denver Nuggets,0.0,0.5625,1,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+8,J.Poeltl o15.5 Pts,Mjaybrxd,Toronto Raptors,J.Poeltl,N,8.0,Detroit Pistons,0.0,0.4705882352941176,0,0.6,1,0.4,0,-125.0,1.0,1.8,0.8
+9,K.Porter o10.5 Pts,Rotowire Sleeper,Los Angeles Clippers,K.Porter,N,7.0,Boston Celtics,0.0,0.3888888888888889,0,0.6,1,0.6,1,100.0,1.5,3.0,1.5
+10,C.Thomas u24.5 Pts,KyleJustBets,Brooklyn Nets,C.Thomas,Y,23.0,Golden State Warriors,0.0,0.5625,1,0.6,1,0.7,1,-140.0,1.0,1.7142857142857144,0.7142857142857144

@@ -1,10 +1,10 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,O.Agbaji o8.5 Pts,Rotowire Sleeper,O.Agbaji,N,7.0,Toronto Raptors,Miami Heat,1.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-1,C.Braun o13.5 Pts,Rotowire Prizepicks,C.Braun,N,11.0,Denver Nuggets,Los Angeles Clippers,0.0,0.8235294117647058,1,1.0,1,0.9,1,100,1.5,3.0,1.5
-2,S.Pippen o5.5 Pts,Rotowire Sleeper,S.Pippen,N,4.0,Memphis Grizzlies,Indiana Pacers,1.0,0.8,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-3,O.Anunoby o16.5 Pts,RoyalsProps,O.Anunoby,N,7.0,New York Knicks,New Orleans Pelicans,1.0,0.4210526315789473,0,0.4,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
-4,I.Hartenstein o11.5 Pts,Rotowire Prizepicks,I.Hartenstein,Y,19.0,Oklahoma City Thunder,Houston Rockets,0.0,0.75,1,0.75,1,0.75,1,100,1.5,3.0,1.5
-5,C.Braun u13.5 Pts,itsbucketsnba,C.Braun,Y,11.0,Denver Nuggets,Los Angeles Clippers,0.0,0.1764705882352941,0,0.0,0,0.1,0,-117,1.0,1.8547008547008548,0.8547008547008548
-6,L.James o23.5 Pts,itsbucketsnba,L.James,Y,27.0,Los Angeles Lakers,Utah Jazz,0.0,0.3684210526315789,0,0.2,0,0.3,0,-124,1.0,1.806451612903225,0.8064516129032258
-7,A.Sengun u18.5 Pts,sandyplashkes,A.Sengun,N,20.0,Houston Rockets,Oklahoma City Thunder,1.0,0.55,1,0.2,0,0.4,0,-120,1.2,2.2,1.0000000000000002
-8,D.Fox o25.5 Pts,sandyplashkes,D.Fox,N,23.0,Sacramento Kings,San Antonio Spurs,1.0,0.55,1,0.6,1,0.7,1,-116,1.16,2.16,0.9999999999999998
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,O.Agbaji o8.5 Pts,Rotowire Sleeper,Toronto Raptors,O.Agbaji,N,7.0,Miami Heat,1.0,0.75,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+1,S.Pippen o5.5 Pts,Rotowire Sleeper,Memphis Grizzlies,S.Pippen,N,4.0,Indiana Pacers,1.0,0.8,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+2,I.Hartenstein o11.5 Pts,Rotowire Prizepicks,Oklahoma City Thunder,I.Hartenstein,Y,19.0,Houston Rockets,0.0,0.75,1,0.75,1,0.75,1,100.0,1.5,3.0,1.5
+3,C.Braun u13.5 Pts,itsbucketsnba,Denver Nuggets,C.Braun,Y,11.0,Los Angeles Clippers,0.0,0.1764705882352941,0,0.0,0,0.1,0,-117.0,1.0,1.8547008547008548,0.8547008547008548
+4,A.Sengun u18.5 Pts,sandyplashkes,Houston Rockets,A.Sengun,N,20.0,Oklahoma City Thunder,1.0,0.55,1,0.2,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002
+5,C.Braun o13.5 Pts,Rotowire Prizepicks,Denver Nuggets,C.Braun,N,11.0,Los Angeles Clippers,0.0,0.8235294117647058,1,1.0,1,0.9,1,100.0,1.5,3.0,1.5
+6,O.Anunoby o16.5 Pts,RoyalsProps,New York Knicks,O.Anunoby,N,7.0,New Orleans Pelicans,1.0,0.4210526315789473,0,0.4,0,0.5,0,-115.0,1.15,2.1499999999999995,0.9999999999999996
+7,L.James o23.5 Pts,itsbucketsnba,Los Angeles Lakers,L.James,Y,27.0,Utah Jazz,0.0,0.3684210526315789,0,0.2,0,0.3,0,-124.0,1.0,1.806451612903225,0.8064516129032258
+8,D.Fox o25.5 Pts,sandyplashkes,Sacramento Kings,D.Fox,N,23.0,San Antonio Spurs,1.0,0.55,1,0.6,1,0.7,1,-116.0,1.16,2.16,0.9999999999999998

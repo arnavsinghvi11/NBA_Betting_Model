@@ -1,16 +1,18 @@
-Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value
-I.Zubac o28.5 Pts+Rebs,HPBasketball,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-106,1.1,2.137735849056604,1.0377358490566038,I.Zubac,Y,36.0
-J.Allen o24.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,Chicago Bulls,0.0,0.7272727272727273,1,0.8,1,0.8,1,100,1.5,3.0,1.5,J.Allen,N,14.0
-I.Zubac o28.5 Pts+Rebs,PlayerPropSavant,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996,I.Zubac,Y,36.0
-E.Mobley o28.5 Pts+Rebs+Ast,Rotowire Sleeper,Cleveland Cavaliers,Chicago Bulls,0.0,0.5454545454545454,1,0.4,0,0.5,0,100,1.5,3.0,1.5,E.Mobley,N,14.0
-D.Schroder o25.5 Pts+Rebs+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder,N,17.0
-D.Schroder o22.5 Pts+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder,N,16.0
-J.Allen o13.5 Pts,Markus_Markets,Cleveland Cavaliers,Chicago Bulls,0.0,0.7272727272727273,1,0.6,1,0.7,1,-130,1.0,1.7692307692307692,0.7692307692307692,J.Allen,N,9.0
-D.Schroder o15.5 Pts,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder,N,14.0
-J.Smith o10.5 Pts,Rotowire Sleeper,Houston Rockets,Washington Wizards,1.0,0.5,0,0.4,0,0.5,0,100,1.5,3.0,1.5,J.Smith,Y,11.0
-D.Vassell o12.5 Pts,Rotowire Sleeper,San Antonio Spurs,Sacramento Kings,1.0,1.0,1,1.0,1,1.0,1,100,1.5,3.0,1.5,D.Vassell,N,12.0
-D.Vassell o14.5 Pts,kylemurray03,San Antonio Spurs,Sacramento Kings,1.0,1.0,1,1.0,1,1.0,1,100,1.0,2.0,1.0,D.Vassell,N,12.0
-D.Schroder o5.5 Ast,Markus_Markets,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-120,1.0,1.8333333333333333,0.8333333333333335,D.Schroder,N,2.0
-D.Schroder o5.5 Ast,therocketplays,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-125,1.25,2.25,1.0,D.Schroder,N,2.0
-C.Paul o7.5 Ast,ThePropfessor_,San Antonio Spurs,Sacramento Kings,1.0,0.7,1,0.6,1,0.7,1,-130,1.3,2.3,0.9999999999999998,C.Paul,Y,11.0
-D.Schroder o5.5 Ast,kylemurray03,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-124,1.24,2.24,0.9999999999999998,D.Schroder,N,2.0
+Play,Expert,Team_x,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value,Team_y
+D.Schroder o5.5 Ast,Markus_Markets,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-120,1.0,1.8333333333333333,0.8333333333333335,D.Schroder,N,2.0,Brooklyn Nets
+D.Schroder o5.5 Ast,therocketplays,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-125,1.25,2.25,1.0,D.Schroder,N,2.0,Brooklyn Nets
+C.Paul o7.5 Ast,ThePropfessor_,San Antonio Spurs,Sacramento Kings,1.0,0.7,1,0.6,1,0.7,1,-130,1.3,2.3,0.9999999999999998,C.Paul,Y,11.0,San Antonio Spurs
+D.Schroder o5.5 Ast,kylemurray03,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-124,1.24,2.24,0.9999999999999998,D.Schroder,N,2.0,Brooklyn Nets
+D.Schroder o22.5 Pts+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder,N,16.0,Brooklyn Nets
+I.Zubac o28.5 Pts+Rebs,HPBasketball,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-106,1.1,2.137735849056604,1.0377358490566038,I.Zubac,Y,36.0,Los Angeles Clippers
+J.Allen o24.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,Chicago Bulls,0.0,0.7272727272727273,1,0.8,1,0.8,1,100,1.5,3.0,1.5,J.Allen,N,14.0,Cleveland Cavaliers
+I.Zubac o28.5 Pts+Rebs,PlayerPropSavant,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996,I.Zubac,Y,36.0,Los Angeles Clippers
+J.Allen o13.5 Pts,Markus_Markets,Cleveland Cavaliers,Chicago Bulls,0.0,0.7272727272727273,1,0.6,1,0.7,1,-130,1.0,1.7692307692307692,0.7692307692307692,J.Allen,N,9.0,Cleveland Cavaliers
+D.Schroder o15.5 Pts,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder,N,14.0,Brooklyn Nets
+J.Smith o10.5 Pts,Rotowire Sleeper,Houston Rockets,Washington Wizards,1.0,0.5,0,0.4,0,0.5,0,100,1.5,3.0,1.5,J.Smith,Y,11.0,Houston Rockets
+D.Vassell o12.5 Pts,Rotowire Sleeper,San Antonio Spurs,Sacramento Kings,1.0,1.0,1,1.0,1,1.0,1,100,1.5,3.0,1.5,D.Vassell,N,12.0,San Antonio Spurs
+D.Vassell o14.5 Pts,kylemurray03,San Antonio Spurs,Sacramento Kings,1.0,1.0,1,1.0,1,1.0,1,100,1.0,2.0,1.0,D.Vassell,N,12.0,San Antonio Spurs
+J.Harden o5.5 Rebs,JoeDellera,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.7,1,0.6,1,0.7,1,-140,0.75,1.2857142857142858,0.5357142857142858,J.Harden,Y,11.0,Los Angeles Clippers
+J.Harden o6.5 Rebs,JoeDellera,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.6,1,0.6,1,0.6,1,135,0.25,0.5875,0.3375,J.Harden,Y,11.0,Los Angeles Clippers
+E.Mobley o28.5 Pts+Rebs+Ast,Rotowire Sleeper,Cleveland Cavaliers,Chicago Bulls,0.0,0.5454545454545454,1,0.4,0,0.5,0,100,1.5,3.0,1.5,E.Mobley,N,28.0,Cleveland Cavaliers
+D.Schroder o25.5 Pts+Rebs+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder,N,19.0,Brooklyn Nets

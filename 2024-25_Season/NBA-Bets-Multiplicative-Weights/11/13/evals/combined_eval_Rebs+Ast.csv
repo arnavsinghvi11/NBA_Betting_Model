@@ -1,4 +1,4 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,C.Cunningham o14.5 Rebs+Ast,PlayerPropSavant,C.Cunningham,Y,18.0,Detroit Pistons,Milwaukee Bucks,0.0,0.5,0,1.0,1,0.6,1,-125.0,1.25,2.25,1.0
-1,J.Poole u8.5 Rebs+Ast,allanlemdfs,J.Poole,Y,8.0,Washington Wizards,San Antonio Spurs,0.0,0.7777777777777778,1,0.8,1,0.7777777777777778,1,-125.0,1.25,2.25,1.0
-2,S.Gilgeous-Alexander o12.5 Rebs+Ast,Mjaybrxd,S.Gilgeous-Alexander,N,10.0,Oklahoma City Thunder,New Orleans Pelicans,1.0,0.3636363636363636,0,0.2,0,0.3,0,-125.0,1.0,1.8,0.8
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,C.Cunningham o14.5 Rebs+Ast,PlayerPropSavant,Detroit Pistons,C.Cunningham,Y,18.0,Milwaukee Bucks,0.0,0.5,0,1.0,1,0.6,1,-125.0,1.25,2.25,1.0
+1,J.Poole u8.5 Rebs+Ast,allanlemdfs,Washington Wizards,J.Poole,Y,8.0,San Antonio Spurs,0.0,0.7777777777777778,1,0.8,1,0.7777777777777778,1,-125.0,1.25,2.25,1.0
+2,S.Gilgeous-Alexander o12.5 Rebs+Ast,Mjaybrxd,Oklahoma City Thunder,S.Gilgeous-Alexander,N,10.0,New Orleans Pelicans,1.0,0.3636363636363636,0,0.2,0,0.3,0,-125.0,1.0,1.8,0.8

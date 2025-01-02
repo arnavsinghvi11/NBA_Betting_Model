@@ -1,14 +1,14 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,D.Sabonis o15.5 Pts,Rotowire Sleeper,D.Sabonis,Y,20.0,Sacramento Kings,Phoenix Suns,0.0,0.8888888888888888,1,0.8,1,0.8888888888888888,1,100.0,1.5,3.0,1.5
-1,J.Grant o12.5 Pts,Rotowire Prizepicks,J.Grant,Y,20.0,Portland Trail Blazers,Memphis Grizzlies,1.0,0.7,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
-2,A.Davis o28.5 Pts,JoeDellera,A.Davis,N,22.0,Los Angeles Lakers,Toronto Raptors,1.0,0.875,1,0.8,1,0.875,1,-115.0,1.0,1.869565217391304,0.8695652173913042
-3,A.Davis o28.5 Pts,the_degenerates,A.Davis,N,22.0,Los Angeles Lakers,Toronto Raptors,1.0,0.875,1,0.8,1,0.875,1,-122.0,1.22,2.22,1.0000000000000002
-4,J.Grant o17.5 Pts,PropBomb,J.Grant,Y,20.0,Portland Trail Blazers,Memphis Grizzlies,1.0,0.4,0,0.4,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002
-5,P.Pritchard o10.5 Pts,therocketplays,P.Pritchard,Y,18.0,Boston Celtics,Milwaukee Bucks,0.0,0.8,1,0.8,1,0.8,1,-110.0,1.1,2.1,1.0
-6,P.Pritchard o9.5 Pts,Rotowire Sleeper,P.Pritchard,Y,18.0,Boston Celtics,Milwaukee Bucks,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
-7,D.Avdija o10.5 Pts,itsbucketsnba,D.Avdija,N,0.0,Portland Trail Blazers,Memphis Grizzlies,1.0,0.5,0,0.4,0,0.5,0,-105.0,1.0,1.9523809523809523,0.9523809523809524
-8,T.Jones o10.5 Pts,Rotowire Prizepicks,T.Jones,Y,22.0,Phoenix Suns,Sacramento Kings,1.0,0.4444444444444444,0,0.4,0,0.4444444444444444,0,100.0,1.5,3.0,1.5
-9,I.Quickley o15.5 Pts,Rotowire Prizepicks,I.Quickley,N,12.0,Toronto Raptors,Los Angeles Lakers,0.0,0.5,0,0.5,0,0.5,0,100.0,1.5,3.0,1.5
-10,J.Jackson o23.5 Pts,kylemurray03,J.Jackson,N,20.0,Memphis Grizzlies,Portland Trail Blazers,0.0,0.375,0,0.4,0,0.375,0,-106.0,1.06,2.06,1.0
-11,A.Simons o18.5 Pts,Rotowire Prizepicks,A.Simons,N,4.0,Portland Trail Blazers,Memphis Grizzlies,1.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5
-12,D.Russell o11.5 Pts,Rotowire Prizepicks,D.Russell,Y,15.0,Los Angeles Lakers,Toronto Raptors,1.0,0.5555555555555556,1,0.6,1,0.5555555555555556,1,100.0,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,D.Sabonis o15.5 Pts,Rotowire Sleeper,Sacramento Kings,D.Sabonis,Y,20.0,Phoenix Suns,0.0,0.8888888888888888,1,0.8,1,0.8888888888888888,1,100.0,1.5,3.0,1.5
+1,J.Grant o12.5 Pts,Rotowire Prizepicks,Portland Trail Blazers,J.Grant,Y,20.0,Memphis Grizzlies,1.0,0.7,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
+2,A.Davis o28.5 Pts,JoeDellera,Los Angeles Lakers,A.Davis,N,22.0,Toronto Raptors,1.0,0.875,1,0.8,1,0.875,1,-115.0,1.0,1.869565217391304,0.8695652173913042
+3,A.Davis o28.5 Pts,the_degenerates,Los Angeles Lakers,A.Davis,N,22.0,Toronto Raptors,1.0,0.875,1,0.8,1,0.875,1,-122.0,1.22,2.22,1.0000000000000002
+4,J.Grant o17.5 Pts,PropBomb,Portland Trail Blazers,J.Grant,Y,20.0,Memphis Grizzlies,1.0,0.4,0,0.4,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002
+5,P.Pritchard o10.5 Pts,therocketplays,Boston Celtics,P.Pritchard,Y,18.0,Milwaukee Bucks,0.0,0.8,1,0.8,1,0.8,1,-110.0,1.1,2.1,1.0
+6,P.Pritchard o9.5 Pts,Rotowire Sleeper,Boston Celtics,P.Pritchard,Y,18.0,Milwaukee Bucks,0.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
+7,D.Avdija o10.5 Pts,itsbucketsnba,Portland Trail Blazers,D.Avdija,N,0.0,Memphis Grizzlies,1.0,0.5,0,0.4,0,0.5,0,-105.0,1.0,1.9523809523809523,0.9523809523809524
+8,T.Jones o10.5 Pts,Rotowire Prizepicks,Phoenix Suns,T.Jones,Y,22.0,Sacramento Kings,1.0,0.4444444444444444,0,0.4,0,0.4444444444444444,0,100.0,1.5,3.0,1.5
+9,I.Quickley o15.5 Pts,Rotowire Prizepicks,Toronto Raptors,I.Quickley,N,12.0,Los Angeles Lakers,0.0,0.5,0,0.5,0,0.5,0,100.0,1.5,3.0,1.5
+10,A.Simons o18.5 Pts,Rotowire Prizepicks,Portland Trail Blazers,A.Simons,N,4.0,Memphis Grizzlies,1.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5
+11,D.Russell o11.5 Pts,Rotowire Prizepicks,Los Angeles Lakers,D.Russell,Y,15.0,Toronto Raptors,1.0,0.5555555555555556,1,0.6,1,0.5555555555555556,1,100.0,1.5,3.0,1.5
+12,J.Jackson o23.5 Pts,kylemurray03,Memphis Grizzlies,J.Jackson,N,20.0,Portland Trail Blazers,0.0,0.375,0,0.4,0,0.375,0,-106.0,1.06,2.06,1.0

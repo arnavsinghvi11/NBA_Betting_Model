@@ -1,7 +1,7 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,B.Podziemski o19.5 Pts+Rebs+Ast,JoeDellera,B.Podziemski,Y,27.0,Golden State Warriors,New Orleans Pelicans,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-120,0.42,0.77,0.35
-1,K.Irving o29.5 Pts+Rebs+Ast,CeeJPicks,K.Irving,Y,44.0,Dallas Mavericks,Minnesota Timberwolves,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-110,1.0,1.9090909090909087,0.9090909090909092
-2,D.Sabonis o38.5 Pts+Rebs+Ast,kylemurray03,D.Sabonis,Y,43.0,Sacramento Kings,Utah Jazz,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-120,1.0,1.8333333333333333,0.8333333333333335
-3,D.Sabonis o37.5 Pts+Rebs+Ast,the_degenerates,D.Sabonis,Y,43.0,Sacramento Kings,Utah Jazz,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-115,1.0,1.869565217391304,0.8695652173913042
-4,C.Thomas o33.5 Pts+Rebs+Ast,JoeDellera,C.Thomas,N,32.0,Brooklyn Nets,Denver Nuggets,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,-110,1.0,1.9090909090909087,0.9090909090909092
-5,C.Braun o16.5 Pts+Rebs+Ast,Markus_Markets,C.Braun,Y,18.0,Denver Nuggets,Brooklyn Nets,0.0,1.0,1,1.0,1,1.0,1,-105,0.95,1.8547619047619048,0.9047619047619048
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,B.Podziemski o19.5 Pts+Rebs+Ast,JoeDellera,Golden State Warriors,B.Podziemski,Y,27.0,New Orleans Pelicans,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-120,0.42,0.77,0.35
+1,K.Irving o29.5 Pts+Rebs+Ast,CeeJPicks,Dallas Mavericks,K.Irving,Y,44.0,Minnesota Timberwolves,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-110,1.0,1.9090909090909087,0.9090909090909092
+2,D.Sabonis o38.5 Pts+Rebs+Ast,kylemurray03,Sacramento Kings,D.Sabonis,Y,43.0,Utah Jazz,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-120,1.0,1.8333333333333333,0.8333333333333335
+3,D.Sabonis o37.5 Pts+Rebs+Ast,the_degenerates,Sacramento Kings,D.Sabonis,Y,43.0,Utah Jazz,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,-115,1.0,1.869565217391304,0.8695652173913042
+4,C.Thomas o33.5 Pts+Rebs+Ast,JoeDellera,Brooklyn Nets,C.Thomas,N,32.0,Denver Nuggets,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,-110,1.0,1.9090909090909087,0.9090909090909092
+5,C.Braun o16.5 Pts+Rebs+Ast,Markus_Markets,Denver Nuggets,C.Braun,Y,18.0,Brooklyn Nets,0.0,1.0,1,1.0,1,1.0,1,-105,0.95,1.8547619047619048,0.9047619047619048

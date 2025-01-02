@@ -1,11 +1,12 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,J.Ivey o28.5 Pts+Rebs+Ast,Mjaybrxd,J.Ivey,Y,34.0,Detroit Pistons,Indiana Pacers,0.0,0.4210526315789473,0,0.2,0,0.3,0,-120,1.0,1.8333333333333333,0.8333333333333335
-1,J.Holiday o18.5 Pts+Rebs+Ast,JoeDellera,J.Holiday,Y,23.0,Boston Celtics,Chicago Bulls,0.0,0.6470588235294118,1,0.6,1,0.7,1,-125,1.0,1.8,0.8
-2,D.White o24.5 Pts+Rebs+Ast,Rotowire Prizepicks,D.White,Y,26.0,Boston Celtics,Chicago Bulls,0.0,0.7222222222222222,1,0.8,1,0.7,1,100,1.5,3.0,1.5
-3,D.Murray o25.5 Pts+Rebs+Ast,gneiffer07,D.Murray,Y,33.0,New Orleans Pelicans,Memphis Grizzlies,0.0,0.5,0,0.5,0,0.5,0,-125,1.25,2.25,1.0
-4,I.Zubac o27.5 Pts+Rebs+Ast,Rotowire Prizepicks,I.Zubac,Y,30.0,Los Angeles Clippers,Minnesota Timberwolves,0.0,0.7,1,1.0,1,0.8,1,100,1.5,3.0,1.5
-5,J.Morant o31.5 Pts+Rebs+Ast,sandyplashkes,J.Morant,Y,37.0,Memphis Grizzlies,New Orleans Pelicans,1.0,0.6666666666666666,1,0.8,1,0.6666666666666666,1,-118,1.18,2.18,0.9999999999999998
-6,N.Vucevic o31.5 Pts+Rebs+Ast,Rotowire Sleeper,N.Vucevic,Y,46.0,Chicago Bulls,Boston Celtics,1.0,0.75,1,0.8,1,0.7,1,100,1.5,3.0,1.5
-7,D.White o24.5 Pts+Rebs+Ast,Rotowire Sleeper,D.White,Y,26.0,Boston Celtics,Chicago Bulls,0.0,0.7222222222222222,1,0.8,1,0.7,1,100,1.5,3.0,1.5
-8,R.Gobert o22.5 Pts+Rebs+Ast,Rotowire Sleeper,R.Gobert,Y,23.0,Minnesota Timberwolves,Los Angeles Clippers,1.0,0.5555555555555556,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-9,I.Joe o12.5 Pts+Rebs+Ast,Rotowire Prizepicks,I.Joe,N,3.0,Oklahoma City Thunder,Los Angeles Lakers,0.0,0.5625,1,0.4,0,0.7,1,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,J.Holiday o18.5 Pts+Rebs+Ast,JoeDellera,Boston Celtics,J.Holiday,Y,23.0,Chicago Bulls,0.0,0.6470588235294118,1,0.6,1,0.7,1,-125.0,1.0,1.8,0.8
+1,J.Ivey o28.5 Pts+Rebs+Ast,Mjaybrxd,Detroit Pistons,J.Ivey,Y,34.0,Indiana Pacers,0.0,0.4210526315789473,0,0.2,0,0.3,0,-120.0,1.0,1.8333333333333333,0.8333333333333335
+2,D.White o24.5 Pts+Rebs+Ast,Rotowire Prizepicks,Boston Celtics,D.White,Y,26.0,Chicago Bulls,0.0,0.7222222222222222,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
+3,J.Holiday o19.5 Pts+Rebs+Ast,Rotowire Prizepicks,Boston Celtics,J.Holiday,Y,23.0,Chicago Bulls,0.0,0.6470588235294118,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+4,I.Zubac o27.5 Pts+Rebs+Ast,Rotowire Prizepicks,Los Angeles Clippers,I.Zubac,Y,30.0,Minnesota Timberwolves,0.0,0.7,1,1.0,1,0.8,1,100.0,1.5,3.0,1.5
+5,J.Morant o31.5 Pts+Rebs+Ast,sandyplashkes,Memphis Grizzlies,J.Morant,Y,37.0,New Orleans Pelicans,1.0,0.6666666666666666,1,0.8,1,0.6666666666666666,1,-118.0,1.18,2.18,0.9999999999999998
+6,N.Vucevic o31.5 Pts+Rebs+Ast,Rotowire Sleeper,Chicago Bulls,N.Vucevic,Y,46.0,Boston Celtics,1.0,0.75,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
+7,D.White o24.5 Pts+Rebs+Ast,Rotowire Sleeper,Boston Celtics,D.White,Y,26.0,Chicago Bulls,0.0,0.7222222222222222,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
+8,R.Gobert o22.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,R.Gobert,Y,23.0,Los Angeles Clippers,1.0,0.5555555555555556,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+9,B.Simmons u20.5 Pts+Rebs+Ast,allanlemdfs,Brooklyn Nets,B.Simmons,Y,19.0,Orlando Magic,1.0,0.6428571428571429,1,0.6,1,0.5,0,-113.0,1.13,2.13,1.0
+10,D.Murray o25.5 Pts+Rebs+Ast,gneiffer07,New Orleans Pelicans,D.Murray,Y,33.0,Memphis Grizzlies,0.0,0.5,0,0.5,0,0.5,0,-125.0,1.25,2.25,1.0

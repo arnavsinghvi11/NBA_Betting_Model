@@ -1,19 +1,19 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,N.Jokic o26.5 Pts,the_degenerates,N.Jokic,N,26.0,Denver Nuggets,Minnesota Timberwolves,0.0,0.75,1,0.75,1,0.75,1,-125,1.25,2.25,1.0
-1,N.Jokic o26.5 Pts,CeeJPicks,N.Jokic,N,26.0,Denver Nuggets,Minnesota Timberwolves,0.0,0.75,1,0.75,1,0.75,1,-136,1.36,2.3600000000000003,1.0000000000000002
-2,B.Mathurin o14.5 Pts,PropBetGuy,B.Mathurin,Y,19.0,Indiana Pacers,New Orleans Pelicans,0.0,0.6,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002
-3,M.Beasley o8.5 Pts,kylemurray03,M.Beasley,N,8.0,Detroit Pistons,New York Knicks,1.0,0.8,1,0.8,1,0.8,1,100,1.0,2.0,1.0
-4,K.Towns o20.5 Pts,JoeDellera,K.Towns,Y,21.0,New York Knicks,Detroit Pistons,0.0,0.5,0,0.5,0,0.5,0,-119,1.0,1.8403361344537816,0.8403361344537816
-5,K.Towns o20.5 Pts,kylemurray03,K.Towns,Y,21.0,New York Knicks,Detroit Pistons,0.0,0.5,0,0.5,0,0.5,0,-113,1.13,2.13,1.0
-6,N.Vucevic u19.5 Pts,itsbucketsnba,N.Vucevic,N,28.0,Chicago Bulls,Brooklyn Nets,0.0,0.4,0,0.4,0,0.4,0,-112,1.0,1.8928571428571428,0.8928571428571428
-7,C.Thomas o25.5 Pts,Markus_Markets,C.Thomas,Y,32.0,Brooklyn Nets,Chicago Bulls,1.0,0.6,1,0.6,1,0.6,1,-117,1.0,1.8547008547008548,0.8547008547008548
-8,C.Johnson o14.5 Pts,RoyalsProps,C.Johnson,N,14.0,Brooklyn Nets,Chicago Bulls,1.0,0.2,0,0.2,0,0.2,0,-120,1.2,2.2,1.0000000000000002
-9,Z.LaVine o20.5 Pts,JoeDellera,Z.LaVine,Y,21.0,Chicago Bulls,Brooklyn Nets,0.0,0.8,1,0.8,1,0.8,1,-113,1.0,1.8849557522123888,0.8849557522123894
-10,C.Thomas o25.5 Pts,PropBetGuy,C.Thomas,Y,32.0,Brooklyn Nets,Chicago Bulls,1.0,0.6,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
-11,A.Black o8.5 Pts,charliedisturco,A.Black,N,7.0,Orlando Magic,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,100,0.75,1.5,0.75
-12,A.Black o7.5 Pts,therocketplays,A.Black,N,7.0,Orlando Magic,Cleveland Cavaliers,0.0,0.8,1,0.8,1,0.8,1,-102,1.02,2.02,1.0
-13,J.Suggs o15.5 Pts,kylemurray03,J.Suggs,Y,28.0,Orlando Magic,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-110,1.1,2.1,1.0
-14,J.Suggs o14.5 Pts,JoeDellera,J.Suggs,Y,28.0,Orlando Magic,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-125,1.0,1.8,0.8
-15,A.Davis o27.5 Pts,the_degenerates,A.Davis,Y,38.0,Los Angeles Lakers,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,-124,1.24,2.24,0.9999999999999998
-16,R.Barrett o24.5 Pts,sandyplashkes,R.Barrett,Y,33.0,Toronto Raptors,Los Angeles Lakers,1.0,0.5,0,0.5,0,0.5,0,-116,1.16,2.16,0.9999999999999998
-17,A.Davis o27.5 Pts,kylemurray03,A.Davis,Y,38.0,Los Angeles Lakers,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,-114,1.14,2.14,0.9999999999999998
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,N.Jokic o26.5 Pts,the_degenerates,Denver Nuggets,N.Jokic,N,26.0,Minnesota Timberwolves,0.0,0.75,1,0.75,1,0.75,1,-125,1.25,2.25,1.0
+1,N.Jokic o26.5 Pts,CeeJPicks,Denver Nuggets,N.Jokic,N,26.0,Minnesota Timberwolves,0.0,0.75,1,0.75,1,0.75,1,-136,1.36,2.3600000000000003,1.0000000000000002
+2,B.Mathurin o14.5 Pts,PropBetGuy,Indiana Pacers,B.Mathurin,Y,19.0,New Orleans Pelicans,0.0,0.6,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002
+3,M.Beasley o8.5 Pts,kylemurray03,Detroit Pistons,M.Beasley,N,8.0,New York Knicks,1.0,0.8,1,0.8,1,0.8,1,100,1.0,2.0,1.0
+4,K.Towns o20.5 Pts,JoeDellera,New York Knicks,K.Towns,Y,21.0,Detroit Pistons,0.0,0.5,0,0.5,0,0.5,0,-119,1.0,1.8403361344537816,0.8403361344537816
+5,K.Towns o20.5 Pts,kylemurray03,New York Knicks,K.Towns,Y,21.0,Detroit Pistons,0.0,0.5,0,0.5,0,0.5,0,-113,1.13,2.13,1.0
+6,N.Vucevic u19.5 Pts,itsbucketsnba,Chicago Bulls,N.Vucevic,N,28.0,Brooklyn Nets,0.0,0.4,0,0.4,0,0.4,0,-112,1.0,1.8928571428571428,0.8928571428571428
+7,C.Thomas o25.5 Pts,Markus_Markets,Brooklyn Nets,C.Thomas,Y,32.0,Chicago Bulls,1.0,0.6,1,0.6,1,0.6,1,-117,1.0,1.8547008547008548,0.8547008547008548
+8,C.Johnson o14.5 Pts,RoyalsProps,Brooklyn Nets,C.Johnson,N,14.0,Chicago Bulls,1.0,0.2,0,0.2,0,0.2,0,-120,1.2,2.2,1.0000000000000002
+9,Z.LaVine o20.5 Pts,JoeDellera,Chicago Bulls,Z.LaVine,Y,21.0,Brooklyn Nets,0.0,0.8,1,0.8,1,0.8,1,-113,1.0,1.8849557522123888,0.8849557522123894
+10,C.Thomas o25.5 Pts,PropBetGuy,Brooklyn Nets,C.Thomas,Y,32.0,Chicago Bulls,1.0,0.6,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
+11,A.Black o8.5 Pts,charliedisturco,Orlando Magic,A.Black,N,7.0,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,100,0.75,1.5,0.75
+12,A.Black o7.5 Pts,therocketplays,Orlando Magic,A.Black,N,7.0,Cleveland Cavaliers,0.0,0.8,1,0.8,1,0.8,1,-102,1.02,2.02,1.0
+13,J.Suggs o15.5 Pts,kylemurray03,Orlando Magic,J.Suggs,Y,28.0,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-110,1.1,2.1,1.0
+14,J.Suggs o14.5 Pts,JoeDellera,Orlando Magic,J.Suggs,Y,28.0,Cleveland Cavaliers,0.0,0.6,1,0.6,1,0.6,1,-125,1.0,1.8,0.8
+15,A.Davis o27.5 Pts,the_degenerates,Los Angeles Lakers,A.Davis,Y,38.0,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,-124,1.24,2.24,0.9999999999999998
+16,R.Barrett o24.5 Pts,sandyplashkes,Toronto Raptors,R.Barrett,Y,33.0,Los Angeles Lakers,1.0,0.5,0,0.5,0,0.5,0,-116,1.16,2.16,0.9999999999999998
+17,A.Davis o27.5 Pts,kylemurray03,Los Angeles Lakers,A.Davis,Y,38.0,Toronto Raptors,0.0,0.8,1,0.8,1,0.8,1,-114,1.14,2.14,0.9999999999999998

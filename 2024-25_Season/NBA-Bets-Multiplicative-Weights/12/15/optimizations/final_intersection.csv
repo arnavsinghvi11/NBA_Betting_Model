@@ -1,20 +1,20 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
-T.Murphy o20.5 Pts+Ast,Rotowire Sleeper,New Orleans Pelicans,Indiana Pacers,0.0,0.4615384615384615,0,0.6,1,0.6,1,100,1.5,3.0,1.5,T.Murphy
-D.White o18.5 Pts+Ast,Rotowire Sleeper,Boston Celtics,Washington Wizards,0.0,0.8333333333333334,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.White
-D.White o18.5 Pts+Ast,Rotowire Prizepicks,Boston Celtics,Washington Wizards,0.0,0.8333333333333334,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.White
-J.Morant o30.5 Pts+Ast,Theotherbabs,Memphis Grizzlies,Los Angeles Lakers,0.0,0.5333333333333333,1,0.6,1,0.6,1,-128,1.0,1.78125,0.78125,J.Morant
-D.Avdija o13.5 Pts+Ast,Rotowire Prizepicks,Portland Trail Blazers,Phoenix Suns,0.0,0.72,1,0.8,1,0.9,1,100,1.5,3.0,1.5,D.Avdija
-J.Jackson o19.5 Pts+Ast,Rotowire Sleeper,Memphis Grizzlies,Los Angeles Lakers,0.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5,J.Jackson
-N.Reid o17.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5833333333333334,1,0.6,1,0.4,0,100,1.5,3.0,1.5,N.Reid
-J.Hart o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,New York Knicks,Orlando Magic,0.0,0.68,1,0.8,1,0.6,1,100,1.5,3.0,1.5,J.Hart
-D.White o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Boston Celtics,Washington Wizards,0.0,0.7916666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.White
-R.Gobert o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5,0,0.8,1,0.6,1,100,1.5,3.0,1.5,R.Gobert
-J.Sochan o21.5 Pts+Rebs+Ast,Rotowire Sleeper,San Antonio Spurs,Minnesota Timberwolves,1.0,0.6666666666666666,1,0.6,1,0.6,1,100,1.5,3.0,1.5,J.Sochan
-T.Murphy o24.5 Pts+Rebs,Rotowire Sleeper,New Orleans Pelicans,Indiana Pacers,0.0,0.4615384615384615,0,0.4,0,0.5,0,100,1.5,3.0,1.5,T.Murphy
-D.White o18.5 Pts+Rebs,Rotowire Sleeper,Boston Celtics,Washington Wizards,0.0,0.7083333333333334,1,0.4,0,0.6,1,100,1.5,3.0,1.5,D.White
-P.Pritchard o13.5 Pts,JoeDellera,Boston Celtics,Washington Wizards,0.0,0.68,1,0.8,1,0.7,1,-115,1.0,1.869565217391304,0.8695652173913042,P.Pritchard
-A.Edwards o24.5 Pts,the_degenerates,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5833333333333334,1,0.4,0,0.6,1,-110,1.1,2.1,1.0,A.Edwards
-A.Edwards o24.5 Pts,RoyalsProps,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5833333333333334,1,0.4,0,0.6,1,-110,1.1,2.1,1.0,A.Edwards
-J.Hart o10.5 Pts,Rotowire Prizepicks,New York Knicks,Orlando Magic,0.0,0.88,1,0.8,1,0.9,1,100,1.5,3.0,1.5,J.Hart
-O.Toppin o10.5 Pts,Rotowire Prizepicks,Indiana Pacers,New Orleans Pelicans,1.0,0.52,1,1.0,1,0.7,1,100,1.5,3.0,1.5,O.Toppin
-J.Sochan o11.5 Pts,Rotowire Sleeper,San Antonio Spurs,Minnesota Timberwolves,1.0,0.75,1,0.8,1,0.7,1,100,1.5,3.0,1.5,J.Sochan
+N.Reid o17.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5833333333333334,1,0.6,1,0.4,0,100.0,1.5,3.0,1.5,N.Reid
+J.Hart o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,New York Knicks,Orlando Magic,0.0,0.68,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5,J.Hart
+D.White o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Boston Celtics,Washington Wizards,0.0,0.7916666666666666,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,D.White
+R.Gobert o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5,0,0.8,1,0.6,1,100.0,1.5,3.0,1.5,R.Gobert
+J.Sochan o21.5 Pts+Rebs+Ast,Rotowire Sleeper,San Antonio Spurs,Minnesota Timberwolves,1.0,0.6666666666666666,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,J.Sochan
+P.Pritchard o13.5 Pts,JoeDellera,Boston Celtics,Washington Wizards,0.0,0.68,1,0.8,1,0.7,1,-115.0,1.0,1.869565217391304,0.8695652173913042,P.Pritchard
+A.Edwards o24.5 Pts,the_degenerates,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5833333333333334,1,0.4,0,0.6,1,-110.0,1.1,2.1,1.0,A.Edwards
+A.Edwards o24.5 Pts,RoyalsProps,Minnesota Timberwolves,San Antonio Spurs,0.0,0.5833333333333334,1,0.4,0,0.6,1,-110.0,1.1,2.1,1.0,A.Edwards
+J.Hart o10.5 Pts,Rotowire Prizepicks,New York Knicks,Orlando Magic,0.0,0.88,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,J.Hart
+O.Toppin o10.5 Pts,Rotowire Prizepicks,Indiana Pacers,New Orleans Pelicans,1.0,0.52,1,1.0,1,0.7,1,100.0,1.5,3.0,1.5,O.Toppin
+J.Sochan o11.5 Pts,Rotowire Sleeper,San Antonio Spurs,Minnesota Timberwolves,1.0,0.75,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,J.Sochan
+T.Murphy o20.5 Pts+Ast,Rotowire Sleeper,New Orleans Pelicans,Indiana Pacers,0.0,0.4615384615384615,0,0.6,1,0.6,1,100.0,1.5,3.0,1.5,T.Murphy
+D.White o18.5 Pts+Ast,Rotowire Sleeper,Boston Celtics,Washington Wizards,0.0,0.8333333333333334,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,D.White
+D.White o18.5 Pts+Ast,Rotowire Prizepicks,Boston Celtics,Washington Wizards,0.0,0.8333333333333334,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,D.White
+J.Morant o30.5 Pts+Ast,Theotherbabs,Memphis Grizzlies,Los Angeles Lakers,0.0,0.5333333333333333,1,0.6,1,0.6,1,-128.0,1.0,1.78125,0.78125,J.Morant
+D.Avdija o13.5 Pts+Ast,Rotowire Prizepicks,Portland Trail Blazers,Phoenix Suns,0.0,0.72,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,D.Avdija
+J.Jackson o19.5 Pts+Ast,Rotowire Sleeper,Memphis Grizzlies,Los Angeles Lakers,0.0,0.75,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,J.Jackson
+T.Murphy o24.5 Pts+Rebs,Rotowire Sleeper,New Orleans Pelicans,Indiana Pacers,0.0,0.4615384615384615,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5,T.Murphy
+D.White o18.5 Pts+Rebs,Rotowire Sleeper,Boston Celtics,Washington Wizards,0.0,0.7083333333333334,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,D.White

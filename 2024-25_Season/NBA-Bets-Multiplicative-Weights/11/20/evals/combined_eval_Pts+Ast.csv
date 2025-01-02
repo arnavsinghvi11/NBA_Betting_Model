@@ -1,8 +1,8 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,D.Green o14.5 Pts+Ast,Rotowire Sleeper,D.Green,Y,18.0,Golden State Warriors,Atlanta Hawks,1.0,0.5384615384615384,1,0.8,1,0.7,1,100,1.5,3.0,1.5
-1,J.Giddey o17.5 Pts+Ast,Rotowire Prizepicks,J.Giddey,N,8.0,Chicago Bulls,Milwaukee Bucks,0.0,0.6666666666666666,1,0.4,0,0.6,1,100,1.5,3.0,1.5
-2,J.Harden u31.5 Pts+Ast,Rotowire Prizepicks,J.Harden,Y,29.0,Los Angeles Clippers,Orlando Magic,1.0,0.7333333333333333,1,1.0,1,1.0,1,100,1.5,3.0,1.5
-3,D.Booker u35.5 Pts+Ast,Rotowire Prizepicks,D.Booker,N,38.0,Phoenix Suns,New York Knicks,1.0,0.8,1,0.8,1,0.8,1,100,1.5,3.0,1.5
-4,S.Pippen o15.5 Pts+Ast,Rotowire Sleeper,S.Pippen,N,11.0,Memphis Grizzlies,Philadelphia 76ers,1.0,0.7333333333333333,1,0.6,1,0.8,1,100,1.5,3.0,1.5
-5,A.Sengun u27.5 Pts+Ast,Rotowire Prizepicks,A.Sengun,N,33.0,Houston Rockets,Indiana Pacers,1.0,0.6666666666666666,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-6,T.Maxey o15.5 Pts+Ast,Rotowire Sleeper,T.Maxey,N,10.0,Philadelphia 76ers,Memphis Grizzlies,0.0,0.8571428571428571,1,0.8,1,0.8571428571428571,1,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,D.Green o14.5 Pts+Ast,Rotowire Sleeper,Golden State Warriors,D.Green,Y,18.0,Atlanta Hawks,1.0,0.5384615384615384,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
+1,J.Giddey o17.5 Pts+Ast,Rotowire Prizepicks,Chicago Bulls,J.Giddey,N,8.0,Milwaukee Bucks,0.0,0.6666666666666666,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5
+2,J.Harden u31.5 Pts+Ast,Rotowire Prizepicks,Los Angeles Clippers,J.Harden,Y,29.0,Orlando Magic,1.0,0.7333333333333333,1,1.0,1,1.0,1,100.0,1.5,3.0,1.5
+3,D.Booker u35.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,D.Booker,N,38.0,New York Knicks,1.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
+4,S.Pippen o15.5 Pts+Ast,Rotowire Sleeper,Memphis Grizzlies,S.Pippen,N,11.0,Philadelphia 76ers,1.0,0.7333333333333333,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5
+5,A.Sengun u27.5 Pts+Ast,Rotowire Prizepicks,Houston Rockets,A.Sengun,N,33.0,Indiana Pacers,1.0,0.6666666666666666,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5
+6,T.Maxey o15.5 Pts+Ast,Rotowire Sleeper,Philadelphia 76ers,T.Maxey,N,10.0,Memphis Grizzlies,0.0,0.8571428571428571,1,0.8,1,0.8571428571428571,1,100.0,1.5,3.0,1.5

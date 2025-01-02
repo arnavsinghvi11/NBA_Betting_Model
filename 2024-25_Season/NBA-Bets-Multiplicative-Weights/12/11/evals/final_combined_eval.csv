@@ -1,25 +1,29 @@
-Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-K.Towns o37.5 Pts+Rebs,JoeDellera,K.Towns,Y,38.0,New York Knicks,Atlanta Hawks,1.0,0.5454545454545454,1,0.6,1,0.6,1,-122.0,1.0,1.819672131147541,0.819672131147541
-B.Podziemski o11.5 Pts+Rebs,Rotowire Prizepicks,B.Podziemski,N,10.0,Golden State Warriors,Houston Rockets,0.0,0.5454545454545454,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
-B.Hield o14.5 Pts+Rebs,Rotowire Sleeper,B.Hield,Y,19.0,Golden State Warriors,Houston Rockets,0.0,0.5217391304347826,1,0.2,0,0.3,0,100.0,1.5,3.0,1.5
-A.Sengun o30.5 Pts+Rebs,Rotowire Sleeper,A.Sengun,Y,37.0,Houston Rockets,Golden State Warriors,1.0,0.4583333333333333,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5
-J.Johnson o27.5 Pts+Rebs,Rotowire Prizepicks,J.Johnson,Y,36.0,Atlanta Hawks,New York Knicks,0.0,0.6521739130434783,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5
-T.Eason o17.5 Pts+Rebs,JoeDellera,T.Eason,N,16.0,Houston Rockets,Golden State Warriors,1.0,0.5454545454545454,1,0.4,0,0.6,1,-106.0,1.0,1.9433962264150944,0.9433962264150944
-B.Bogdanovic o15.5 Pts+Rebs,Rotowire Prizepicks,B.Bogdanovic,N,9.0,Atlanta Hawks,New York Knicks,0.0,0.6,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
-B.Podziemski o10.5 Pts+Rebs,Rotowire Sleeper,B.Podziemski,N,10.0,Golden State Warriors,Houston Rockets,0.0,0.5454545454545454,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
-M.Bridges o16.5 Pts,CeeJPicks,M.Bridges,Y,19.0,New York Knicks,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-122.0,1.22,2.22,1.0000000000000002
-A.Sengun u21.5 Pts,CeeJPicks,A.Sengun,N,26.0,Houston Rockets,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-125.0,1.25,2.25,1.0
-A.Sengun u20.5 Pts,LinesAtLunch,A.Sengun,N,26.0,Houston Rockets,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-112.0,1.12,2.12,1.0
-A.Sengun u20.5 Pts,sandyplashkes,A.Sengun,N,26.0,Houston Rockets,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-112.0,1.12,2.12,1.0
-A.Sengun u21.5 Pts,Markus_Markets,A.Sengun,N,26.0,Houston Rockets,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-120.0,1.0,1.8333333333333333,0.8333333333333335
-J.Brunson o25.5 Pts,gneiffer07,J.Brunson,N,14.0,New York Knicks,Atlanta Hawks,1.0,0.4166666666666667,0,0.2,0,0.4,0,-115.0,1.15,2.1499999999999995,0.9999999999999996
-J.Brunson o25.5 Pts,RoyalsProps,J.Brunson,N,14.0,New York Knicks,Atlanta Hawks,1.0,0.4166666666666667,0,0.2,0,0.4,0,-115.0,1.15,2.1499999999999995,0.9999999999999996
-M.Bridges o16.5 Pts,therocketplays,M.Bridges,Y,19.0,New York Knicks,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-115.0,1.15,2.1499999999999995,0.9999999999999996
-M.Bridges o16.5 Pts,the_degenerates,M.Bridges,Y,19.0,New York Knicks,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-125.0,1.25,2.25,1.0
-K.Looney o8.5 Rebs+Ast,ThePropfessor_,K.Looney,N,8.0,Golden State Warriors,Houston Rockets,0.0,0.6190476190476191,1,0.6,1,0.5,0,-125.0,1.25,2.25,1.0
-J.Brunson o37.5 Pts+Rebs+Ast,LinesAtLunch,J.Brunson,N,26.0,New York Knicks,Atlanta Hawks,1.0,0.4166666666666667,0,0.2,0,0.5,0,-106.0,1.06,2.06,1.0
-J.Brunson o37.5 Pts+Rebs+Ast,sandyplashkes,J.Brunson,N,26.0,New York Knicks,Atlanta Hawks,1.0,0.4166666666666667,0,0.2,0,0.5,0,-106.0,1.06,2.06,1.0
-K.Looney o14.5 Pts+Rebs+Ast,Rotowire Prizepicks,K.Looney,N,10.0,Golden State Warriors,Houston Rockets,0.0,0.6666666666666666,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5
-M.Bridges o24.5 Pts+Rebs+Ast,MJCLocks,M.Bridges,Y,25.0,New York Knicks,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-102.0,1.02,2.02,1.0
-D.Hunter o18.5 Pts+Ast,Rotowire Sleeper,D.Hunter,Y,24.0,Atlanta Hawks,New York Knicks,0.0,0.6428571428571429,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
-D.Hunter o17.5 Pts+Ast,Rotowire Sleeper,D.Hunter,Y,24.0,Atlanta Hawks,New York Knicks,0.0,0.7142857142857143,1,1.0,1,0.7,1,100.0,1.5,3.0,1.5
+Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+K.Towns o37.5 Pts+Rebs,JoeDellera,New York Knicks,K.Towns,Y,38.0,Atlanta Hawks,1.0,0.5454545454545454,1,0.6,1,0.6,1,-122.0,1.0,1.819672131147541,0.819672131147541
+B.Hield o14.5 Pts+Rebs,Rotowire Sleeper,Golden State Warriors,B.Hield,Y,19.0,Houston Rockets,0.0,0.5217391304347826,1,0.2,0,0.3,0,100.0,1.5,3.0,1.5
+A.Sengun o30.5 Pts+Rebs,Rotowire Sleeper,Houston Rockets,A.Sengun,Y,37.0,Golden State Warriors,1.0,0.4583333333333333,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+J.Johnson o27.5 Pts+Rebs,Rotowire Prizepicks,Atlanta Hawks,J.Johnson,Y,36.0,New York Knicks,0.0,0.6521739130434783,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5
+T.Eason o17.5 Pts+Rebs,JoeDellera,Houston Rockets,T.Eason,N,16.0,Golden State Warriors,1.0,0.5454545454545454,1,0.4,0,0.6,1,-106.0,1.0,1.9433962264150944,0.9433962264150944
+B.Bogdanovic o15.5 Pts+Rebs,Rotowire Prizepicks,Atlanta Hawks,B.Bogdanovic,N,9.0,New York Knicks,0.0,0.6,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+B.Podziemski o11.5 Pts+Rebs,Rotowire Prizepicks,Golden State Warriors,B.Podziemski,N,10.0,Houston Rockets,0.0,0.5454545454545454,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+B.Podziemski o10.5 Pts+Rebs,Rotowire Sleeper,Golden State Warriors,B.Podziemski,N,10.0,Houston Rockets,0.0,0.5454545454545454,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+M.Bridges o16.5 Pts,CeeJPicks,New York Knicks,M.Bridges,Y,19.0,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-122.0,1.22,2.22,1.0000000000000002
+A.Sengun u21.5 Pts,CeeJPicks,Houston Rockets,A.Sengun,N,26.0,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-125.0,1.25,2.25,1.0
+A.Sengun u20.5 Pts,LinesAtLunch,Houston Rockets,A.Sengun,N,26.0,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-112.0,1.12,2.12,1.0
+A.Sengun u20.5 Pts,sandyplashkes,Houston Rockets,A.Sengun,N,26.0,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-112.0,1.12,2.12,1.0
+A.Sengun u21.5 Pts,Markus_Markets,Houston Rockets,A.Sengun,N,26.0,Golden State Warriors,1.0,0.625,1,0.6,1,0.5,0,-120.0,1.0,1.8333333333333333,0.8333333333333335
+M.Bridges o16.5 Pts,therocketplays,New York Knicks,M.Bridges,Y,19.0,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-115.0,1.15,2.1499999999999995,0.9999999999999996
+M.Bridges o16.5 Pts,the_degenerates,New York Knicks,M.Bridges,Y,19.0,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-125.0,1.25,2.25,1.0
+J.Brunson o25.5 Pts,gneiffer07,New York Knicks,J.Brunson,N,14.0,Atlanta Hawks,1.0,0.4166666666666667,0,0.2,0,0.4,0,-115.0,1.15,2.1499999999999995,0.9999999999999996
+J.Brunson o25.5 Pts,RoyalsProps,New York Knicks,J.Brunson,N,14.0,Atlanta Hawks,1.0,0.4166666666666667,0,0.2,0,0.4,0,-115.0,1.15,2.1499999999999995,0.9999999999999996
+K.Looney o7.5 Rebs,Rotowire Prizepicks,Golden State Warriors,K.Looney,N,7.0,Houston Rockets,0.0,0.4761904761904761,0,0.6,1,0.4,0,100.0,1.5,3.0,1.5
+K.Towns o13.5 Rebs,Rotowire Prizepicks,New York Knicks,K.Towns,Y,19.0,Atlanta Hawks,1.0,0.5,0,0.8,1,0.7,1,100.0,1.5,3.0,1.5
+J.Johnson o9.5 Rebs,therocketplays,Atlanta Hawks,J.Johnson,Y,15.0,New York Knicks,0.0,0.5217391304347826,1,0.4,0,0.5,0,100.0,1.0,2.0,1.0
+C.Capela o8.5 Rebs,kylemurray03,Atlanta Hawks,C.Capela,Y,13.0,New York Knicks,0.0,0.6,1,0.8,1,0.8,1,-125.0,1.25,2.25,1.0
+A.Thompson o6.5 Rebs,kylemurray03,Houston Rockets,A.Thompson,N,6.0,Golden State Warriors,1.0,0.5416666666666666,1,0.6,1,0.7,1,-120.0,1.2,2.2,1.0000000000000002
+A.Thompson o6.5 Rebs,Rotowire Prizepicks,Houston Rockets,A.Thompson,N,6.0,Golden State Warriors,1.0,0.5416666666666666,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+K.Looney o8.5 Rebs+Ast,ThePropfessor_,Golden State Warriors,K.Looney,N,8.0,Houston Rockets,0.0,0.6190476190476191,1,0.6,1,0.5,0,-125.0,1.25,2.25,1.0
+K.Looney o14.5 Pts+Rebs+Ast,Rotowire Prizepicks,Golden State Warriors,K.Looney,N,10.0,Houston Rockets,0.0,0.6666666666666666,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5
+M.Bridges o24.5 Pts+Rebs+Ast,MJCLocks,New York Knicks,M.Bridges,Y,25.0,Atlanta Hawks,1.0,0.5416666666666666,1,1.0,1,0.6,1,-102.0,1.02,2.02,1.0
+D.Hunter o18.5 Pts+Ast,Rotowire Sleeper,Atlanta Hawks,D.Hunter,Y,24.0,New York Knicks,0.0,0.6428571428571429,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+D.Hunter o17.5 Pts+Ast,Rotowire Sleeper,Atlanta Hawks,D.Hunter,Y,24.0,New York Knicks,0.0,0.7142857142857143,1,1.0,1,0.7,1,100.0,1.5,3.0,1.5

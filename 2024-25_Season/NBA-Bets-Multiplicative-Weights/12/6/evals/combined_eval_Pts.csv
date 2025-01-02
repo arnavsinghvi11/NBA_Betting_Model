@@ -1,10 +1,10 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,F.Wagner u27.5 Pts,sandyplashkes,F.Wagner,N,30.0,Orlando Magic,Philadelphia 76ers,0.0,0.5416666666666666,1,0.4,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002
-1,Z.Risacher u11.5 Pts,RoyalsProps,Z.Risacher,Y,11.0,Atlanta Hawks,Los Angeles Lakers,1.0,0.5217391304347826,1,0.2,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002
-2,Z.Risacher u11.5 Pts,Mjaybrxd,Z.Risacher,Y,11.0,Atlanta Hawks,Los Angeles Lakers,1.0,0.5217391304347826,1,0.2,0,0.4,0,-120.0,0.5,0.9166666666666669,0.4166666666666667
-3,J.Holiday o10.5 Pts,the_degenerates,J.Holiday,Y,20.0,Boston Celtics,Milwaukee Bucks,1.0,0.5789473684210527,1,0.4,0,0.6,1,-120.0,1.2,2.2,1.0000000000000002
-4,N.Reid o11.5 Pts,itsbucketsnba,N.Reid,N,9.0,Minnesota Timberwolves,Golden State Warriors,0.0,0.6190476190476191,1,0.4,0,0.5,0,-108.0,1.5,2.8888888888888893,1.3888888888888893
-5,S.Hauser o5.5 Pts,JoeDellera,S.Hauser,Y,16.0,Boston Celtics,Milwaukee Bucks,1.0,0.7222222222222222,1,0.6,1,0.7,1,-137.0,1.0,1.72992700729927,0.7299270072992701
-6,D.Green o8.5 Pts,Rotowire Prizepicks,D.Green,Y,10.0,Golden State Warriors,Minnesota Timberwolves,1.0,0.5789473684210527,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
-7,S.Sharpe o16.5 Pts,Rotowire Sleeper,S.Sharpe,N,10.0,Portland Trail Blazers,Utah Jazz,1.0,0.5,0,0.4,0,0.6,1,100.0,1.5,3.0,1.5
-8,D.Green o7.5 Pts,Rotowire Prizepicks,D.Green,Y,10.0,Golden State Warriors,Minnesota Timberwolves,1.0,0.6842105263157895,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,F.Wagner u27.5 Pts,sandyplashkes,Orlando Magic,F.Wagner,N,30.0,Philadelphia 76ers,0.0,0.5416666666666666,1,0.4,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002
+1,Z.Risacher u11.5 Pts,RoyalsProps,Atlanta Hawks,Z.Risacher,Y,11.0,Los Angeles Lakers,1.0,0.5217391304347826,1,0.2,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002
+2,Z.Risacher u11.5 Pts,Mjaybrxd,Atlanta Hawks,Z.Risacher,Y,11.0,Los Angeles Lakers,1.0,0.5217391304347826,1,0.2,0,0.4,0,-120.0,0.5,0.9166666666666669,0.4166666666666667
+3,J.Holiday o10.5 Pts,the_degenerates,Boston Celtics,J.Holiday,Y,20.0,Milwaukee Bucks,1.0,0.5789473684210527,1,0.4,0,0.6,1,-120.0,1.2,2.2,1.0000000000000002
+4,N.Reid o11.5 Pts,itsbucketsnba,Minnesota Timberwolves,N.Reid,N,9.0,Golden State Warriors,0.0,0.6190476190476191,1,0.4,0,0.5,0,-108.0,1.5,2.8888888888888893,1.3888888888888893
+5,S.Hauser o5.5 Pts,JoeDellera,Boston Celtics,S.Hauser,Y,16.0,Milwaukee Bucks,1.0,0.7222222222222222,1,0.6,1,0.7,1,-137.0,1.0,1.72992700729927,0.7299270072992701
+6,D.Green o8.5 Pts,Rotowire Prizepicks,Golden State Warriors,D.Green,Y,10.0,Minnesota Timberwolves,1.0,0.5789473684210527,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+7,S.Sharpe o16.5 Pts,Rotowire Sleeper,Portland Trail Blazers,S.Sharpe,N,10.0,Utah Jazz,1.0,0.5,0,0.4,0,0.6,1,100.0,1.5,3.0,1.5
+8,D.Green o7.5 Pts,Rotowire Prizepicks,Golden State Warriors,D.Green,Y,10.0,Minnesota Timberwolves,1.0,0.6842105263157895,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5

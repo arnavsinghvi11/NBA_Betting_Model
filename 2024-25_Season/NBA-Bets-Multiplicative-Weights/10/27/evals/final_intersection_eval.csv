@@ -1,9 +1,14 @@
-Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Correct,Actual Value
-Y.Missi o12.5 Pts+Rebs+Ast,therocketplays,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-120,1.2,2.2,1.0000000000000002,N,10.0
-Y.Missi o12.5 Pts+Rebs+Ast,ThePropfessor_,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-115,1.15,2.1499999999999995,0.9999999999999996,N,10.0
-Y.Missi o12.5 Pts+Rebs+Ast,JoeDellera,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-115,1.0,1.869565217391304,0.8695652173913042,N,10.0
-B.Ingram o30.5 Pts+Rebs+Ast,TopShelfAction,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-105,0.8,1.561904761904762,0.7619047619047619,N,28.0
-S.Henderson o14.5 Pts,TopShelfAction,Portland Trail Blazers,New Orleans Pelicans,1.0,1.0,1,1.0,1,1.0,1,140,0.5,1.2,0.7,N,9.0
-J.Hawkins o10.5 Pts,PropBetGuy,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-125,1.0,1.8,0.8,Y,17.0
-D.Jones o8.5 Pts,TopShelfAction,Los Angeles Clippers,Golden State Warriors,0.0,1.0,1,1.0,1,1.0,1,100,0.5,1.0,0.5,Y,18.0
-C.Thomas o25.5 Pts,JoeDellera,Brooklyn Nets,Milwaukee Bucks,1.0,0.5,0,0.5,0,0.5,0,-110,0.91,1.7372727272727273,0.8272727272727273,Y,32.0
+Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value
+S.Henderson o4.5 Ast,TopShelfAction,Portland Trail Blazers,New Orleans Pelicans,1.0,0.5,0,0.5,0,0.5,0,-120,0.75,1.375,0.625,S.Henderson,Y,7.0
+J.Harden o9.5 Ast,kylemurray03,Los Angeles Clippers,Golden State Warriors,0.0,0.5,0,0.5,0,0.5,0,-122,1.0,1.819672131147541,0.819672131147541,J.Harden,Y,11.0
+S.Henderson o14.5 Pts,TopShelfAction,Portland Trail Blazers,New Orleans Pelicans,1.0,1.0,1,1.0,1,1.0,1,140,0.5,1.2,0.7,S.Henderson,N,9.0
+J.Hawkins o10.5 Pts,PropBetGuy,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-125,1.0,1.8,0.8,J.Hawkins,Y,17.0
+D.Jones o8.5 Pts,TopShelfAction,Los Angeles Clippers,Golden State Warriors,0.0,1.0,1,1.0,1,1.0,1,100,0.5,1.0,0.5,D.Jones,Y,18.0
+M.Turner o15.5 Pts,JoeDellera,Indiana Pacers,Philadelphia 76ers,1.0,0.5,0,0.5,0,0.5,0,-113,1.0,1.8849557522123888,0.8849557522123894,M.Turner,N,14.0
+C.Thomas o25.5 Pts,JoeDellera,Brooklyn Nets,Milwaukee Bucks,1.0,0.5,0,0.5,0,0.5,0,-110,0.91,1.7372727272727273,0.8272727272727273,C.Thomas,Y,32.0
+Y.Missi o1.5 Blk,kylemurray03,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-120,1.0,1.8333333333333333,0.8333333333333335,Y.Missi,Y,2.0
+Y.Missi o1.5 Blk,PropBomb,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-110,1.0,1.9090909090909087,0.9090909090909092,Y.Missi,Y,2.0
+Y.Missi o12.5 Pts+Rebs+Ast,therocketplays,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-120,1.2,2.2,1.0000000000000002,Y.Missi,N,10.0
+Y.Missi o12.5 Pts+Rebs+Ast,ThePropfessor_,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-115,1.15,2.1499999999999995,0.9999999999999996,Y.Missi,N,10.0
+Y.Missi o12.5 Pts+Rebs+Ast,JoeDellera,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-115,1.0,1.869565217391304,0.8695652173913042,Y.Missi,N,10.0
+B.Ingram o30.5 Pts+Rebs+Ast,TopShelfAction,New Orleans Pelicans,Portland Trail Blazers,0.0,1.0,1,1.0,1,1.0,1,-105,0.8,1.561904761904762,0.7619047619047619,B.Ingram,N,28.0

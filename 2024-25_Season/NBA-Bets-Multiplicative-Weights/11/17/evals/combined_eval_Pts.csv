@@ -1,9 +1,9 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,E.Mobley o18.5 Pts,RoyalsProps,E.Mobley,Y,23.0,Cleveland Cavaliers,Charlotte Hornets,1.0,0.3076923076923077,0,0.4,0,0.3,0,-125.0,0.63,1.134,0.5040000000000001
-1,C.Capela u10.5 Pts,gneiffer07,C.Capela,Y,8.0,Atlanta Hawks,Portland Trail Blazers,0.0,0.5384615384615384,1,0.4,0,0.4,0,-105.0,1.05,2.05,0.9999999999999998
-2,R.Gobert o10.5 Pts,Rotowire Prizepicks,R.Gobert,Y,11.0,Minnesota Timberwolves,Phoenix Suns,1.0,0.4615384615384615,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5
-3,J.Collins u16.5 Pts,TopShelfAction,J.Collins,Y,13.0,Utah Jazz,Los Angeles Clippers,0.0,0.6666666666666666,1,0.6,1,0.6,1,100.0,1.0,2.0,1.0
-4,I.Zubac o15.5 Pts,TopShelfAction,I.Zubac,Y,22.0,Los Angeles Clippers,Utah Jazz,1.0,0.4615384615384615,0,0.2,0,0.3,0,-114.0,1.0,1.8771929824561404,0.8771929824561404
-5,J.Harden o21.5 Pts,itsbucketsnba,J.Harden,N,20.0,Los Angeles Clippers,Utah Jazz,1.0,0.4615384615384615,0,0.4,0,0.3,0,-117.0,1.0,1.8547008547008548,0.8547008547008548
-6,C.White u19.5 Pts,itsbucketsnba,C.White,Y,8.0,Chicago Bulls,Houston Rockets,1.0,0.3076923076923077,0,0.2,0,0.2,0,-113.0,1.0,1.8849557522123888,0.8849557522123894
-7,B.Simmons o6.5 Pts,itsbucketsnba,B.Simmons,N,0.0,Brooklyn Nets,New York Knicks,0.0,0.4444444444444444,0,0.4,0,0.4444444444444444,0,100.0,1.0,2.0,1.0
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,E.Mobley o18.5 Pts,RoyalsProps,Cleveland Cavaliers,E.Mobley,Y,23.0,Charlotte Hornets,1.0,0.3076923076923077,0,0.4,0,0.3,0,-125.0,0.63,1.134,0.5040000000000001
+1,C.Capela u10.5 Pts,gneiffer07,Atlanta Hawks,C.Capela,Y,8.0,Portland Trail Blazers,0.0,0.5384615384615384,1,0.4,0,0.4,0,-105.0,1.05,2.05,0.9999999999999998
+2,R.Gobert o10.5 Pts,Rotowire Prizepicks,Minnesota Timberwolves,R.Gobert,Y,11.0,Phoenix Suns,1.0,0.4615384615384615,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5
+3,J.Collins u16.5 Pts,TopShelfAction,Utah Jazz,J.Collins,Y,13.0,Los Angeles Clippers,0.0,0.6666666666666666,1,0.6,1,0.6,1,100.0,1.0,2.0,1.0
+4,I.Zubac o15.5 Pts,TopShelfAction,Los Angeles Clippers,I.Zubac,Y,22.0,Utah Jazz,1.0,0.4615384615384615,0,0.2,0,0.3,0,-114.0,1.0,1.8771929824561404,0.8771929824561404
+5,J.Harden o21.5 Pts,itsbucketsnba,Los Angeles Clippers,J.Harden,N,20.0,Utah Jazz,1.0,0.4615384615384615,0,0.4,0,0.3,0,-117.0,1.0,1.8547008547008548,0.8547008547008548
+6,C.White u19.5 Pts,itsbucketsnba,Chicago Bulls,C.White,Y,8.0,Houston Rockets,1.0,0.3076923076923077,0,0.2,0,0.2,0,-113.0,1.0,1.8849557522123888,0.8849557522123894
+7,B.Simmons o6.5 Pts,itsbucketsnba,Brooklyn Nets,B.Simmons,N,0.0,New York Knicks,0.0,0.4444444444444444,0,0.4,0,0.4444444444444444,0,100.0,1.0,2.0,1.0

@@ -1,10 +1,12 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
-B.Ingram u40.5 Pts+Rebs+Ast,allanlemdfs,New Orleans Pelicans,Los Angeles Lakers,1.0,0.7692307692307693,1,0.8,1,0.8,1,-120,0.6,1.1,0.5000000000000001,B.Ingram
-P.Pritchard o14.5 Pts,Rotowire Prizepicks,Boston Celtics,Toronto Raptors,1.0,0.7692307692307693,1,0.8,1,0.8,1,100,1.5,3.0,1.5,P.Pritchard
-J.Poeltl o12.5 Pts,Rotowire Prizepicks,Toronto Raptors,Boston Celtics,0.0,0.6923076923076923,1,0.6,1,0.8,1,100,1.5,3.0,1.5,J.Poeltl
-L.Ball o27.5 Pts,the_degenerates,Charlotte Hornets,Milwaukee Bucks,1.0,0.6363636363636364,1,0.6,1,0.6,1,-122,1.22,2.22,1.0000000000000002,L.Ball
-H.Barnes o11.5 Pts+Ast,Rotowire Sleeper,San Antonio Spurs,Dallas Mavericks,0.0,0.6153846153846154,1,0.8,1,0.6,1,100,1.5,3.0,1.5,H.Barnes
-K.Irving o26.5 Pts+Rebs,Rotowire Prizepicks,Dallas Mavericks,San Antonio Spurs,1.0,0.5454545454545454,1,0.6,1,0.6,1,100,1.5,3.0,1.5,K.Irving
-R.Hachimura o16.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Lakers,New Orleans Pelicans,0.0,0.5,0,0.2,0,0.5,0,100,1.5,3.0,1.5,R.Hachimura
-N.Queta o12.5 Pts+Rebs,Rotowire Sleeper,Boston Celtics,Toronto Raptors,1.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5,N.Queta
-R.Hachimura o11.5 Pts,Rotowire Prizepicks,Los Angeles Lakers,New Orleans Pelicans,0.0,0.5,0,0.2,0,0.5,0,100,1.5,3.0,1.5,R.Hachimura
+B.Ingram u40.5 Pts+Rebs+Ast,allanlemdfs,New Orleans Pelicans,Los Angeles Lakers,1.0,0.7692307692307693,1,0.8,1,0.8,1,-120.0,0.6,1.1,0.5000000000000001,B.Ingram
+P.Pritchard o14.5 Pts,Rotowire Prizepicks,Boston Celtics,Toronto Raptors,1.0,0.7692307692307693,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,P.Pritchard
+J.Poeltl o12.5 Pts,Rotowire Prizepicks,Toronto Raptors,Boston Celtics,0.0,0.6923076923076923,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,J.Poeltl
+L.Ball o27.5 Pts,the_degenerates,Charlotte Hornets,Milwaukee Bucks,1.0,0.6363636363636364,1,0.6,1,0.6,1,-122.0,1.22,2.22,1.0000000000000002,L.Ball
+L.Ball o39.5 Pts+Rebs+Ast,Rotowire Prizepicks,Charlotte Hornets,Milwaukee Bucks,1.0,0.6363636363636364,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,L.Ball
+J.Tatum u8.5 Rebs,kylemurray03,Boston Celtics,Toronto Raptors,1.0,0.6153846153846154,1,0.4,0,0.6,1,-143.0,1.43,2.43,0.9999999999999998,J.Tatum
+H.Barnes o11.5 Pts+Ast,Rotowire Sleeper,San Antonio Spurs,Dallas Mavericks,0.0,0.6153846153846154,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5,H.Barnes
+K.Irving o26.5 Pts+Rebs,Rotowire Prizepicks,Dallas Mavericks,San Antonio Spurs,1.0,0.5454545454545454,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,K.Irving
+R.Hachimura o11.5 Pts,Rotowire Prizepicks,Los Angeles Lakers,New Orleans Pelicans,0.0,0.5,0,0.2,0,0.5,0,100.0,1.5,3.0,1.5,R.Hachimura
+R.Hachimura o16.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Lakers,New Orleans Pelicans,0.0,0.5,0,0.2,0,0.5,0,100.0,1.5,3.0,1.5,R.Hachimura
+N.Queta o12.5 Pts+Rebs,Rotowire Sleeper,Boston Celtics,Toronto Raptors,1.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5,N.Queta

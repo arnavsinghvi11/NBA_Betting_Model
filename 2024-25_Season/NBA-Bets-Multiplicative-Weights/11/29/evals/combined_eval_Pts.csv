@@ -1,12 +1,12 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,K.Towns u25.5 Pts,therocketplays,K.Towns,Y,19.0,New York Knicks,Charlotte Hornets,0.0,0.5294117647058824,1,0.6,1,0.4,0,-125,1.25,2.25,1.0
-1,J.Harden u22.5 Pts,Rotowire Prizepicks,J.Harden,Y,20.0,Los Angeles Clippers,Minnesota Timberwolves,0.0,0.6,1,0.4,0,0.7,1,100,1.5,3.0,1.5
-2,L.James o21.5 Pts,sandyplashkes,L.James,N,12.0,Los Angeles Lakers,Oklahoma City Thunder,1.0,0.3888888888888889,0,0.4,0,0.3,0,-114,1.14,2.14,0.9999999999999998
-3,C.Cunningham o21.5 Pts,Markus_Markets,C.Cunningham,Y,24.0,Detroit Pistons,Indiana Pacers,0.0,0.5882352941176471,1,0.6,1,0.5,0,-125,1.0,1.8,0.8
-4,D.Fox o28.5 Pts,RoyalsProps,D.Fox,N,22.0,Sacramento Kings,Portland Trail Blazers,0.0,0.3684210526315789,0,0.4,0,0.5,0,-113,1.13,2.13,1.0
-5,A.Davis o25.5 Pts,gneiffer07,A.Davis,N,15.0,Los Angeles Lakers,Oklahoma City Thunder,1.0,0.6470588235294118,1,0.4,0,0.5,0,-110,1.1,2.1,1.0
-6,R.Gobert o9.5 Pts,Rotowire Sleeper,R.Gobert,N,8.0,Minnesota Timberwolves,Los Angeles Clippers,1.0,0.5555555555555556,1,0.6,1,0.5,0,100,1.5,3.0,1.5
-7,C.Cunningham u23.5 Pts,Rotowire Prizepicks,C.Cunningham,N,24.0,Detroit Pistons,Indiana Pacers,0.0,0.5882352941176471,1,0.4,0,0.6,1,100,1.5,3.0,1.5
-8,A.Horford u8.5 Pts,itsbucketsnba,A.Horford,Y,2.0,Boston Celtics,Chicago Bulls,0.0,0.3571428571428571,0,0.4,0,0.4,0,-127,1.0,1.7874015748031495,0.7874015748031495
-9,D.Ayton o15.5 Pts,itsbucketsnba,D.Ayton,Y,26.0,Portland Trail Blazers,Sacramento Kings,1.0,0.4166666666666667,0,0.6,1,0.5,0,-107,1.0,1.9345794392523368,0.9345794392523366
-10,A.Horford o7.5 Pts,Rotowire Prizepicks,A.Horford,N,2.0,Boston Celtics,Chicago Bulls,0.0,0.8571428571428571,1,1.0,1,0.9,1,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,K.Towns u25.5 Pts,therocketplays,New York Knicks,K.Towns,Y,19.0,Charlotte Hornets,0.0,0.5294117647058824,1,0.6,1,0.4,0,-125.0,1.25,2.25,1.0
+1,J.Harden u22.5 Pts,Rotowire Prizepicks,Los Angeles Clippers,J.Harden,Y,20.0,Minnesota Timberwolves,0.0,0.6,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5
+2,A.Davis o25.5 Pts,gneiffer07,Los Angeles Lakers,A.Davis,N,15.0,Oklahoma City Thunder,1.0,0.6470588235294118,1,0.4,0,0.5,0,-110.0,1.1,2.1,1.0
+3,C.Cunningham u23.5 Pts,Rotowire Prizepicks,Detroit Pistons,C.Cunningham,N,24.0,Indiana Pacers,0.0,0.5882352941176471,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5
+4,A.Horford u8.5 Pts,itsbucketsnba,Boston Celtics,A.Horford,Y,2.0,Chicago Bulls,0.0,0.3571428571428571,0,0.4,0,0.4,0,-127.0,1.0,1.7874015748031495,0.7874015748031495
+5,L.James o21.5 Pts,sandyplashkes,Los Angeles Lakers,L.James,N,12.0,Oklahoma City Thunder,1.0,0.3888888888888889,0,0.4,0,0.3,0,-114.0,1.14,2.14,0.9999999999999998
+6,C.Cunningham o21.5 Pts,Markus_Markets,Detroit Pistons,C.Cunningham,Y,24.0,Indiana Pacers,0.0,0.5882352941176471,1,0.6,1,0.5,0,-125.0,1.0,1.8,0.8
+7,D.Fox o28.5 Pts,RoyalsProps,Sacramento Kings,D.Fox,N,22.0,Portland Trail Blazers,0.0,0.3684210526315789,0,0.4,0,0.5,0,-113.0,1.13,2.13,1.0
+8,R.Gobert o9.5 Pts,Rotowire Sleeper,Minnesota Timberwolves,R.Gobert,N,8.0,Los Angeles Clippers,1.0,0.5555555555555556,1,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+9,D.Ayton o15.5 Pts,itsbucketsnba,Portland Trail Blazers,D.Ayton,Y,26.0,Sacramento Kings,1.0,0.4166666666666667,0,0.6,1,0.5,0,-107.0,1.0,1.9345794392523368,0.9345794392523366
+10,A.Horford o7.5 Pts,Rotowire Prizepicks,Boston Celtics,A.Horford,N,2.0,Chicago Bulls,0.0,0.8571428571428571,1,1.0,1,0.9,1,100.0,1.5,3.0,1.5

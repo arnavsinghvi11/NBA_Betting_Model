@@ -1,7 +1,8 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,T.Haliburton u32.5 Pts+Rebs+Ast,allanlemdfs,T.Haliburton,Y,13.0,Indiana Pacers,Houston Rockets,0.0,0.7142857142857143,1,0.8,1,0.7,1,-123,1.23,2.23,1.0
-1,E.Mobley o27.5 Pts+Rebs+Ast,Rotowire Prizepicks,E.Mobley,N,17.0,Cleveland Cavaliers,New Orleans Pelicans,1.0,0.6,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-2,S.Pippen o19.5 Pts+Rebs+Ast,Rotowire Sleeper,S.Pippen,N,15.0,Memphis Grizzlies,Philadelphia 76ers,1.0,0.7333333333333333,1,0.6,1,0.8,1,100,1.5,3.0,1.5
-3,D.Bane u28.5 Pts+Rebs+Ast,gneiffer07,D.Bane,N,37.0,Memphis Grizzlies,Philadelphia 76ers,1.0,0.625,1,0.6,1,0.625,1,-110,1.1,2.1,1.0
-4,J.Embiid u37.5 Pts+Rebs+Ast,allanlemdfs,J.Embiid,N,48.0,Philadelphia 76ers,Memphis Grizzlies,0.0,1.0,1,1.0,1,1.0,1,-110,0.55,1.05,0.5
-5,A.Sengun u38.5 Pts+Rebs+Ast,kylemurray03,A.Sengun,N,45.0,Houston Rockets,Indiana Pacers,1.0,0.6666666666666666,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,T.Haliburton u32.5 Pts+Rebs+Ast,allanlemdfs,Indiana Pacers,T.Haliburton,Y,13.0,Houston Rockets,0.0,0.7142857142857143,1,0.8,1,0.7,1,-123.0,1.23,2.23,1.0
+1,S.Pippen o19.5 Pts+Rebs+Ast,Rotowire Sleeper,Memphis Grizzlies,S.Pippen,N,15.0,Philadelphia 76ers,1.0,0.7333333333333333,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5
+2,D.Bane u28.5 Pts+Rebs+Ast,gneiffer07,Memphis Grizzlies,D.Bane,N,37.0,Philadelphia 76ers,1.0,0.625,1,0.6,1,0.625,1,-110.0,1.1,2.1,1.0
+3,J.Embiid u37.5 Pts+Rebs+Ast,allanlemdfs,Philadelphia 76ers,J.Embiid,N,48.0,Memphis Grizzlies,0.0,1.0,1,1.0,1,1.0,1,-110.0,0.55,1.05,0.5
+4,A.Sengun u38.5 Pts+Rebs+Ast,kylemurray03,Houston Rockets,A.Sengun,N,45.0,Indiana Pacers,1.0,0.6666666666666666,1,0.6,1,0.6,1,-120.0,1.2,2.2,1.0000000000000002
+5,S.Henderson u22.5 Pts+Rebs+Ast,allanlemdfs,Portland Trail Blazers,S.Henderson,Y,20.0,Oklahoma City Thunder,0.0,0.7142857142857143,1,0.8,1,0.8,1,-120.0,0.6,1.1,0.5000000000000001
+6,E.Mobley o27.5 Pts+Rebs+Ast,Rotowire Prizepicks,Cleveland Cavaliers,E.Mobley,N,17.0,New Orleans Pelicans,1.0,0.6,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5

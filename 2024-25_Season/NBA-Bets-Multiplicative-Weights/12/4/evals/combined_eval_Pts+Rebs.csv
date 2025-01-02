@@ -1,5 +1,5 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,G.Antetokounmpo o44.5 Pts+Rebs,Mjaybrxd,G.Antetokounmpo,N,42.0,Milwaukee Bucks,Atlanta Hawks,1.0,0.5,0,0.6,1,0.5,0,-115,1.0,1.869565217391304,0.8695652173913042
-1,T.Harris o16.5 Pts+Rebs,Rotowire Sleeper,T.Harris,Y,30.0,Detroit Pistons,Boston Celtics,0.0,0.7727272727272727,1,0.4,0,0.7,1,100,1.5,3.0,1.5
-2,J.Randle o24.5 Pts+Rebs,Rotowire Sleeper,J.Randle,N,24.0,Minnesota Timberwolves,Los Angeles Clippers,0.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-3,I.Zubac o25.5 Pts+Rebs,Rotowire Sleeper,I.Zubac,N,14.0,Los Angeles Clippers,Minnesota Timberwolves,1.0,0.6086956521739131,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,G.Antetokounmpo o44.5 Pts+Rebs,Mjaybrxd,Milwaukee Bucks,G.Antetokounmpo,N,42.0,Atlanta Hawks,1.0,0.5,0,0.6,1,0.5,0,-115,1.0,1.869565217391304,0.8695652173913042
+1,T.Harris o16.5 Pts+Rebs,Rotowire Sleeper,Detroit Pistons,T.Harris,Y,30.0,Boston Celtics,0.0,0.7727272727272727,1,0.4,0,0.7,1,100,1.5,3.0,1.5
+2,J.Randle o24.5 Pts+Rebs,Rotowire Sleeper,Minnesota Timberwolves,J.Randle,N,24.0,Los Angeles Clippers,0.0,0.75,1,0.6,1,0.7,1,100,1.5,3.0,1.5
+3,I.Zubac o25.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,I.Zubac,N,14.0,Minnesota Timberwolves,1.0,0.6086956521739131,1,0.6,1,0.6,1,100,1.5,3.0,1.5

@@ -1,7 +1,7 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,T.Young o25.5 Pts+Rebs,Rotowire Sleeper,T.Young,N,15.0,Atlanta Hawks,Golden State Warriors,0.0,0.5714285714285714,1,0.4,0,0.6,1,100,1.5,3.0,1.5
-1,I.Zubac o26.5 Pts+Rebs,Rotowire Prizepicks,I.Zubac,Y,29.0,Los Angeles Clippers,Orlando Magic,1.0,0.5333333333333333,1,0.4,0,0.4,0,100,1.5,3.0,1.5
-2,J.Jackson o26.5 Pts+Rebs,the_degenerates,J.Jackson,Y,29.0,Memphis Grizzlies,Philadelphia 76ers,1.0,0.5384615384615384,1,0.8,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
-3,D.Jones o11.5 Pts+Rebs,Rotowire Sleeper,D.Jones,N,2.0,Oklahoma City Thunder,Portland Trail Blazers,1.0,0.0714285714285714,0,0.2,0,0.1,0,100,1.5,3.0,1.5
-4,J.Nurkic o15.5 Pts+Rebs,Rotowire Sleeper,J.Nurkic,Y,26.0,Phoenix Suns,New York Knicks,1.0,0.4615384615384615,0,0.2,0,0.4,0,100,1.5,3.0,1.5
-5,I.Zubac o25.5 Pts+Rebs,Rotowire Prizepicks,I.Zubac,Y,29.0,Los Angeles Clippers,Orlando Magic,1.0,0.6,1,0.4,0,0.5,0,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,T.Young o25.5 Pts+Rebs,Rotowire Sleeper,Atlanta Hawks,T.Young,N,15.0,Golden State Warriors,0.0,0.5714285714285714,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5
+1,I.Zubac o26.5 Pts+Rebs,Rotowire Prizepicks,Los Angeles Clippers,I.Zubac,Y,29.0,Orlando Magic,1.0,0.5333333333333333,1,0.4,0,0.4,0,100.0,1.5,3.0,1.5
+2,J.Jackson o26.5 Pts+Rebs,the_degenerates,Memphis Grizzlies,J.Jackson,Y,29.0,Philadelphia 76ers,1.0,0.5384615384615384,1,0.8,1,0.6,1,-115.0,1.15,2.1499999999999995,0.9999999999999996
+3,D.Jones o11.5 Pts+Rebs,Rotowire Sleeper,Oklahoma City Thunder,D.Jones,N,2.0,Portland Trail Blazers,1.0,0.0714285714285714,0,0.2,0,0.1,0,100.0,1.5,3.0,1.5
+4,J.Nurkic o15.5 Pts+Rebs,Rotowire Sleeper,Phoenix Suns,J.Nurkic,Y,26.0,New York Knicks,1.0,0.4615384615384615,0,0.2,0,0.4,0,100.0,1.5,3.0,1.5
+5,I.Zubac o25.5 Pts+Rebs,Rotowire Prizepicks,Los Angeles Clippers,I.Zubac,Y,29.0,Orlando Magic,1.0,0.6,1,0.4,0,0.5,0,100.0,1.5,3.0,1.5

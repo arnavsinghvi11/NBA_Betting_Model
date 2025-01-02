@@ -1,6 +1,6 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,T.Harris o17.5 Pts+Rebs,Rotowire Sleeper,T.Harris,Y,22.0,Detroit Pistons,New York Knicks,0.0,0.7391304347826086,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-1,T.Harris o18.5 Pts+Rebs,Rotowire Prizepicks,T.Harris,Y,22.0,Detroit Pistons,New York Knicks,0.0,0.6521739130434783,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-2,H.Jones o12.5 Pts+Rebs,Markus_Markets,H.Jones,Y,28.0,New Orleans Pelicans,Oklahoma City Thunder,1.0,0.4,0,0.4,0,0.4,0,-115,1.0,1.869565217391304,0.8695652173913042
-3,D.White o18.5 Pts+Rebs,Rotowire Sleeper,D.White,N,16.0,Boston Celtics,Memphis Grizzlies,1.0,0.7272727272727273,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-4,D.Bane o21.5 Pts+Rebs,Rotowire Prizepicks,D.Bane,N,16.0,Memphis Grizzlies,Boston Celtics,0.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,T.Harris o17.5 Pts+Rebs,Rotowire Sleeper,Detroit Pistons,T.Harris,Y,22.0,New York Knicks,0.0,0.7391304347826086,1,0.6,1,0.7,1,100,1.5,3.0,1.5
+1,T.Harris o18.5 Pts+Rebs,Rotowire Prizepicks,Detroit Pistons,T.Harris,Y,22.0,New York Knicks,0.0,0.6521739130434783,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+2,H.Jones o12.5 Pts+Rebs,Markus_Markets,New Orleans Pelicans,H.Jones,Y,28.0,Oklahoma City Thunder,1.0,0.4,0,0.4,0,0.4,0,-115,1.0,1.869565217391304,0.8695652173913042
+3,D.White o18.5 Pts+Rebs,Rotowire Sleeper,Boston Celtics,D.White,N,16.0,Memphis Grizzlies,1.0,0.7272727272727273,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+4,D.Bane o21.5 Pts+Rebs,Rotowire Prizepicks,Memphis Grizzlies,D.Bane,N,16.0,Boston Celtics,0.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5

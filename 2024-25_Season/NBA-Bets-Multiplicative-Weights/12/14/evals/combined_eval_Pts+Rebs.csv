@@ -1,9 +1,9 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,D.Daniels o16.5 Pts+Rebs,Rotowire Sleeper,D.Daniels,Y,19.0,Atlanta Hawks,Milwaukee Bucks,0.0,0.5833333333333334,1,0.4,0,0.4,0,100,1.5,3.0,1.5
-1,I.Hartenstein o21.5 Pts+Rebs,CeeJPicks,I.Hartenstein,Y,29.0,Oklahoma City Thunder,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-125,1.25,2.25,1.0
-2,B.Portis o21.5 Pts+Rebs,Rotowire Sleeper,B.Portis,N,19.0,Milwaukee Bucks,Atlanta Hawks,1.0,0.4347826086956521,0,0.6,1,0.4,0,100,1.5,3.0,1.5
-3,J.Johnson o28.5 Pts+Rebs,therocketplays,J.Johnson,N,25.0,Atlanta Hawks,Milwaukee Bucks,0.0,0.6666666666666666,1,0.4,0,0.7,1,-110,1.1,2.1,1.0
-4,I.Joe o7.5 Pts+Rebs,Rotowire Prizepicks,I.Joe,N,7.0,Oklahoma City Thunder,Houston Rockets,1.0,0.6818181818181818,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-5,T.Eason o15.5 Pts+Rebs,Rotowire Sleeper,T.Eason,N,14.0,Houston Rockets,Oklahoma City Thunder,0.0,0.6521739130434783,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-6,A.Sengun o29.5 Pts+Rebs,Rotowire Prizepicks,A.Sengun,N,24.0,Houston Rockets,Oklahoma City Thunder,0.0,0.48,0,0.6,1,0.6,1,100,1.5,3.0,1.5
-7,I.Hartenstein o22.5 Pts+Rebs,Theotherbabs,I.Hartenstein,Y,29.0,Oklahoma City Thunder,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-115,1.0,1.869565217391304,0.8695652173913042
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,D.Daniels o16.5 Pts+Rebs,Rotowire Sleeper,Atlanta Hawks,D.Daniels,Y,19.0,Milwaukee Bucks,0.0,0.5833333333333334,1,0.4,0,0.4,0,100,1.5,3.0,1.5
+1,B.Portis o21.5 Pts+Rebs,Rotowire Sleeper,Milwaukee Bucks,B.Portis,N,19.0,Atlanta Hawks,1.0,0.4347826086956521,0,0.6,1,0.4,0,100,1.5,3.0,1.5
+2,J.Johnson o28.5 Pts+Rebs,therocketplays,Atlanta Hawks,J.Johnson,N,25.0,Milwaukee Bucks,0.0,0.6666666666666666,1,0.4,0,0.7,1,-110,1.1,2.1,1.0
+3,T.Eason o15.5 Pts+Rebs,Rotowire Sleeper,Houston Rockets,T.Eason,N,14.0,Oklahoma City Thunder,0.0,0.6521739130434783,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+4,A.Sengun o29.5 Pts+Rebs,Rotowire Prizepicks,Houston Rockets,A.Sengun,N,24.0,Oklahoma City Thunder,0.0,0.48,0,0.6,1,0.6,1,100,1.5,3.0,1.5
+5,I.Hartenstein o21.5 Pts+Rebs,CeeJPicks,Oklahoma City Thunder,I.Hartenstein,Y,29.0,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-125,1.25,2.25,1.0
+6,I.Joe o7.5 Pts+Rebs,Rotowire Prizepicks,Oklahoma City Thunder,I.Joe,N,7.0,Houston Rockets,1.0,0.6818181818181818,1,0.6,1,0.7,1,100,1.5,3.0,1.5
+7,I.Hartenstein o22.5 Pts+Rebs,Theotherbabs,Oklahoma City Thunder,I.Hartenstein,Y,29.0,Houston Rockets,1.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-115,1.0,1.869565217391304,0.8695652173913042

@@ -1,45 +1,46 @@
-Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-J.Holiday o14.5 Pts+Rebs,Rotowire Sleeper,J.Holiday,Y,19.0,Boston Celtics,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-T.Harris o18.5 Pts+Rebs,Rotowire Prizepicks,T.Harris,N,17.0,Detroit Pistons,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-D.Robinson u15.5 Pts+Rebs,Rotowire Prizepicks,D.Robinson,Y,11.0,Miami Heat,Toronto Raptors,1.0,0.6666666666666666,1,0.6,1,0.6,1,100,1.5,3.0,1.5
-T.Harris o18.5 Pts+Rebs,Rotowire Sleeper,T.Harris,N,17.0,Detroit Pistons,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-J.Holiday u18.5 Pts+Rebs,Rotowire Prizepicks,J.Holiday,N,19.0,Boston Celtics,Detroit Pistons,1.0,0.5238095238095238,1,0.4,0,0.5,0,100,1.5,3.0,1.5
-K.Olynyk o11.5 Pts+Rebs,Rotowire Prizepicks,K.Olynyk,N,4.0,Toronto Raptors,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
-G.Dick o15.5 Pts,RoyalsProps,G.Dick,Y,22.0,Toronto Raptors,Miami Heat,0.0,0.5,0,0.4,0,0.4,0,-120,1.2,2.2,1.0000000000000002
-O.Agbaji o9.5 Pts,sandyplashkes,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
-D.White o14.5 Pts,RoyalsProps,D.White,Y,23.0,Boston Celtics,Detroit Pistons,1.0,0.6956521739130435,1,0.4,0,0.6,1,-110,1.1,2.1,1.0
-T.Harris o11.5 Pts,Rotowire Sleeper,T.Harris,N,9.0,Detroit Pistons,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.8,1,100,1.5,3.0,1.5
-J.Poeltl o14.5 Pts,therocketplays,J.Poeltl,Y,16.0,Toronto Raptors,Miami Heat,0.0,0.5416666666666666,1,0.8,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
-J.Brown o23.5 Pts,GDAWG5000,J.Brown,N,14.0,Boston Celtics,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-113,0.57,1.074424778761062,0.504424778761062
-J.Brown o23.5 Pts,JoeDellera,J.Brown,N,14.0,Boston Celtics,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-108,1.0,1.925925925925926,0.925925925925926
-O.Agbaji o9.5 Pts,LinesAtLunch,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
-O.Agbaji o9.5 Pts,JoeDellera,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-115,1.0,1.869565217391304,0.8695652173913042
-J.Holiday u14.5 Pts,gneiffer07,J.Holiday,Y,12.0,Boston Celtics,Detroit Pistons,1.0,0.5714285714285714,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
-R.Barrett u24.5 Pts,gneiffer07,R.Barrett,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.5454545454545454,1,0.4,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
-K.Porzingis u21.5 Pts,Rotowire Prizepicks,K.Porzingis,Y,19.0,Boston Celtics,Detroit Pistons,1.0,0.8,1,0.8,1,0.8,1,100,1.5,3.0,1.5
-B.Adebayo u17.5 Pts,cawright95,B.Adebayo,N,21.0,Miami Heat,Toronto Raptors,1.0,0.6818181818181818,1,0.8,1,0.8,1,-150,1.5,2.5,1.0
-K.Olynyk o7.5 Pts,Rotowire Prizepicks,K.Olynyk,N,0.0,Toronto Raptors,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
-D.Murray u20.5 Pts,Rotowire Prizepicks,D.Murray,Y,20.0,New Orleans Pelicans,Sacramento Kings,1.0,0.75,1,0.8,1,0.75,1,100,1.5,3.0,1.5
-O.Agbaji o9.5 Pts,itsbucketsnba,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-136,1.0,1.7352941176470589,0.7352941176470589
-C.McCollum o21.5 Pts,itsbucketsnba,C.McCollum,Y,36.0,New Orleans Pelicans,Sacramento Kings,1.0,0.5,0,0.4,0,0.5,0,-125,1.0,1.8,0.8
-I.Stewart u9.5 Pts,TopShelfAction,I.Stewart,Y,2.0,Detroit Pistons,Boston Celtics,0.0,0.84,1,1.0,1,0.9,1,-108,1.0,1.925925925925926,0.925925925925926
-D.DeRozan o20.5 Pts,CeeJPicks,D.DeRozan,Y,29.0,Sacramento Kings,New Orleans Pelicans,0.0,0.65,1,0.6,1,0.5,0,-125,1.25,2.25,1.0
-D.Sabonis o18.5 Pts,Rotowire Prizepicks,D.Sabonis,Y,32.0,Sacramento Kings,New Orleans Pelicans,0.0,0.6521739130434783,1,0.8,1,0.8,1,100,1.5,3.0,1.5
-J.Poeltl o14.5 Rebs+Ast,Rotowire Prizepicks,J.Poeltl,N,6.0,Toronto Raptors,Miami Heat,0.0,0.3333333333333333,0,0.2,0,0.3,0,100,1.5,3.0,1.5
-J.Holiday u9.5 Rebs+Ast,allanlemdfs,J.Holiday,N,13.0,Boston Celtics,Detroit Pistons,1.0,0.6666666666666666,1,0.4,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
-D.Fox o35.5 Pts+Rebs+Ast,sandyplashkes,D.Fox,N,33.0,Sacramento Kings,New Orleans Pelicans,0.0,0.48,0,0.2,0,0.4,0,-110,1.1,2.1,1.0
-K.Huerter o13.5 Pts+Rebs+Ast,Rotowire Sleeper,K.Huerter,N,11.0,Sacramento Kings,New Orleans Pelicans,0.0,0.6363636363636364,1,0.6,1,0.5,0,100,1.5,3.0,1.5
-T.Harris o20.5 Pts+Rebs+Ast,Rotowire Sleeper,T.Harris,N,20.0,Detroit Pistons,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-H.Jones o18.5 Pts+Rebs+Ast,Rotowire Sleeper,H.Jones,N,18.0,New Orleans Pelicans,Sacramento Kings,1.0,0.2857142857142857,0,0.4,0,0.2857142857142857,0,100,1.5,3.0,1.5
-J.Holiday u23.5 Pts+Rebs+Ast,Rotowire Prizepicks,J.Holiday,N,25.0,Boston Celtics,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-T.Harris o19.5 Pts+Rebs+Ast,CeeJPicks,T.Harris,Y,20.0,Detroit Pistons,Boston Celtics,0.0,0.7083333333333334,1,0.8,1,0.6,1,-130,1.3,2.3,0.9999999999999998
-K.Olynyk o13.5 Pts+Rebs+Ast,Rotowire Sleeper,K.Olynyk,N,6.0,Toronto Raptors,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
-R.Barrett o5.5 Ast,JayMoneyIsMoney23,R.Barrett,Y,10.0,Toronto Raptors,Miami Heat,0.0,0.4090909090909091,0,0.0,0,0.3,0,104,0.5,1.02,0.52
-D.Mitchell u6.5 Ast,PvB_Bets,D.Mitchell,Y,6.0,Toronto Raptors,Miami Heat,0.0,0.76,1,1.0,1,0.9,1,-115,1.0,1.869565217391304,0.8695652173913042
-R.Barrett o5.5 Ast,PropBomb,R.Barrett,Y,10.0,Toronto Raptors,Miami Heat,0.0,0.4090909090909091,0,0.0,0,0.3,0,-110,1.1,2.1,1.0
-J.Holiday o14.5 Pts+Ast,Rotowire Sleeper,J.Holiday,Y,18.0,Boston Celtics,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-J.Holiday u18.5 Pts+Ast,Rotowire Prizepicks,J.Holiday,Y,18.0,Boston Celtics,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-M.Beasley o14.5 Pts+Ast,Rotowire Sleeper,M.Beasley,N,8.0,Detroit Pistons,Boston Celtics,0.0,0.68,1,0.8,1,0.8,1,100,1.5,3.0,1.5
-C.Cunningham u33.5 Pts+Ast,Rotowire Prizepicks,C.Cunningham,Y,26.0,Detroit Pistons,Boston Celtics,0.0,0.5238095238095238,1,0.2,0,0.4,0,100,1.5,3.0,1.5
-J.Brown u31.5 Pts+Ast,Rotowire Prizepicks,J.Brown,Y,20.0,Boston Celtics,Detroit Pistons,1.0,0.631578947368421,1,0.6,1,0.5,0,100,1.5,3.0,1.5
-K.Ellis o5.5 Pts+Ast,Rotowire Prizepicks,K.Ellis,N,2.0,Sacramento Kings,New Orleans Pelicans,0.0,0.6521739130434783,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+J.Holiday o14.5 Pts+Rebs,Rotowire Sleeper,Boston Celtics,J.Holiday,Y,19.0,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+T.Harris o18.5 Pts+Rebs,Rotowire Prizepicks,Detroit Pistons,T.Harris,N,17.0,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.6,1,100,1.5,3.0,1.5
+D.Robinson u15.5 Pts+Rebs,Rotowire Prizepicks,Miami Heat,D.Robinson,Y,11.0,Toronto Raptors,1.0,0.6666666666666666,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+T.Harris o18.5 Pts+Rebs,Rotowire Sleeper,Detroit Pistons,T.Harris,N,17.0,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.6,1,100,1.5,3.0,1.5
+J.Holiday u18.5 Pts+Rebs,Rotowire Prizepicks,Boston Celtics,J.Holiday,N,19.0,Detroit Pistons,1.0,0.5238095238095238,1,0.4,0,0.5,0,100,1.5,3.0,1.5
+K.Olynyk o11.5 Pts+Rebs,Rotowire Prizepicks,Toronto Raptors,K.Olynyk,N,4.0,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
+G.Dick o15.5 Pts,RoyalsProps,Toronto Raptors,G.Dick,Y,22.0,Miami Heat,0.0,0.5,0,0.4,0,0.4,0,-120,1.2,2.2,1.0000000000000002
+O.Agbaji o9.5 Pts,sandyplashkes,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
+D.White o14.5 Pts,RoyalsProps,Boston Celtics,D.White,Y,23.0,Detroit Pistons,1.0,0.6956521739130435,1,0.4,0,0.6,1,-110,1.1,2.1,1.0
+T.Harris o11.5 Pts,Rotowire Sleeper,Detroit Pistons,T.Harris,N,9.0,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+J.Brown o23.5 Pts,GDAWG5000,Boston Celtics,J.Brown,N,14.0,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-113,0.57,1.074424778761062,0.504424778761062
+J.Brown o23.5 Pts,JoeDellera,Boston Celtics,J.Brown,N,14.0,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-108,1.0,1.925925925925926,0.925925925925926
+O.Agbaji o9.5 Pts,LinesAtLunch,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
+O.Agbaji o9.5 Pts,JoeDellera,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-115,1.0,1.869565217391304,0.8695652173913042
+J.Holiday u14.5 Pts,gneiffer07,Boston Celtics,J.Holiday,Y,12.0,Detroit Pistons,1.0,0.5714285714285714,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
+B.Adebayo u17.5 Pts,cawright95,Miami Heat,B.Adebayo,N,21.0,Toronto Raptors,1.0,0.6818181818181818,1,0.8,1,0.8,1,-150,1.5,2.5,1.0
+K.Olynyk o7.5 Pts,Rotowire Prizepicks,Toronto Raptors,K.Olynyk,N,0.0,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
+D.Murray u20.5 Pts,Rotowire Prizepicks,New Orleans Pelicans,D.Murray,Y,20.0,Sacramento Kings,1.0,0.75,1,0.8,1,0.75,1,100,1.5,3.0,1.5
+O.Agbaji o9.5 Pts,itsbucketsnba,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-136,1.0,1.7352941176470589,0.7352941176470589
+C.McCollum o21.5 Pts,itsbucketsnba,New Orleans Pelicans,C.McCollum,Y,36.0,Sacramento Kings,1.0,0.5,0,0.4,0,0.5,0,-125,1.0,1.8,0.8
+I.Stewart u9.5 Pts,TopShelfAction,Detroit Pistons,I.Stewart,Y,2.0,Boston Celtics,0.0,0.84,1,1.0,1,0.9,1,-108,1.0,1.925925925925926,0.925925925925926
+D.DeRozan o20.5 Pts,CeeJPicks,Sacramento Kings,D.DeRozan,Y,29.0,New Orleans Pelicans,0.0,0.65,1,0.6,1,0.5,0,-125,1.25,2.25,1.0
+D.Sabonis o18.5 Pts,Rotowire Prizepicks,Sacramento Kings,D.Sabonis,Y,32.0,New Orleans Pelicans,0.0,0.6521739130434783,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+J.Poeltl o14.5 Pts,therocketplays,Toronto Raptors,J.Poeltl,Y,16.0,Miami Heat,0.0,0.5416666666666666,1,0.8,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
+R.Barrett u24.5 Pts,gneiffer07,Toronto Raptors,R.Barrett,Y,13.0,Miami Heat,0.0,0.5454545454545454,1,0.4,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
+K.Porzingis u21.5 Pts,Rotowire Prizepicks,Boston Celtics,K.Porzingis,Y,19.0,Detroit Pistons,1.0,0.8,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+C.Cunningham o6.5 Rebs,Rotowire Prizepicks,Detroit Pistons,C.Cunningham,Y,8.0,Boston Celtics,0.0,0.5238095238095238,1,0.6,1,0.6,1,100,1.5,3.0,1.5
+D.Sabonis o12.5 Rebs,JoeDellera,Sacramento Kings,D.Sabonis,Y,20.0,New Orleans Pelicans,0.0,0.4347826086956521,0,0.6,1,0.6,1,-135,1.0,1.7407407407407407,0.7407407407407407
+I.Stewart u7.5 Rebs,TopShelfAction,Detroit Pistons,I.Stewart,Y,5.0,Boston Celtics,0.0,0.72,1,1.0,1,0.9,1,116,1.0,2.16,1.16
+J.Poeltl o14.5 Rebs+Ast,Rotowire Prizepicks,Toronto Raptors,J.Poeltl,N,6.0,Miami Heat,0.0,0.3333333333333333,0,0.2,0,0.3,0,100,1.5,3.0,1.5
+J.Holiday u9.5 Rebs+Ast,allanlemdfs,Boston Celtics,J.Holiday,N,13.0,Detroit Pistons,1.0,0.6666666666666666,1,0.4,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
+K.Huerter o13.5 Pts+Rebs+Ast,Rotowire Sleeper,Sacramento Kings,K.Huerter,N,11.0,New Orleans Pelicans,0.0,0.6363636363636364,1,0.6,1,0.5,0,100,1.5,3.0,1.5
+T.Harris o20.5 Pts+Rebs+Ast,Rotowire Sleeper,Detroit Pistons,T.Harris,N,20.0,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.6,1,100,1.5,3.0,1.5
+J.Holiday u23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Boston Celtics,J.Holiday,N,25.0,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5
+T.Harris o19.5 Pts+Rebs+Ast,CeeJPicks,Detroit Pistons,T.Harris,Y,20.0,Boston Celtics,0.0,0.7083333333333334,1,0.8,1,0.6,1,-130,1.3,2.3,0.9999999999999998
+K.Olynyk o13.5 Pts+Rebs+Ast,Rotowire Sleeper,Toronto Raptors,K.Olynyk,N,6.0,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
+R.Barrett o5.5 Ast,JayMoneyIsMoney23,Toronto Raptors,R.Barrett,Y,10.0,Miami Heat,0.0,0.4090909090909091,0,0.0,0,0.3,0,104,0.5,1.02,0.52
+D.Mitchell u6.5 Ast,PvB_Bets,Toronto Raptors,D.Mitchell,Y,6.0,Miami Heat,0.0,0.76,1,1.0,1,0.9,1,-115,1.0,1.869565217391304,0.8695652173913042
+R.Barrett o5.5 Ast,PropBomb,Toronto Raptors,R.Barrett,Y,10.0,Miami Heat,0.0,0.4090909090909091,0,0.0,0,0.3,0,-110,1.1,2.1,1.0
+J.Holiday o14.5 Pts+Ast,Rotowire Sleeper,Boston Celtics,J.Holiday,Y,18.0,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5
+J.Holiday u18.5 Pts+Ast,Rotowire Prizepicks,Boston Celtics,J.Holiday,Y,18.0,Detroit Pistons,1.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5
+M.Beasley o14.5 Pts+Ast,Rotowire Sleeper,Detroit Pistons,M.Beasley,N,8.0,Boston Celtics,0.0,0.68,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+C.Cunningham u33.5 Pts+Ast,Rotowire Prizepicks,Detroit Pistons,C.Cunningham,Y,26.0,Boston Celtics,0.0,0.5238095238095238,1,0.2,0,0.4,0,100,1.5,3.0,1.5
+J.Brown u31.5 Pts+Ast,Rotowire Prizepicks,Boston Celtics,J.Brown,Y,20.0,Detroit Pistons,1.0,0.631578947368421,1,0.6,1,0.5,0,100,1.5,3.0,1.5
+K.Ellis o5.5 Pts+Ast,Rotowire Prizepicks,Sacramento Kings,K.Ellis,N,2.0,New Orleans Pelicans,0.0,0.6521739130434783,1,0.8,1,0.8,1,100,1.5,3.0,1.5

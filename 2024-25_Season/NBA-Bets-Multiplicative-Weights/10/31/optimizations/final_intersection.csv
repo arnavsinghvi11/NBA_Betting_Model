@@ -1,12 +1,15 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
-K.Thompson o14.5 Pts,the_degenerates,Dallas Mavericks,Houston Rockets,1.0,0.75,1,0.75,1,0.75,1,-105,1.05,2.05,0.9999999999999998,K.Thompson
-I.Zubac o16.5 Pts,the_degenerates,Los Angeles Clippers,Phoenix Suns,1.0,0.75,1,0.75,1,0.75,1,-104,1.0,1.9615384615384617,0.9615384615384616,I.Zubac
-K.Durant o26.5 Pts,JoeDellera,Phoenix Suns,Los Angeles Clippers,0.0,0.75,1,0.75,1,0.75,1,-108,1.0,1.925925925925926,0.925925925925926,K.Durant
-M.Branham o6.5 Pts,CeeJPicks,San Antonio Spurs,Utah Jazz,0.0,1.0,1,1.0,1,1.0,1,-125,1.25,2.25,1.0,M.Branham
-J.Harden o9.5 Ast,kylemurray03,Los Angeles Clippers,Phoenix Suns,1.0,0.75,1,0.75,1,0.75,1,-127,1.0,1.7874015748031495,0.7874015748031495,J.Harden
-J.Smith o18.5 Pts+Rebs,CeeJPicks,Houston Rockets,Dallas Mavericks,0.0,0.5,0,0.5,0,0.5,0,-108,1.0,1.925925925925926,0.925925925925926,J.Smith
-D.Lillard o28.5 Pts+Rebs,ThePropfessor_,Milwaukee Bucks,Memphis Grizzlies,0.0,0.75,1,0.75,1,0.75,1,-115,1.15,2.1499999999999995,0.9999999999999996,D.Lillard
-K.Durant o32.5 Pts+Rebs,KyleJustBets,Phoenix Suns,Los Angeles Clippers,0.0,0.75,1,0.75,1,0.75,1,-120,1.0,1.8333333333333333,0.8333333333333335,K.Durant
-I.Zubac o26.5 Pts+Rebs,Mjaybrxd,Los Angeles Clippers,Phoenix Suns,1.0,0.75,1,0.75,1,0.75,1,-120,0.83,1.5216666666666667,0.6916666666666668,I.Zubac
-V.Wembanyama u35.5 Pts+Rebs,KyleJustBets,San Antonio Spurs,Utah Jazz,0.0,0.75,1,0.75,1,0.75,1,-120,0.83,1.5216666666666667,0.6916666666666668,V.Wembanyama
-V.Wembanyama u35.5 Pts+Rebs,JoeDellera,San Antonio Spurs,Utah Jazz,0.0,0.75,1,0.75,1,0.75,1,-115,0.87,1.6265217391304347,0.7565217391304347,V.Wembanyama
+G.Trent o1.5 3pt M,JoeDellera,Milwaukee Bucks,Memphis Grizzlies,0.0,1.0,1.0,1.0,1.0,1.0,1.0,-140,1.0,1.7142857142857144,0.7142857142857144,G.Trent
+J.Harden o2.5 3pt M,TopShelfAction,Los Angeles Clippers,Phoenix Suns,1.0,0.25,0.0,0.25,0.0,0.25,0.0,-145,0.48,0.8110344827586207,0.3310344827586207,J.Harden
+K.Thompson o14.5 Pts,the_degenerates,Dallas Mavericks,Houston Rockets,1.0,0.75,1.0,0.75,1.0,0.75,1.0,-105,1.05,2.05,0.9999999999999998,K.Thompson
+A.Sengun o17.5 Pts,gneiffer07,Houston Rockets,Dallas Mavericks,0.0,0.25,0.0,0.25,0.0,0.25,0.0,-110,1.1,2.1,1.0,A.Sengun
+I.Zubac o16.5 Pts,the_degenerates,Los Angeles Clippers,Phoenix Suns,1.0,0.75,1.0,0.75,1.0,0.75,1.0,-104,1.0,1.9615384615384617,0.9615384615384616,I.Zubac
+K.Durant o26.5 Pts,JoeDellera,Phoenix Suns,Los Angeles Clippers,0.0,0.75,1.0,0.75,1.0,0.75,1.0,-108,1.0,1.925925925925926,0.925925925925926,K.Durant
+M.Branham o6.5 Pts,CeeJPicks,San Antonio Spurs,Utah Jazz,0.0,1.0,1.0,1.0,1.0,1.0,1.0,-125,1.25,2.25,1.0,M.Branham
+J.Harden o9.5 Ast,kylemurray03,Los Angeles Clippers,Phoenix Suns,1.0,0.75,1.0,0.75,1.0,0.75,1.0,-127,1.0,1.7874015748031495,0.7874015748031495,J.Harden
+J.Smith o18.5 Pts+Rebs,CeeJPicks,Houston Rockets,Dallas Mavericks,0.0,0.5,0.0,0.5,0.0,0.5,0.0,-108,1.0,1.925925925925926,0.925925925925926,J.Smith
+D.Lillard o28.5 Pts+Rebs,ThePropfessor_,Milwaukee Bucks,Memphis Grizzlies,0.0,0.75,1.0,0.75,1.0,0.75,1.0,-115,1.15,2.1499999999999995,0.9999999999999996,D.Lillard
+K.Durant o32.5 Pts+Rebs,KyleJustBets,Phoenix Suns,Los Angeles Clippers,0.0,0.75,1.0,0.75,1.0,0.75,1.0,-120,1.0,1.8333333333333333,0.8333333333333335,K.Durant
+I.Zubac o26.5 Pts+Rebs,Mjaybrxd,Los Angeles Clippers,Phoenix Suns,1.0,0.75,1.0,0.75,1.0,0.75,1.0,-120,0.83,1.5216666666666667,0.6916666666666668,I.Zubac
+V.Wembanyama u35.5 Pts+Rebs,KyleJustBets,San Antonio Spurs,Utah Jazz,0.0,0.75,1.0,0.75,1.0,0.75,1.0,-120,0.83,1.5216666666666667,0.6916666666666668,V.Wembanyama
+V.Wembanyama u35.5 Pts+Rebs,JoeDellera,San Antonio Spurs,Utah Jazz,0.0,0.75,1.0,0.75,1.0,0.75,1.0,-115,0.87,1.6265217391304347,0.7565217391304347,V.Wembanyama

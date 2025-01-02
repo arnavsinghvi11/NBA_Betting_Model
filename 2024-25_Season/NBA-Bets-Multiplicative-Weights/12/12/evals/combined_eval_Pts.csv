@@ -1,21 +1,21 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,G.Dick o15.5 Pts,RoyalsProps,G.Dick,Y,22.0,Toronto Raptors,Miami Heat,0.0,0.5,0,0.4,0,0.4,0,-120,1.2,2.2,1.0000000000000002
-1,O.Agbaji o9.5 Pts,sandyplashkes,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
-2,D.White o14.5 Pts,RoyalsProps,D.White,Y,23.0,Boston Celtics,Detroit Pistons,1.0,0.6956521739130435,1,0.4,0,0.6,1,-110,1.1,2.1,1.0
-3,T.Harris o11.5 Pts,Rotowire Sleeper,T.Harris,N,9.0,Detroit Pistons,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.8,1,100,1.5,3.0,1.5
-4,J.Poeltl o14.5 Pts,therocketplays,J.Poeltl,Y,16.0,Toronto Raptors,Miami Heat,0.0,0.5416666666666666,1,0.8,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
-5,J.Brown o23.5 Pts,GDAWG5000,J.Brown,N,14.0,Boston Celtics,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-113,0.57,1.074424778761062,0.504424778761062
-6,J.Brown o23.5 Pts,JoeDellera,J.Brown,N,14.0,Boston Celtics,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-108,1.0,1.925925925925926,0.925925925925926
-7,O.Agbaji o9.5 Pts,LinesAtLunch,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
-8,O.Agbaji o9.5 Pts,JoeDellera,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-115,1.0,1.869565217391304,0.8695652173913042
-9,J.Holiday u14.5 Pts,gneiffer07,J.Holiday,Y,12.0,Boston Celtics,Detroit Pistons,1.0,0.5714285714285714,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
-10,R.Barrett u24.5 Pts,gneiffer07,R.Barrett,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.5454545454545454,1,0.4,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
-11,K.Porzingis u21.5 Pts,Rotowire Prizepicks,K.Porzingis,Y,19.0,Boston Celtics,Detroit Pistons,1.0,0.8,1,0.8,1,0.8,1,100,1.5,3.0,1.5
-12,B.Adebayo u17.5 Pts,cawright95,B.Adebayo,N,21.0,Miami Heat,Toronto Raptors,1.0,0.6818181818181818,1,0.8,1,0.8,1,-150,1.5,2.5,1.0
-13,K.Olynyk o7.5 Pts,Rotowire Prizepicks,K.Olynyk,N,0.0,Toronto Raptors,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
-14,D.Murray u20.5 Pts,Rotowire Prizepicks,D.Murray,Y,20.0,New Orleans Pelicans,Sacramento Kings,1.0,0.75,1,0.8,1,0.75,1,100,1.5,3.0,1.5
-15,O.Agbaji o9.5 Pts,itsbucketsnba,O.Agbaji,Y,13.0,Toronto Raptors,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-136,1.0,1.7352941176470589,0.7352941176470589
-16,C.McCollum o21.5 Pts,itsbucketsnba,C.McCollum,Y,36.0,New Orleans Pelicans,Sacramento Kings,1.0,0.5,0,0.4,0,0.5,0,-125,1.0,1.8,0.8
-17,I.Stewart u9.5 Pts,TopShelfAction,I.Stewart,Y,2.0,Detroit Pistons,Boston Celtics,0.0,0.84,1,1.0,1,0.9,1,-108,1.0,1.925925925925926,0.925925925925926
-18,D.DeRozan o20.5 Pts,CeeJPicks,D.DeRozan,Y,29.0,Sacramento Kings,New Orleans Pelicans,0.0,0.65,1,0.6,1,0.5,0,-125,1.25,2.25,1.0
-19,D.Sabonis o18.5 Pts,Rotowire Prizepicks,D.Sabonis,Y,32.0,Sacramento Kings,New Orleans Pelicans,0.0,0.6521739130434783,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,G.Dick o15.5 Pts,RoyalsProps,Toronto Raptors,G.Dick,Y,22.0,Miami Heat,0.0,0.5,0,0.4,0,0.4,0,-120,1.2,2.2,1.0000000000000002
+1,O.Agbaji o9.5 Pts,sandyplashkes,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
+2,D.White o14.5 Pts,RoyalsProps,Boston Celtics,D.White,Y,23.0,Detroit Pistons,1.0,0.6956521739130435,1,0.4,0,0.6,1,-110,1.1,2.1,1.0
+3,T.Harris o11.5 Pts,Rotowire Sleeper,Detroit Pistons,T.Harris,N,9.0,Boston Celtics,0.0,0.6666666666666666,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+4,J.Brown o23.5 Pts,GDAWG5000,Boston Celtics,J.Brown,N,14.0,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-113,0.57,1.074424778761062,0.504424778761062
+5,J.Brown o23.5 Pts,JoeDellera,Boston Celtics,J.Brown,N,14.0,Detroit Pistons,1.0,0.6842105263157895,1,0.6,1,0.6,1,-108,1.0,1.925925925925926,0.925925925925926
+6,O.Agbaji o9.5 Pts,LinesAtLunch,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-120,1.2,2.2,1.0000000000000002
+7,O.Agbaji o9.5 Pts,JoeDellera,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-115,1.0,1.869565217391304,0.8695652173913042
+8,J.Holiday u14.5 Pts,gneiffer07,Boston Celtics,J.Holiday,Y,12.0,Detroit Pistons,1.0,0.5714285714285714,1,0.6,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
+9,B.Adebayo u17.5 Pts,cawright95,Miami Heat,B.Adebayo,N,21.0,Toronto Raptors,1.0,0.6818181818181818,1,0.8,1,0.8,1,-150,1.5,2.5,1.0
+10,K.Olynyk o7.5 Pts,Rotowire Prizepicks,Toronto Raptors,K.Olynyk,N,0.0,Miami Heat,0.0,0.5,0,0.5,0,0.5,0,100,1.5,3.0,1.5
+11,D.Murray u20.5 Pts,Rotowire Prizepicks,New Orleans Pelicans,D.Murray,Y,20.0,Sacramento Kings,1.0,0.75,1,0.8,1,0.75,1,100,1.5,3.0,1.5
+12,O.Agbaji o9.5 Pts,itsbucketsnba,Toronto Raptors,O.Agbaji,Y,13.0,Miami Heat,0.0,0.56,1,0.2,0,0.3,0,-136,1.0,1.7352941176470589,0.7352941176470589
+13,C.McCollum o21.5 Pts,itsbucketsnba,New Orleans Pelicans,C.McCollum,Y,36.0,Sacramento Kings,1.0,0.5,0,0.4,0,0.5,0,-125,1.0,1.8,0.8
+14,I.Stewart u9.5 Pts,TopShelfAction,Detroit Pistons,I.Stewart,Y,2.0,Boston Celtics,0.0,0.84,1,1.0,1,0.9,1,-108,1.0,1.925925925925926,0.925925925925926
+15,D.DeRozan o20.5 Pts,CeeJPicks,Sacramento Kings,D.DeRozan,Y,29.0,New Orleans Pelicans,0.0,0.65,1,0.6,1,0.5,0,-125,1.25,2.25,1.0
+16,D.Sabonis o18.5 Pts,Rotowire Prizepicks,Sacramento Kings,D.Sabonis,Y,32.0,New Orleans Pelicans,0.0,0.6521739130434783,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+17,J.Poeltl o14.5 Pts,therocketplays,Toronto Raptors,J.Poeltl,Y,16.0,Miami Heat,0.0,0.5416666666666666,1,0.8,1,0.6,1,-115,1.15,2.1499999999999995,0.9999999999999996
+18,R.Barrett u24.5 Pts,gneiffer07,Toronto Raptors,R.Barrett,Y,13.0,Miami Heat,0.0,0.5454545454545454,1,0.4,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
+19,K.Porzingis u21.5 Pts,Rotowire Prizepicks,Boston Celtics,K.Porzingis,Y,19.0,Detroit Pistons,1.0,0.8,1,0.8,1,0.8,1,100,1.5,3.0,1.5

@@ -31,10 +31,19 @@ P.George o17.5 Pts,itsbucketsnba,Philadelphia 76ers,Portland Trail Blazers,0.0,0
 M.McBride o8.5 Pts,RoyalsProps,New York Knicks,Washington Wizards,0.0,0.5185185185185185,1,0.2,0,0.2,0,-106,0.53,1.03,0.5,M.McBride,N,8.0
 N.Vucevic u21.5 Pts,TopShelfAction,Chicago Bulls,Charlotte Hornets,0.0,0.6129032258064516,1,0.8,1,0.7,1,-120,0.7,1.2833333333333334,0.5833333333333335,N.Vucevic,Y,16.0
 T.Maxey u27.5 Pts,TopShelfAction,Philadelphia 76ers,Portland Trail Blazers,0.0,0.6086956521739131,1,0.4,0,0.6,1,-110,1.2,2.290909090909091,1.090909090909091,T.Maxey,Y,23.0
+W.Kessler o10.5 Rebs,therocketplays,Utah Jazz,Denver Nuggets,1.0,0.5833333333333334,1,0.8,1,0.7,1,105,1.0,2.05,1.0499999999999998,W.Kessler,Y,13.0
+D.Sabonis u14.5 Rebs,JoeDellera,Sacramento Kings,Dallas Mavericks,1.0,0.7241379310344828,1,0.6,1,0.6,1,-110,1.0,1.9090909090909087,0.9090909090909092,D.Sabonis,N,16.0
+D.Sabonis u14.5 Rebs,allanlemdfs,Sacramento Kings,Dallas Mavericks,1.0,0.7241379310344828,1,0.6,1,0.6,1,-110,0.55,1.05,0.5,D.Sabonis,N,16.0
+W.Kessler o10.5 Rebs,kylemurray03,Utah Jazz,Denver Nuggets,1.0,0.5833333333333334,1,0.8,1,0.7,1,-137,1.37,2.37,1.0,W.Kessler,Y,13.0
+I.Zubac o12.5 Rebs,kylemurray03,Los Angeles Clippers,New Orleans Pelicans,0.0,0.4193548387096774,0,0.6,1,0.4,0,-105,1.05,2.05,0.9999999999999998,I.Zubac,Y,16.0
+C.McCollum o2.5 3pt M,TopShelfAction,New Orleans Pelicans,Los Angeles Clippers,1.0,0.631578947368421,1,0.4,0,0.5,0,105,0.5,1.025,0.5249999999999999,C.McCollum,Y,8.0
+A.Coffey u1.5 3pt M,TopShelfAction,Los Angeles Clippers,New Orleans Pelicans,0.0,0.5333333333333333,1,0.4,0,0.4,0,-135,0.7,1.2185185185185183,0.5185185185185184,A.Coffey,Y,0.0
+J.Green o1.5 3pt M,TopShelfAction_duplicate,Charlotte Hornets,Chicago Bulls,1.0,0.3793103448275862,0,0.2,0,0.3,0,118,0.5,1.09,0.5899999999999999,J.Green,Y,3.0
+M.McBride o1.5 3pt M,RoyalsProps,New York Knicks,Washington Wizards,0.0,0.6666666666666666,1,0.4,0,0.5,0,-120,0.6,1.1,0.5000000000000001,M.McBride,N,1.0
 D.DeRozan o25.5 Pts+Rebs+Ast,TopShelfAction,Sacramento Kings,Dallas Mavericks,1.0,0.7037037037037037,1,0.4,0,0.5,0,-110,0.5,0.9545454545454546,0.4545454545454546,D.DeRozan,N,20.0
 I.Zubac o29.5 Pts+Rebs+Ast,Rotowire Prizepicks,Los Angeles Clippers,New Orleans Pelicans,0.0,0.6451612903225806,1,1.0,1,0.7,1,100,1.5,3.0,1.5,I.Zubac,Y,40.0
-D.Sabonis u39.5 Pts+Rebs+Ast,TopShelfAction,Sacramento Kings,Dallas Mavericks,1.0,0.5172413793103449,1,0.4,0,0.5,0,-105,0.7,1.3666666666666665,0.6666666666666665,D.Sabonis,N,40.0
 T.Maxey u39.5 Pts+Rebs+Ast,TopShelfAction,Philadelphia 76ers,Portland Trail Blazers,0.0,0.6956521739130435,1,0.6,1,0.6,1,-120,1.0,1.8333333333333333,0.8333333333333335,T.Maxey,Y,27.0
+K.Kuzma o20.5 Pts+Rebs+Ast,Rotowire Sleeper,Washington Wizards,New York Knicks,1.0,0.6666666666666666,1,0.6,1,0.7,1,100,1.5,3.0,1.5,K.Kuzma,N,14.0
 V.Micic u24.5 Pts+Rebs+Ast,TopShelfAction,Charlotte Hornets,Chicago Bulls,1.0,0.75,1,0.8,1,0.6,1,-120,0.7,1.2833333333333334,0.5833333333333335,V.Micic,Y,17.0
 I.Zubac o30.5 Pts+Rebs+Ast,TopShelfAction,Los Angeles Clippers,New Orleans Pelicans,0.0,0.5483870967741935,1,0.8,1,0.5,0,-1105,0.5,0.5452488687782805,0.0452488687782804,I.Zubac,Y,40.0
 J.Embiid u42.5 Pts+Rebs+Ast,TopShelfAction,Philadelphia 76ers,Portland Trail Blazers,0.0,0.7,1,0.8,1,0.7,1,-120,0.8,1.4666666666666668,0.6666666666666667,J.Embiid,N,49.0

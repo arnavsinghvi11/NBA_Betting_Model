@@ -1,22 +1,13 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
-D.Schroder o5.5 Ast,Markus_Markets,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-120,1.0,1.8333333333333333,0.8333333333333335,D.Schroder
-D.Schroder o5.5 Ast,therocketplays,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-125,1.25,2.25,1.0,D.Schroder
-C.Paul o7.5 Ast,ThePropfessor_,San Antonio Spurs,Sacramento Kings,1.0,0.7,1,0.6,1,0.7,1,-130,1.3,2.3,0.9999999999999998,C.Paul
-D.Schroder o5.5 Ast,kylemurray03,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-124,1.24,2.24,0.9999999999999998,D.Schroder
-D.Schroder o22.5 Pts+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder
-J.Poole o23.5 Pts+Ast,Rotowire Prizepicks,Washington Wizards,Houston Rockets,0.0,0.75,1,0.8,1,0.75,1,100,1.5,3.0,1.5,J.Poole
 E.Mobley o28.5 Pts+Rebs+Ast,Rotowire Sleeper,Cleveland Cavaliers,Chicago Bulls,0.0,0.5454545454545454,1,0.4,0,0.5,0,100,1.5,3.0,1.5,E.Mobley
 D.Schroder o25.5 Pts+Rebs+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder
 J.Poole o26.5 Pts+Rebs+Ast,Rotowire Prizepicks,Washington Wizards,Houston Rockets,0.0,0.625,1,0.6,1,0.625,1,100,1.5,3.0,1.5,J.Poole
-J.Williams o30.5 Pts+Rebs+Ast,FirefighterBets,Oklahoma City Thunder,Los Angeles Clippers,1.0,0.4,0,0.2,0,0.4,0,-120,1.0,1.8333333333333333,0.8333333333333335,J.Williams
-I.Zubac o28.5 Pts+Rebs,HPBasketball,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-106,1.1,2.137735849056604,1.0377358490566038,I.Zubac
-J.Allen o24.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,Chicago Bulls,0.0,0.7272727272727273,1,0.8,1,0.8,1,100,1.5,3.0,1.5,J.Allen
-J.Giddey o18.5 Pts+Rebs,Rotowire Prizepicks,Chicago Bulls,Cleveland Cavaliers,1.0,0.6,1,0.2,0,0.6,1,100,1.5,3.0,1.5,J.Giddey
-D.Schroder o19.5 Pts+Rebs,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder
-A.Sarr o15.5 Pts+Rebs,Rotowire Prizepicks,Washington Wizards,Houston Rockets,0.0,0.625,1,0.6,1,0.625,1,100,1.5,3.0,1.5,A.Sarr
-I.Zubac o28.5 Pts+Rebs,PlayerPropSavant,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996,I.Zubac
-K.Kuzma o23.5 Pts+Rebs,Rotowire Prizepicks,Washington Wizards,Houston Rockets,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,100,1.5,3.0,1.5,K.Kuzma
-D.Sabonis o31.5 Pts+Rebs,Rotowire Prizepicks,Sacramento Kings,San Antonio Spurs,0.0,0.7,1,0.8,1,0.7,1,100,1.5,3.0,1.5,D.Sabonis
+K.Kuzma u27.5 Pts+Rebs+Ast,gneiffer07,Washington Wizards,Houston Rockets,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,-110,1.1,2.1,1.0,K.Kuzma
+D.Sabonis o38.5 Pts+Rebs+Ast,Rotowire Prizepicks,Sacramento Kings,San Antonio Spurs,0.0,0.6,1,0.8,1,0.6,1,100,1.5,3.0,1.5,D.Sabonis
+B.Simmons o5.5 Rebs,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7142857142857143,1,0.8,1,0.7142857142857143,1,100,1.5,3.0,1.5,B.Simmons
+J.Harden o5.5 Rebs,JoeDellera,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.7,1,0.6,1,0.7,1,-140,0.75,1.2857142857142858,0.5357142857142858,J.Harden
+J.Harden o6.5 Rebs,JoeDellera,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.6,1,0.6,1,0.6,1,135,0.25,0.5875,0.3375,J.Harden
+S.Gilgeous-Alexander o5.5 Rebs,Rotowire Prizepicks,Oklahoma City Thunder,Los Angeles Clippers,1.0,0.5,0,0.2,0,0.5,0,100,1.5,3.0,1.5,S.Gilgeous-Alexander
 J.Allen o13.5 Pts,Markus_Markets,Cleveland Cavaliers,Chicago Bulls,0.0,0.7272727272727273,1,0.6,1,0.7,1,-130,1.0,1.7692307692307692,0.7692307692307692,J.Allen
 D.Schroder o15.5 Pts,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder
 J.Smith o10.5 Pts,Rotowire Sleeper,Houston Rockets,Washington Wizards,1.0,0.5,0,0.4,0,0.5,0,100,1.5,3.0,1.5,J.Smith
@@ -27,3 +18,17 @@ B.Simmons o11.5 Rebs+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,
 J.Harden o14.5 Rebs+Ast,MillyProps,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.7,1,0.4,0,0.7,1,-115,1.0,1.869565217391304,0.8695652173913042,J.Harden
 J.Harden o14.5 Rebs+Ast,FirefighterBets,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.7,1,0.4,0,0.7,1,-115,1.0,1.869565217391304,0.8695652173913042,J.Harden
 J.Harden o14.5 Rebs+Ast,JBBets1,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.7,1,0.4,0,0.7,1,-110,1.0,1.9090909090909087,0.9090909090909092,J.Harden
+D.Schroder o22.5 Pts+Ast,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder
+J.Poole o23.5 Pts+Ast,Rotowire Prizepicks,Washington Wizards,Houston Rockets,0.0,0.75,1,0.8,1,0.75,1,100,1.5,3.0,1.5,J.Poole
+D.Schroder o5.5 Ast,Markus_Markets,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-120,1.0,1.8333333333333333,0.8333333333333335,D.Schroder
+D.Schroder o5.5 Ast,therocketplays,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-125,1.25,2.25,1.0,D.Schroder
+C.Paul o7.5 Ast,ThePropfessor_,San Antonio Spurs,Sacramento Kings,1.0,0.7,1,0.6,1,0.7,1,-130,1.3,2.3,0.9999999999999998,C.Paul
+D.Schroder o5.5 Ast,kylemurray03,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.4,0,0.7,1,-124,1.24,2.24,0.9999999999999998,D.Schroder
+I.Zubac o28.5 Pts+Rebs,HPBasketball,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-106,1.1,2.137735849056604,1.0377358490566038,I.Zubac
+J.Allen o24.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,Chicago Bulls,0.0,0.7272727272727273,1,0.8,1,0.8,1,100,1.5,3.0,1.5,J.Allen
+J.Giddey o18.5 Pts+Rebs,Rotowire Prizepicks,Chicago Bulls,Cleveland Cavaliers,1.0,0.6,1,0.2,0,0.6,1,100,1.5,3.0,1.5,J.Giddey
+D.Schroder o19.5 Pts+Rebs,Rotowire Prizepicks,Brooklyn Nets,New Orleans Pelicans,0.0,0.7,1,0.6,1,0.7,1,100,1.5,3.0,1.5,D.Schroder
+A.Sarr o15.5 Pts+Rebs,Rotowire Prizepicks,Washington Wizards,Houston Rockets,0.0,0.625,1,0.6,1,0.625,1,100,1.5,3.0,1.5,A.Sarr
+I.Zubac o28.5 Pts+Rebs,PlayerPropSavant,Los Angeles Clippers,Oklahoma City Thunder,0.0,0.5,0,0.2,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996,I.Zubac
+K.Kuzma o23.5 Pts+Rebs,Rotowire Prizepicks,Washington Wizards,Houston Rockets,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,100,1.5,3.0,1.5,K.Kuzma
+D.Sabonis o31.5 Pts+Rebs,Rotowire Prizepicks,Sacramento Kings,San Antonio Spurs,0.0,0.7,1,0.8,1,0.7,1,100,1.5,3.0,1.5,D.Sabonis

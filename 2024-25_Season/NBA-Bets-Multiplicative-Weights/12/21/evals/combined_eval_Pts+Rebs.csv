@@ -1,17 +1,17 @@
 ,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,A.Sarr o17.5 Pts+Rebs,Rotowire Sleeper,Washington Wizards,A.Sarr,N,16.0,Milwaukee Bucks,0.0,0.5217391304347826,1,1.0,1,0.8,1,100,1.5,3.0,1.5
-1,Y.Missi o18.5 Pts+Rebs,Rotowire Prizepicks,New Orleans Pelicans,Y.Missi,N,17.0,New York Knicks,1.0,0.4444444444444444,0,0.6,1,0.7,1,100,1.5,3.0,1.5
-2,T.Harris o17.5 Pts+Rebs,Rotowire Sleeper,Detroit Pistons,T.Harris,N,13.0,Phoenix Suns,0.0,0.6923076923076923,1,0.6,1,0.5,0,100,1.5,3.0,1.5
-3,H.Jones o14.5 Pts+Rebs,Rotowire Prizepicks,New Orleans Pelicans,H.Jones,N,9.0,New York Knicks,1.0,0.5,0,0.8,1,0.5,0,100,1.5,3.0,1.5
-4,N.Powell o24.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,N.Powell,Y,33.0,Dallas Mavericks,0.0,0.5714285714285714,1,0.6,1,0.4,0,100,1.5,3.0,1.5
-5,I.Zubac o26.5 Pts+Rebs,JoeDellera,Los Angeles Clippers,I.Zubac,Y,28.0,Dallas Mavericks,0.0,0.5714285714285714,1,0.6,1,0.6,1,-120,1.0,1.8333333333333333,0.8333333333333335
-6,E.Mobley o24.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,E.Mobley,Y,35.0,Philadelphia 76ers,1.0,0.6538461538461539,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-7,P.Pritchard o18.5 Pts+Rebs,Markus_Markets,Boston Celtics,P.Pritchard,N,10.0,Chicago Bulls,0.0,0.6666666666666666,1,0.8,1,0.9,1,-109,1.0,1.9174311926605505,0.9174311926605504
-8,D.Jones o10.5 Pts+Rebs,Rotowire Sleeper_duplicate,Los Angeles Clippers,D.Jones,N,8.0,Dallas Mavericks,0.0,0.6153846153846154,1,0.4,0,0.6,1,100,1.5,3.0,1.5
-9,Y.Missi o19.5 Pts+Rebs,Rotowire Prizepicks,New Orleans Pelicans,Y.Missi,N,17.0,New York Knicks,1.0,0.3703703703703703,0,0.6,1,0.6,1,100,1.5,3.0,1.5
-10,T.Murphy o20.5 Pts+Rebs,FirefighterBets,New Orleans Pelicans,T.Murphy,Y,32.0,New York Knicks,1.0,0.6666666666666666,1,0.8,1,0.7,1,-120,1.0,1.8333333333333333,0.8333333333333335
-11,J.Johnson o29.5 Pts+Rebs,Rotowire Sleeper_duplicate,Atlanta Hawks,J.Johnson,N,24.0,Memphis Grizzlies,1.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5
-12,K.Towns o38.5 Pts+Rebs,Rotowire Prizepicks,New York Knicks,K.Towns,N,21.0,New Orleans Pelicans,0.0,0.52,1,0.8,1,0.6,1,100,1.5,3.0,1.5
-13,J.Wilson o14.5 Pts+Rebs,Rotowire Prizepicks,Brooklyn Nets,J.Wilson,Y,16.0,Utah Jazz,1.0,0.3461538461538461,0,0.2,0,0.2,0,100,1.5,3.0,1.5
-14,K.Oubre o19.5 Pts+Rebs,FirefighterBets,Philadelphia 76ers,K.Oubre,N,14.0,Cleveland Cavaliers,0.0,0.52,1,1.0,1,0.6,1,-108,1.0,1.925925925925926,0.925925925925926
-15,S.Dinwiddie o10.5 Pts+Rebs,Rotowire Sleeper,Dallas Mavericks,S.Dinwiddie,Y,18.0,Los Angeles Clippers,1.0,0.52,1,0.8,1,0.8,1,100,1.5,3.0,1.5
+0,A.Sarr o17.5 Pts+Rebs,Rotowire Sleeper,Washington Wizards,A.Sarr,N,16.0,Milwaukee Bucks,0.0,0.5217391304347826,1,1.0,1,0.8,1,100.0,1.5,3.0,1.5
+1,Y.Missi o18.5 Pts+Rebs,Rotowire Prizepicks,New Orleans Pelicans,Y.Missi,N,17.0,New York Knicks,1.0,0.4444444444444444,0,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+2,T.Harris o17.5 Pts+Rebs,Rotowire Sleeper,Detroit Pistons,T.Harris,N,13.0,Phoenix Suns,0.0,0.6923076923076923,1,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+3,H.Jones o14.5 Pts+Rebs,Rotowire Prizepicks,New Orleans Pelicans,H.Jones,N,9.0,New York Knicks,1.0,0.5,0,0.8,1,0.5,0,100.0,1.5,3.0,1.5
+4,N.Powell o24.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,N.Powell,Y,33.0,Dallas Mavericks,0.0,0.5714285714285714,1,0.6,1,0.4,0,100.0,1.5,3.0,1.5
+5,I.Zubac o26.5 Pts+Rebs,JoeDellera,Los Angeles Clippers,I.Zubac,Y,28.0,Dallas Mavericks,0.0,0.5714285714285714,1,0.6,1,0.6,1,-120.0,1.0,1.8333333333333333,0.8333333333333335
+6,E.Mobley o24.5 Pts+Rebs,Rotowire Sleeper,Cleveland Cavaliers,E.Mobley,Y,35.0,Philadelphia 76ers,1.0,0.6538461538461539,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+7,P.Pritchard o18.5 Pts+Rebs,Markus_Markets,Boston Celtics,P.Pritchard,N,10.0,Chicago Bulls,0.0,0.6666666666666666,1,0.8,1,0.9,1,-109.0,1.0,1.9174311926605505,0.9174311926605504
+8,D.Jones o10.5 Pts+Rebs,Rotowire Sleeper_duplicate,Los Angeles Clippers,D.Jones,N,8.0,Dallas Mavericks,0.0,0.6153846153846154,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5
+9,Y.Missi o19.5 Pts+Rebs,Rotowire Prizepicks,New Orleans Pelicans,Y.Missi,N,17.0,New York Knicks,1.0,0.3703703703703703,0,0.6,1,0.6,1,100.0,1.5,3.0,1.5
+10,T.Murphy o20.5 Pts+Rebs,FirefighterBets,New Orleans Pelicans,T.Murphy,Y,32.0,New York Knicks,1.0,0.6666666666666666,1,0.8,1,0.7,1,-120.0,1.0,1.8333333333333333,0.8333333333333335
+11,J.Johnson o29.5 Pts+Rebs,Rotowire Sleeper_duplicate,Atlanta Hawks,J.Johnson,N,24.0,Memphis Grizzlies,1.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+12,K.Towns o38.5 Pts+Rebs,Rotowire Prizepicks,New York Knicks,K.Towns,N,21.0,New Orleans Pelicans,0.0,0.52,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5
+13,K.Oubre o19.5 Pts+Rebs,FirefighterBets,Philadelphia 76ers,K.Oubre,N,14.0,Cleveland Cavaliers,0.0,0.52,1,1.0,1,0.6,1,-108.0,1.0,1.925925925925926,0.925925925925926
+14,S.Dinwiddie o10.5 Pts+Rebs,Rotowire Sleeper,Dallas Mavericks,S.Dinwiddie,Y,18.0,Los Angeles Clippers,1.0,0.52,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
+15,J.Wilson o14.5 Pts+Rebs,Rotowire Prizepicks,Brooklyn Nets,J.Wilson,Y,16.0,Utah Jazz,1.0,0.3461538461538461,0,0.2,0,0.2,0,100.0,1.5,3.0,1.5

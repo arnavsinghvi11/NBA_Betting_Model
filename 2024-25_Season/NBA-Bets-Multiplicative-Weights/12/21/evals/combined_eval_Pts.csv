@@ -1,13 +1,13 @@
 ,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,M.Bridges o16.5 Pts,therocketplays_duplicate,New York Knicks,M.Bridges,Y,18.0,New Orleans Pelicans,0.0,0.5925925925925926,1,1.0,1,0.9,1,-120,1.2,2.2,1.0000000000000002
-1,K.Thompson u17.5 Pts,gneiffer07,Dallas Mavericks,K.Thompson,Y,16.0,Los Angeles Clippers,1.0,0.6086956521739131,1,0.2,0,0.5,0,-115,1.15,2.1499999999999995,0.9999999999999996
-2,J.Brown o22.5 Pts,RoyalsProps,Boston Celtics,J.Brown,N,19.0,Chicago Bulls,0.0,0.6363636363636364,1,0.2,0,0.4,0,-113,1.13,2.13,1.0
-3,N.Reid o10.5 Pts,RoyalsProps,Minnesota Timberwolves,N.Reid,Y,16.0,Golden State Warriors,1.0,0.5384615384615384,1,0.0,0,0.2,0,-113,1.13,2.13,1.0
-4,J.Brown o22.5 Pts,moneylinewixted,Boston Celtics,J.Brown,N,19.0,Chicago Bulls,0.0,0.6363636363636364,1,0.2,0,0.4,0,-112,1.12,2.12,1.0
-5,M.Bridges o16.5 Pts,FirefighterBets_duplicate,New York Knicks,M.Bridges,Y,18.0,New Orleans Pelicans,0.0,0.5925925925925926,1,1.0,1,0.9,1,-120,1.0,1.8333333333333333,0.8333333333333335
-6,I.Zubac o14.5 Pts,FirefighterBets,Los Angeles Clippers,I.Zubac,N,13.0,Dallas Mavericks,0.0,0.5714285714285714,1,0.6,1,0.6,1,-130,1.0,1.7692307692307692,0.7692307692307692
-7,N.Powell o21.5 Pts,kylemurray03,Los Angeles Clippers,N.Powell,Y,28.0,Dallas Mavericks,0.0,0.6666666666666666,1,0.6,1,0.5,0,-110,1.1,2.1,1.0
-8,N.Alexander-Walker o7.5 Pts,FirefighterBets,Minnesota Timberwolves,N.Alexander-Walker,N,2.0,Golden State Warriors,1.0,0.6923076923076923,1,0.6,1,0.8,1,-121,1.0,1.826446280991736,0.8264462809917354
-9,J.Jackson o22.5 Pts,kylemurray03,Memphis Grizzlies,J.Jackson,N,13.0,Atlanta Hawks,0.0,0.4230769230769231,0,0.4,0,0.4,0,-109,1.09,2.0900000000000003,1.0000000000000002
-10,S.Sharpe o16.5 Pts,itsbucketsnba,Portland Trail Blazers,S.Sharpe,Y,25.0,San Antonio Spurs,0.0,0.4736842105263157,0,0.4,0,0.4,0,-105,1.0,1.9523809523809523,0.9523809523809524
-11,J.Harden o22.5 Pts,itsbucketsnba,Los Angeles Clippers,J.Harden,N,19.0,Dallas Mavericks,0.0,0.4444444444444444,0,0.6,1,0.6,1,101,1.0,2.01,1.0099999999999998
+0,M.Bridges o16.5 Pts,therocketplays_duplicate,New York Knicks,M.Bridges,Y,18.0,New Orleans Pelicans,0.0,0.5925925925925926,1,1.0,1,0.9,1,-120.0,1.2,2.2,1.0000000000000002
+1,K.Thompson u17.5 Pts,gneiffer07,Dallas Mavericks,K.Thompson,Y,16.0,Los Angeles Clippers,1.0,0.6086956521739131,1,0.2,0,0.5,0,-115.0,1.15,2.1499999999999995,0.9999999999999996
+2,J.Brown o22.5 Pts,RoyalsProps,Boston Celtics,J.Brown,N,19.0,Chicago Bulls,0.0,0.6363636363636364,1,0.2,0,0.4,0,-113.0,1.13,2.13,1.0
+3,N.Reid o10.5 Pts,RoyalsProps,Minnesota Timberwolves,N.Reid,Y,16.0,Golden State Warriors,1.0,0.5384615384615384,1,0.0,0,0.2,0,-113.0,1.13,2.13,1.0
+4,J.Brown o22.5 Pts,moneylinewixted,Boston Celtics,J.Brown,N,19.0,Chicago Bulls,0.0,0.6363636363636364,1,0.2,0,0.4,0,-112.0,1.12,2.12,1.0
+5,M.Bridges o16.5 Pts,FirefighterBets_duplicate,New York Knicks,M.Bridges,Y,18.0,New Orleans Pelicans,0.0,0.5925925925925926,1,1.0,1,0.9,1,-120.0,1.0,1.8333333333333333,0.8333333333333335
+6,I.Zubac o14.5 Pts,FirefighterBets,Los Angeles Clippers,I.Zubac,N,13.0,Dallas Mavericks,0.0,0.5714285714285714,1,0.6,1,0.6,1,-130.0,1.0,1.7692307692307692,0.7692307692307692
+7,N.Powell o21.5 Pts,kylemurray03,Los Angeles Clippers,N.Powell,Y,28.0,Dallas Mavericks,0.0,0.6666666666666666,1,0.6,1,0.5,0,-110.0,1.1,2.1,1.0
+8,N.Alexander-Walker o7.5 Pts,FirefighterBets,Minnesota Timberwolves,N.Alexander-Walker,N,2.0,Golden State Warriors,1.0,0.6923076923076923,1,0.6,1,0.8,1,-121.0,1.0,1.826446280991736,0.8264462809917354
+9,J.Harden o22.5 Pts,itsbucketsnba,Los Angeles Clippers,J.Harden,N,19.0,Dallas Mavericks,0.0,0.4444444444444444,0,0.6,1,0.6,1,101.0,1.0,2.01,1.0099999999999998
+10,J.Jackson o22.5 Pts,kylemurray03,Memphis Grizzlies,J.Jackson,N,13.0,Atlanta Hawks,0.0,0.4230769230769231,0,0.4,0,0.4,0,-109.0,1.09,2.0900000000000003,1.0000000000000002
+11,S.Sharpe o16.5 Pts,itsbucketsnba,Portland Trail Blazers,S.Sharpe,Y,25.0,San Antonio Spurs,0.0,0.4736842105263157,0,0.4,0,0.4,0,-105.0,1.0,1.9523809523809523,0.9523809523809524

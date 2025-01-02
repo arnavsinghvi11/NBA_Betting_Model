@@ -1,5 +1,4 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,R.Gobert o24.5 Pts+Rebs+Ast,sandyplashkes,R.Gobert,N,9.0,Minnesota Timberwolves,Chicago Bulls,0.0,0.4285714285714285,0,0.4,0,0.4285714285714285,0,-112.0,1.12,2.12,1.0
-1,J.Randle o32.5 Pts+Rebs+Ast,Rotowire Sleeper,J.Randle,Y,21.0,Minnesota Timberwolves,Chicago Bulls,0.0,0.5714285714285714,1,0.6,1,0.5714285714285714,1,100.0,1.5,3.0,1.5
-2,A.Simons o29.5 Pts+Rebs+Ast,Rotowire Prizepicks,A.Simons,Y,12.0,Portland Trail Blazers,San Antonio Spurs,0.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5
-3,P.Williams o14.5 Pts+Rebs+Ast,Rotowire Sleeper,P.Williams,Y,12.0,Chicago Bulls,Minnesota Timberwolves,1.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,R.Gobert o24.5 Pts+Rebs+Ast,sandyplashkes,Minnesota Timberwolves,R.Gobert,Y,33.0,Chicago Bulls,0.0,0.4285714285714285,0,0.4,0,0.4285714285714285,0,-112.0,1.12,2.12,1.0
+1,J.Randle o32.5 Pts+Rebs+Ast,Rotowire Sleeper,Minnesota Timberwolves,J.Randle,Y,35.0,Chicago Bulls,0.0,0.5714285714285714,1,0.6,1,0.5714285714285714,1,100.0,1.5,3.0,1.5
+2,P.Williams o14.5 Pts+Rebs+Ast,Rotowire Sleeper,Chicago Bulls,P.Williams,N,13.0,Minnesota Timberwolves,1.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5

@@ -1,12 +1,11 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,I.Hartenstein o23.5 Pts+Rebs+Ast,JoeDellera,I.Hartenstein,Y,31.0,Oklahoma City Thunder,Golden State Warriors,0.0,1.0,1,1.0,1,1.0,1,-130.0,1.0,1.7692307692307692,0.7692307692307692
-1,D.Sabonis o36.5 Pts+Rebs+Ast,gneiffer07,D.Sabonis,Y,44.0,Sacramento Kings,Minnesota Timberwolves,0.0,0.6875,1,0.6,1,0.8,1,-115.0,1.15,2.1499999999999995,0.9999999999999996
-2,J.Giddey o21.5 Pts+Rebs+Ast,Rotowire Sleeper,J.Giddey,N,20.0,Chicago Bulls,Orlando Magic,0.0,0.7894736842105263,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
-3,N.Vucevic o29.5 Pts+Rebs+Ast,Rotowire Prizepicks,N.Vucevic,Y,34.0,Chicago Bulls,Orlando Magic,0.0,0.8421052631578947,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
-4,D.Sabonis o37.5 Pts+Rebs+Ast,Rotowire Prizepicks,D.Sabonis,Y,44.0,Sacramento Kings,Minnesota Timberwolves,0.0,0.625,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
-5,E.Mobley o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,E.Mobley,Y,39.0,Cleveland Cavaliers,Atlanta Hawks,1.0,0.5294117647058824,1,0.6,1,0.5,0,100.0,1.5,3.0,1.5
-6,K.Durant o30.5 Pts+Rebs+Ast,Rotowire Prizepicks,K.Durant,Y,40.0,Phoenix Suns,Brooklyn Nets,1.0,0.9,1,1.0,1,0.9,1,100.0,1.5,3.0,1.5
-7,K.Durant o31.5 Pts+Rebs+Ast,Rotowire Prizepicks,K.Durant,Y,40.0,Phoenix Suns,Brooklyn Nets,1.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
-8,S.Sharpe o24.5 Pts+Rebs+Ast,Rotowire Prizepicks,S.Sharpe,N,23.0,Portland Trail Blazers,Indiana Pacers,0.0,0.4,0,0.6,1,0.4,0,100.0,1.5,3.0,1.5
-9,A.Dosunmu u18.5 Pts+Rebs+Ast,allanlemdfs,A.Dosunmu,N,27.0,Chicago Bulls,Orlando Magic,0.0,0.5789473684210527,1,0.8,1,0.6,1,-125.0,0.63,1.134,0.5040000000000001
-10,N.Vucevic o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,N.Vucevic,Y,34.0,Chicago Bulls,Orlando Magic,0.0,0.8421052631578947,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,I.Hartenstein o23.5 Pts+Rebs+Ast,JoeDellera,Oklahoma City Thunder,I.Hartenstein,Y,31.0,Golden State Warriors,0.0,1.0,1,1.0,1,1.0,1,-130.0,1.0,1.7692307692307692,0.7692307692307692
+1,D.Sabonis o36.5 Pts+Rebs+Ast,gneiffer07,Sacramento Kings,D.Sabonis,Y,44.0,Minnesota Timberwolves,0.0,0.6875,1,0.6,1,0.8,1,-115.0,1.15,2.1499999999999995,0.9999999999999996
+2,J.Giddey o21.5 Pts+Rebs+Ast,Rotowire Sleeper,Chicago Bulls,J.Giddey,N,20.0,Orlando Magic,0.0,0.7894736842105263,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5
+3,N.Vucevic o29.5 Pts+Rebs+Ast,Rotowire Prizepicks,Chicago Bulls,N.Vucevic,Y,34.0,Orlando Magic,0.0,0.8421052631578947,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
+4,D.Sabonis o37.5 Pts+Rebs+Ast,Rotowire Prizepicks,Sacramento Kings,D.Sabonis,Y,44.0,Minnesota Timberwolves,0.0,0.625,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+5,E.Mobley o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Cleveland Cavaliers,E.Mobley,Y,39.0,Atlanta Hawks,1.0,0.5294117647058824,1,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+6,K.Durant o30.5 Pts+Rebs+Ast,Rotowire Prizepicks,Phoenix Suns,K.Durant,Y,40.0,Brooklyn Nets,1.0,0.9,1,1.0,1,0.9,1,100.0,1.5,3.0,1.5
+7,K.Durant o31.5 Pts+Rebs+Ast,Rotowire Prizepicks,Phoenix Suns,K.Durant,Y,40.0,Brooklyn Nets,1.0,0.8,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5
+8,A.Dosunmu u18.5 Pts+Rebs+Ast,allanlemdfs,Chicago Bulls,A.Dosunmu,N,27.0,Orlando Magic,0.0,0.5789473684210527,1,0.8,1,0.6,1,-125.0,0.63,1.134,0.5040000000000001
+9,N.Vucevic o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Chicago Bulls,N.Vucevic,Y,34.0,Orlando Magic,0.0,0.8421052631578947,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5

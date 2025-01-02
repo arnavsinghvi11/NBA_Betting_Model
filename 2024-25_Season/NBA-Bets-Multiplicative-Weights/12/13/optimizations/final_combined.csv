@@ -1,67 +1,73 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
-O.Toppin o9.5 Pts,therocketplays,Indiana Pacers,Philadelphia 76ers,0.0,0.5,0,1.0,1,0.6,1,-106.0,1.06,2.06,1.0,O.Toppin
-C.White o18.5 Pts,RoyalsProps,Chicago Bulls,Charlotte Hornets,1.0,0.5652173913043478,1,0.4,0,0.4,0,-115.0,1.15,2.1499999999999995,0.9999999999999996,C.White
-B.Beal o18.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,B.Beal
-C.Paul o8.5 Ast,ThePropfessor_,San Antonio Spurs,Portland Trail Blazers,0.0,0.625,1,0.8,1,0.6,1,-135.0,1.35,2.35,1.0,C.Paul
-J.Collins o1.5 Ast,Rotowire Sleeper,Utah Jazz,Phoenix Suns,1.0,0.8181818181818182,1,1.0,1,0.9,1,100.0,1.5,3.0,1.5,J.Collins
-C.Paul o9.5 Ast,JoeDellera,San Antonio Spurs,Portland Trail Blazers,0.0,0.4583333333333333,0,0.6,1,0.5,0,125.0,0.15,0.3374999999999999,0.1874999999999999,C.Paul
-C.Paul o8.5 Ast,JoeDellera,San Antonio Spurs,Portland Trail Blazers,0.0,0.625,1,0.8,1,0.6,1,-130.0,1.0,1.7692307692307692,0.7692307692307692,C.Paul
-P.Siakam o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Indiana Pacers,Philadelphia 76ers,0.0,0.52,1,0.2,0,0.5,0,100.0,1.5,3.0,1.5,P.Siakam
-J.Harden o7.5 Ast,JoeDellera,Los Angeles Clippers,Denver Nuggets,0.0,0.5833333333333334,1,0.4,0,0.6,1,-140.0,1.0,1.7142857142857144,0.7142857142857144,J.Harden
-J.Harden o9.5 Ast,JoeDellera,Los Angeles Clippers,Denver Nuggets,0.0,0.3333333333333333,0,0.4,0,0.3,0,180.0,0.15,0.42,0.27,J.Harden
-A.Simons o17.5 Pts,RoyalsProps,Portland Trail Blazers,San Antonio Spurs,1.0,0.4761904761904761,0,0.4,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002,A.Simons
-P.George o26.5 Pts+Rebs+Ast,Rotowire Sleeper,Philadelphia 76ers,Indiana Pacers,1.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5,P.George
-R.Gobert o24.5 Pts+Rebs+Ast,sandyplashkes,Minnesota Timberwolves,Los Angeles Lakers,1.0,0.391304347826087,0,0.4,0,0.4,0,-125.0,1.25,2.25,1.0,R.Gobert
-B.Beal o22.5 Pts+Rebs+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,B.Beal
-B.Beal o18.5 Pts+Ast,Rotowire Sleeper,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,B.Beal
-C.Paul o22.5 Pts+Rebs+Ast,Rotowire Prizepicks,San Antonio Spurs,Portland Trail Blazers,0.0,0.5416666666666666,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5,C.Paul
-N.Jokic u31.5 Pts,sandyplashkes,Denver Nuggets,Los Angeles Clippers,1.0,0.5789473684210527,1,0.4,0,0.4,0,-118.0,1.18,2.18,0.9999999999999998,N.Jokic
-R.Gobert o24.5 Pts+Rebs+Ast,LinesAtLunch,Minnesota Timberwolves,Los Angeles Lakers,1.0,0.391304347826087,0,0.4,0,0.4,0,-125.0,1.25,2.25,1.0,R.Gobert
-N.Jokic u31.5 Pts,LinesAtLunch,Denver Nuggets,Los Angeles Clippers,1.0,0.5789473684210527,1,0.4,0,0.4,0,-118.0,1.18,2.18,0.9999999999999998,N.Jokic
-B.Beal o22.5 Pts+Rebs+Ast,Rotowire Sleeper,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,B.Beal
-J.Sochan o26.5 Pts+Rebs+Ast,Mjaybrxd,San Antonio Spurs,Portland Trail Blazers,0.0,0.5454545454545454,1,0.4,0,0.6,1,-115.0,1.0,1.869565217391304,0.8695652173913042,J.Sochan
-N.Powell o22.5 Pts+Ast,Rotowire Prizepicks,Los Angeles Clippers,Denver Nuggets,0.0,0.6666666666666666,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,N.Powell
-V.Micic u14.5 Pts,gneiffer07,Charlotte Hornets,Chicago Bulls,0.0,0.8461538461538461,1,0.6,1,0.8,1,-118.0,1.18,2.18,0.9999999999999998,V.Micic
+B.Clarke o0.5 Blk,PvB_Bets,Memphis Grizzlies,Brooklyn Nets,1.0,0.2916666666666667,0,0.6,1,0.6,1,120.0,1.0,2.2,1.2000000000000002,B.Clarke
+N.Claxton u1.5 Blk,PvB_Bets,Brooklyn Nets,Memphis Grizzlies,0.0,0.6111111111111112,1,0.6,1,0.6,1,105.0,1.0,2.05,1.0499999999999998,N.Claxton
 I.Zubac o23.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.72,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5,I.Zubac
 I.Zubac o24.5 Pts+Rebs,Rotowire Prizepicks,Los Angeles Clippers,Denver Nuggets,0.0,0.68,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5,I.Zubac
-K.George o20.5 Pts+Ast,Rotowire Prizepicks,Utah Jazz,Phoenix Suns,1.0,0.5454545454545454,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,K.George
-A.Simons o22.5 Pts+Ast,PlayerPropSavant,Portland Trail Blazers,San Antonio Spurs,1.0,0.4761904761904761,0,0.4,0,0.4,0,-125.0,1.25,2.25,1.0,A.Simons
-K.George o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,Utah Jazz,Phoenix Suns,1.0,0.5909090909090909,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,K.George
-B.Clarke o7.5 Pts,JoeDellera,Memphis Grizzlies,Brooklyn Nets,1.0,0.4583333333333333,0,0.8,1,0.7,1,-135.0,1.0,1.7407407407407407,0.7407407407407407,B.Clarke
-C.Sexton o18.5 Pts+Ast,Rotowire Prizepicks,Utah Jazz,Phoenix Suns,1.0,0.6956521739130435,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,C.Sexton
-P.Siakam o21.5 Pts+Ast,moneylinewixted,Indiana Pacers,Philadelphia 76ers,0.0,0.64,1,0.4,0,0.6,1,-106.0,1.06,2.06,1.0,P.Siakam
-K.George o17.5 Pts+Rebs,Rotowire Prizepicks,Utah Jazz,Phoenix Suns,1.0,0.5909090909090909,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,K.George
-D.Booker o34.5 Pts+Rebs+Ast,Rotowire Sleeper,Phoenix Suns,Utah Jazz,0.0,0.5652173913043478,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,D.Booker
-I.Zubac o25.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.72,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5,I.Zubac
-B.Beal o19.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.5333333333333333,1,0.4,0,0.5,0,100.0,1.5,3.0,1.5,B.Beal
 B.Beal o19.5 Pts+Rebs,Rotowire Sleeper,Phoenix Suns,Utah Jazz,0.0,0.6666666666666666,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,B.Beal
 A.Coffey o11.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.5416666666666666,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,A.Coffey
 I.Zubac o24.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.68,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5,I.Zubac
 N.Powell o23.5 Pts+Rebs,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.6666666666666666,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,N.Powell
-K.Dunn o5.5 Pts,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.64,1,0.4,0,0.4,0,100.0,1.5,3.0,1.5,K.Dunn
+B.Miller o31.5 Pts+Rebs,the_degenerates,Charlotte Hornets,Chicago Bulls,0.0,0.4,0,0.8,1,0.6,1,-120.0,1.2,2.2,1.0000000000000002,B.Miller
+V.Micic o15.5 Pts+Rebs,Rotowire Prizepicks,Charlotte Hornets,Chicago Bulls,0.0,0.2307692307692307,0,0.6,1,0.3,0,100.0,1.5,3.0,1.5,V.Micic
+K.George o17.5 Pts+Rebs,Rotowire Prizepicks,Utah Jazz,Phoenix Suns,1.0,0.5909090909090909,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,K.George
 M.Porter o24.5 Pts+Rebs,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.6363636363636364,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,M.Porter
-N.Claxton u1.5 Blk,PvB_Bets,Brooklyn Nets,Memphis Grizzlies,0.0,0.6111111111111112,1,0.6,1,0.6,1,105.0,1.0,2.05,1.0499999999999998,N.Claxton
-B.Clarke o0.5 Blk,PvB_Bets,Memphis Grizzlies,Brooklyn Nets,1.0,0.2916666666666667,0,0.6,1,0.6,1,120.0,1.0,2.2,1.2000000000000002,B.Clarke
-D.Russell u6.5 Ast,kylemurray03,Los Angeles Lakers,Minnesota Timberwolves,0.0,0.8695652173913043,1,0.8,1,0.9,1,-114.0,1.14,2.14,0.9999999999999998,D.Russell
-D.Russell u6.5 Ast,TopShelfAction,Los Angeles Lakers,Minnesota Timberwolves,0.0,0.8695652173913043,1,0.8,1,0.9,1,106.0,1.0,2.06,1.06,D.Russell
-N.Powell o24.5 Pts+Ast,kylemurray03,Los Angeles Clippers,Denver Nuggets,0.0,0.6111111111111112,1,0.4,0,0.5,0,-110.0,1.17,2.2336363636363634,1.0636363636363635,N.Powell
+D.Schroder o21.5 Pts+Rebs,Rotowire Prizepicks,Brooklyn Nets,Memphis Grizzlies,0.0,0.4545454545454545,0,0.6,1,0.4,0,100.0,1.5,3.0,1.5,D.Schroder
+P.Siakam o28.5 Pts+Rebs+Ast,Rotowire Prizepicks,Indiana Pacers,Philadelphia 76ers,0.0,0.52,1,0.2,0,0.5,0,100.0,1.5,3.0,1.5,P.Siakam
+P.George o26.5 Pts+Rebs+Ast,Rotowire Sleeper,Philadelphia 76ers,Indiana Pacers,1.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5,P.George
+B.Beal o22.5 Pts+Rebs+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,B.Beal
+J.Sochan o26.5 Pts+Rebs+Ast,Mjaybrxd,San Antonio Spurs,Portland Trail Blazers,0.0,0.5454545454545454,1,0.4,0,0.6,1,-115.0,1.0,1.869565217391304,0.8695652173913042,J.Sochan
+B.Beal o22.5 Pts+Rebs+Ast,Rotowire Sleeper,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,B.Beal
+I.Zubac o25.5 Pts+Rebs+Ast,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.72,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5,I.Zubac
 J.Embiid u44.5 Pts+Rebs+Ast,kylemurray03,Philadelphia 76ers,Indiana Pacers,1.0,0.6,1,0.6,1,0.6,1,-115.0,1.15,2.1499999999999995,0.9999999999999996,J.Embiid
+M.Porter o26.5 Pts+Rebs+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.6818181818181818,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,M.Porter
+N.Jokic o53.5 Pts+Rebs+Ast,the_degenerates,Denver Nuggets,Los Angeles Clippers,1.0,0.6842105263157895,1,0.8,1,0.7,1,-120.0,1.2,2.2,1.0000000000000002,N.Jokic
+M.Porter o25.5 Pts+Rebs+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.7272727272727273,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,M.Porter
+M.Porter o24.5 Pts+Rebs+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.7727272727272727,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,M.Porter
+K.Dunn o11.5 Pts+Rebs+Ast,PropBomb,Los Angeles Clippers,Denver Nuggets,0.0,0.56,1,0.4,0,0.5,0,-115.0,1.15,2.1499999999999995,0.9999999999999996,K.Dunn
+R.Gobert o24.5 Pts+Rebs+Ast,sandyplashkes,Minnesota Timberwolves,Los Angeles Lakers,1.0,0.391304347826087,0,0.4,0,0.4,0,-125.0,1.25,2.25,1.0,R.Gobert
+C.Paul o22.5 Pts+Rebs+Ast,Rotowire Prizepicks,San Antonio Spurs,Portland Trail Blazers,0.0,0.5416666666666666,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5,C.Paul
+R.Gobert o24.5 Pts+Rebs+Ast,LinesAtLunch,Minnesota Timberwolves,Los Angeles Lakers,1.0,0.391304347826087,0,0.4,0,0.4,0,-125.0,1.25,2.25,1.0,R.Gobert
+D.Booker o34.5 Pts+Rebs+Ast,Rotowire Sleeper,Phoenix Suns,Utah Jazz,0.0,0.5652173913043478,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,D.Booker
+P.George o27.5 Pts+Rebs+Ast,Rotowire Sleeper,Philadelphia 76ers,Indiana Pacers,1.0,0.3333333333333333,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,P.George
+C.Paul o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,San Antonio Spurs,Portland Trail Blazers,0.0,0.4583333333333333,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5,C.Paul
+C.White u3.5 3pt M,sandyplashkes,Chicago Bulls,Charlotte Hornets,1.0,0.5217391304347826,1,0.6,1,0.7,1,-124.0,1.24,2.24,0.9999999999999998,C.White
+C.White u3.5 3pt M,LinesAtLunch,Chicago Bulls,Charlotte Hornets,1.0,0.5217391304347826,1,0.6,1,0.7,1,-124.0,1.24,2.24,0.9999999999999998,C.White
+J.Harden o5.5 Rebs,Rotowire Prizepicks,Los Angeles Clippers,Denver Nuggets,0.0,0.7083333333333334,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,J.Harden
+I.Zubac o11.5 Rebs,kylemurray03,Los Angeles Clippers,Denver Nuggets,0.0,0.64,1,0.4,0,0.6,1,-105.0,1.05,2.05,0.9999999999999998,I.Zubac
+I.Zubac u11.5 Rebs,TopShelfAction,Los Angeles Clippers,Denver Nuggets,0.0,0.36,0,0.6,1,0.4,0,-104.0,1.0,1.9615384615384617,0.9615384615384616,I.Zubac
+N.Richards o7.5 Rebs,Rotowire Prizepicks,Charlotte Hornets,Chicago Bulls,0.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,100.0,1.5,3.0,1.5,N.Richards
+O.Toppin o9.5 Pts,therocketplays,Indiana Pacers,Philadelphia 76ers,0.0,0.5,0,1.0,1,0.6,1,-106.0,1.06,2.06,1.0,O.Toppin
+N.Jokic u31.5 Pts,sandyplashkes,Denver Nuggets,Los Angeles Clippers,1.0,0.5789473684210527,1,0.4,0,0.4,0,-118.0,1.18,2.18,0.9999999999999998,N.Jokic
+N.Jokic u31.5 Pts,LinesAtLunch,Denver Nuggets,Los Angeles Clippers,1.0,0.5789473684210527,1,0.4,0,0.4,0,-118.0,1.18,2.18,0.9999999999999998,N.Jokic
+V.Micic u14.5 Pts,gneiffer07,Charlotte Hornets,Chicago Bulls,0.0,0.8461538461538461,1,0.6,1,0.8,1,-118.0,1.18,2.18,0.9999999999999998,V.Micic
+K.Dunn o5.5 Pts,Rotowire Sleeper,Los Angeles Clippers,Denver Nuggets,0.0,0.64,1,0.4,0,0.4,0,100.0,1.5,3.0,1.5,K.Dunn
 D.Schroder u19.5 Pts,itsbucketsnba,Brooklyn Nets,Memphis Grizzlies,0.0,0.5,0,0.4,0,0.6,1,-120.0,1.0,1.8333333333333333,0.8333333333333335,D.Schroder
 C.White u18.5 Pts,Mjaybrxd,Chicago Bulls,Charlotte Hornets,1.0,0.4347826086956521,0,0.6,1,0.6,1,-110.0,0.5,0.9545454545454546,0.4545454545454546,C.White
 A.Gordon o13.5 Pts,itsbucketsnba,Denver Nuggets,Los Angeles Clippers,1.0,0.4545454545454545,0,0.4,0,0.5,0,-110.0,1.0,1.9090909090909087,0.9090909090909092,A.Gordon
-T.Jones o17.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.6521739130434783,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,T.Jones
-M.Porter o26.5 Pts+Rebs+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.6818181818181818,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,M.Porter
-P.George o27.5 Pts+Rebs+Ast,Rotowire Sleeper,Philadelphia 76ers,Indiana Pacers,1.0,0.3333333333333333,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,P.George
-P.Siakam o2.5 Ast,PvB_Bets,Indiana Pacers,Philadelphia 76ers,0.0,0.64,1,0.4,0,0.5,0,-117.0,1.0,1.8547008547008548,0.8547008547008548,P.Siakam
-K.Oubre o12.5 Pts+Ast,Rotowire Prizepicks,Philadelphia 76ers,Indiana Pacers,1.0,0.6363636363636364,1,1.0,1,0.7,1,100.0,1.5,3.0,1.5,K.Oubre
-D.Schroder o21.5 Pts+Rebs,Rotowire Prizepicks,Brooklyn Nets,Memphis Grizzlies,0.0,0.4545454545454545,0,0.6,1,0.4,0,100.0,1.5,3.0,1.5,D.Schroder
-B.Miller o31.5 Pts+Rebs,the_degenerates,Charlotte Hornets,Chicago Bulls,0.0,0.4,0,0.8,1,0.6,1,-120.0,1.2,2.2,1.0000000000000002,B.Miller
-V.Micic o15.5 Pts+Rebs,Rotowire Prizepicks,Charlotte Hornets,Chicago Bulls,0.0,0.2307692307692307,0,0.6,1,0.3,0,100.0,1.5,3.0,1.5,V.Micic
 N.Powell o20.5 Pts,the_degenerates,Los Angeles Clippers,Denver Nuggets,0.0,0.6666666666666666,1,0.6,1,0.6,1,-115.0,1.15,2.1499999999999995,0.9999999999999996,N.Powell
-A.Gordon o15.5 Pts+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.5454545454545454,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,A.Gordon
+C.White o18.5 Pts,RoyalsProps,Chicago Bulls,Charlotte Hornets,1.0,0.5652173913043478,1,0.4,0,0.4,0,-115.0,1.15,2.1499999999999995,0.9999999999999996,C.White
+A.Simons o17.5 Pts,RoyalsProps,Portland Trail Blazers,San Antonio Spurs,1.0,0.4761904761904761,0,0.4,0,0.4,0,-120.0,1.2,2.2,1.0000000000000002,A.Simons
+B.Clarke o7.5 Pts,JoeDellera,Memphis Grizzlies,Brooklyn Nets,1.0,0.4583333333333333,0,0.8,1,0.7,1,-135.0,1.0,1.7407407407407407,0.7407407407407407,B.Clarke
 M.Porter o16.5 Pts,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.7272727272727273,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,M.Porter
+B.Beal o18.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,B.Beal
+B.Beal o18.5 Pts+Ast,Rotowire Sleeper,Phoenix Suns,Utah Jazz,0.0,0.7333333333333333,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,B.Beal
+N.Powell o22.5 Pts+Ast,Rotowire Prizepicks,Los Angeles Clippers,Denver Nuggets,0.0,0.6666666666666666,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,N.Powell
+K.George o20.5 Pts+Ast,Rotowire Prizepicks,Utah Jazz,Phoenix Suns,1.0,0.5454545454545454,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,K.George
+C.Sexton o18.5 Pts+Ast,Rotowire Prizepicks,Utah Jazz,Phoenix Suns,1.0,0.6956521739130435,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,C.Sexton
+P.Siakam o21.5 Pts+Ast,moneylinewixted,Indiana Pacers,Philadelphia 76ers,0.0,0.64,1,0.4,0,0.6,1,-106.0,1.06,2.06,1.0,P.Siakam
+B.Beal o19.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.5333333333333333,1,0.4,0,0.5,0,100.0,1.5,3.0,1.5,B.Beal
+N.Powell o24.5 Pts+Ast,kylemurray03,Los Angeles Clippers,Denver Nuggets,0.0,0.6111111111111112,1,0.4,0,0.5,0,-110.0,1.17,2.2336363636363634,1.0636363636363635,N.Powell
+T.Jones o17.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Utah Jazz,0.0,0.6521739130434783,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,T.Jones
 M.Porter o18.5 Pts+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.6818181818181818,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,M.Porter
-M.Porter o25.5 Pts+Rebs+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.7272727272727273,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,M.Porter
-M.Porter o24.5 Pts+Rebs+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.7727272727272727,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,M.Porter
-C.Paul o23.5 Pts+Rebs+Ast,Rotowire Prizepicks,San Antonio Spurs,Portland Trail Blazers,0.0,0.4583333333333333,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5,C.Paul
-K.Dunn o11.5 Pts+Rebs+Ast,PropBomb,Los Angeles Clippers,Denver Nuggets,0.0,0.56,1,0.4,0,0.5,0,-115.0,1.15,2.1499999999999995,0.9999999999999996,K.Dunn
+A.Simons o22.5 Pts+Ast,PlayerPropSavant,Portland Trail Blazers,San Antonio Spurs,1.0,0.4761904761904761,0,0.4,0,0.4,0,-125.0,1.25,2.25,1.0,A.Simons
+K.Oubre o12.5 Pts+Ast,Rotowire Prizepicks,Philadelphia 76ers,Indiana Pacers,1.0,0.6363636363636364,1,1.0,1,0.7,1,100.0,1.5,3.0,1.5,K.Oubre
+A.Gordon o15.5 Pts+Ast,Rotowire Prizepicks,Denver Nuggets,Los Angeles Clippers,1.0,0.5454545454545454,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,A.Gordon
+C.Paul o8.5 Ast,ThePropfessor_,San Antonio Spurs,Portland Trail Blazers,0.0,0.625,1,0.8,1,0.6,1,-135.0,1.35,2.35,1.0,C.Paul
+J.Collins o1.5 Ast,Rotowire Sleeper,Utah Jazz,Phoenix Suns,1.0,0.8181818181818182,1,1.0,1,0.9,1,100.0,1.5,3.0,1.5,J.Collins
+C.Paul o9.5 Ast,JoeDellera,San Antonio Spurs,Portland Trail Blazers,0.0,0.4583333333333333,0,0.6,1,0.5,0,125.0,0.15,0.3374999999999999,0.1874999999999999,C.Paul
+C.Paul o8.5 Ast,JoeDellera,San Antonio Spurs,Portland Trail Blazers,0.0,0.625,1,0.8,1,0.6,1,-130.0,1.0,1.7692307692307692,0.7692307692307692,C.Paul
+J.Harden o7.5 Ast,JoeDellera,Los Angeles Clippers,Denver Nuggets,0.0,0.5833333333333334,1,0.4,0,0.6,1,-140.0,1.0,1.7142857142857144,0.7142857142857144,J.Harden
+J.Harden o9.5 Ast,JoeDellera,Los Angeles Clippers,Denver Nuggets,0.0,0.3333333333333333,0,0.4,0,0.3,0,180.0,0.15,0.42,0.27,J.Harden
+D.Russell u6.5 Ast,kylemurray03,Los Angeles Lakers,Minnesota Timberwolves,0.0,0.8695652173913043,1,0.8,1,0.9,1,-114.0,1.14,2.14,0.9999999999999998,D.Russell
+D.Russell u6.5 Ast,TopShelfAction,Los Angeles Lakers,Minnesota Timberwolves,0.0,0.8695652173913043,1,0.8,1,0.9,1,106.0,1.0,2.06,1.06,D.Russell
+P.Siakam o2.5 Ast,PvB_Bets,Indiana Pacers,Philadelphia 76ers,0.0,0.64,1,0.4,0,0.5,0,-117.0,1.0,1.8547008547008548,0.8547008547008548,P.Siakam

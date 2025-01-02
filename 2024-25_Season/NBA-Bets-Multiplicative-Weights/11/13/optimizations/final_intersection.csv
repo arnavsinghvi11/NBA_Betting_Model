@@ -1,22 +1,20 @@
 Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name
-J.Hart u6.5 Ast,TopShelfAction,New York Knicks,Chicago Bulls,1.0,0.6,1,0.2,0,0.6,1,-110.0,1.0,1.9090909090909087,0.9090909090909092,J.Hart
-A.Sengun u4.5 Ast,TopShelfAction,Houston Rockets,Los Angeles Clippers,1.0,0.6363636363636364,1,0.6,1,0.7,1,-118.0,1.0,1.847457627118644,0.847457627118644,A.Sengun
-B.Beal o3.5 Ast,PvB_Bets,Phoenix Suns,Sacramento Kings,0.0,0.4444444444444444,0,0.2,0,0.4444444444444444,0,-102.0,1.0,1.9803921568627447,0.9803921568627452,B.Beal
-H.Barnes u1.5 Ast,PvB_Bets,San Antonio Spurs,Washington Wizards,1.0,0.4545454545454545,0,0.2,0,0.5,0,105.0,1.0,2.05,1.0499999999999998,H.Barnes
-K.Huerter o11.5 Pts+Ast,MJCLocks,Sacramento Kings,Phoenix Suns,1.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-115.0,1.15,2.1499999999999995,0.9999999999999996,K.Huerter
-J.Holiday o14.5 Pts+Ast,Rotowire Prizepicks,Boston Celtics,Brooklyn Nets,0.0,0.6666666666666666,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,J.Holiday
-D.Booker u35.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Sacramento Kings,0.0,0.8181818181818182,1,1.0,1,0.8,1,100.0,1.5,3.0,1.5,D.Booker
-D.Avdija o12.5 Pts+Ast,Rotowire Prizepicks,Portland Trail Blazers,Minnesota Timberwolves,1.0,0.5833333333333334,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,D.Avdija
+C.Cunningham o1.5 3pt M,TopShelfAction,Detroit Pistons,Milwaukee Bucks,0.0,0.6666666666666666,1,0.4,0,0.6,1,-145.0,1.0,1.6896551724137931,0.6896551724137931,C.Cunningham
+D.Brooks o1.5 3pt M,TopShelfAction,Houston Rockets,Los Angeles Clippers,1.0,0.5454545454545454,1,0.6,1,0.6,1,110.0,1.0,2.1,1.1,D.Brooks
+D.Booker u39.5 Pts+Rebs+Ast,Rotowire Prizepicks,Phoenix Suns,Sacramento Kings,0.0,0.8181818181818182,1,1.0,1,0.8,1,100.0,1.5,3.0,1.5,D.Booker
 K.Towns u41.5 Pts+Rebs+Ast,Rotowire Prizepicks,New York Knicks,Chicago Bulls,1.0,0.7,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,K.Towns
+D.Booker u40.5 Pts+Rebs+Ast,Rotowire Prizepicks,Phoenix Suns,Sacramento Kings,0.0,0.8181818181818182,1,1.0,1,0.8,1,100.0,1.5,3.0,1.5,D.Booker
 J.Giddey o24.5 Pts+Rebs+Ast,TopShelfAction,Chicago Bulls,New York Knicks,0.0,0.7272727272727273,1,0.6,1,0.8,1,-104.0,1.0,1.9615384615384617,0.9615384615384616,J.Giddey
 B.Beal u28.5 Pts+Rebs+Ast,TopShelfAction,Phoenix Suns,Sacramento Kings,0.0,0.7777777777777778,1,0.6,1,0.7777777777777778,1,-102.0,1.0,1.9803921568627447,0.9803921568627452,B.Beal
 J.Jackson u30.5 Pts+Rebs+Ast,TopShelfAction,Memphis Grizzlies,Los Angeles Lakers,0.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-104.0,1.0,1.9615384615384617,0.9615384615384616,J.Jackson
 B.Ingram u37.5 Pts+Rebs+Ast,Rotowire Prizepicks,New Orleans Pelicans,Oklahoma City Thunder,0.0,0.5454545454545454,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,B.Ingram
-E.Mobley u28.5 Pts+Rebs,Rotowire Prizepicks,Cleveland Cavaliers,Philadelphia 76ers,0.0,0.75,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,E.Mobley
-T.Harris o21.5 Pts+Rebs,Rotowire Sleeper,Detroit Pistons,Milwaukee Bucks,0.0,0.4166666666666667,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5,T.Harris
-D.Sabonis o32.5 Pts+Rebs,the_degenerates,Sacramento Kings,Phoenix Suns,1.0,0.4545454545454545,0,0.4,0,0.5,0,-118.0,1.18,2.18,0.9999999999999998,D.Sabonis
-M.McBride o12.5 Pts+Rebs,Markus_Markets,New York Knicks,Chicago Bulls,1.0,0.7,1,0.6,1,0.7,1,-115.0,1.0,1.869565217391304,0.8695652173913042,M.McBride
-G.Antetokounmpo o44.5 Pts+Rebs,Rotowire Sleeper,Milwaukee Bucks,Detroit Pistons,1.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5,G.Antetokounmpo
+V.Wembanyama u12.5 Rebs,gneiffer07,San Antonio Spurs,Washington Wizards,1.0,0.6363636363636364,1,0.4,0,0.6,1,-109.0,1.09,2.0900000000000003,1.0000000000000002,V.Wembanyama
+A.Edwards o5.5 Rebs,TopShelfAction,Minnesota Timberwolves,Portland Trail Blazers,0.0,0.5454545454545454,1,0.4,0,0.5,0,110.0,1.0,2.1,1.1,A.Edwards
+J.Harden o6.5 Rebs,TopShelfAction,Los Angeles Clippers,Houston Rockets,0.0,0.6363636363636364,1,0.6,1,0.6,1,148.0,1.0,2.48,1.48,J.Harden
+D.Clingan u7.5 Rebs,TopShelfAction,Portland Trail Blazers,Minnesota Timberwolves,1.0,0.9166666666666666,1,1.0,1,0.9,1,102.0,1.0,2.02,1.02,D.Clingan
+J.Champagnie o4.5 Rebs,CeeJPicks,San Antonio Spurs,Washington Wizards,1.0,0.8181818181818182,1,0.8,1,0.8,1,-118.0,1.18,2.18,0.9999999999999998,J.Champagnie
+A.Edwards o5.5 Rebs,Rotowire Prizepicks,Minnesota Timberwolves,Portland Trail Blazers,0.0,0.5454545454545454,1,0.4,0,0.5,0,100.0,1.5,3.0,1.5,A.Edwards
+D.Fox o4.5 Rebs,TopShelfAction,Sacramento Kings,Phoenix Suns,1.0,0.7272727272727273,1,0.6,1,0.8,1,-128.0,1.0,1.78125,0.78125,D.Fox
 J.Brunson o25.5 Pts,kylemurray03,New York Knicks,Chicago Bulls,1.0,0.4,0,0.4,0,0.4,0,-125.0,1.25,2.25,1.0,J.Brunson
 J.Allen o11.5 Pts,Rotowire Sleeper,Cleveland Cavaliers,Philadelphia 76ers,0.0,0.75,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5,J.Allen
 S.Pippen u13.5 Pts,GDAWG5000,Memphis Grizzlies,Los Angeles Lakers,0.0,0.5454545454545454,1,0.4,0,0.5,0,-117.0,0.58,1.0757264957264956,0.4957264957264956,S.Pippen
@@ -30,3 +28,18 @@ L.Dort u12.5 Pts,itsbucketsnba,Oklahoma City Thunder,New Orleans Pelicans,1.0,0.
 K.Huerter o9.5 Pts,Rotowire Sleeper,Sacramento Kings,Phoenix Suns,1.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,100.0,1.5,3.0,1.5,K.Huerter
 T.Camara o8.5 Pts,Rotowire Prizepicks,Portland Trail Blazers,Minnesota Timberwolves,1.0,0.5833333333333334,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,T.Camara
 J.Poole u8.5 Rebs+Ast,allanlemdfs,Washington Wizards,San Antonio Spurs,0.0,0.7777777777777778,1,0.8,1,0.7777777777777778,1,-125.0,1.25,2.25,1.0,J.Poole
+K.Huerter o11.5 Pts+Ast,MJCLocks,Sacramento Kings,Phoenix Suns,1.0,0.6666666666666666,1,0.6,1,0.6666666666666666,1,-115.0,1.15,2.1499999999999995,0.9999999999999996,K.Huerter
+J.Holiday o14.5 Pts+Ast,Rotowire Prizepicks,Boston Celtics,Brooklyn Nets,0.0,0.6666666666666666,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,J.Holiday
+D.Booker u35.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Sacramento Kings,0.0,0.8181818181818182,1,1.0,1,0.8,1,100.0,1.5,3.0,1.5,D.Booker
+D.Avdija o12.5 Pts+Ast,Rotowire Prizepicks,Portland Trail Blazers,Minnesota Timberwolves,1.0,0.5833333333333334,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,D.Avdija
+J.Hart u6.5 Ast,TopShelfAction,New York Knicks,Chicago Bulls,1.0,0.6,1,0.2,0,0.6,1,-110.0,1.0,1.9090909090909087,0.9090909090909092,J.Hart
+A.Sengun u4.5 Ast,TopShelfAction,Houston Rockets,Los Angeles Clippers,1.0,0.6363636363636364,1,0.6,1,0.7,1,-118.0,1.0,1.847457627118644,0.847457627118644,A.Sengun
+B.Beal o3.5 Ast,PvB_Bets,Phoenix Suns,Sacramento Kings,0.0,0.4444444444444444,0,0.2,0,0.4444444444444444,0,-102.0,1.0,1.9803921568627447,0.9803921568627452,B.Beal
+H.Barnes u1.5 Ast,PvB_Bets,San Antonio Spurs,Washington Wizards,1.0,0.4545454545454545,0,0.2,0,0.5,0,105.0,1.0,2.05,1.0499999999999998,H.Barnes
+E.Mobley u28.5 Pts+Rebs,Rotowire Prizepicks,Cleveland Cavaliers,Philadelphia 76ers,0.0,0.75,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,E.Mobley
+N.Reid o16.5 Pts+Rebs,Rotowire Sleeper,Minnesota Timberwolves,Portland Trail Blazers,0.0,0.6363636363636364,1,0.8,1,0.7,1,100.0,1.5,3.0,1.5,N.Reid
+I.Zubac o26.5 Pts+Rebs,the_degenerates,Los Angeles Clippers,Houston Rockets,0.0,0.6363636363636364,1,0.6,1,0.6,1,-122.0,1.22,2.22,1.0000000000000002,I.Zubac
+D.Sabonis o32.5 Pts+Rebs,the_degenerates,Sacramento Kings,Phoenix Suns,1.0,0.4545454545454545,0,0.4,0,0.5,0,-118.0,1.18,2.18,0.9999999999999998,D.Sabonis
+M.McBride o12.5 Pts+Rebs,Markus_Markets,New York Knicks,Chicago Bulls,1.0,0.7,1,0.6,1,0.7,1,-115.0,1.0,1.869565217391304,0.8695652173913042,M.McBride
+N.Reid o18.5 Pts+Rebs,Rotowire Prizepicks,Minnesota Timberwolves,Portland Trail Blazers,0.0,0.5454545454545454,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,N.Reid
+D.Avdija o15.5 Pts+Rebs,Rotowire Prizepicks,Portland Trail Blazers,Minnesota Timberwolves,1.0,0.5,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5,D.Avdija

@@ -1,11 +1,11 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
-0,T.Herro o25.5 Pts+Rebs,JoeDellera,T.Herro,N,23.0,Miami Heat,Milwaukee Bucks,1.0,0.6428571428571429,1,0.6,1,0.7,1,-115,1.0,1.869565217391304,0.8695652173913042
-1,B.Beal o17.5 Pts+Rebs,Rotowire Sleeper,B.Beal,Y,25.0,Phoenix Suns,Los Angeles Lakers,1.0,0.7777777777777778,1,0.8,1,0.7777777777777778,1,100,1.5,3.0,1.5
-2,B.Beal o18.5 Pts+Rebs,Rotowire Prizepicks,B.Beal,Y,25.0,Phoenix Suns,Los Angeles Lakers,1.0,0.6666666666666666,1,0.8,1,0.6666666666666666,1,100,1.5,3.0,1.5
-3,L.Markkanen u30.5 Pts+Rebs,Rotowire Prizepicks,L.Markkanen,Y,22.0,Utah Jazz,San Antonio Spurs,1.0,0.6923076923076923,1,0.4,0,0.7,1,100,1.5,3.0,1.5
-4,K.Durant o28.5 Pts+Rebs,Rotowire Prizepicks,K.Durant,Y,29.0,Phoenix Suns,Los Angeles Lakers,1.0,0.8888888888888888,1,0.8,1,0.8888888888888888,1,100,1.5,3.0,1.5
-5,B.Adebayo u28.5 Pts+Rebs,Rotowire Prizepicks,B.Adebayo,Y,21.0,Miami Heat,Milwaukee Bucks,1.0,0.5714285714285714,1,0.2,0,0.4,0,100,1.5,3.0,1.5
-6,T.Herro o26.5 Pts+Rebs,therocketplays,T.Herro,N,23.0,Miami Heat,Milwaukee Bucks,1.0,0.6428571428571429,1,0.6,1,0.7,1,-115,1.15,2.1499999999999995,0.9999999999999996
-7,T.Herro o26.5 Pts+Rebs,Rotowire Sleeper,T.Herro,N,23.0,Miami Heat,Milwaukee Bucks,1.0,0.6428571428571429,1,0.6,1,0.7,1,100,1.5,3.0,1.5
-8,W.Kessler o19.5 Pts+Rebs,Rotowire Sleeper,W.Kessler,N,13.0,Utah Jazz,San Antonio Spurs,1.0,0.5,0,0.6,1,0.5,0,100,1.5,3.0,1.5
-9,K.George o17.5 Pts+Rebs,Rotowire Sleeper,K.George,N,11.0,Washington Wizards,Chicago Bulls,1.0,0.3333333333333333,0,0.4,0,0.5,0,100,1.5,3.0,1.5
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit
+0,T.Herro o25.5 Pts+Rebs,JoeDellera,Miami Heat,T.Herro,N,23.0,Milwaukee Bucks,1.0,0.6428571428571429,1,0.6,1,0.7,1,-115.0,1.0,1.869565217391304,0.8695652173913042
+1,B.Beal o17.5 Pts+Rebs,Rotowire Sleeper,Phoenix Suns,B.Beal,Y,25.0,Los Angeles Lakers,1.0,0.7777777777777778,1,0.8,1,0.7777777777777778,1,100.0,1.5,3.0,1.5
+2,B.Beal o18.5 Pts+Rebs,Rotowire Prizepicks,Phoenix Suns,B.Beal,Y,25.0,Los Angeles Lakers,1.0,0.6666666666666666,1,0.8,1,0.6666666666666666,1,100.0,1.5,3.0,1.5
+3,L.Markkanen u30.5 Pts+Rebs,Rotowire Prizepicks,Utah Jazz,L.Markkanen,Y,22.0,San Antonio Spurs,1.0,0.6923076923076923,1,0.4,0,0.7,1,100.0,1.5,3.0,1.5
+4,K.Durant o28.5 Pts+Rebs,Rotowire Prizepicks,Phoenix Suns,K.Durant,Y,29.0,Los Angeles Lakers,1.0,0.8888888888888888,1,0.8,1,0.8888888888888888,1,100.0,1.5,3.0,1.5
+5,B.Adebayo u28.5 Pts+Rebs,Rotowire Prizepicks,Miami Heat,B.Adebayo,Y,21.0,Milwaukee Bucks,1.0,0.5714285714285714,1,0.2,0,0.4,0,100.0,1.5,3.0,1.5
+6,T.Herro o26.5 Pts+Rebs,therocketplays,Miami Heat,T.Herro,N,23.0,Milwaukee Bucks,1.0,0.6428571428571429,1,0.6,1,0.7,1,-115.0,1.15,2.1499999999999995,0.9999999999999996
+7,T.Herro o26.5 Pts+Rebs,Rotowire Sleeper,Miami Heat,T.Herro,N,23.0,Milwaukee Bucks,1.0,0.6428571428571429,1,0.6,1,0.7,1,100.0,1.5,3.0,1.5
+8,W.Kessler o19.5 Pts+Rebs,Rotowire Sleeper,Utah Jazz,W.Kessler,N,13.0,San Antonio Spurs,1.0,0.5,0,0.6,1,0.5,0,100.0,1.5,3.0,1.5
+9,K.George o17.5 Pts+Rebs,Rotowire Sleeper,Washington Wizards,K.George,N,11.0,Chicago Bulls,1.0,0.3333333333333333,0,0.4,0,0.5,0,100.0,1.5,3.0,1.5
