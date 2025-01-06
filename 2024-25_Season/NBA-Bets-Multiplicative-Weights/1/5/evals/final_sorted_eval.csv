@@ -1,0 +1,31 @@
+Play,Expert,Team_x,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value,Team_y
+D.White o3.5 Ast,TopShelfAction,Boston Celtics,Oklahoma City Thunder,0.0,0.6470588235294118,1,0.2,0,0.5,0,-110.0,0.6,1.1454545454545455,0.5454545454545455,D.White,Y,4.0,Boston Celtics
+D.Green u5.5 Ast,TopShelfAction,Golden State Warriors,Sacramento Kings,1.0,0.4333333333333333,0,0.4,0,0.6,1,-109.0,0.5,0.9587155963302753,0.4587155963302752,D.Green,Y,4.0,Golden State Warriors
+J.Brown o23.5 Pts+Ast,Rotowire Prizepicks,Boston Celtics,Oklahoma City Thunder,0.0,0.7857142857142857,1,0.8,1,0.6,1,100.0,1.5,3.0,1.5,J.Brown,Y,24.0,Boston Celtics
+D.White o18.5 Pts+Ast,Rotowire Sleeper,Boston Celtics,Oklahoma City Thunder,0.0,0.8235294117647058,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,D.White,N,15.0,Boston Celtics
+B.Miller o20.5 Pts+Ast,Rotowire Sleeper,Charlotte Hornets,Cleveland Cavaliers,0.0,0.7391304347826086,1,0.8,1,0.9,1,100.0,1.5,3.0,1.5,B.Miller,Y,26.0,Charlotte Hornets
+J.Champagnie o8.5 Pts+Ast,Rotowire Sleeper_duplicate,Washington Wizards,New Orleans Pelicans,1.0,0.6,1,0.6,1,0.6,1,100.0,1.5,3.0,1.5,J.Champagnie,N,7.0,Washington Wizards
+A.Wiggins o12.5 Pts+Rebs,Rotowire Prizepicks_duplicate,Golden State Warriors,Sacramento Kings,1.0,0.8333333333333334,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,A.Wiggins,Y,22.0,Golden State Warriors
+A.Wiggins o12.5 Pts+Rebs,Rotowire Prizepicks_duplicate,Golden State Warriors,Sacramento Kings,1.0,0.8333333333333334,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,A.Wiggins,Y,22.0,Oklahoma City Thunder
+A.Wiggins o12.5 Pts+Rebs,Rotowire Prizepicks_duplicate,Oklahoma City Thunder,Boston Celtics,1.0,0.5294117647058824,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5,A.Wiggins,Y,16.0,Golden State Warriors
+A.Wiggins o12.5 Pts+Rebs,Rotowire Prizepicks_duplicate,Oklahoma City Thunder,Boston Celtics,1.0,0.5294117647058824,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5,A.Wiggins,Y,16.0,Oklahoma City Thunder
+A.Wiggins o11.5 Pts+Rebs,Rotowire Sleeper_duplicate,Golden State Warriors,Sacramento Kings,1.0,0.8666666666666667,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,A.Wiggins,Y,22.0,Golden State Warriors
+A.Wiggins o11.5 Pts+Rebs,Rotowire Sleeper_duplicate,Golden State Warriors,Sacramento Kings,1.0,0.8666666666666667,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,A.Wiggins,Y,22.0,Oklahoma City Thunder
+A.Wiggins o11.5 Pts+Rebs,Rotowire Sleeper_duplicate,Oklahoma City Thunder,Boston Celtics,1.0,0.5882352941176471,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5,A.Wiggins,Y,16.0,Golden State Warriors
+A.Wiggins o11.5 Pts+Rebs,Rotowire Sleeper_duplicate,Oklahoma City Thunder,Boston Celtics,1.0,0.5882352941176471,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5,A.Wiggins,Y,16.0,Oklahoma City Thunder
+A.Wiggins o8.5 Pts,Rotowire Sleeper_duplicate,Golden State Warriors,Sacramento Kings,1.0,0.8666666666666667,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,A.Wiggins,Y,18.0,Golden State Warriors
+A.Wiggins o8.5 Pts,Rotowire Sleeper_duplicate,Golden State Warriors,Sacramento Kings,1.0,0.8666666666666667,1,0.6,1,0.8,1,100.0,1.5,3.0,1.5,A.Wiggins,Y,18.0,Oklahoma City Thunder
+A.Wiggins o8.5 Pts,Rotowire Sleeper_duplicate,Oklahoma City Thunder,Boston Celtics,1.0,0.5294117647058824,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5,A.Wiggins,Y,15.0,Golden State Warriors
+A.Wiggins o8.5 Pts,Rotowire Sleeper_duplicate,Oklahoma City Thunder,Boston Celtics,1.0,0.5294117647058824,1,0.8,1,0.5,0,100.0,1.5,3.0,1.5,A.Wiggins,Y,15.0,Oklahoma City Thunder
+A.Wiggins o9.5 Pts,TopShelfAction_duplicate,Golden State Warriors,Sacramento Kings,1.0,0.8333333333333334,1,0.6,1,0.7,1,115.0,0.7,1.505,0.8049999999999999,A.Wiggins,Y,18.0,Golden State Warriors
+A.Wiggins o9.5 Pts,TopShelfAction_duplicate,Oklahoma City Thunder,Boston Celtics,1.0,0.4411764705882353,0,0.6,1,0.4,0,115.0,0.7,1.505,0.8049999999999999,A.Wiggins,Y,15.0,Golden State Warriors
+J.Green o19.5 Pts,FirefighterBets_duplicate,Houston Rockets,Los Angeles Lakers,1.0,0.3636363636363636,0,0.4,0,0.4,0,-125.0,1.0,1.8,0.8,J.Green,Y,33.0,Houston Rockets
+L.Ball o24.5 Pts,FirefighterBets_duplicate,Charlotte Hornets,Cleveland Cavaliers,0.0,0.7727272727272727,1,0.6,1,0.7,1,-120.0,1.0,1.8333333333333333,0.8333333333333335,L.Ball,N,24.0,Charlotte Hornets
+D.Sabonis o20.5 Pts,itsbucketsnba,Sacramento Kings,Golden State Warriors,0.0,0.46875,0,0.0,0,0.2,0,-109.0,1.0,1.9174311926605505,0.9174311926605504,D.Sabonis,Y,22.0,Sacramento Kings
+J.Holiday o1.5 3pt M,TopShelfAction,Boston Celtics,Oklahoma City Thunder,0.0,0.5862068965517241,1,0.8,1,0.7,1,-110.0,0.8,1.5272727272727271,0.7272727272727273,J.Holiday,N,0.0,Boston Celtics
+D.White o22.5 Pts+Rebs+Ast,Rotowire Sleeper,Boston Celtics,Oklahoma City Thunder,0.0,0.8235294117647058,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,D.White,N,19.0,Boston Celtics
+J.Green o26.5 Pts+Rebs+Ast,Rotowire Prizepicks_duplicate,Houston Rockets,Los Angeles Lakers,1.0,0.3636363636363636,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,J.Green,Y,43.0,Houston Rockets
+D.White o22.5 Pts+Rebs+Ast,Rotowire Prizepicks,Boston Celtics,Oklahoma City Thunder,0.0,0.8235294117647058,1,0.8,1,0.8,1,100.0,1.5,3.0,1.5,D.White,N,19.0,Boston Celtics
+I.Hartenstein o27.5 Pts+Rebs+Ast,Rotowire Sleeper,Oklahoma City Thunder,Boston Celtics,1.0,0.631578947368421,1,0.4,0,0.6,1,100.0,1.5,3.0,1.5,I.Hartenstein,N,20.0,Oklahoma City Thunder
+C.McCollum u34.5 Pts+Rebs+Ast,TopShelfAction,New Orleans Pelicans,Washington Wizards,0.0,0.6818181818181818,1,0.4,0,0.5,0,-105.0,1.0,1.9523809523809523,0.9523809523809524,C.McCollum,Y,31.0,New Orleans Pelicans
+J.Green o25.5 Pts+Rebs+Ast,Rotowire Prizepicks_duplicate,Houston Rockets,Los Angeles Lakers,1.0,0.3636363636363636,0,0.4,0,0.4,0,100.0,1.5,3.0,1.5,J.Green,Y,43.0,Houston Rockets
