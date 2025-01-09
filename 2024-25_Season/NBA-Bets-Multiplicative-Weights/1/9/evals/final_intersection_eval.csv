@@ -1,0 +1,56 @@
+Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value
+A.Sengun u5.5 Ast,TopShelfAction,Houston Rockets,Memphis Grizzlies,0.0,0.6388888888888888,1,0.6,1,0.6,1,-105,1.1,2.1476190476190475,1.0476190476190474,A.Sengun,Y,5.0
+S.Barnes o4.5 Ast,TopShelfAction,Toronto Raptors,Cleveland Cavaliers,0.0,0.7916666666666666,1,0.6,1,0.7,1,-135,1.4,2.4370370370370367,1.0370370370370368,S.Barnes,Y,8.0
+B.Beal o3.5 Ast,JoeDellera,Phoenix Suns,Atlanta Hawks,1.0,0.48,0,0.4,0,0.5,0,100,1.0,2.0,1.0,B.Beal,N,2.0
+D.Green u5.5 Ast,TopShelfAction,Golden State Warriors,Detroit Pistons,0.0,0.4375,0,0.6,1,0.6,1,100,0.8,1.6,0.8,D.Green,Y,4.0
+R.Barrett o4.5 Ast,TopShelfAction,Toronto Raptors,Cleveland Cavaliers,0.0,0.6206896551724138,1,0.6,1,0.6,1,120,0.6,1.32,0.7200000000000001,R.Barrett,Y,5.0
+B.Beal o3.5 Ast,FirefighterBets,Phoenix Suns,Atlanta Hawks,1.0,0.48,0,0.4,0,0.5,0,-110,1.0,1.9090909090909087,0.9090909090909092,B.Beal,N,2.0
+F.VanVleet u6.5 Ast,TopShelfAction,Houston Rockets,Memphis Grizzlies,0.0,0.5882352941176471,1,0.6,1,0.6,1,-113,0.6,1.1309734513274337,0.5309734513274337,F.VanVleet,Y,4.0
+C.Sexton u8.5 Rebs+Ast,Theotherbabs,Utah Jazz,Miami Heat,1.0,0.8285714285714286,1,0.8,1,0.6,1,-110,1.0,1.9090909090909087,0.9090909090909092,C.Sexton,Y,6.0
+R.Barrett o10.5 Rebs+Ast,Rotowire Prizepicks,Toronto Raptors,Cleveland Cavaliers,0.0,0.6896551724137931,1,0.6,1,0.7,1,100,1.5,3.0,1.5,R.Barrett,N,10.0
+G.Dick o13.5 Pts+Ast,Rotowire Sleeper,Toronto Raptors,Cleveland Cavaliers,0.0,0.7741935483870968,1,0.4,0,0.7,1,100,1.5,3.0,1.5,G.Dick,N,12.0
+I.Quickley o20.5 Pts+Ast,Rotowire Prizepicks,Toronto Raptors,Cleveland Cavaliers,0.0,0.5714285714285714,1,0.6,1,0.5714285714285714,1,100,1.5,3.0,1.5,I.Quickley,N,17.0
+B.Beal o18.5 Pts+Ast,Rotowire Prizepicks,Phoenix Suns,Atlanta Hawks,1.0,0.64,1,0.4,0,0.5,0,100,1.5,3.0,1.5,B.Beal,Y,27.0
+O.Okongwu o10.5 Pts+Ast,Rotowire Sleeper,Atlanta Hawks,Phoenix Suns,0.0,0.6333333333333333,1,0.6,1,0.7,1,100,1.5,3.0,1.5,O.Okongwu,Y,14.0
+O.Okongwu o10.5 Pts+Ast,Rotowire Prizepicks,Atlanta Hawks,Phoenix Suns,0.0,0.6333333333333333,1,0.6,1,0.7,1,100,1.5,3.0,1.5,O.Okongwu,Y,14.0
+T.Jones o13.5 Pts+Ast,Rotowire Prizepicks_duplicate,Phoenix Suns,Atlanta Hawks,1.0,0.7647058823529411,1,0.4,0,0.6,1,100,1.5,3.0,1.5,T.Jones,Y,20.0
+J.Poeltl o20.5 Pts+Rebs,Rotowire Prizepicks,Toronto Raptors,Cleveland Cavaliers,0.0,0.625,1,0.4,0,0.4,0,100,1.5,3.0,1.5,J.Poeltl,Y,24.0
+D.Ayton o23.5 Pts+Rebs,Rotowire Sleeper,Portland Trail Blazers,Dallas Mavericks,0.0,0.5925925925925926,1,0.4,0,0.6,1,100,1.5,3.0,1.5,D.Ayton,N,12.0
+G.Dick o14.5 Pts+Rebs,Rotowire Prizepicks,Toronto Raptors,Cleveland Cavaliers,0.0,0.7419354838709677,1,0.2,0,0.6,1,100,1.5,3.0,1.5,G.Dick,N,12.0
+J.Randle o23.5 Pts+Rebs,Rotowire Prizepicks,Minnesota Timberwolves,Orlando Magic,0.0,0.6944444444444444,1,0.4,0,0.5,0,100,1.5,3.0,1.5,J.Randle,Y,33.0
+S.Henderson o12.5 Pts+Rebs,Rotowire Prizepicks,Portland Trail Blazers,Dallas Mavericks,0.0,0.6206896551724138,1,0.6,1,0.7,1,100,1.5,3.0,1.5,S.Henderson,Y,22.0
+W.Carter o14.5 Pts+Rebs,Theotherbabs,Orlando Magic,Minnesota Timberwolves,1.0,0.6,1,1.0,1,0.7,1,-130,1.0,1.7692307692307692,0.7692307692307692,W.Carter,N,14.0
+D.Wade o10.5 Pts+Rebs,FirefighterBets,Cleveland Cavaliers,Toronto Raptors,1.0,0.4814814814814814,0,0.8,1,0.6,1,-125,1.0,1.8,0.8,D.Wade,N,10.0
+J.Poeltl o10.5 Pts,TopShelfAction,Toronto Raptors,Cleveland Cavaliers,0.0,0.6875,1,0.6,1,0.6,1,-110,0.8,1.5272727272727271,0.7272727272727273,J.Poeltl,Y,17.0
+L.Markkanen u25.5 Pts,PvB_Bets,Utah Jazz,Miami Heat,1.0,0.7931034482758621,1,0.8,1,0.7,1,-120,1.0,1.8333333333333333,0.8333333333333335,L.Markkanen,Y,23.0
+P.Washington u18.5 Pts,TopShelfAction,Dallas Mavericks,Portland Trail Blazers,1.0,0.8,1,0.6,1,0.8,1,-110,0.9,1.7181818181818185,0.8181818181818182,P.Washington,N,23.0
+S.Dinwiddie u15.5 Pts,TopShelfAction,Dallas Mavericks,Portland Trail Blazers,1.0,0.7714285714285715,1,0.6,1,0.7,1,-130,0.9,1.5923076923076922,0.6923076923076922,S.Dinwiddie,N,17.0
+P.Washington u18.5 Pts,gneiffer07,Dallas Mavericks,Portland Trail Blazers,1.0,0.8,1,0.6,1,0.8,1,-115,1.15,2.1499999999999995,0.9999999999999996,P.Washington,N,23.0
+D.Bane u18.5 Pts,TopShelfAction,Memphis Grizzlies,Houston Rockets,1.0,0.5714285714285714,1,0.2,0,0.3,0,102,1.0,2.02,1.02,D.Bane,Y,16.0
+D.Green u10.5 Pts,TopShelfAction,Golden State Warriors,Detroit Pistons,0.0,0.6875,1,0.8,1,0.7,1,-115,1.0,1.869565217391304,0.8695652173913042,D.Green,Y,7.0
+T.Jackson-Davis u13.5 Pts,TopShelfAction,Golden State Warriors,Detroit Pistons,0.0,0.7714285714285715,1,0.6,1,0.5,0,100,0.6,1.2,0.6,T.Jackson-Davis,N,14.0
+B.Hield o14.5 Pts,FirefighterBets,Golden State Warriors,Detroit Pistons,0.0,0.3055555555555556,0,0.0,0,0.0,0,-106,1.0,1.9433962264150944,0.9433962264150944,B.Hield,Y,19.0
+M.Beasley u17.5 Pts,TopShelfAction,Detroit Pistons,Golden State Warriors,1.0,0.4864864864864865,0,0.6,1,0.4,0,-110,0.6,1.1454545454545455,0.5454545454545455,M.Beasley,N,21.0
+C.Sexton u21.5 Pts,itsbucketsnba,Utah Jazz,Miami Heat,1.0,0.7142857142857143,1,0.4,0,0.5,0,-111,1.0,1.900900900900901,0.900900900900901,C.Sexton,N,23.0
+O.Okongwu o9.5 Pts,Rotowire Sleeper,Atlanta Hawks,Phoenix Suns,0.0,0.5666666666666667,1,0.4,0,0.6,1,100,1.5,3.0,1.5,O.Okongwu,N,8.0
+T.Young o24.5 Pts,TopShelfAction,Atlanta Hawks,Phoenix Suns,0.0,0.4,0,0.6,1,0.6,1,125,0.6,1.35,0.7499999999999999,T.Young,N,21.0
+O.Okongwu o9.5 Pts,Rotowire Prizepicks,Atlanta Hawks,Phoenix Suns,0.0,0.5666666666666667,1,0.4,0,0.6,1,100,1.5,3.0,1.5,O.Okongwu,N,8.0
+C.Capela u8.5 Rebs,TopShelfAction,Atlanta Hawks,Phoenix Suns,0.0,0.5135135135135135,1,0.8,1,0.8,1,102,0.7,1.414,0.714,C.Capela,N,11.0
+J.Poeltl o8.5 Rebs,PvB_Bets,Toronto Raptors,Cleveland Cavaliers,0.0,0.71875,1,0.6,1,0.4,0,-137,1.0,1.72992700729927,0.7299270072992701,J.Poeltl,N,7.0
+A.Edwards o5.5 Rebs,TopShelfAction,Minnesota Timberwolves,Orlando Magic,0.0,0.5277777777777778,1,0.8,1,0.8,1,110,0.7,1.47,0.77,A.Edwards,N,3.0
+K.Filipowski u5.5 Rebs,TopShelfAction,Utah Jazz,Miami Heat,1.0,0.6,1,0.4,0,0.6,1,-140,1.0,1.7142857142857144,0.7142857142857144,K.Filipowski,N,11.0
+D.Bane u5.5 Rebs,TopShelfAction,Memphis Grizzlies,Houston Rockets,1.0,0.4642857142857143,0,0.6,1,0.6,1,-110,0.7,1.3363636363636364,0.6363636363636365,D.Bane,Y,4.0
+B.Adebayo u9.5 Rebs,TopShelfAction,Miami Heat,Utah Jazz,0.0,0.4571428571428571,0,0.8,1,0.7,1,105,0.6,1.2299999999999998,0.6299999999999998,B.Adebayo,Y,7.0
+T.Jerome u1.5 3pt M,TopShelfAction,Cleveland Cavaliers,Toronto Raptors,1.0,0.6,1,0.6,1,0.6,1,-115,0.8,1.4956521739130435,0.6956521739130435,T.Jerome,Y,0.0
+C.Sexton u2.5 3pt M,TopShelfAction,Utah Jazz,Miami Heat,1.0,0.6857142857142857,1,0.6,1,0.5,0,-130,1.0,1.7692307692307692,0.7692307692307692,C.Sexton,Y,1.0
+J.Jaquez u22.5 Pts+Rebs+Ast,TopShelfAction,Miami Heat,Utah Jazz,0.0,0.8709677419354839,1,0.6,1,0.7,1,-104,0.7,1.373076923076923,0.6730769230769231,J.Jaquez,N,34.0
+A.Sengun u37.5 Pts+Rebs+Ast,sandyplashkes,Houston Rockets,Memphis Grizzlies,0.0,0.5833333333333334,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002,A.Sengun,N,51.0
+A.Sengun u37.5 Pts+Rebs+Ast,LinesAtLunch,Houston Rockets,Memphis Grizzlies,0.0,0.5833333333333334,1,0.6,1,0.6,1,-120,1.2,2.2,1.0000000000000002,A.Sengun,N,51.0
+B.Bogdanovic u18.5 Pts+Rebs+Ast,gneiffer07,Atlanta Hawks,Phoenix Suns,0.0,0.6875,1,1.0,1,0.8,1,-105,1.05,2.05,0.9999999999999998,B.Bogdanovic,N,22.0
+D.Wade o11.5 Pts+Rebs+Ast,Rotowire Sleeper,Cleveland Cavaliers,Toronto Raptors,1.0,0.5555555555555556,1,1.0,1,0.8,1,100,1.5,3.0,1.5,D.Wade,Y,12.0
+D.Ayton o24.5 Pts+Rebs+Ast,Rotowire Sleeper,Portland Trail Blazers,Dallas Mavericks,0.0,0.6296296296296297,1,0.4,0,0.6,1,100,1.5,3.0,1.5,D.Ayton,N,13.0
+S.Barnes o30.5 Pts+Rebs+Ast,Rotowire Prizepicks,Toronto Raptors,Cleveland Cavaliers,0.0,0.7083333333333334,1,0.6,1,0.6,1,100,1.5,3.0,1.5,S.Barnes,Y,42.0
+J.Randle o29.5 Pts+Rebs+Ast,TopShelfAction,Minnesota Timberwolves,Orlando Magic,0.0,0.5277777777777778,1,0.4,0,0.5,0,115,0.5,1.075,0.575,J.Randle,Y,35.0
+C.LeVert u21.5 Pts+Rebs+Ast,TopShelfAction,Cleveland Cavaliers,Toronto Raptors,1.0,0.7,1,0.8,1,0.8,1,-110,0.7,1.3363636363636364,0.6363636363636365,C.LeVert,N,26.0
+D.Green u23.5 Pts+Rebs+Ast,TopShelfAction,Golden State Warriors,Detroit Pistons,0.0,0.5625,1,0.6,1,0.6,1,-135,0.8,1.3925925925925926,0.5925925925925926,D.Green,Y,16.0
+S.Henderson o16.5 Pts+Rebs+Ast,Rotowire Prizepicks,Portland Trail Blazers,Dallas Mavericks,0.0,0.6551724137931034,1,0.6,1,0.7,1,100,1.5,3.0,1.5,S.Henderson,Y,26.0
