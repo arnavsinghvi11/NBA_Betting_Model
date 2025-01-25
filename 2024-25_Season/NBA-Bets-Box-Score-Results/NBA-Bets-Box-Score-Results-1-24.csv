@@ -1,0 +1,59 @@
+,name,team,opp,hmcrt_adv,mp,pts,ast,trb,stl,blk,fg3,ts_pct,efg_pct,fg3a_per_fga_pct,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,usg_pct,off_rtg,def_rtg,bpm
+0,A.Simons,Portland Trail Blazers,Charlotte Hornets,0,36.43,27,2,5,2,0,4,.676,.625,.625,2.9,10.9,7.0,12.1,2.8,0.0,24.2,143,106,9.1
+1,T.Camara,Portland Trail Blazers,Charlotte Hornets,0,34.26,11,1,6,2,0,1,.527,.550,.400,9.3,8.7,9.0,5.6,3.0,0.0,12.9,126,106,-1.1
+2,J.Grant,Portland Trail Blazers,Charlotte Hornets,0,33.45,22,1,4,1,0,4,.557,.500,.444,9.5,3.0,6.1,6.5,1.5,0.0,27.3,117,113,0.8
+3,D.Avdija,Portland Trail Blazers,Charlotte Hornets,0,33.44,18,4,5,4,0,1,.740,.583,.500,0.0,14.8,7.7,20.5,6.1,0.0,21.6,116,96,5.3
+4,D.Clingan,Portland Trail Blazers,Charlotte Hornets,0,17.37,4,4,13,1,4,0,.500,.500,.250,24.2,51.1,38.1,41.0,2.9,20.2,14.4,111,75,15.5
+5,S.Sharpe,Portland Trail Blazers,Charlotte Hornets,0,31.29,13,0,9,0,0,1,.454,.423,.462,3.4,25.4,14.8,0.0,0.0,0.0,22.0,89,104,-12.3
+6,S.Henderson,Portland Trail Blazers,Charlotte Hornets,0,22.45,2,4,1,1,0,0,.258,.333,.333,4.7,0.0,2.3,28.2,2.2,0.0,11.0,72,112,-10.3
+7,D.Banton,Portland Trail Blazers,Charlotte Hornets,0,15.48,2,1,1,0,1,0,.205,.000,.750,0.0,6.3,3.3,9.5,0.0,5.6,15.8,52,112,-15.6
+8,J.Walker,Portland Trail Blazers,Charlotte Hornets,0,13.43,3,0,3,1,1,0,.222,.200,.400,15.6,7.3,11.3,0.0,3.7,6.5,24.0,58,102,-14.8
+9,N.Smith,Charlotte Hornets,Portland Trail Blazers,1,34.17,17,5,5,0,2,2,.440,.389,.556,0.0,15.6,7.5,29.7,0.0,6.8,27.6,93,110,-3.4
+10,J.Green,Charlotte Hornets,Portland Trail Blazers,1,34.01,14,2,5,1,0,2,.709,.667,.444,2.9,12.5,7.6,11.3,1.5,0.0,12.3,157,111,3.6
+11,V.Micic,Charlotte Hornets,Portland Trail Blazers,1,33.17,12,3,0,0,0,1,.419,.346,.462,0.0,0.0,0.0,16.5,0.0,0.0,25.9,69,119,-17.5
+12,M.Williams,Charlotte Hornets,Portland Trail Blazers,1,31.03,15,3,9,1,3,0,.545,.500,.000,6.4,24.0,15.0,20.4,1.6,11.3,18.8,131,101,5.1
+13,C.Martin,Charlotte Hornets,Portland Trail Blazers,1,4.49,0,1,1,0,0,0,.000,.000,.333,20.8,0.0,10.7,31.1,0.0,0.0,26.4,40,120,-19.3
+14,J.Okogie,Charlotte Hornets,Portland Trail Blazers,1,30.49,16,3,10,3,0,1,.602,.438,.375,16.2,17.3,16.7,17.1,5.0,0.0,21.0,129,101,6.6
+15,M.Diabate,Charlotte Hornets,Portland Trail Blazers,1,20.39,6,2,6,2,1,0,.500,.500,.000,9.7,20.7,15.0,18.6,4.9,5.7,16.4,92,98,1.9
+16,K.Simpson,Charlotte Hornets,Portland Trail Blazers,1,18.54,7,1,5,2,0,1,.444,.357,.429,10.6,16.9,13.7,9.4,5.4,0.0,19.9,102,100,-0.6
+17,D.Jeffries,Charlotte Hornets,Portland Trail Blazers,1,16.34,6,0,4,0,0,2,.600,.600,.800,12.1,12.9,12.5,0.0,0.0,0.0,15.3,110,114,-4.4
+18,I.Wong,Charlotte Hornets,Portland Trail Blazers,1,15.37,4,0,1,0,0,0,.410,.250,.000,6.4,0.0,3.3,0.0,0.0,0.0,15.9,85,119,-15.3
+19,C.McCollum,New Orleans Pelicans,Memphis Grizzlies,0,33.59,22,4,1,0,1,3,.694,.682,.455,0.0,3.3,1.8,15.5,0.0,2.4,22.9,130,145,-2.5
+20,T.Murphy,New Orleans Pelicans,Memphis Grizzlies,0,32.41,22,4,6,0,0,1,.612,.536,.286,0.0,20.5,11.3,16.9,0.0,0.0,25.3,129,141,-4.0
+21,D.Murray,New Orleans Pelicans,Memphis Grizzlies,0,31.11,26,7,6,0,0,1,.681,.656,.250,0.0,21.5,11.8,36.4,0.0,0.0,30.9,128,140,0.2
+22,Y.Missi,New Orleans Pelicans,Memphis Grizzlies,0,29.35,10,3,5,0,2,0,.791,.800,.000,9.3,11.3,10.4,12.6,0.0,5.5,10.8,153,141,0.9
+23,J.Robinson-Earl,New Orleans Pelicans,Memphis Grizzlies,0,19.36,5,2,4,2,0,1,.625,.625,.750,7.0,17.1,12.6,12.2,4.9,0.0,8.9,150,130,1.7
+24,J.Hawkins,New Orleans Pelicans,Memphis Grizzlies,0,31.36,20,1,2,2,0,4,.556,.556,.556,0.0,7.1,3.9,4.6,3.1,0.0,26.2,105,138,-4.7
+25,J.Green,New Orleans Pelicans,Memphis Grizzlies,0,22.08,8,1,5,0,0,2,.667,.667,.833,18.6,10.1,13.9,5.6,0.0,0.0,15.8,115,144,-6.9
+26,J.Alvarado,New Orleans Pelicans,Memphis Grizzlies,0,18.10,9,6,1,1,0,2,.654,.667,.500,0.0,6.1,3.4,42.8,2.7,0.0,21.3,123,139,0.5
+27,D.Theis,New Orleans Pelicans,Memphis Grizzlies,0,15.46,4,2,4,1,0,0,.667,.667,.000,17.4,14.2,15.6,15.6,3.1,0.0,8.3,169,136,2.8
+28,J.Cain,New Orleans Pelicans,Memphis Grizzlies,0,2.39,0,0,0,0,0,0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,147,-9.7
+29,K.Matkovic,New Orleans Pelicans,Memphis Grizzlies,0,2.39,0,0,1,0,0,0,,,,0.0,42.1,23.2,0.0,0.0,0.0,0.0,0,134,-6.0
+30,D.Bane,Memphis Grizzlies,New Orleans Pelicans,1,33.55,20,14,0,0,0,2,.556,.556,.389,0.0,0.0,0.0,45.8,0.0,0.0,24.1,138,134,1.1
+31,J.Jackson,Memphis Grizzlies,New Orleans Pelicans,1,32.25,29,7,5,0,1,5,.816,.781,.563,3.4,16.9,9.5,25.2,0.0,3.0,24.9,161,129,11.4
+32,J.Wells,Memphis Grizzlies,New Orleans Pelicans,1,29.38,8,5,0,2,0,2,.571,.571,.571,0.0,0.0,0.0,15.8,3.3,0.0,9.6,154,127,0.1
+33,L.Kennard,Memphis Grizzlies,New Orleans Pelicans,1,26.37,27,6,3,1,0,7,.964,.964,.643,4.2,10.3,6.9,28.5,1.8,0.0,23.0,183,129,21.1
+34,Z.Edey,Memphis Grizzlies,New Orleans Pelicans,1,23.38,13,3,11,1,2,1,.722,.722,.333,9.4,52.2,28.6,13.9,2.0,8.3,15.6,168,115,8.5
+35,S.Pippen,Memphis Grizzlies,New Orleans Pelicans,1,25.12,13,3,3,2,0,0,.528,.455,.273,8.9,5.4,7.3,12.3,3.8,0.0,24.8,108,124,-9.9
+36,J.Konchar,Memphis Grizzlies,New Orleans Pelicans,1,22.11,5,0,4,0,0,1,.833,.833,.667,5.0,18.5,11.1,0.0,0.0,0.0,5.5,179,131,-4.5
+37,G.Jackson,Memphis Grizzlies,New Orleans Pelicans,1,22.02,10,0,7,0,0,1,.402,.375,.333,10.1,31.1,19.6,0.0,0.0,0.0,26.8,86,130,-18.7
+38,B.Clarke,Memphis Grizzlies,New Orleans Pelicans,1,21.17,14,0,9,2,0,0,.700,.700,.000,36.7,12.9,26.0,0.0,4.5,0.0,21.1,149,121,-1.5
+39,J.Huff,Memphis Grizzlies,New Orleans Pelicans,1,3.05,0,0,1,0,1,0,.000,.000,1.000,0.0,44.5,20.0,0.0,0.0,31.8,26.5,0,106,-25.6
+40,J.Allen,Cleveland Cavaliers,Philadelphia 76ers,0,33.53,8,1,10,1,1,0,.450,.500,.000,11.5,23.1,17.7,3.6,1.4,3.0,14.7,85,130,-11.5
+41,D.Mitchell,Cleveland Cavaliers,Philadelphia 76ers,0,33.24,37,7,3,3,0,7,.698,.674,.652,3.9,6.7,5.4,36.2,4.3,0.0,38.4,133,130,9.8
+42,D.Garland,Cleveland Cavaliers,Philadelphia 76ers,0,32.22,26,7,1,1,0,4,.594,.571,.476,0.0,3.4,1.9,34.4,1.5,0.0,31.0,128,138,-1.8
+43,M.Strus,Cleveland Cavaliers,Philadelphia 76ers,0,27.25,6,2,7,1,2,2,.429,.429,.714,9.5,20.4,15.3,8.4,1.8,7.3,10.7,124,128,-2.0
+44,D.Wade,Cleveland Cavaliers,Philadelphia 76ers,0,19.43,2,4,2,1,0,0,.333,.333,.667,6.6,5.7,6.1,22.9,2.4,0.0,6.4,148,135,-1.1
+45,T.Jerome,Cleveland Cavaliers,Philadelphia 76ers,0,33.20,33,3,3,2,0,8,1.047,1.071,.571,0.0,10.0,5.4,14.8,2.9,0.0,23.6,159,132,14.9
+46,S.Merrill,Cleveland Cavaliers,Philadelphia 76ers,0,18.35,9,2,2,0,0,2,.615,.500,1.000,7.0,6.0,6.5,13.0,0.0,0.0,18.8,132,141,-4.4
+47,G.Niang,Cleveland Cavaliers,Philadelphia 76ers,0,17.50,5,2,3,1,0,1,.417,.417,.667,0.0,18.8,10.1,13.6,2.7,0.0,16.5,93,129,-9.4
+48,J.Tyson,Cleveland Cavaliers,Philadelphia 76ers,0,13.32,3,0,2,0,1,1,.750,.750,1.000,0.0,16.5,8.9,0.0,0.0,7.4,6.2,147,134,-1.0
+49,T.Thompson,Cleveland Cavaliers,Philadelphia 76ers,0,9.56,0,2,4,0,1,0,,,,26.1,22.5,24.2,21.5,0.0,10.1,8.5,96,130,-4.2
+50,T.Maxey,Philadelphia 76ers,Cleveland Cavaliers,1,39.34,29,7,3,2,2,4,.688,.611,.444,0.0,9.8,4.5,25.7,2.4,6.4,24.0,151,128,7.6
+51,K.Oubre,Philadelphia 76ers,Cleveland Cavaliers,1,39.08,22,3,13,3,0,1,.604,.531,.188,20.0,19.9,19.9,10.8,3.7,0.0,23.3,126,125,-2.3
+52,E.Gordon,Philadelphia 76ers,Cleveland Cavaliers,1,37.40,15,3,0,0,0,4,.845,.875,.500,0.0,0.0,0.0,10.2,0.0,0.0,10.8,162,140,-0.3
+53,P.George,Philadelphia 76ers,Cleveland Cavaliers,1,36.12,30,3,5,1,0,6,.672,.667,.524,3.1,14.3,8.3,13.5,1.3,0.0,32.1,114,133,-2.9
+54,G.Yabusele,Philadelphia 76ers,Cleveland Cavaliers,1,35.36,12,3,13,0,2,2,.466,.417,.500,9.4,36.4,21.9,10.5,0.0,7.1,18.3,105,127,-6.4
+55,J.Edwards,Philadelphia 76ers,Cleveland Cavaliers,1,25.57,15,1,6,2,1,3,.705,.688,.750,17.2,10.0,13.9,5.1,3.7,4.9,18.4,152,125,6.4
+56,J.Dowtin,Philadelphia 76ers,Cleveland Cavaliers,1,15.47,5,3,1,0,1,1,.833,.833,.333,0.0,8.2,3.8,24.1,0.0,8.0,7.8,199,134,7.0
+57,A.Bona,Philadelphia 76ers,Cleveland Cavaliers,1,10.06,4,0,2,1,0,0,1.064,1.000,.000,11.1,12.8,11.9,0.0,4.8,0.0,11.7,143,125,1.8
