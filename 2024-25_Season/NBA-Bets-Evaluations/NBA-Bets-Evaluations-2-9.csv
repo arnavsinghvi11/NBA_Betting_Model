@@ -1,0 +1,39 @@
+,Play,Expert,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct,Odds,Units,Payout,Profit,Name,Correct,Actual Value
+0,A.Sengun u21.5 Pts,TopShelfAction,Houston Rockets,Toronto Raptors,1.0,0.6122448979591837,1,0.6,1,0.6,1,102,1.1,2.2220000000000004,1.1220000000000003,A.Sengun,Y,0.0
+1,C.Whitmore o13.5 Pts,itsbucketsnba,Houston Rockets,Toronto Raptors,1.0,0.2727272727272727,0,0.4,0,0.3,0,-102,1.0,1.9803921568627447,0.9803921568627452,C.Whitmore,N,11.0
+2,S.Barnes u5.5 Ast,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.4358974358974359,0,0.8,1,0.6,1,-104,0.8,1.5692307692307694,0.7692307692307694,S.Barnes,N,7.0
+3,A.Thompson o9.5 Rebs,TopShelfAction_duplicate,Houston Rockets,Toronto Raptors,1.0,0.3265306122448979,0,0.4,0,0.4,0,116,1.7,3.672,1.972,A.Thompson,Y,10.0
+4,A.Thompson o9.5 Rebs,TopShelfAction_duplicate,Detroit Pistons,Charlotte Hornets,1.0,0.0333333333333333,0,0.0,0,0.0,0,116,1.7,3.672,1.972,A.Thompson,N,8.0
+5,O.Agbaji u10.5 Pts,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.5,0,0.6,1,0.6,1,-105,1.8,3.5142857142857142,1.7142857142857142,O.Agbaji,N,11.0
+6,S.Barnes u33.5 Pts+Rebs+Ast,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.5128205128205128,1,0.8,1,0.5,0,110,1.4,2.94,1.54,S.Barnes,Y,31.0
+7,J.Mogbo o7.5 Rebs,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.0512820512820512,0,0.0,0,0.0,0,170,0.4,1.08,0.68,J.Mogbo,N,6.0
+8,O.Agbaji o3.5 Rebs,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.4782608695652174,0,0.4,0,0.3,0,-125,1.0,1.8,0.8,O.Agbaji,Y,5.0
+9,I.Quickley o5.5 Ast,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.3846153846153846,0,0.4,0,0.5,0,114,1.0,2.14,1.1399999999999997,I.Quickley,N,3.0
+10,D.Brooks u3.5 Rebs,gneiffer07,Houston Rockets,Toronto Raptors,1.0,0.4897959183673469,0,0.6,1,0.7,1,120,1.0,2.2,1.2000000000000002,D.Brooks,N,7.0
+11,A.Sengun o1.5 Stl,TopShelfAction,Houston Rockets,Toronto Raptors,1.0,0.3877551020408163,0,0.4,0,0.4,0,185,0.5,1.425,0.925,A.Sengun,N,0.0
+12,S.Barnes u7.5 Rebs,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.4615384615384615,0,0.8,1,0.6,1,104,1.8,3.672,1.872,S.Barnes,N,9.0
+13,S.Barnes u6.5 Ast,JoeDellera,Toronto Raptors,Houston Rockets,0.0,0.5384615384615384,1,0.8,1,0.6,1,-155,1.0,1.6451612903225803,0.6451612903225805,S.Barnes,N,7.0
+14,S.Barnes u5.5 Ast,JoeDellera,Toronto Raptors,Houston Rockets,0.0,0.4358974358974359,0,0.8,1,0.6,1,-105,0.5,0.9761904761904762,0.4761904761904761,S.Barnes,N,7.0
+15,I.Quickley u1.5 3pt M,TopShelfAction,Toronto Raptors,Houston Rockets,0.0,0.4615384615384615,0,0.6,1,0.5,0,145,0.6,1.47,0.87,I.Quickley,N,3.0
+16,B.Portis o11.5 Rebs+Ast,ThePropfessor_,Milwaukee Bucks,Philadelphia 76ers,1.0,0.3255813953488372,0,0.4,0,0.3,0,-120,1.2,2.2,1.0000000000000002,B.Portis,Y,18.0
+17,K.Oubre u6.5 Rebs,TopShelfAction,Philadelphia 76ers,Milwaukee Bucks,0.0,0.6041666666666666,1,0.2,0,0.3,0,100,1.2,2.4,1.2,K.Oubre,Y,5.0
+18,K.Kuzma u6.5 Rebs,TopShelfAction,Milwaukee Bucks,Philadelphia 76ers,1.0,0.0,0,0.0,0,0.0,0,117,1.9,4.122999999999999,2.2229999999999994,K.Kuzma,N,8.0
+19,K.Kuzma u1.5 3pt M,TopShelfAction,Milwaukee Bucks,Philadelphia 76ers,1.0,0.0,0,0.0,0,0.0,0,143,1.3,3.159,1.859,K.Kuzma,Y,1.0
+20,D.Lillard u8.5 Ast,TopShelfAction,Milwaukee Bucks,Philadelphia 76ers,1.0,0.6666666666666666,1,0.4,0,0.5,0,-104,1.0,1.9615384615384617,0.9615384615384616,D.Lillard,Y,8.0
+21,T.Maxey u3.5 Rebs,TopShelfAction,Philadelphia 76ers,Milwaukee Bucks,0.0,0.5909090909090909,1,0.8,1,0.7,1,115,1.8,3.87,2.0700000000000003,T.Maxey,N,4.0
+22,B.Lopez o4.5 Rebs,TopShelfAction,Milwaukee Bucks,Philadelphia 76ers,1.0,0.5510204081632653,1,0.2,0,0.4,0,110,1.2,2.52,1.32,B.Lopez,Y,8.0
+23,J.Embiid o37.5 Pts+Rebs,Steakfriend123,Philadelphia 76ers,Milwaukee Bucks,0.0,0.4666666666666667,0,0.8,1,0.5,0,-125,1.25,2.25,1.0,J.Embiid,Y,39.0
+24,J.Embiid u4.5 Ast,TopShelfAction,Philadelphia 76ers,Milwaukee Bucks,0.0,0.5333333333333333,1,0.4,0,0.5,0,120,1.2,2.64,1.4400000000000002,J.Embiid,N,6.0
+25,D.Lillard u26.5 Pts,itsbucketsnba,Milwaukee Bucks,Philadelphia 76ers,1.0,0.5714285714285714,1,0.8,1,0.6,1,-115,1.0,1.869565217391304,0.8695652173913042,D.Lillard,N,43.0
+26,B.Portis o11.5 Rebs,TopShelfAction,Milwaukee Bucks,Philadelphia 76ers,1.0,0.1627906976744186,0,0.4,0,0.2,0,115,0.8,1.72,0.92,B.Portis,Y,13.0
+27,B.Lopez u13.5 Pts,TopShelfAction,Milwaukee Bucks,Philadelphia 76ers,1.0,0.6530612244897959,1,0.4,0,0.7,1,100,1.0,2.0,1.0,B.Lopez,N,15.0
+28,T.Maxey o6.5 Ast,TopShelfAction,Philadelphia 76ers,Milwaukee Bucks,0.0,0.3863636363636363,0,0.6,1,0.7,1,130,0.7,1.61,0.91,T.Maxey,N,5.0
+29,B.Portis o1.5 3pt M,CamIsMoney18,Milwaukee Bucks,Philadelphia 76ers,1.0,0.3023255813953488,0,0.4,0,0.3,0,-125,1.0,1.8,0.8,B.Portis,Y,2.0
+30,C.Cunningham u27.5 Pts,TopShelfAction,Detroit Pistons,Charlotte Hornets,1.0,0.6170212765957447,1,0.2,0,0.3,0,-109,0.8,1.5339449541284405,0.7339449541284404,C.Cunningham,Y,19.0
+31,T.Harris o13.5 Pts,itsbucketsnba,Detroit Pistons,Charlotte Hornets,1.0,0.44,0,0.8,1,0.5,0,-114,1.0,1.8771929824561404,0.8771929824561404,T.Harris,Y,20.0
+32,M.Diabate o10.5 Rebs,JoeDellera,Charlotte Hornets,Detroit Pistons,0.0,0.2857142857142857,0,0.6,1,0.4,0,100,1.0,2.0,1.0,M.Diabate,N,1.0
+33,C.Cunningham u15.5 Rebs+Ast,gneiffer07,Detroit Pistons,Charlotte Hornets,1.0,0.4680851063829787,0,0.4,0,0.3,0,-115,1.15,2.1499999999999995,0.9999999999999996,C.Cunningham,N,22.0
+34,T.Hardaway u2.5 3pt M,TopShelfAction,Detroit Pistons,Charlotte Hornets,1.0,0.7083333333333334,1,0.8,1,0.9,1,-154,1.0,1.6493506493506491,0.6493506493506493,T.Hardaway,Y,2.0
+35,J.Duren o23.5 Pts+Rebs,FirefighterBets,Detroit Pistons,Charlotte Hornets,1.0,0.4489795918367347,0,0.8,1,0.8,1,-114,1.0,1.8771929824561404,0.8771929824561404,J.Duren,Y,28.0
+36,C.Cunningham u9.5 Ast,TopShelfAction,Detroit Pistons,Charlotte Hornets,1.0,0.5319148936170213,1,0.6,1,0.5,0,-109,1.0,1.9174311926605505,0.9174311926605504,C.Cunningham,N,12.0
+37,C.Cunningham u2.5 3pt M,TopShelfAction,Detroit Pistons,Charlotte Hornets,1.0,0.574468085106383,1,0.6,1,0.7,1,-125,1.1,1.98,0.8800000000000001,C.Cunningham,Y,1.0
